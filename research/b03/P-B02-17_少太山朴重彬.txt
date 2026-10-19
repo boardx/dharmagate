@@ -1,0 +1,238 @@
+{
+  "person_id": "P-B02-17",
+  "name_zh": "少太山朴重彬",
+  "original_name": "소태산 박중빈（少太山 朴重彬）",
+  "aliases": [
+    "Sotaesan Park Chung-bin",
+    "Sot’aesan Pak Chungbin",
+    "박중빈",
+    "少太山大宗师"
+  ],
+  "selection_reason": "补充韩国新宗教传统与现代佛法改革实践。官方自述以佛法为核心；韩国学中央研究院条目同时讨论其佛教渊源及独立新教团性质。此处不预设其他佛教宗派对其分类一致。",
+  "bounded_scope": {
+    "description": "限定为官方辞典可直接核实的三项经典版本、两部基础经典及四项篇目记录；不是独立著作9本，也不是创始人全集。观察窗口1926—2026；生卒1891—1943，后出材料属于编纂或传播。",
+    "coverage_status": "partial",
+    "cutoff": "2026-10-18",
+    "excluded": "鼎山及其他后继人物著作、古代佛经选集不自动计为少太山作品；演员再现、后人诵读不列本人原录。"
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "원불교 대사전：개교의 동기",
+      "url": "https://hub.won.or.kr/dictionary/view/0082",
+      "institution": "圆佛教中央总府",
+      "author": null,
+      "date": null,
+      "language": "ko",
+      "read_scope": "实际阅读HTML：개요、형성 과정、개교 동기의 해석；未核初版本影印"
+    },
+    {
+      "id": "S2",
+      "title": "원불교 대사전：일원상서원문",
+      "url": "https://hub.won.or.kr/dictionary/view/3407",
+      "institution": "圆佛教中央总府",
+      "date": null,
+      "language": "ko",
+      "read_scope": "实际阅读개요、형성과정；未读1939/1943原版"
+    },
+    {
+      "id": "S3",
+      "title": "원불교 대사전：교리도",
+      "url": "https://hub.won.or.kr/dictionary/view/0364",
+      "institution": "圆佛教中央总府",
+      "date": null,
+      "language": "ko",
+      "read_scope": "实际阅读개요及육대요령의 교리도"
+    },
+    {
+      "id": "S4",
+      "title": "원불교 대사전：일상수행의 요법",
+      "url": "https://hub.won.or.kr/dictionary/view/3385",
+      "institution": "圆佛教中央总府",
+      "date": null,
+      "language": "ko",
+      "read_scope": "实际阅读개요、내용과 대의、형성과정开头"
+    },
+    {
+      "id": "S5",
+      "title": "원불교 대사전：성주",
+      "url": "https://hub.won.or.kr/dictionary/view/2094",
+      "institution": "圆佛教中央总府",
+      "author": "河常義",
+      "date": null,
+      "language": "ko",
+      "read_scope": "实际阅读개요、내용；亲笔图像只见网页标签，未鉴定"
+    },
+    {
+      "id": "S6",
+      "title": "원불교",
+      "url": "https://encykorea.aks.ac.kr/Article/E0040670",
+      "institution": "韩国学中央研究院",
+      "author": "류병덕",
+      "date": "1995；页面标示2026-09-21更新",
+      "language": "ko",
+      "read_scope": "实际阅读원불교와 불교、교리 및 교서等相关节；并非所列经典全文"
+    },
+    {
+      "id": "S7",
+      "title": "Sotaesan",
+      "url": "https://wonbuddhism.org/sotaesan/",
+      "institution": "Won Buddhism官方英语网站",
+      "date": null,
+      "language": "en",
+      "read_scope": "实际阅读人物分期简介；译本版次未注明"
+    }
+  ],
+  "works": [
+    {
+      "title": "보경육대요령（宝经六大要领）",
+      "url": "https://hub.won.or.kr/dictionary/view/0082",
+      "locator": "형성 과정；交叉参见교리도的개요及육대요령의 교리도",
+      "date": "1932",
+      "date_type": "出版年；据官方后出辞典",
+      "language": "ko",
+      "record_type": "早期教团经典版本记录；含创始人亲撰总论，不据此认定全书独著",
+      "rights": "官方网页保留版权；仅记录书目信息与短引，未取得整书或媒体复制许可。历史原作与现代编辑、译文权利须分别核定。",
+      "access_status": "来源说明网页可读；未下载原版",
+      "read_status": "读编纂说明及篇目关系，未读整书"
+    },
+    {
+      "title": "불교정전（佛教正典）",
+      "url": "https://hub.won.or.kr/dictionary/view/0082",
+      "locator": "형성 과정；创始人亲自监修刊行",
+      "date": "1943",
+      "date_type": "刊行年；据官方后出辞典，非网页发布日期",
+      "language": "ko",
+      "record_type": "创始人在世监修的教团经典版本",
+      "rights": "官方网页保留版权；仅记录书目信息与短引，未取得整书或媒体复制许可。历史原作与现代编辑、译文权利须分别核定。",
+      "access_status": "来源说明网页可读；未下载原版",
+      "read_status": "读编纂说明，未核1943实物"
+    },
+    {
+      "title": "원불교교전（圆佛教教典）",
+      "url": "https://hub.won.or.kr/dictionary/view/0082",
+      "locator": "형성 과정；另参교리도 개요",
+      "date": "1962",
+      "date_type": "创始人身后编刊年",
+      "language": "ko",
+      "record_type": "后出教团编集版本；不能等同创始人新增著作",
+      "rights": "官方网页保留版权；仅记录书目信息与短引，未取得整书或媒体复制许可。历史原作与现代编辑、译文权利须分别核定。",
+      "access_status": "来源说明网页可读；未下载原版",
+      "read_status": "读版本说明，未读整部教典"
+    },
+    {
+      "title": "정전（正典）",
+      "url": "https://wonscripture.org/Main/SubIndex/jungjun000100",
+      "locator": "总书篇、教义篇、修行篇；本记录只定位下列篇目",
+      "date": null,
+      "date_type": "现行版本出版日期未核；不能以网站版权年代替",
+      "language": "ko",
+      "record_type": "根本经典；与1943佛教正典及1962编集有关联，非独立计数的新作",
+      "rights": "官方网页保留版权；仅记录书目信息与短引，未取得整书或媒体复制许可。历史原作与现代编辑、译文权利须分别核定。",
+      "access_status": "来源说明网页可读；未下载原版",
+      "read_status": "官方经文站详情访问失败；已读辞典所引篇目及AKS说明"
+    },
+    {
+      "title": "대종경（大宗经）",
+      "url": "https://encykorea.aks.ac.kr/Article/E0040670",
+      "locator": "교리 및 교서：15品547章；本次短引定位教义品31",
+      "date": null,
+      "date_type": "所据在线版出版日期未核",
+      "language": "ko",
+      "record_type": "创始人生平言行录；弟子记录与后出编纂，非本人完整书面独著",
+      "rights": "官方网页保留版权；仅记录书目信息与短引，未取得整书或媒体复制许可。历史原作与现代编辑、译文权利须分别核定。",
+      "access_status": "来源说明网页可读；未下载原版",
+      "read_status": "读AKS性质与结构说明及官方辞典引文，未读547章"
+    },
+    {
+      "title": "개교의 동기（开教的动机）",
+      "url": "https://hub.won.or.kr/dictionary/view/0082",
+      "locator": "《正典》总书篇第1章；1932题총론，1943题불법연구회 설립동기",
+      "date": "1932；1943；1962",
+      "date_type": "首次所核刊载年、改题版本年、现行编排所据编集年",
+      "language": "ko",
+      "record_type": "创始人亲撰篇章；《正典》子记录",
+      "rights": "官方网页保留版权；仅记录书目信息与短引，未取得整书或媒体复制许可。历史原作与现代编辑、译文权利须分别核定。",
+      "access_status": "来源说明网页可读；未下载原版",
+      "read_status": "读辞典所引1932文本及1943改文短句，未核初版纸本"
+    },
+    {
+      "title": "일원상서원문（一圆相誓愿文）",
+      "url": "https://hub.won.or.kr/dictionary/view/3407",
+      "locator": "《正典》教义篇第1章一圆相第4节；辞典형성과정",
+      "date": "约1938-11；1939；1940；1943-03",
+      "date_type": "约撰写/发表时间；勤行法刊载年；改题修订年；佛教正典编修月",
+      "language": "ko",
+      "record_type": "创始人亲撰经文；篇目及版本沿革子记录",
+      "rights": "官方网页保留版权；仅记录书目信息与短引，未取得整书或媒体复制许可。历史原作与现代编辑、译文权利须分别核定。",
+      "access_status": "来源说明网页可读；未下载原版",
+      "read_status": "读官方辞典形成过程与结构概述，未读各版全文"
+    },
+    {
+      "title": "일상수행의 요법（日常修行的要法）",
+      "url": "https://hub.won.or.kr/dictionary/view/3385",
+      "locator": "《正典》修行篇开头；9条；《大宗经》修行品1",
+      "date": "约1937起",
+      "date_type": "所见早期《会报》前身材料年代，非现行9条确定完成日期",
+      "language": "ko",
+      "record_type": "经典内修行条目；教团形成修订的篇目记录",
+      "rights": "官方网页保留版权；仅记录书目信息与短引，未取得整书或媒体复制许可。历史原作与现代编辑、译文权利须分别核定。",
+      "access_status": "来源说明网页可读；未下载原版",
+      "read_status": "亲读网页现行9条及早期形成说明；不认定逐字均为创始人亲笔"
+    },
+    {
+      "title": "성주（圣咒）",
+      "url": "https://hub.won.or.kr/dictionary/view/2094",
+      "locator": "개요、내용；《大宗经》荐度品4",
+      "date": null,
+      "date_type": "具体撰写和首次刊行年未核",
+      "language": "ko",
+      "record_type": "官方辞典归于创始人亲撰的仪诵文本；不同于鼎山所作灵咒、清净咒",
+      "rights": "官方网页保留版权；仅记录书目信息与短引，未取得整书或媒体复制许可。历史原作与现代编辑、译文权利须分别核定。",
+      "access_status": "来源说明网页可读；未下载原版",
+      "read_status": "亲读网页韩文咒文与归属说明，未作亲笔图像鉴定"
+    }
+  ],
+  "quotations": [
+    {
+      "original": "진리적 종교의 신앙과 사실적 도덕의 훈련",
+      "translation_zh": "对于真理性宗教的信仰与切实道德的训练。",
+      "source_url": "https://hub.won.or.kr/dictionary/view/0082",
+      "locator": "형성 과정第2段，说明1943《佛教正典》改文；现属《正典》总书篇第1章",
+      "date_basis": "1943为被说明的历史刊行年；辞典网页日期未标，并非亲见1943版。",
+      "classification": "归于创始人亲撰篇章的短原文；经后出官方辞典转引",
+      "read_scope": "实际阅读韩文辞典引文；中文为本次翻译，不据英译转译"
+    },
+    {
+      "original": "내외문명이 병진되는 시대",
+      "translation_zh": "内外文明共同进步的时代。",
+      "source_url": "https://hub.won.or.kr/dictionary/view/0082",
+      "locator": "개교 동기의 해석第①项所引《大宗经》教义品31；连续原文节选",
+      "date_basis": "原次开示具体日期与记录日期未核；不能把后出编集年视为讲话年。",
+      "classification": "弟子编录并由官方辞典转引的创始人教说；不是现场录音证据",
+      "read_scope": "实际阅读韩文所引段落；中文为本次翻译。两条引文合计10个韩文空格词，不扩引全文。"
+    }
+  ],
+  "media": [],
+  "gaps": [
+    "在已核官方传记、辞典与经文入口中未发现可认证本人声音或本人活动影像的原录；检索未命中可靠原录，不证明绝无存世资料。未播放影音，未生成时间码。",
+    "官方经文站wonscripture.org多次返回502或超时；未据此声称完成《正典》《大宗经》全文阅读。",
+    "尚未核纸本版权页、1943初版影印、各语言译本译者/出版者和ISBN；未把英语传记称1942完成写作等同1943刊行。",
+    "未系统纳入《朝鲜佛教革新论》等其他著作；本目录是有界样本，仍需独立核版本和归属。",
+    "本人手稿、弟子记录形成及后出编纂的逐句对勘未完成；并未读全部研究。"
+  ],
+  "coverage_count_basis": {
+    "works_records": 9,
+    "edition_relationship_records": 3,
+    "core_canonical_container_records": 2,
+    "subordinate_text_records": 4,
+    "independent_authored_book_total": null,
+    "quotations": 2,
+    "authenticated_original_media": 0,
+    "media_downloads": 0,
+    "full_book_downloads": 0,
+    "count_warning": "9为混合层级目录记录数，有从属/版本交叉，不能相加为独立著作数量。"
+  },
+  "region": "韩国",
+  "tradition_context": "圆佛教；佛教渊源新宗教，分类须另辨"
+}

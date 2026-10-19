@@ -1,0 +1,239 @@
+{
+  "person_id": "P-B02-11",
+  "name_zh": "太虚",
+  "original_name": "太虛",
+  "aliases": [
+    "太虛大師",
+    "釋太虛",
+    "唯心"
+  ],
+  "selection_reason": "汉地佛教改革与僧教育；复用1944讲说的已核机构入口。",
+  "bounded_scope": "CBETA《太虛大師全書》介绍页“本文相关阅读链接”中三种本人篇目：太虛自傳、人生佛教開題、人生佛教之目的。该较小有界推荐目录全列；编纂说明、印顺所编年谱和全书集合入口不计本人作品。另保存基金会全书20编分类导航，不将其计为20部作品。",
+  "sources": [
+    {
+      "title": "太虛大師全書",
+      "institution": "CBETA佛教电子佛典基金会",
+      "url": "https://archive2.cbeta.org/node/6547",
+      "date": null,
+      "locator": "人生佛教节及本文相关阅读链接",
+      "language_read": "中文",
+      "read_level": "机构介绍全文及所引原文；未读全书"
+    },
+    {
+      "title": "印順法師佛學著作集：太虛大師全書目录",
+      "institution": "印顺文教基金会",
+      "url": "https://www.yinshun.org.tw/ebooks/AI.html",
+      "date": null,
+      "locator": "太虛大師全書20编",
+      "language_read": "中文",
+      "read_level": "分类目录；点击正文返回动态阅读器，无正文提取"
+    }
+  ],
+  "works": [
+    {
+      "title": "太虛自傳",
+      "url": "https://cbetaonline.dila.edu.tw/zh/TX29n0019_p0163a01",
+      "locator": "CBETA推荐页本文相关阅读链接；TX29n0019_p0163a01",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "自传",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录条目已读，正文未读"
+    },
+    {
+      "title": "人生佛教開題",
+      "url": "https://cbetaonline.dila.edu.tw/zh/TX03n0002_pa217a01",
+      "locator": "CBETA推荐页；第三节链接TX03n0002_pa220a07",
+      "date": "1944年秋",
+      "date_type": "机构说明的讲说时间",
+      "language": "中文",
+      "record_type": "讲说篇目",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "CBETA机构页第三节节引亲读；全文动态入口仅壳"
+    },
+    {
+      "title": "人生佛教之目的",
+      "url": "https://cbetaonline.dila.edu.tw/zh/TX03n0002_pa234a01",
+      "locator": "CBETA推荐页本文相关阅读链接；TX03n0002_pa234a01",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "篇目",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录条目已读，正文未读"
+    }
+  ],
+  "quotations": [
+    {
+      "original": "自亦含攝後世勝進與生死解脫",
+      "translation_zh": "其中也包含来世的进步与摆脱生死轮回。",
+      "source_url": "https://archive2.cbeta.org/node/6547",
+      "locator": "人生佛教节引《人生佛教開題》第三节；正文指针TX03n0002_pa220a07为机构提供，未直读该行",
+      "date_basis": "机构标1944年秋讲说；网页发布日期未明",
+      "classification": "本人教义性讲说，经机构节引；不是社会实践事实",
+      "read_scope": "亲读中文机构页所引一段；未读讲稿全文"
+    }
+  ],
+  "media": [],
+  "gaps": [
+    "本轮未发现可核存世本人原录；不是证明无存世原录。未将后人诵读、纪念片列为本人影音。",
+    "只完成小型机构推荐目录；未枚举全书1448篇，数量为CBETA机构自述而非本轮独立统计。",
+    "全文入口实际返回阅读器壳；不声称亲读自传或人生佛教之目的。"
+  ],
+  "coverage_count_basis": {
+    "authored_title_records": 3,
+    "collection_navigation_records": 20,
+    "quotations": 1,
+    "authenticated_media": 0,
+    "complete_within": "CBETA介绍页三种本人推荐篇目",
+    "not_complete": "太虛大師全書全部篇目"
+  },
+  "collections": [
+    {
+      "title": "第一編　佛法總學",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=1p4.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第二編　五乘共學",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=2p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第三編　三乘共學",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=3p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第四編　大乘通學",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=4p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第五編　法性空慧學",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=5p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第六編　法相唯識學",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=6p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第七編　法界圓覺學",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=7p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第八編　律釋",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=8p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第九編　制議",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=9p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第十編　學行",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=10p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第十一編　真現實論宗依論",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=11p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第十二編　真現實論宗體論",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=12p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第十三編　真現實論宗用論",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=13p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第十四編　支論",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=14p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第十五編　時論",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=15p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第十六編　書評",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=16p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第十七編　酬對",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=17p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第十八編　講演",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=18p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第十九編　文叢",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=19p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    },
+    {
+      "title": "第二十編　詩存",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=taixu&a=20p1.0100&m=2",
+      "record_type": "后出文集分类入口，不计独立作品",
+      "date": null,
+      "read_status": "标题及链接已读，分类正文未读"
+    }
+  ],
+  "region": "中国",
+  "tradition_context": "汉传大乘；佛教改革与人生佛教"
+}

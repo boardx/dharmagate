@@ -1,0 +1,7 @@
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.mp3 binary
+*.md text eol=lf
+*.json text eol=lf
+*.txt text eol=lf

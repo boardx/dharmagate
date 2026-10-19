@@ -1,0 +1,1020 @@
+坦尼沙罗｜首批目录 B02-C1
+官网Books标题类链接按角色拆分；2025年1月晚间开示18条索引及详情全部登记。
+作品/篇目/版本记录：103；影音目录：18。全生涯未收总条数未知。
+本次复核：103 official Books relationship records plus 4 separately excluded aggregate entrypoints; all 18 entries in January 2025 official evening-talk index; local files audit and two official detail-page rechecks only; not lifetime bibliography or all media
+
+作品及篇目
+
+C-1e843dc9a501 Through the Doors to the Deathless
+日期：2026-10-08；原目录明确列published日期，未作为写作年或作品初版年；(published October 8, 2026)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 new；来源页内按题名定位
+https://www.dhammatalks.org/books/Doors_to_theDeathless/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-a7e7aca733f1 The Power of Karma
+日期：2026-05-24；原目录明确列published日期，未作为写作年或作品初版年；(published May 24, 2026)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 new；来源页内按题名定位
+https://www.dhammatalks.org/books/PowerOfKarma/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-e76c22bf1b50 Meditations 13
+日期：2026-04-25；原目录明确列published日期，未作为写作年或作品初版年；(published April 25, 2026)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 new；来源页内按题名定位
+https://www.dhammatalks.org/books/Meditations13/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-6b002d97b64a Things as They Can Be
+日期：2026-01-15；原目录明确列published日期，未作为写作年或作品初版年；(published January 15, 2026)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 new；来源页内按题名定位
+https://www.dhammatalks.org/books/Things_asTheyCanBe/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-37a21fd9fe5d The Buddha’s Teachings: An Introduction
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 featured；来源页内按题名定位
+https://www.dhammatalks.org/books/BuddhasTeachings/
+访问：official_index_and_copyright_page_previously_checked; local_pdf_present_and_metadata_reparsed；阅读：copyright page previously checked; full book not read
+权利：{"license": "CC BY-NC 4.0 (book says Unported; linked deed is International)", "license_url": "https://creativecommons.org/licenses/by-nc/4.0/", "rights_holder": "Ṭhānissaro Bhikkhu, copyright 2016", "verification_status": "existing copyright-page verification carried forward, not independently repeated in closeout"}
+
+C-80f20aacccaa With Each & Every Breath: A Guide to Meditation
+日期：未核：不以网页版权年或检索日补值；(revised June 3, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 featured；来源页内按题名定位
+https://www.dhammatalks.org/books/WithEachAndEveryBreath/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-c198eb117ebc Noble Strategy
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 featured；来源页内按题名定位
+https://www.dhammatalks.org/books/NobleStrategy/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-b4726a72c652 The Karma of Questions
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 13, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 featured；来源页内按题名定位
+https://www.dhammatalks.org/books/KarmaOfQuestions/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-839c456fc190 Karma Q & A
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 21, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 featured；来源页内按题名定位
+https://www.dhammatalks.org/books/KarmaQ&A/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-4f42c5888d48 The Question of Bhikkhunī Ordination
+日期：未核：不以网页版权年或检索日补值；(revised Dec. 17, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 vinaya；来源页内按题名定位
+https://www.dhammatalks.org/books/QuestionofBhikkhuniOrdination/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-3de8dba55903 Meditations 11
+日期：2022-06-06；原目录明确列published日期，未作为写作年或作品初版年；(published June 6, 2022)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/Meditations11/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-bb7695cdfc40 Meditations 10
+日期：未核：不以网页版权年或检索日补值；(published Feb. 13, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/Meditations10/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-8193c7ae6af3 Meditations 9
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/Meditations9/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-6bc22e958b3e Meditations 8
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 13, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/Meditations8/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-f4a12bb41704 Meditations 7
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 13, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/Meditations7/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-4f8f492b7353 Meditations 6
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/Meditations6/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-5fb64cabb9d3 Meditations 5
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 13, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/Meditations5/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-58ebebc2a966 Meditations 4
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/Meditations4/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-68a5e6e0ec0d Meditations 3
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/Meditations3/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-e43b27c9f824 Meditations 2
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/Meditations2/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-b734ecbd6f43 Meditations
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/Meditations1/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-4f719a74cc8d Gather ’Round the Breath : Dhamma Talks Cited in With Each & Every Breath
+日期：未核：不以网页版权年或检索日补值；(revised June 3, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/GatherRound/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-a25eb5eef8f6 The Noble Eightfold Path: 13 Meditation Talks
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/NobleEightfoldPath/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-abddfa0cc260 Bases for Success: Six Dhamma Talks on the Four Iddhipādas
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/Bases_forSuccess/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-f9eac6c2e3d4 In the Elephant’s Footprint
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/Elephant'sFootprint/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-e5b599d641cb Factors for Awakening : Ten Dhamma Talks
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/FactorsforAwakening/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-8e71b98702f8 Lost & Found
+日期：未核：不以网页版权年或检索日补值；(published Oct. 13, 2025)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/LostFound/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-00d919d88ad1 Purity of Heart
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 essays；来源页内按题名定位
+https://www.dhammatalks.org/books/PurityOfHeart/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-c11ca887be80 Head & Heart Together
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 essays；来源页内按题名定位
+https://www.dhammatalks.org/books/Head&HeartTogether/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-92450b3241b6 Beyond All Directions
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 essays；来源页内按题名定位
+https://www.dhammatalks.org/books/BeyondAllDirections/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-2409c2230a8c Noble & True
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 13, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 essays；来源页内按题名定位
+https://www.dhammatalks.org/books/Noble&True/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-bce1ce217b5c First Things First
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 13, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 essays；来源页内按题名定位
+https://www.dhammatalks.org/books/FirstThingsFirst/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-3d45b7e9f67e The Mirror of Insight : The Buddha as Strategist
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 essays；来源页内按题名定位
+https://www.dhammatalks.org/books/Mirror_ofInsight/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-bbdc02142780 Along the Way
+日期：未核：不以网页版权年或检索日补值；(published Jan. 21, 2022)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 essays；来源页内按题名定位
+https://www.dhammatalks.org/books/Along_theWay/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-80ef952c4a0c The Heart a Flowing Stream
+日期：2024-04-01；原目录明确列published日期，未作为写作年或作品初版年；(published April 1, 2024)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 essays；来源页内按题名定位
+https://www.dhammatalks.org/books/HeartFlowing/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-284c5362dd9b Beyond Desire & Passion : The Buddha’s Training for Freedom
+日期：2025-01-19；原目录明确列published日期，未作为写作年或作品初版年；(published January 19, 2025)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 big_books；来源页内按题名定位
+https://www.dhammatalks.org/books/BeyondDesire&Passion/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-3bb514f33940 Buddhist Romanticism
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 big_books；来源页内按题名定位
+https://www.dhammatalks.org/books/BuddhistRomanticism/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-be915efac31c Four Noble Truths
+日期：未核：不以网页版权年或检索日补值；(revised May 20, 2023)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 big_books；来源页内按题名定位
+https://www.dhammatalks.org/books/FourNobleTruths/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-4b142168b9fb The Mind like Fire Unbound: An Image in the Early Buddhist Discourses
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 big_books；来源页内按题名定位
+https://www.dhammatalks.org/books/MindLikeFire/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-3264e9c87140 Noble Warrior : A Life of the Buddha Compiled from the Pāli Canon
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 13, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 big_books；来源页内按题名定位
+https://www.dhammatalks.org/books/NobleWarrior/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-b2dce968f241 On the Path: An Anthology on the Noble Eightfold Path drawn from the Pāli Canon
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 13, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 big_books；来源页内按题名定位
+https://www.dhammatalks.org/books/OnThePath/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-8b2883e06e02 The Paradox of Becoming
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 big_books；来源页内按题名定位
+https://www.dhammatalks.org/books/ParadoxOfBecoming/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-0a035766aa63 Refuge: An Introduction to the Buddha, Dhamma, & Sangha
+日期：未核：不以网页版权年或检索日补值；(revised cover art Jan. 12, 2023)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 big_books；来源页内按题名定位
+https://www.dhammatalks.org/books/Refuge/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-613db3460dda Right Mindfulness: Memory & Ardency on the Buddhist Path
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 13, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 big_books；来源页内按题名定位
+https://www.dhammatalks.org/books/RightMindfulness/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-ebb9b8a53679 The Shape of Suffering: A Study of Dependent Co-arising
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 big_books；来源页内按题名定位
+https://www.dhammatalks.org/books/ShapeOfSuffering/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-8382edfa7364 Skill in Questions: How the Buddha Taught
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 13, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 big_books；来源页内按题名定位
+https://www.dhammatalks.org/books/SkillInQuestions/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-af0a8db23604 The Truth of Rebirth: And Why It Matters for Buddhist Practice
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 big_books；来源页内按题名定位
+https://www.dhammatalks.org/books/TruthOfRebirth/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-f75d5c39bf3d Undaunted : the Buddha’s Teachings on Aging, Illness, Death, & the Deathless
+日期：2022-08-26；原目录明确列published日期，未作为写作年或作品初版年；(published August 26, 2022)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 big_books；来源页内按题名定位
+https://www.dhammatalks.org/books/Undaunted/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-706bdc20d5e9 The Wings to Awakening: An Anthology from the Pāli Canon
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 13, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 big_books；来源页内按题名定位
+https://www.dhammatalks.org/books/Wings/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-9e4491b60e2a Desires for the End of Desire : Skillful Determination on the Buddhist Path
+日期：2025-11-13；原目录明确列published日期，未作为写作年或作品初版年；(published November 13, 2025)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 retreats；来源页内按题名定位
+https://www.dhammatalks.org/books/DesiresForEndOfDesire/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-1ba28b4a02bc Facing Aging, Illness, & Death : The Central Teaching of the Buddha
+日期：2024-07-07；原目录明确列published日期，未作为写作年或作品初版年；(published July 7, 2024)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 retreats；来源页内按题名定位
+https://www.dhammatalks.org/books/FacingAgingIllnessDeath/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-827f0e4d995a Sublime Determinations: a Retreat on the Brahmavihāras
+日期：2022-07-13；原目录明确列published日期，未作为写作年或作品初版年；(published July 13, 2022)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 retreats；来源页内按题名定位
+https://www.dhammatalks.org/books/SublimeDeterminations/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-2de6d29d9cf4 Good Heart, Good Mind : The Practice of the Ten Perfections
+日期：未核：不以网页版权年或检索日补值；(revised Sept. 2, 2020)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 retreats；来源页内按题名定位
+https://www.dhammatalks.org/books/GoodHeart/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-6f7b5e6d2817 The Five Faculties: Putting Wisdom in Charge of the Mind
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 retreats；来源页内按题名定位
+https://www.dhammatalks.org/books/Five_Faculties/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-ec962538de4b The Karma of Mindfulness: The Buddha’s Teachings on Sati and Kamma
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 21, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 retreats；来源页内按题名定位
+https://www.dhammatalks.org/books/KarmaOfMindfulness/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-f82945ed3098 Selves & Not-self: The Buddhist Teaching on Anatta
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 21, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 retreats；来源页内按题名定位
+https://www.dhammatalks.org/books/SelvesNot-self/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-953d6c2035bd Meditations 12
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 talks；来源页内按题名定位
+https://www.dhammatalks.org/books/Meditations12/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-79f2211396e2 Not-self Q & A
+日期：2025-07-26；原目录明确列published日期，未作为写作年或作品初版年；(published July 26, 2025)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/Not-self_Q&A/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-0171cf92d563 Beyond Coping: A Study Guide on Aging, Illness, Death, & Separation
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 21, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/BeyondCoping/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-786abf9ff785 The Buddha Smiles: Humor in the Pāli Canon
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/BuddhaSmiles/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-0b5efbb4e929 A Burden off the Mind
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/BurdenOffMind/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-c66148ceffc2 Desires : A Study Guide, compiled by Ṭhānissaro Bhikkhu
+日期：未核：不以网页版权年或检索日补值；(revised May 13, 2023)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/Desires/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-4a1f81db0e99 Discernment: The Buddha’s Strategies for Happiness II
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/Discernment/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-94af47f4a930 Into the Stream: A Study Guide on the First Stage of Awakening
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/IntoTheStream/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-9d3663d08d25 A Meditator’s Tools
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/MeditatorsTools/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-496c75e6530a Merit: The Buddha’s Strategies for Happiness I
+日期：未核：不以网页版权年或检索日补值；(revised Feb. 13, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/Merit/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-5693f3e4af74 Mindful of the Body: A Study Guide
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/MindfulBody/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-a94e52a2881d Noble Conversation : A Study Guide, compiled by Ṭhānissaro Bhikkhu
+日期：2023-05-04；原目录明确列published日期，未作为写作年或作品初版年；(published May 4, 2023)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/NobleConversation/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-b044ed084f0a Recognizing the Dhamma: A Study Guide
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/RecognizingTheDhamma/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-db6cd65bb9e5 The Sublime Attitudes: A Study Guide on the Brahmaviharas
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/SublimeAttitudes/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-16d5d32c496e Ten Perfections: A Study Guide
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/TenPerfections/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-bb3f0067e981 The Buddhist Monastic Code, Volumes I & II
+日期：未核：不以网页版权年或检索日补值；(revised Sept. 10, 2025)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 vinaya；来源页内按题名定位
+https://www.dhammatalks.org/vinaya/bmc/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-03c7fdc37492 The Mahāvagga.
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 vinaya；来源页内按题名定位
+https://www.dhammatalks.org/vinaya/Mv/Mahavagga_Index.html
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-84e46ef29489 Non-violence: A Study Guide Based on Early Buddhist Teachings
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 study_guides；来源页内按题名定位
+https://www.dhammatalks.org/books/Non-violence/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-0b651984a5cd Handful of Leaves: an Anthology from the Sutta Piṭaka
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 palicanon；来源页内按题名定位
+https://www.dhammatalks.org/books/HandfulOfLeaves/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-58cb2417c81a Keeping the Breath in Mind & Lessons in Samadhi
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 featured；来源页内按题名定位
+https://www.dhammatalks.org/books/KeepingTheBreath/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-7328fc94fc6d Awareness Itself
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 featured；来源页内按题名定位
+https://www.dhammatalks.org/books/AwarenessItself/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-3a01fe13cf65 Starting Out Small: A Collection of Talks for Beginning Meditators
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/StartingOutSmall/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-39a18f2333fe Food for Thought: Eighteen Talks on the Training of the Heart
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/FoodForThought/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-96f82c6e4c1a Inner Strength & Parting Gifts: Talks by Ajaan Lee Dhammadharo
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/InnerStrength/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-f4d8cc15b97f The Heightened Mind: Dhamma Talks of Ajaan Lee Dhammadharo
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/HeightenedMind/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-d98e572b26f9 The Skill of Release: Teachings of Ajaan Lee Dhammadharo
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/SkillOfRelease/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-4fdb25b9e0a0 The Autobiography of Phra Ajaan Lee
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/AutobioAjaanLee/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-01d58de583c2 Craft of the Heart
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/CraftHeart/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-3d6e102a0198 Frames of Reference
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/FramesOfReference/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-32ddcea8f59b Basic Themes: Four Treatises on Buddhist Practice
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/BasicThemes/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-93ff0c7d546d A Handbook for the Relief of Suffering : Three Essays by Ajaan Lee Dhammadharo
+日期：2023-01-13；原目录明确列published日期，未作为写作年或作品初版年；(published January 13, 2023)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/Handbook/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-7ddca649e22f Straight from the Heart: Thirteen Talks on the Practice of Meditation
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/StraightFromTheHeart/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-226157611918 Things as They Are: A Collection of Talks on the Training of the Mind
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/ThingsAsTheyAre/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-54b5acd1daef Fistful of Sand & The Light of Discernment: Teachings of Phra Ajaan Suwat Suvaco
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/FistfulOfSand/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-cb012d6e62aa The Intelligent Heart : Five Dhamma Talks
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/IntelligentHeart/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-323019dd6137 Still Flowing Water: Eight Dhamma Talks
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/StillFlowingWater/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-99931936148a In Simple Terms: 108 Dhamma Similes
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/InSimpleTerms/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-de2e19cca6af It’s Like This: 108 Dhamma Similes
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/ItsLikeThis/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-c65a50d84e17 A Chanting Guide: Pāli Passages with English Translations
+日期：未核：不以网页版权年或检索日补值；(revised cover art July 9, 2021)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 chanting；来源页内按题名定位
+https://www.dhammatalks.org/books/ChantingGuide/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-9730adc9b4a4 The Divine Mantra
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 chanting；来源页内按题名定位
+https://www.dhammatalks.org/books/DivineMantraAL/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-b41346d58956 The Divine Mantra (Ajaan Fuang Version)
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 chanting；来源页内按题名定位
+https://www.dhammatalks.org/books/DivineMantraAF/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-33f5f3371416 A Heart Released: The Teachings of Phra Ajaan Mun
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/HeartReleased/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-fd585ccd6147 Gifts He Left Behind: The Dhamma Legacy of Phra Ajaan Dune Atulo
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/GiftsHeLeftBehind/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-4fcf4bafb4a2 Come & See
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/ComeAndSee/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-f37469a208a3 An Unentangled Knowing: The Teachings of a Thai Buddhist Lay Woman
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 thaiforest；来源页内按题名定位
+https://www.dhammatalks.org/books/UnentangledKnowing/
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-fa4bc615c391 Metta Luang
+日期：2024-11-07；原目录明确列published日期，未作为写作年或作品初版年；(published November 7, 2024)
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 chanting；来源页内按题名定位
+https://www.dhammatalks.org/books/MettaLuang/mettaLuang.html
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+C-b9dfeb988bcd Tone Rules: for Pāli Chanting in the Thai Tradition (PDF)
+日期：未核：不以网页版权年或检索日补值；日期性质未逐项核；不推定初版/写作年
+版本/文本语言：en；原作/原讲语：原作/原讲语种未逐项核
+出处：系列 chanting；来源页内按题名定位
+https://www.dhammatalks.org/Archive/Writings/ChantingToneGuide151003.pdf
+访问：official_index_read; individual_book_not_read；阅读：仅读目录或已注明局部正文；未逐本通读
+权利：该条明确许可未核；目录可见不等于取得全文复制或再发布权
+
+影音
+
+M-e9c91ed6bd24 Do, Maintain, Use
+原讲日：2025-01-31；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250131_Do,_Maintain,_Use.mp3
+文字稿：official detail page English transcript present; opening inspected; not fully critically read or audio-matched；https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html
+权利：{"permission": "official page explicitly offers MP3 download", "scope": "download availability verified; independent redistribution/adaptation licence not established", "evidence_url": "https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-9487de31e64d Feeding Off of Others
+原讲日：2025-01-24；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250124-feeding-off-of-others.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250124_Feeding_Off_of_Others.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-d50a3124f62c Break Things Down
+原讲日：2025-01-22；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250122-break-things-down.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250122_Break_Things_Down.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-db1f8deca2ed Help Others, Help Yourself
+原讲日：2025-01-21；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250121-help-others-help-yourself.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250121_Help_Others,_Help_Yourself.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-7685bf5e438c A Happy Tradition
+原讲日：2025-01-20；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250120-a-happy-tradition.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250120_A_Happy_Tradition.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-0188015ed9f3 People of Integrity
+原讲日：2025-01-19；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250119-people-of-integrity.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250119_People_of_Integrity.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-546a9c4c3452 Inner Authorities
+原讲日：2025-01-18；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250118-inner-authorities.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250118_Inner_Authorities.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-3975d54de3e4 Positive Capability
+原讲日：2025-01-17；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250117-positive-capability.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250117_Positive_Capability.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-b0da23a043e0 Up for the Challenge
+原讲日：2025-01-15；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250115-up-for-the-challenge.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250115_Up_for_the_Challenge.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-a0cdc1694b6b A Good Path to Be On
+原讲日：2025-01-14；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250114-a-good-path-to-be-on.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250114_A_Good_Path_to_Be_On.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-ef573262a2dc When the Mind Is Still
+原讲日：2025-01-13；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250113-when-the-mind-is-still.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250113_When_the_Mind_Is_Still.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-67d45c576e93 Work on Your Mind
+原讲日：2025-01-12；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250112-work-on-your-mind.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250112_Work_on_Your_Mind.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-df41dc004d42 Admirable Friendship, Inside & Out
+原讲日：2025-01-11；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250111-admirable-friendship-inside-out.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250111_Admirable_Friendship,_Inside_&_Out.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-c5ccac845711 Keeping the Buddha in Mind
+原讲日：2025-01-06；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250106-keeping-the-buddha-in-mind.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250106_Keeping_the_Buddha_in_Mind.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-305548c95791 Bless Yourself
+原讲日：2025-01-05；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250105-bless-yourself.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250105_Bless_Yourself.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-95a1679f5f7f Awaken to Your Potentials
+原讲日：2025-01-04；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250104-awaken-to-your-potentials.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250104_Awaken_to_Your_Potentials.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-abe37131419e Desire Is Part of the Path
+原讲日：2025-01-03；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250103-desire-is-part-of-the-path.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250103_Desire_Is_Part_of_the_Path.mp3
+文字稿：official_index_marks_transcribed；链接未核
+权利：{"permission": "All files are freely downloadable.", "source_url": "https://www.dhammatalks.org/audio/evening/2025/", "scope": "download permission; redistribution/modification rights not established"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+M-279e447070f1 Meaningful Freedom
+原讲日：2025-01-02；发表/上传：网页发表/上传日期未核
+原语：未核音轨原讲语种；不按讲者国籍或网页语言推定；目录/轨：en；译语：译语/口译轨未核
+出处：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位；时码：无已逐句核对的引语时码；整场用来源页/档案号定位
+https://www.dhammatalks.org/audio/evening/2025/250102-meaningful-freedom.html
+播放器/文件：https://www.dhammatalks.org/Archive/y2025/250102_Meaningful_Freedom.mp3
+文字稿：official detail page English transcript present; opening inspected; not fully critically read or audio-matched；https://www.dhammatalks.org/audio/evening/2025/250102-meaningful-freedom.html
+权利：{"permission": "official page explicitly offers MP3 download", "scope": "download availability verified; independent redistribution/adaptation licence not established", "evidence_url": "https://www.dhammatalks.org/audio/evening/2025/250102-meaningful-freedom.html"}
+访问：official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched；保存：官方明确提供下载，个人研究副本已保存
+
+未收及不可访问缺口
+单篇文章及集合入口未展开；其他月份、晨间讲座和其他语种未取全；逐本初版、修订与权利未核完。
+18份MP3均已解析，仍未听核或与转录逐句匹配。
+本次仅重核两条媒体详情，其余16条沿用先前详情证据。
+103条是按著作、译编及关联角色划分的目录记录，不是103部本人独著。
+其他月份、晨间及其他语种未采齐；作品首版日期、原始录制背景及录音再发布许可仍待核。
+PDF许可沿用既有版权页核验，本次仅重验文件；未全文阅读。

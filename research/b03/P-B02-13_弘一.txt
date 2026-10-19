@@ -1,0 +1,166 @@
+{
+  "person_id": "P-B02-13",
+  "name_zh": "弘一",
+  "original_name": "李叔同；出家法名演音，號弘一",
+  "aliases": [
+    "弘一大師",
+    "弘一法師",
+    "李叔同",
+    "演音"
+  ],
+  "selection_reason": "補入近現代漢傳律學的文本編纂、學律願文與藝術家出家後著述；不以音樂作品的後人演唱冒充本人聲音。",
+  "bounded_scope": {
+    "title": "般若文海佛教數位頁《弘一大師文集—律學》明列九篇",
+    "boundary": "僅本頁九個目錄篇目；全部列出。不是弘一全部著作，也不是經校勘的權威全集。",
+    "catalog_url": "https://www.book.bfnn.org/books2/1204.htm",
+    "catalog_stated_count": null,
+    "enumerated_count": 9,
+    "date_window": "1926–2026為觀察窗；署庚申的前史篇目另標，不悄然改年。"
+  },
+  "sources": [
+    {
+      "title": "弘一大師文集—律學",
+      "url": "https://www.book.bfnn.org/books2/1204.htm",
+      "institution": "般若文海公開佛教數位文庫（轉錄來源，非本人檔案館）",
+      "locator": "頁內九項目錄；a01全文；a03、a08署日",
+      "language": "中文",
+      "reading_level": "原著文字的網頁轉錄；未核原刊、手稿及編者底本",
+      "year": null
+    }
+  ],
+  "works": [
+    {
+      "language": "中文",
+      "rights": "公開網頁可瀏覽；本次未核明數位整理授權，不據公開瀏覽推定可整批再散布。未下載全文或媒體。",
+      "access_status": "公開HTML已讀",
+      "read_status": "實讀本篇全文，未校紙本或手稿",
+      "title": "余弘律之因緣",
+      "url": "https://www.book.bfnn.org/books2/1204.htm#a01",
+      "locator": "頁內目錄第1篇及錨點a01",
+      "date": null,
+      "date_type": "本篇成文年與網頁刊登年未核定",
+      "record_type": "自述篇目"
+    },
+    {
+      "language": "中文",
+      "rights": "公開網頁可瀏覽；本次未核明數位整理授權，不據公開瀏覽推定可整批再散布。未下載全文或媒體。",
+      "access_status": "公開HTML已讀",
+      "read_status": "核對篇名及篇目位置；非逐篇全文研究",
+      "title": "弘律願文",
+      "url": "https://www.book.bfnn.org/books2/1204.htm#a02",
+      "locator": "頁內目錄第2篇及錨點a02",
+      "date": null,
+      "date_type": "本篇成文年與網頁刊登年未核定",
+      "record_type": "願文篇目"
+    },
+    {
+      "language": "中文",
+      "rights": "公開網頁可瀏覽；本次未核明數位整理授權，不據公開瀏覽推定可整批再散布。未下載全文或媒體。",
+      "access_status": "公開HTML已讀",
+      "read_status": "核對篇名及篇目位置；非逐篇全文研究",
+      "title": "南山律苑住眾學律發願文",
+      "url": "https://www.book.bfnn.org/books2/1204.htm#a03",
+      "locator": "頁內目錄第3篇及錨點a03",
+      "date": "1933-05-26",
+      "date_type": "原文署日：民國二十二年五月二十六日；非網頁刊登日",
+      "record_type": "共同署名願文（學律弟子弘一等）"
+    },
+    {
+      "language": "中文",
+      "rights": "公開網頁可瀏覽；本次未核明數位整理授權，不據公開瀏覽推定可整批再散布。未下載全文或媒體。",
+      "access_status": "公開HTML已讀",
+      "read_status": "核對篇名及篇目位置；非逐篇全文研究",
+      "title": "在家律要之開示",
+      "url": "https://www.book.bfnn.org/books2/1204.htm#a04",
+      "locator": "頁內目錄第4篇及錨點a04",
+      "date": null,
+      "date_type": "本篇成文年與網頁刊登年未核定",
+      "record_type": "開示殘篇（頁內注明下文佚失）"
+    },
+    {
+      "language": "中文",
+      "rights": "公開網頁可瀏覽；本次未核明數位整理授權，不據公開瀏覽推定可整批再散布。未下載全文或媒體。",
+      "access_status": "公開HTML已讀",
+      "read_status": "核對篇名及篇目位置；非逐篇全文研究",
+      "title": "問答十章",
+      "url": "https://www.book.bfnn.org/books2/1204.htm#a05",
+      "locator": "頁內目錄第5篇及錨點a05",
+      "date": null,
+      "date_type": "本篇成文年與網頁刊登年未核定",
+      "record_type": "問答輯錄，含前人引文"
+    },
+    {
+      "language": "中文",
+      "rights": "公開網頁可瀏覽；本次未核明數位整理授權，不據公開瀏覽推定可整批再散布。未下載全文或媒體。",
+      "access_status": "公開HTML已讀",
+      "read_status": "核對篇名及篇目位置；非逐篇全文研究",
+      "title": "徵辨學律義八則",
+      "url": "https://www.book.bfnn.org/books2/1204.htm#a06",
+      "locator": "頁內目錄第6篇及錨點a06",
+      "date": null,
+      "date_type": "本篇成文年與網頁刊登年未核定",
+      "record_type": "律學論辨篇目，含律典引述"
+    },
+    {
+      "language": "中文",
+      "rights": "公開網頁可瀏覽；本次未核明數位整理授權，不據公開瀏覽推定可整批再散布。未下載全文或媒體。",
+      "access_status": "公開HTML已讀",
+      "read_status": "核對篇名及篇目位置；非逐篇全文研究",
+      "title": "新集受三皈五戒八戒法式凡例",
+      "url": "https://www.book.bfnn.org/books2/1204.htm#a07",
+      "locator": "頁內目錄第7篇及錨點a07",
+      "date": null,
+      "date_type": "本篇成文年與網頁刊登年未核定",
+      "record_type": "受戒法式編纂凡例"
+    },
+    {
+      "language": "中文",
+      "rights": "公開網頁可瀏覽；本次未核明數位整理授權，不據公開瀏覽推定可整批再散布。未下載全文或媒體。",
+      "access_status": "公開HTML已讀",
+      "read_status": "核對篇名及篇目位置；非逐篇全文研究",
+      "title": "佛說無常經敘",
+      "url": "https://www.book.bfnn.org/books2/1204.htm#a08",
+      "locator": "頁內目錄第8篇及錨點a08",
+      "date": "庚申年七月初二（原署）",
+      "date_type": "序文署年日；公曆換算未獨立複核，可能早於本批1926年觀察起點，作前史保留",
+      "record_type": "序文，非所序經典的翻譯"
+    },
+    {
+      "language": "中文",
+      "rights": "公開網頁可瀏覽；本次未核明數位整理授權，不據公開瀏覽推定可整批再散布。未下載全文或媒體。",
+      "access_status": "公開HTML已讀",
+      "read_status": "核對篇名及篇目位置；非逐篇全文研究",
+      "title": "律學要略",
+      "url": "https://www.book.bfnn.org/books2/1204.htm#a09",
+      "locator": "頁內目錄第9篇及錨點a09",
+      "date": null,
+      "date_type": "本篇成文年與網頁刊登年未核定",
+      "record_type": "講說篇目，非律藏譯本"
+    }
+  ],
+  "quotations": [
+    {
+      "original": "以後屢經修改，手抄數次。",
+      "translation_zh": "初稿之後，他又反覆修改，親手謄抄多次。",
+      "source_url": "https://www.book.bfnn.org/books2/1204.htm#a01",
+      "locator": "〈余弘律之因緣〉辛酉春編戒相表、六月初稿完成之後一段；網頁無紙本頁碼",
+      "date_basis": "段中辛酉是所述編寫事件的干支年，不能當成本篇成文或網頁發表日。",
+      "classification": "作者自述的文本形成過程；尚未以存世手稿互證",
+      "read_scope": "實讀a01全篇；此短句依網頁轉錄，未校原刊"
+    }
+  ],
+  "media": [],
+  "gaps": [
+    "本次未認證可公開播放的弘一本人原聲；未發現不等於不存在。後人誦讀、歌曲演唱、紀念片與重演不計。",
+    "本頁未交代完整底本、篇目編者、刊本頁碼及全部著述年代；九篇完整性僅限本頁目錄。",
+    "藝術、書信及其他律學著作均不在這一有界目錄內。"
+  ],
+  "coverage_count_basis": {
+    "works": 9,
+    "quotations": 1,
+    "authenticated_original_voice_media": 0,
+    "completeness": "本頁目錄9/9；生平全集partial"
+  },
+  "region": "中国",
+  "tradition_context": "汉传南山律学"
+}

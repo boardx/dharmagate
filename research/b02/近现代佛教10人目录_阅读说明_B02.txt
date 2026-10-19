@@ -1,0 +1,207 @@
+近现代佛教十人作品与影音｜首批目录收尾版 B02-C1
+资料核对截至2026年10月18日
+
+首批收尾结果
+本批沿用已采十人资料，未新增重复条目、未重复下载。现有645条出版/篇目/版本及关联著录、114条影音目录，3条失效影音线索和16条失效书目线索分列。18个MP3与1个PDF文件核验通过。目录可用、文件可解析和录音已听核是不同状态：目前没有完成整场听核或逐句字幕匹配的录音。
+
+范围与总纲关系
+十轮全球佛教总纲R10/E01已完成，本次不扩研究轮数、不改其正文。本资料包明确作为1926—2026观察窗下的首批采集部分；不表示连续百年已覆盖，也不表示任何人物全生涯齐全。目录包含译本、合集、篇目、他人相关著述及群体活动，不能称645部独立著作或114场可播放的纯单人讲座。
+
+使用顺序
+先看Excel“逐人已收与缺口”，再按人物筛选作品与影音。两张逐条表提供原题、日期性质、版本/原讲语、出处或档案号、时码状态、链接、访问及权利。逐人目录文件夹含10份完整可检索TXT。JSON保留现行字段、初次目录快照与本次复核依据；规范字段优先于旧快照。未知项明确写未核，不以版权年、页面语言或播放器初始00:00补填。
+
+圣严：110条出版记录／3条影音
+汉传禅／台湾及国际传播。已收出版/篇目/版本关系 110 条，影音目录 3 条，已存音频 0 份。
+范围：《法鼓全集2020纪念版》九辑及相关年谱；影音仅本批三条官方关联页面。
+本次核对：仅复核既有3条影音及其官方关联文字；不扩展全集、不新增媒体。
+未收：既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。
+主要缺口：逐本出版年、版本沿革、独立深链接，全集之外的外语作品及全部影音仍未核完；年谱须排除出独著数。
+均未实听实看，字幕、原讲语、译语及文字与音讯的逐句对应未知。
+原始讲说/录制日未核；网页日期与上传日分别处理。
+未查得逐条下载或再发布授权，未下载媒体或版权全文。
+第三条YouTube详情访问失败，旧索引日期降为待核；403不等于证实影片删除。
+
+圣严入口示例
+如何做到真不執著（有原則但不執著）｜原讲日：原讲/录制日期未核｜定位：大法鼓 0630
+https://dbs.ddm.org.tw/default-ddmtw/xmnews/cont?sid=0Q090332601658462452&xsmsid=0L099307587339841184
+如何能往生淨土｜原讲日：原讲/录制日期未核｜定位：大法鼓 0496
+https://ddm.org.tw/default-mwcs/xmnews/cont?sid=0L175409938379432765&xsmsid=0L174612598625785226
+明末佛教研究｜目錄編號 01-01
+https://ddc.shengyen.org/
+
+星云：105条出版记录／3条影音
+汉传人间佛教／台湾及全球机构。已收出版/篇目/版本关系 105 条，影音目录 3 条，已存音频 0 份。
+范围：现行官方中文全集12类目录，套书合列；外语译本与套书内部册篇未展开。
+本次核对：仅复核既有3条影音及其官方关联文字；不扩展全集、不新增媒体。
+未收：既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。
+主要缺口：套书册篇拆分、本人及他人著述辨析、全部外语版本、影音录制日期和播放尚待核验。
+均未实听实看，字幕、原讲语、译语及文字与音讯的逐句对应未知。
+原始讲说/录制日未核；网页日期与上传日分别处理。
+未查得逐条下载或再发布授权，未下载媒体或版权全文。
+三条均为5分钟 metadata，未按实际音档测量。
+
+星云入口示例
+心能轉境｜原讲日：原讲/录制日期未核｜定位：佛法滿人間 第90則；p390 090；video/5849742857001
+https://www.fgs.video/detail/videos/佛法滿人間/video/5849742857001/佛法滿人間-第90則-心能轉境-the-mind-can-transform-an-external-state
+心生萬法｜原讲日：原讲/录制日期未核｜定位：佛法滿人間 第94則；p406 094；video/5849739101001
+https://www.fgs.video/detail/videos/佛法滿人間/video/5849739101001/佛法滿人間-第94則-心生萬法-the-mind-engenders-myriad-dharmas
+001-003六祖壇經講話(共3冊)｜目錄按鈕 doOpenBook(2); 冊號見標題
+https://books.masterhsingyun.org/article/articlelist
+
+一行：47条出版记录／7条影音
+越南禅与入世佛教／跨国社群。已收出版/篇目/版本关系 47 条，影音目录 7 条，已存音频 0 份。
+范围：官方英文重点书目key-books当前47个唯一标题链接；另取7场本人英语讲授及部分口译场次。
+本次核对：复核现有3场影音、2部书及梅村现行条款；不扩全站，不新增作品或媒体；只读公开英语页面。
+未收：既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。
+主要缺口：越文与法文原著、其他出版社和Living Gems完整目录未枚举；35项书目未读详情，影音时长、许可及逐字稿待核。
+其余4场媒体及45部书本次未作新复核。
+三场录音未播放，字幕、逐字稿、准确时长和时码均未验证；页面全站播放器不作本条文字稿。
+许可仅核现行梅村网站条款，不推定YouTube或其他版权方额外授权；复制/分享/商业利用许可未取得。
+Peace Is Every Step目录ISBN疑缺前导位，未据推测修复；其版次和初版日期未独立核定。
+未枚举越文、法文及其他语种全集；47+7仍属既定有界目录。
+
+一行入口示例
+The Practice of True Presence｜原讲日：2014-08-29｜定位：2014 The Mind of Love Transforms All Difficulties Retreat；来源页内按原题定位
+https://plumvillage.org/library/dharma-talks/the-practice-of-true-presence
+This is a Legendary Moment｜原讲日：2014-08-28｜定位：2014 The Mind of Love Transforms All Difficulties Retreat；来源页内按原题定位
+https://plumvillage.org/library/dharma-talks/this-is-a-legendary-moment
+The Miracle of Mindfulness｜来源页内按题名定位；未分配书内页码
+https://plumvillage.org/books/the-miracle-of-mindfulness
+
+第十四世达赖喇嘛：142条出版记录／3条影音
+藏传格鲁背景／流亡与全球传播。已收出版/篇目/版本关系 142 条，影音目录 3 条，已存音频 0 份。
+范围：官网英文书目五页142项全部枚举；仅另取三条官方影音页面。
+本次核对：仅复核现有3条官方媒体详情及所嵌结构化元数据；不重采书目、不扩充媒体分母
+未收：既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。
+主要缺口：合著与相关作品辨析、跨语言版本、ISBN及初版年尚未逐项核完；全部影音目录未枚举。
+2021及2018片段原讲/译语角色未明示，未以English字段推断。
+原3条仍无确配字幕、全文及逐场播放验证；2012译者姓名未知。
+2018/2026日期冲突分层保留；页面Date不是已证首发或YouTube上传时间。
+
+第十四世达赖喇嘛入口示例
+Introduction to Buddhism｜原讲日：2021-08-11｜定位：Introduction；所属印尼Kadam Choeling访校项目；未据此编造系列集数；来源页内按原题定位
+https://www.dalailama.com/videos/introduction-to-buddhism
+Introductory Buddhist Teachings｜原讲日：2012-06-07/2012-06-09｜定位：Day 1 Morning/Afternoon；Day 2 Morning/Afternoon；Day 3 Morning；来源页内按原题定位
+https://www.dalailama.com/videos/introductory-buddhist-teachings
+Loving Kindness｜Books page 1, heading "Loving Kindness", web line 79
+https://www.dalailama.com/books
+
+杰尊玛丹津葩默：6条出版记录／53条影音
+藏传竹巴噶举／英国与喜马拉雅尼众。已收出版/篇目/版本关系 6 条，影音目录 53 条，已存音频 0 份。
+范围：官网六个出版题名、53项视频索引全部枚举；52个视频详情页成功，一项超时。
+本次核对：仅复核现有3条官方媒体详情及所嵌结构化元数据；不重采书目、不扩充媒体分母
+未收：既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。
+主要缺口：一项影音详情超时；群体场次的讲者和全部时长未核；书籍版本年、活动日期冲突保留，全部终身材料未收齐。
+3条原讲语言与译语均仍未知，未以网站英文或主持者身份推断。
+Days of Miracles活动日期、两条时长仍缺；对谈名单仅确认两位。
+圣诞场次标题2025与活动尾注2024冲突未解除。
+YouTube公开详情请求节流/失败，未重试绕过；未核字幕、文字稿匹配及录制版权。
+
+杰尊玛丹津葩默入口示例
+Days of Miracles – Tushita Meditation Centre｜原讲日：原讲/录制日期未核｜定位：JTP Archive；来源页内按原题定位
+https://tenzinpalmo.com/video/days-of-miracles-tushita-meditation-centre/
+Questions and Answers – Deer Park Institute – April 9th, 2025｜原讲日：2025-04-09｜定位：JTP Archive；来源页内按原题定位
+https://tenzinpalmo.com/video/questions-and-answers-deer-park-institute-april-9th-2025/
+Change Your Mind, Change Your Life: The Transformative Power of Lojong Practice｜Now Available
+https://tenzinpalmo.com/publications/
+
+阿姜查：38条出版记录／20条影音
+泰国森林传统／国际僧团。已收出版/篇目/版本关系 38 条，影音目录 20 条，已存音频 0 份。
+范围：寺院传承站四个英文文集内38篇目、20项英语译介录音索引；仅三项录音详情页已核读。
+本次核对：仅复核现有Fragments of a Teaching正文、Hampstead(1)录音条目及其链接的文字版版权说明。38项是四集合内篇目，不是38独立书；未增加录音或书目。
+未收：既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。
+主要缺口：泰文及依善/老挝语资料未系统枚举；17项录音仅索引层，全部录音日期、时长、字幕及权利待核。
+未为其余37篇补造原讲日期；各篇原讲语、译者与译本初版年仍须逐篇核证。
+20录音未听辨、播放、时长核验或转录对齐；文字电脑版许可不可外推录音。
+泰文及依善／老挝语完整目录未核，原讲语未知保留null。
+
+阿姜查入口示例
+at the Hampstead Vihara (1)｜原讲日：原讲/录制日期未核｜定位：1
+https://www.ajahnchah.org/mp3-dhammatalk/mp3-1.php
+at the Hampstead Vihara (2)｜原讲日：原讲/录制日期未核｜定位：2
+https://www.ajahnchah.org/mp3-dhammatalk/mp3-2.php
+Fragments of a Teaching｜1
+https://www.ajahnchah.org/book/Fragments_Teaching1.php
+
+佛使：10条出版记录／1条影音
+泰国上座部／教理改革与社会思想。已收出版/篇目/版本关系 10 条，影音目录 1 条，已存音频 0 份。
+范围：1982年八篇英译系列及另外两项出版记录；一条BIA泰文嵌入视频页、两篇泰文正文；失效旧站线索另列。
+本次核对：仅复核现有1982年八讲下载目录、BIA《佛教核心》第一讲页和旧站144失效入口；没有打开下载包、PDF全文或影音，不增加记录。
+未收：既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。
+主要缺口：未完成旧站57题书目；16条缓存书目和3条失效音频仅作线索；原语目录、系列缺集、播放与权利仍待核。
+另两条旧站失效影音及16条失效书目本轮未逐项重开，保留既有失效层，不称已恢复。
+1982八篇原讲语、精确日及英译出版日期未能由所读目录确定。
+BIA录音日期、时长、音轨语种与影音转录对齐未核；2条泰文正文未升级为影音。
+现有10作品／1媒体是有限目录记录，不代表佛使全部著作、言论或影音。
+另列失效影音线索3条、失效书目线索16条。
+
+佛使入口示例
+คำบรรยายชุดแก่นพุทธศาสน์ ครั้งที่ 1 เรื่อง "ใจความทั้งหมดของพระพุทธศาสนา"｜原讲日：原讲/录制日期未核｜定位：คำบรรยายชุดแก่นพุทธศาสน์；来源页内按原题定位
+https://main.bia.or.th/200220-2/
+Idappaccayata｜1
+https://www.suanmokkh-idh.org/idh-downloads.html
+
+坦尼沙罗：103条出版记录／18条影音
+泰国森林传统／美国寺院与英语译传。已收出版/篇目/版本关系 103 条，影音目录 18 条，已存音频 18 份。
+范围：官网Books标题类链接按角色拆分；2025年1月晚间开示18条索引及详情全部登记。
+本次核对：103 official Books relationship records plus 4 separately excluded aggregate entrypoints; all 18 entries in January 2025 official evening-talk index; local files audit and two official detail-page rechecks only; not lifetime bibliography or all media
+未收：既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。
+主要缺口：单篇文章及集合入口未展开；其他月份、晨间讲座和其他语种未取全；逐本初版、修订与权利未核完。
+18份MP3均已解析，仍未听核或与转录逐句匹配。
+本次仅重核两条媒体详情，其余16条沿用先前详情证据。
+103条是按著作、译编及关联角色划分的目录记录，不是103部本人独著。
+其他月份、晨间及其他语种未采齐；作品首版日期、原始录制背景及录音再发布许可仍待核。
+PDF许可沿用既有版权页核验，本次仅重验文件；未全文阅读。
+
+坦尼沙罗入口示例
+Do, Maintain, Use｜原讲日：2025-01-31｜定位：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位
+https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html
+Feeding Off of Others｜原讲日：2025-01-24｜定位：Metta Forest Monastery evening talks / January 2025；来源页内按原题定位
+https://www.dhammatalks.org/audio/evening/2025/250124-feeding-off-of-others.html
+Through the Doors to the Deathless｜系列 new；来源页内按题名定位
+https://www.dhammatalks.org/books/Doors_to_theDeathless/
+
+铃木俊隆：13条出版记录／3条影音
+日本曹洞禅／美国移民与禅修社群。已收出版/篇目/版本关系 13 条，影音目录 3 条，已存音频 0 份。
+范围：Cuke个人书目区12项标题，加一项日译本；SFZC关联档案三项录音。
+本次核对：复核已有三条机构影音的公开网页/HTML元数据；不播放、不下载媒体或全文，不扩大档案枚举；大行另核已有英文目录的三组版本关系。
+未收：既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。
+主要缺口：个人书目含传记与回忆录，需进一步区分作者与版本；日文全部版本及数百条档案录音尚未枚举、听核。
+时长、实际音轨/字幕语言及逐字稿与媒体对应仍未听核；未知为null。
+Cuke的类别许可与Engage Wisdom具体文件版本未逐文件对勘。
+现有出版记录数包含译本、版本、传记或混合目录项，不等于独立本人著作数。
+
+铃木俊隆入口示例
+Talking To His Disciples About His Illness｜原讲日：1971-10-09｜定位：SR-00186
+https://suzukiroshi.engagewisdom.com/talks/talking-his-disciples-about-his-illness
+Wherever You Are, We Have Zen Way Of Practice｜原讲日：1971-08-21｜定位：SR-00101
+https://suzukiroshi.engagewisdom.com/talks/wherever-you-are-we-have-zen-way-practice
+Zen Mind, Beginner's Mind｜来源页内按题名定位；未分配书内页码
+https://www.cuke.com/bibliography/bibliog.html
+
+大行：71条出版记录／3条影音
+韩国禅／尼众与在家修行。已收出版/篇目/版本关系 71 条，影音目录 3 条，已存音频 0 份。
+范围：韩文官方五页54个混合目录项与英文页17命名项；另三项韩文主题法谈。
+本次核对：复核已有三条机构影音的公开网页/HTML元数据；不播放、不下载媒体或全文，不扩大档案枚举；大行另核已有英文目录的三组版本关系。
+未收：既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。
+主要缺口：韩英目录之间仍需实体及版本去重；含他人材料，不全是本人作品；全部主题法谈与时长、字幕、许可待核。
+时长、实际音轨/字幕语言及逐字稿与媒体对应仍未听核；未知为null。
+未为韩文影音找到经核对应的英文翻译版；不能由书目语言推定视频译语。
+现有出版记录数包含译本、版本、传记或混合目录项，不等于独立本人著作数。
+
+大行入口示例
+공부를 잘한다는 것은?｜原讲日：1998-03-01｜定位：227
+https://hanmaum.org/hanmaum_05/232
+자생중생 제도를 어떻게 해야 하나요?｜原讲日：1994-10-02｜定位：226
+https://hanmaum.org/hanmaum_05/231
+The Diamond Sutra: The world as an interconnected whole｜来源页内按题名定位；未分配书内页码
+https://hanmaumbooks.org/
+
+保存文件与权利
+18份MP3均来自原先逐条核明的官方明确下载链接，仍保留个人研究副本及来源/字节数/SHA256；不宣称取得独立再发布或改编许可。1份The Buddha’s Teachings英文PDF保留原文件及CC BY-NC 4.0许可，未修改。电脑版文章许可、网页分享许可和具体音轨许可分别记录，不能相互外推。本次没有新增下载或绕过访问限制。
+
+内容核验与时码边界
+文件哈希和解析时长只验证文件完整性。全部影音仍未完成整场听核及逐句转录匹配，因此本批不提供冒充已核的引语时码。整场定位用具体来源页、档案号、集数或系列；网页已有文字不自动等同音轨逐字稿。对谈参与者、译者和剪辑片段分别说明，不将整场所有话归给单一教师。
+
+交付完成边界
+本次完成十人首批的可用目录、来源追溯、既有文件核验及缺口登记。越南语/法语、泰语与依善语、藏语、日语及其他历史版本仍有缺口，不能由英文或中文网络可见度代表全部材料；部分官方详情仍不可访问，保留线索而不编造内容。未知总分母不以猜测百分比表示完成度。

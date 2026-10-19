@@ -1,0 +1,234 @@
+{
+  "person_id": "P-B02-14",
+  "name_zh": "印順",
+  "original_name": "釋印順；俗名張鹿芹",
+  "aliases": [
+    "印順導師",
+    "印順法師",
+    "Yin Shun",
+    "Yinshun"
+  ],
+  "selection_reason": "補入近現代漢傳經論講述、印度佛教史與修學綱要著述，並辨認講者、筆錄者與後出合集的不同層級。",
+  "bounded_scope": {
+    "title": "官方電子書《妙雲集》上編七冊、中編五冊",
+    "boundary": "官方目錄Y01–Y12，逐冊全列；不含下編、華雨集、Y42《成佛之道（增注本）》及其他專著。",
+    "catalog_url": "https://www.yinshun.org.tw/ebooks/AI.html",
+    "catalog_stated_count": null,
+    "enumerated_count": 12,
+    "larger_catalog_note": "所見官方頁另列Y01–Y44；本次只對Y01–Y12的12冊作範圍內全列聲明，未把44當本次採集數。"
+  },
+  "sources": [
+    {
+      "title": "印順法師佛學著作集電子書目錄",
+      "url": "https://www.yinshun.org.tw/ebooks/AI.html",
+      "locator": "Y01–Y12及上編／中編目錄",
+      "language": "中文",
+      "reading_level": "官方目錄；另以HTML核對每筆閱讀器href",
+      "year": null
+    },
+    {
+      "title": "印順導師著作與講述年表",
+      "url": "https://www.yinshun.org.tw/yinshun/publication.html",
+      "locator": "1940、1941、1942、1943、1944、1946、1947、1949、1950年各列",
+      "language": "中文",
+      "reading_level": "官方編纂年表；不是逐冊版權頁",
+      "year": null
+    },
+    {
+      "title": "佛法概論自序",
+      "url": "https://www.mahabodhi.org/files/yinshun/21/yinshun21-01.html",
+      "locator": "自序全文，第三段及末署日期",
+      "language": "中文",
+      "reading_level": "佛教機構鏡像原著文字；未核紙本頁界",
+      "year": 1949
+    },
+    {
+      "title": "正聞學佛班《成佛之道》影音",
+      "url": "https://www.yinshun.org.tw/education/zw_buddhism_video.html",
+      "locator": "2015–2016課程資訊，主講長慈法師",
+      "language": "中文",
+      "reading_level": "官方課程頁；證明是後人主講，排除為印順原聲",
+      "year": null
+    },
+    {
+      "title": "妙法蓮華經講義（官方公開PDF）",
+      "url": "https://www.yinshun.org.tw/download/freebook/C_fhjjy01.pdf",
+      "locator": "序言關於獲贈印順講經錄音及筆記的敘述；本次未為其建立可播放媒體紀錄",
+      "language": "中文",
+      "reading_level": "官方文獻線索；未播放、未核原始錄音檔",
+      "year": null
+    }
+  ],
+  "works": [
+    {
+      "title": "般若經講記",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=yinshun&a=1p1.0100&m=2",
+      "locator": "官方AI目錄Y01；妙雲集上編第1冊",
+      "date": "1942；1947",
+      "date_type": "合集內《金剛經》與《心經》講記的講述年，非本合集初版年",
+      "language": "中文",
+      "record_type": "兩種般若經講記合集；不是經典原譯",
+      "rights": "官方提供線上閱讀；未逐冊核明再利用授權，未下載版權全文。",
+      "access_status": "官方目錄及實際href已核；閱讀器依賴JavaScript，本次未宣稱逐冊開讀",
+      "read_status": "目錄層，未讀全冊"
+    },
+    {
+      "title": "寶積經講記",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=yinshun&a=3p1.0100&m=2",
+      "locator": "官方AI目錄Y02；妙雲集上編第2冊",
+      "date": null,
+      "date_type": "本次未逐冊核定成書或初刊年；網頁日期不代替作品年",
+      "language": "中文",
+      "record_type": "講記，區別講者與記錄整理者",
+      "rights": "官方提供線上閱讀；未逐冊核明再利用授權，未下載版權全文。",
+      "access_status": "官方目錄及實際href已核；閱讀器依賴JavaScript，本次未宣稱逐冊開讀",
+      "read_status": "目錄層，未讀全冊"
+    },
+    {
+      "title": "勝鬘經講記",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=yinshun&a=4p1.0100&m=2",
+      "locator": "官方AI目錄Y03；妙雲集上編第3冊",
+      "date": null,
+      "date_type": "本次未逐冊核定成書或初刊年；網頁日期不代替作品年",
+      "language": "中文",
+      "record_type": "講記，區別講者與記錄整理者",
+      "rights": "官方提供線上閱讀；未逐冊核明再利用授權，未下載版權全文。",
+      "access_status": "官方目錄及實際href已核；閱讀器依賴JavaScript，本次未宣稱逐冊開讀",
+      "read_status": "目錄層，未讀全冊"
+    },
+    {
+      "title": "藥師經講記",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=yinshun&a=5p1.0100&m=2",
+      "locator": "官方AI目錄Y04；妙雲集上編第4冊",
+      "date": null,
+      "date_type": "本次未逐冊核定成書或初刊年；網頁日期不代替作品年",
+      "language": "中文",
+      "record_type": "講記，區別講者與記錄整理者",
+      "rights": "官方提供線上閱讀；未逐冊核明再利用授權，未下載版權全文。",
+      "access_status": "官方目錄及實際href已核；閱讀器依賴JavaScript，本次未宣稱逐冊開讀",
+      "read_status": "目錄層，未讀全冊"
+    },
+    {
+      "title": "中觀論頌講記",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=yinshun&a=6p1.0100&m=2",
+      "locator": "官方AI目錄Y05；妙雲集上編第5冊",
+      "date": "1942；1943",
+      "date_type": "開始講述年；脫稿完成年，非同一出版日期",
+      "language": "中文",
+      "record_type": "講記，區別講者與記錄整理者",
+      "rights": "官方提供線上閱讀；未逐冊核明再利用授權，未下載版權全文。",
+      "access_status": "官方目錄及實際href已核；閱讀器依賴JavaScript，本次未宣稱逐冊開讀",
+      "read_status": "目錄層，未讀全冊"
+    },
+    {
+      "title": "攝大乘論講記",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=yinshun&a=7p1.0100&m=2",
+      "locator": "官方AI目錄Y06；妙雲集上編第6冊",
+      "date": "1941；1946",
+      "date_type": "講述年；官方年表明列出版年",
+      "language": "中文",
+      "record_type": "講記，區別講者與記錄整理者",
+      "rights": "官方提供線上閱讀；未逐冊核明再利用授權，未下載版權全文。",
+      "access_status": "官方目錄及實際href已核；閱讀器依賴JavaScript，本次未宣稱逐冊開讀",
+      "read_status": "目錄層，未讀全冊"
+    },
+    {
+      "title": "大乘起信論講記",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=yinshun&a=8p1.0100&m=2",
+      "locator": "官方AI目錄Y07；妙雲集上編第7冊",
+      "date": "1950",
+      "date_type": "講述年，非初刊年",
+      "language": "中文",
+      "record_type": "講記，區別講者與記錄整理者",
+      "rights": "官方提供線上閱讀；未逐冊核明再利用授權，未下載版權全文。",
+      "access_status": "官方目錄及實際href已核；閱讀器依賴JavaScript，本次未宣稱逐冊開讀",
+      "read_status": "目錄層，未讀全冊"
+    },
+    {
+      "title": "佛法概論",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=yinshun&a=9p1.0100&m=2",
+      "locator": "官方AI目錄Y08；妙雲集中編第1冊",
+      "date": "1949",
+      "date_type": "官方年表記講授並同年香港出版",
+      "language": "中文",
+      "record_type": "講述／論著",
+      "rights": "官方提供線上閱讀；未逐冊核明再利用授權，未下載版權全文。",
+      "access_status": "官方目錄及實際href已核；閱讀器依賴JavaScript，本次未宣稱逐冊開讀",
+      "read_status": "目錄層；《佛法概論》另實讀鏡像自序全文"
+    },
+    {
+      "title": "中觀今論",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=yinshun&a=11p1.0100&m=2",
+      "locator": "官方AI目錄Y09；妙雲集中編第2冊",
+      "date": "1947",
+      "date_type": "官方年表著述／講述活動年，非獨立核定初版年",
+      "language": "中文",
+      "record_type": "講述／論著",
+      "rights": "官方提供線上閱讀；未逐冊核明再利用授權，未下載版權全文。",
+      "access_status": "官方目錄及實際href已核；閱讀器依賴JavaScript，本次未宣稱逐冊開讀",
+      "read_status": "目錄層，未讀全冊"
+    },
+    {
+      "title": "唯識學探源",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=yinshun&a=13p1.0100&m=2",
+      "locator": "官方AI目錄Y10；妙雲集中編第3冊",
+      "date": "1940",
+      "date_type": "官方年表所列著述活動年，非出版年",
+      "language": "中文",
+      "record_type": "講述／論著",
+      "rights": "官方提供線上閱讀；未逐冊核明再利用授權，未下載版權全文。",
+      "access_status": "官方目錄及實際href已核；閱讀器依賴JavaScript，本次未宣稱逐冊開讀",
+      "read_status": "目錄層，未讀全冊"
+    },
+    {
+      "title": "性空學探源",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=yinshun&a=16p1.0100&m=2",
+      "locator": "官方AI目錄Y11；妙雲集中編第4冊",
+      "date": "1944",
+      "date_type": "官方年表所列講述活動年，非出版年",
+      "language": "中文",
+      "record_type": "講述／論著",
+      "rights": "官方提供線上閱讀；未逐冊核明再利用授權，未下載版權全文。",
+      "access_status": "官方目錄及實際href已核；閱讀器依賴JavaScript，本次未宣稱逐冊開讀",
+      "read_status": "目錄層，未讀全冊"
+    },
+    {
+      "title": "成佛之道",
+      "url": "https://www.yinshun.org.tw/ebooks/#c=yinshun&a=17p1.0100&m=2",
+      "locator": "官方AI目錄Y12；妙雲集中編第5冊",
+      "date": null,
+      "date_type": "本次未逐冊核定成書或初刊年；網頁日期不代替作品年",
+      "language": "中文",
+      "record_type": "修學綱要著作；本項不含另列Y42增注本",
+      "rights": "官方提供線上閱讀；未逐冊核明再利用授權，未下載版權全文。",
+      "access_status": "官方目錄及實際href已核；閱讀器依賴JavaScript，本次未宣稱逐冊開讀",
+      "read_status": "目錄層，未讀全冊"
+    }
+  ],
+  "quotations": [
+    {
+      "original": "佛法的本質，決非抽象的概念而已",
+      "translation_zh": "作者認為，佛法的本質不能只用抽象概念來理解。",
+      "source_url": "https://www.mahabodhi.org/files/yinshun/21/yinshun21-01.html",
+      "locator": "〈自序〉第三段；網頁開頭標[P1]，但本段無獨立紙本頁界，不推填頁碼",
+      "date_basis": "自序末署民國三十八年八月二十一日校畢序（1949-08-21）；不是網頁上線日。",
+      "classification": "作者對佛法研究與實踐的解釋主張",
+      "read_scope": "實讀自序全文，未讀全書，未以紙本復核"
+    }
+  ],
+  "media": [],
+  "gaps": [
+    "尚未認證本次可直接公開播放的印順原聲。官方講義有舊錄音保存線索，需另核原檔、日期、語言、整理與公開權限；不能據此編造媒體URL或時碼。",
+    "官方《成佛之道》2015–2016課程主講長慈法師，排除為印順本人錄音。",
+    "Y01–Y12之外的官方書目尚待採集；各冊初版、修訂版與講記記錄者尚未逐冊校版權頁。",
+    "本次未播放任何影音，未把網頁使用語言當作原講語。"
+  ],
+  "coverage_count_basis": {
+    "works": 12,
+    "quotations": 1,
+    "authenticated_original_voice_media": 0,
+    "completeness": "妙雲集上編與中編12/12；官方全目錄及生平全集partial"
+  },
+  "region": "中国—台湾",
+  "tradition_context": "汉传大乘；人间佛教与经论研究"
+}

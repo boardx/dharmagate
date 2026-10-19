@@ -1,0 +1,70 @@
+{
+  "audit_id": "licensed-pdf-BuddhasTeachings",
+  "checked_date": "2026-10-19",
+  "scope": "仅本地既有恢复PDF；未重新下载整书、未读取工程仓库",
+  "sha256": "874a313246339efcae76310c468309604ecf765eea007a34ffdd5d8963570cd5",
+  "bytes": 472409,
+  "expected_sha256": "874a313246339efcae76310c468309604ecf765eea007a34ffdd5d8963570cd5",
+  "hash_match": true,
+  "author": "Ṭhānissaro Bhikkhu",
+  "title": "The Buddha’s Teachings: An Introduction",
+  "edition": {
+    "copyright_year": 2016,
+    "filename_version_token": "251113",
+    "version_date_status": "文件名标记，未将其解释为版权年、出版日或明确修订日；未核正文修订记录"
+  },
+  "rights_evidence": [
+    {
+      "type": "本地PDF亲读文本",
+      "locator": {
+        "pdf_page_1based": 3,
+        "printed_page": "2"
+      },
+      "finding": "扉页列题名、副题An Introduction及作者Ṭhānissaro Bhikkhu。"
+    },
+    {
+      "type": "本地PDF亲读版权页",
+      "locator": {
+        "pdf_page_1based": 4,
+        "printed_page": "3"
+      },
+      "finding": "Copyright 2016 Ṭhānissaro Bhikkhu；明确授予Creative Commons Attribution-NonCommercial 4.0 Unported并链接by-nc/4.0；另注明任何销售都算commercial（包括非营利实体销售）。这是该文件内置的许可，不仅是外部目录说明。"
+    },
+    {
+      "type": "既有授权清单对照",
+      "locator": "同ZIP内 授权文件/LICENSE_AND_PROVENANCE.json",
+      "finding": "作者、题名、472409字节、SHA均匹配。此前printed_page=unpaginated front matter不准确，应为页脚3。"
+    },
+    {
+      "type": "CC官方法律文本网页",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0/legalcode.en",
+      "locator": "Sections 1(i), 2(a)(1), 2(a)(5)–(6), 3(a), 5",
+      "read_scope": "实读相关许可条款；没有下载本书",
+      "finding": "非商业复制分发许可；保留署名、版权、许可及免责声明，注明更改；不得增加限制或暗示背书。"
+    }
+  ],
+  "license_identifier": "CC-BY-NC-4.0",
+  "distribution_decision": "conditional_yes",
+  "can_distribute_public_github_release": true,
+  "conditions": [
+    "以免费、非商业目的公开原PDF；不售卖下载或作为付费包内容，也不将免费下载自动视为所有商业场景都获准。",
+    "保留PDF原版权页与署名、许可URL、任何销售均属商业用途的原有文字。",
+    "Release说明及随附NOTICE提供作者、题名、原文件来源、许可、无修改声明；若未来修改须明确列出改动。",
+    "不要给该PDF套用项目的MIT/Apache等总体许可，不添加禁止接收者行使CC许可权利的条款或DRM。",
+    "不宣称作者、寺院或dhammatalks.org背书；许可只针对本文件，不外推到录音和其他书。"
+  ],
+  "required_license_notice_text": "Third-party PDF license notice — applies only to Thanissaro_The_Buddhas_Teachings_251113.pdf\nCopyright 2016 Ṭhānissaro Bhikkhu.\nCreative Commons Attribution-NonCommercial 4.0, as linked by the PDF:\nhttps://creativecommons.org/licenses/by-nc/4.0/\nFull legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode.en\nPreserve the original PDF copyright and permission notices and the accompanying NOTICE. No sale, commercial redistribution, additional legal restrictions or DRM restricting licensed rights. Do not imply endorsement. If you modify the file, identify the changes and retain prior notices.\nThis file does not license the project as a whole or any other book or audio.\n",
+  "required_notice_text": "The Buddha’s Teachings: An Introduction\nAuthor and copyright holder: Ṭhānissaro Bhikkhu. Copyright 2016 Ṭhānissaro Bhikkhu.\nSource: https://www.dhammatalks.org/Archive/Writings/Ebooks/BuddhasTeachings_251113.pdf\nCatalogue: https://www.dhammatalks.org/books/BuddhasTeachings/\nLicensed under Creative Commons Attribution-NonCommercial 4.0:\nhttps://creativecommons.org/licenses/by-nc/4.0/\nLegal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode.en\nThe PDF names the license “Attribution-NonCommercial 4.0 Unported”; its linked 4.0 license is titled International. The original wording is retained in the PDF.\nAdditional notice printed in the book: “Commercial” shall mean any sale, whether for commercial or non-profit purposes or entities.\nThis PDF is redistributed without modification, free of charge, for noncommercial use. No author or monastery endorsement is implied.\nThe work is supplied under the license’s disclaimer of warranties and limitation of liability (Section 5).\nThis third-party work is not covered by any general project or software license. Its permission does not extend to other books, audio recordings, or third-party material.\nSHA-256: 874a313246339efcae76310c468309604ecf765eea007a34ffdd5d8963570cd5\n",
+  "file_naming_note": "LICENSE/NOTICE不是CC指定的强制文件名；这里提供满足合理署名与许可告知的具体随包实现。链接许可全文可满足许可告知，无需伪造为已获另行书面授权。",
+  "unknowns": [
+    "未核GitHub/Release实际发布用途及收费、商业推广环境；本报告只给条件性许可结论，未执行发布。",
+    "没有另行书面授权；许可依据是已恢复PDF自身版权页。",
+    "未核文件名251113的确切版本日期；未将2016误作本次PDF生成日期。",
+    "封面与全书未作逐项第三方图像权利清查；本次仅核作者对this work的整体许可及现有文件身份。"
+  ],
+  "actions_taken": [
+    "从已经恢复到本地的ZIP只解出本PDF至audits以供检查；无网络整书下载。",
+    "计算SHA-256并与既有授权清单对照。",
+    "pdftotext核扉页及版权页，未批量提取全书。"
+  ]
+}

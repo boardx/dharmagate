@@ -1,0 +1,284 @@
+{
+  "person_id": "P-B02-12",
+  "name_zh": "印光",
+  "original_name": "印光",
+  "aliases": [
+    "印光大師",
+    "釋印光"
+  ],
+  "selection_reason": "净土劝修、书信及在家仪式；区分规范文本与社会实际。",
+  "bounded_scope": "《印光法師文鈔續編》卷上“书”类目录最前17个连续编号21-003—21-019；完整列出这一编号段，不是全卷或全部文钞。附录彻悟禅师材料不计印光著作。",
+  "sources": [
+    {
+      "title": "印光法師文鈔續編卷上目次",
+      "institution": "pureland.tw净土文献站（宗教传承性网络转录，非学术校本）",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/index.html",
+      "date": null,
+      "locator": "卷上书21-003—21-019",
+      "language_read": "中文",
+      "read_level": "目标17项目录及链接亲读"
+    },
+    {
+      "title": "一函徧復",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-003.html",
+      "date": "1932",
+      "date_type": "题下注民国二十一年",
+      "locator": "续编卷上21-003；网页标纸本始页1，本轮未读纸本",
+      "language_read": "中文",
+      "read_level": "网页正文全文亲读"
+    },
+    {
+      "title": "致郭莊悟居士書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-004.html",
+      "date": "1932",
+      "date_type": "题下注民国二十一年",
+      "locator": "续编卷上21-004；网页标纸本始页10，本轮未读纸本",
+      "language_read": "中文",
+      "read_level": "网页正文全文亲读"
+    }
+  ],
+  "works": [
+    {
+      "title": "一函徧復",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-003.html",
+      "locator": "《文鈔續編》卷上，目录编号21-003",
+      "date": "1932",
+      "date_type": "写信/通函成文年：正文题下注民国二十一年，公历换算；不是网页发布年或首次出版年",
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "中文正文亲读（网页全文），纸本影像未读"
+    },
+    {
+      "title": "致郭莊悟居士書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-004.html",
+      "locator": "《文鈔續編》卷上，目录编号21-004",
+      "date": "1932",
+      "date_type": "写信/通函成文年：正文题下注民国二十一年，公历换算；不是网页发布年或首次出版年",
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "中文正文亲读（网页全文），纸本影像未读"
+    },
+    {
+      "title": "復周孟由問心經色不異空四句書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-005.html",
+      "locator": "《文鈔續編》卷上，目录编号21-005",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    },
+    {
+      "title": "誡吾鄉初發心學佛者書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-006.html",
+      "locator": "《文鈔續編》卷上，目录编号21-006",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    },
+    {
+      "title": "與明本師書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-007.html",
+      "locator": "《文鈔續編》卷上，目录编号21-007",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    },
+    {
+      "title": "復覺明居士書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-008.html",
+      "locator": "《文鈔續編》卷上，目录编号21-008",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    },
+    {
+      "title": "復幻修大師書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-009.html",
+      "locator": "《文鈔續編》卷上，目录编号21-009",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    },
+    {
+      "title": "復雲南王德周居士書［二］",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-010.html",
+      "locator": "《文鈔續編》卷上，目录编号21-010",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "信函组",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    },
+    {
+      "title": "復周頌堯居士書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-011.html",
+      "locator": "《文鈔續編》卷上，目录编号21-011",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    },
+    {
+      "title": "復德暢居士書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-012.html",
+      "locator": "《文鈔續編》卷上，目录编号21-012",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    },
+    {
+      "title": "復許熙唐居士書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-013.html",
+      "locator": "《文鈔續編》卷上，目录编号21-013",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    },
+    {
+      "title": "復廣妙和尚書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-014.html",
+      "locator": "《文鈔續編》卷上，目录编号21-014",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    },
+    {
+      "title": "復楊德觀居士書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-015.html",
+      "locator": "《文鈔續編》卷上，目录编号21-015",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    },
+    {
+      "title": "復吳慧濟居士書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-016.html",
+      "locator": "《文鈔續編》卷上，目录编号21-016",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    },
+    {
+      "title": "復李仲和居士書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-017.html",
+      "locator": "《文鈔續編》卷上，目录编号21-017",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    },
+    {
+      "title": "復王壽彭居士書［二］",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-018.html",
+      "locator": "《文鈔續編》卷上，目录编号21-018",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "信函组",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    },
+    {
+      "title": "復俞慧郁居士書",
+      "url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-019.html",
+      "locator": "《文鈔續編》卷上，目录编号21-019",
+      "date": null,
+      "date_type": null,
+      "language": "中文",
+      "record_type": "书信/通函",
+      "rights": "可公开在线阅读；本轮未核得授予重用、转载或再分发的明确许可，不由可访问推定开放授权。",
+      "access_status": "公开页面可访问；正文动态入口另注",
+      "read_status": "目录标题与超链接已读，正文未读"
+    }
+  ],
+  "quotations": [
+    {
+      "original": "此法門．以信、願、行、三法為宗。",
+      "translation_zh": "这种法门以信心、愿望和实行三者为宗要。",
+      "source_url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-003.html",
+      "locator": "21-003一函徧復，题下注后首段；网页L12",
+      "date_basis": "题下注民国二十一年即1932；非首次刊行年核定",
+      "classification": "本人净土修学规范，网络转录本",
+      "read_scope": "中文网页正文全文，未校纸本"
+    },
+    {
+      "original": "不貴子見地．只貴子行履。",
+      "translation_zh": "看重的不是你的见解高低，而是实际行为。",
+      "source_url": "https://www.pureland.tw/pureland/master13/LearningCenter/WenChao/book21/21-004.html",
+      "locator": "21-004致郭莊悟居士書，正文第二段网页L12；作者在段内引述为训诫，不据此断定该句首创归属",
+      "date_basis": "题下注民国二十一年即1932",
+      "classification": "书信中的修学训诫/转引语；非社会行为统计",
+      "read_scope": "中文网页正文全文，未校纸本"
+    }
+  ],
+  "media": [],
+  "gaps": [
+    "本轮未发现可核存世本人原录；未据后人读诵或纪念片补数。",
+    "17条目录含2个两封合题的信函组；按目录项计17，不拆作19封，更不称17部专著。",
+    "其余15项未逐篇读正文，写作日期未知留null；本轮未完成全卷及正续三编全集目录。",
+    "网络转录可能有异体、标点或录入差异，引用定位用编号和段落；纸本页仅转录站提供，未核原图。"
+  ],
+  "coverage_count_basis": {
+    "catalogue_records": 17,
+    "letter_group_records": 2,
+    "full_web_texts_read": 2,
+    "quotations": 2,
+    "authenticated_media": 0,
+    "complete_within": "21-003—21-019连续目录项",
+    "not_complete": "全卷及全部印光文钞"
+  },
+  "region": "中国",
+  "tradition_context": "汉传净土"
+}

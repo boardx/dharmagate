@@ -1,0 +1,488 @@
+{
+  "edition": "E01",
+  "type": "编辑清理，非研究重做",
+  "research_rounds": 10,
+  "issues": 100,
+  "source_record_count": 156,
+  "distinct_url_count": 152,
+  "version_hash_comparison": [
+    {
+      "version": "R00",
+      "research_original_sha256": "fc7b3f50e988b6c9722cb4b7fd18000982a11f791822168c2a1cba4d7321b9ef",
+      "editorial_copy_sha256": "7fcf0798fbf4dc67cd57892f5404dea665d8318c5ad67cc9d048842c09c10428",
+      "editorial_copy_filename": "outline_R00_E01.txt"
+    },
+    {
+      "version": "R01",
+      "research_original_sha256": "5633606f2d623257c03340bb2057c56f01069d1ce0ada24080861766b00d623c",
+      "editorial_copy_sha256": "7a7957feb999f563de3b881fdf86cc63fa8ca56f482537ee85591c003e57f409",
+      "editorial_copy_filename": "outline_R01_E01.txt"
+    },
+    {
+      "version": "R02",
+      "research_original_sha256": "eb911398e8be92f7603a9f365752209ec9475bdaac15c6be392aa2334bfc92aa",
+      "editorial_copy_sha256": "60760b1e69954d097a22947bb5bd18965ea163ea9d9542bb9c88accb7536dd2e",
+      "editorial_copy_filename": "outline_R02_E01.txt"
+    },
+    {
+      "version": "R03",
+      "research_original_sha256": "0fb913e710e79c25b20dcbc072c30d3ba5bbf004e630a4745dc9bcea94f3b9fa",
+      "editorial_copy_sha256": "ac5d96c96284768f5898542b23f7d0b6ad0bbe97de542a25b568436dae6e9044",
+      "editorial_copy_filename": "outline_R03_E01.txt"
+    },
+    {
+      "version": "R04",
+      "research_original_sha256": "bee8738314396a7bb226c7d4fab9661ab040260ff63d9fc5b9a81b0353f42897",
+      "editorial_copy_sha256": "67600cda3c1725da1871e75e47cfefca3f0f0c9551a30f694feaa68761cad58c",
+      "editorial_copy_filename": "outline_R04_E01.txt"
+    },
+    {
+      "version": "R05",
+      "research_original_sha256": "36d08962a41127a2901f57f1fbeb7858037a2082f9655e9dd8aa3555466ccdb1",
+      "editorial_copy_sha256": "99dc5a5a246fa873b4b192e0ec93fdce28b0572b0087b643455da7734c13337c",
+      "editorial_copy_filename": "outline_R05_E01.txt"
+    },
+    {
+      "version": "R06",
+      "research_original_sha256": "27a08a0dc6f47ff4da621ac0cf98dd74c8521e512a9f3e17edc429dcc61d140d",
+      "editorial_copy_sha256": "ab4de8a6565fc58e1f2cc7180651722e16e72197cdb8051f380cfbebe3e298f8",
+      "editorial_copy_filename": "outline_R06_E01.txt"
+    },
+    {
+      "version": "R07",
+      "research_original_sha256": "42989b2614cb4028ee28ac5754ee3061a7a0d9712227c45d0a402ff1b373f0d0",
+      "editorial_copy_sha256": "e91d856ae60a3f2e3c026f24b6aec61bcaa0f2947f9e80abe92d6221c11765c7",
+      "editorial_copy_filename": "outline_R07_E01.txt"
+    },
+    {
+      "version": "R08",
+      "research_original_sha256": "9581e7afdeb1def3dec46dad10c29bb0a6612e0fe109169cfa5c91bf428656a4",
+      "editorial_copy_sha256": "90513de3d77d5b103fb7197f2405f98fbaa888638a6524d894b9f5b70542b23b",
+      "editorial_copy_filename": "outline_R08_E01.txt"
+    },
+    {
+      "version": "R09",
+      "research_original_sha256": "60bc9ba46020a1a1dc17aa3334693146d0397b89915e952dd46f5b26c9db5d6c",
+      "editorial_copy_sha256": "b683bc83cfa93b0c1705cf03e9e9f7eff225c29a2ee940820af8ffd3b122632e",
+      "editorial_copy_filename": "outline_R09_E01.txt"
+    },
+    {
+      "version": "R10",
+      "research_original_sha256": "57ab26cb037711c656f3486a58c0802576515ba7ed2dc04c95db7a7375de7ad1",
+      "editorial_copy_sha256": "18e577fd73f72571ec2869e0ea5022ab67dd786444e0522777e1fe9b008328bf",
+      "editorial_copy_filename": "outline_R10_E01.txt"
+    }
+  ],
+  "research_original_manifests": [
+    {
+      "round": "R01",
+      "input_version": "R00",
+      "input_sha256": "fc7b3f50e988b6c9722cb4b7fd18000982a11f791822168c2a1cba4d7321b9ef",
+      "output_sha256": "5633606f2d623257c03340bb2057c56f01069d1ce0ada24080861766b00d623c",
+      "issue_count": 10,
+      "cumulative_issues": 10,
+      "sources_deduplicated": 16,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "previous version exists; exactly 10 accepted issues; current text materialized before next round"
+    },
+    {
+      "round": "R02",
+      "input_version": "R01",
+      "input_sha256": "5633606f2d623257c03340bb2057c56f01069d1ce0ada24080861766b00d623c",
+      "output_sha256": "eb911398e8be92f7603a9f365752209ec9475bdaac15c6be392aa2334bfc92aa",
+      "issue_count": 10,
+      "cumulative_issues": 20,
+      "sources_deduplicated": 32,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "previous version exists; exactly 10 accepted issues; current text materialized before next round"
+    },
+    {
+      "round": "R03",
+      "input_version": "R02",
+      "input_sha256": "eb911398e8be92f7603a9f365752209ec9475bdaac15c6be392aa2334bfc92aa",
+      "output_sha256": "0fb913e710e79c25b20dcbc072c30d3ba5bbf004e630a4745dc9bcea94f3b9fa",
+      "issue_count": 10,
+      "cumulative_issues": 30,
+      "sources_deduplicated": 48,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "previous version exists; exactly 10 accepted issues; current text materialized before next round"
+    },
+    {
+      "round": "R04",
+      "input_version": "R03",
+      "input_sha256": "0fb913e710e79c25b20dcbc072c30d3ba5bbf004e630a4745dc9bcea94f3b9fa",
+      "output_sha256": "bee8738314396a7bb226c7d4fab9661ab040260ff63d9fc5b9a81b0353f42897",
+      "issue_count": 10,
+      "cumulative_issues": 40,
+      "sources_deduplicated": 65,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "previous version exists; exactly 10 accepted issues; current text materialized before next round"
+    },
+    {
+      "round": "R05",
+      "input_version": "R04",
+      "input_sha256": "bee8738314396a7bb226c7d4fab9661ab040260ff63d9fc5b9a81b0353f42897",
+      "output_sha256": "36d08962a41127a2901f57f1fbeb7858037a2082f9655e9dd8aa3555466ccdb1",
+      "issue_count": 10,
+      "cumulative_issues": 50,
+      "sources_deduplicated": 78,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "previous version exists; exactly 10 accepted issues; current text materialized before next round"
+    },
+    {
+      "round": "R06",
+      "input_version": "R05",
+      "input_sha256": "36d08962a41127a2901f57f1fbeb7858037a2082f9655e9dd8aa3555466ccdb1",
+      "output_sha256": "27a08a0dc6f47ff4da621ac0cf98dd74c8521e512a9f3e17edc429dcc61d140d",
+      "issue_count": 10,
+      "cumulative_issues": 60,
+      "sources_deduplicated": 95,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "previous version exists; exactly 10 accepted issues; current text materialized before next round"
+    },
+    {
+      "round": "R07",
+      "input_version": "R06",
+      "input_sha256": "27a08a0dc6f47ff4da621ac0cf98dd74c8521e512a9f3e17edc429dcc61d140d",
+      "output_sha256": "42989b2614cb4028ee28ac5754ee3061a7a0d9712227c45d0a402ff1b373f0d0",
+      "issue_count": 10,
+      "cumulative_issues": 70,
+      "sources_deduplicated": 112,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "previous version exists; exactly 10 accepted issues; current text materialized before next round"
+    },
+    {
+      "round": "R08",
+      "input_version": "R07",
+      "input_sha256": "42989b2614cb4028ee28ac5754ee3061a7a0d9712227c45d0a402ff1b373f0d0",
+      "output_sha256": "9581e7afdeb1def3dec46dad10c29bb0a6612e0fe109169cfa5c91bf428656a4",
+      "issue_count": 10,
+      "cumulative_issues": 80,
+      "sources_deduplicated": 128,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "previous version exists; exactly 10 accepted issues; current text materialized before next round"
+    },
+    {
+      "round": "R09",
+      "input_version": "R08",
+      "input_sha256": "9581e7afdeb1def3dec46dad10c29bb0a6612e0fe109169cfa5c91bf428656a4",
+      "output_sha256": "60bc9ba46020a1a1dc17aa3334693146d0397b89915e952dd46f5b26c9db5d6c",
+      "issue_count": 10,
+      "cumulative_issues": 90,
+      "sources_deduplicated": 144,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "previous version exists; exactly 10 accepted issues; current text materialized before next round"
+    },
+    {
+      "round": "R10",
+      "input_version": "R09",
+      "input_sha256": "60bc9ba46020a1a1dc17aa3334693146d0397b89915e952dd46f5b26c9db5d6c",
+      "output_sha256": "57ab26cb037711c656f3486a58c0802576515ba7ed2dc04c95db7a7375de7ad1",
+      "issue_count": 10,
+      "cumulative_issues": 100,
+      "sources_deduplicated": 156,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "previous version exists; exactly 10 accepted issues; current text materialized before next round"
+    }
+  ],
+  "editorial_copy_manifests": [
+    {
+      "round": "R01",
+      "input_version": "R00",
+      "input_sha256": "7fcf0798fbf4dc67cd57892f5404dea665d8318c5ad67cc9d048842c09c10428",
+      "output_sha256": "7a7957feb999f563de3b881fdf86cc63fa8ca56f482537ee85591c003e57f409",
+      "issue_count": 10,
+      "cumulative_issues": 10,
+      "sources_deduplicated": 16,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "清理副本输入/输出已重新计算；原研究哈希另列，研究仍为十轮每轮十题",
+      "research_original_input_sha256": "fc7b3f50e988b6c9722cb4b7fd18000982a11f791822168c2a1cba4d7321b9ef",
+      "research_original_output_sha256": "5633606f2d623257c03340bb2057c56f01069d1ce0ada24080861766b00d623c",
+      "edition": "E01：编辑清理副本，非新增研究轮次"
+    },
+    {
+      "round": "R02",
+      "input_version": "R01",
+      "input_sha256": "7a7957feb999f563de3b881fdf86cc63fa8ca56f482537ee85591c003e57f409",
+      "output_sha256": "60760b1e69954d097a22947bb5bd18965ea163ea9d9542bb9c88accb7536dd2e",
+      "issue_count": 10,
+      "cumulative_issues": 20,
+      "sources_deduplicated": 32,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "清理副本输入/输出已重新计算；原研究哈希另列，研究仍为十轮每轮十题",
+      "research_original_input_sha256": "5633606f2d623257c03340bb2057c56f01069d1ce0ada24080861766b00d623c",
+      "research_original_output_sha256": "eb911398e8be92f7603a9f365752209ec9475bdaac15c6be392aa2334bfc92aa",
+      "edition": "E01：编辑清理副本，非新增研究轮次"
+    },
+    {
+      "round": "R03",
+      "input_version": "R02",
+      "input_sha256": "60760b1e69954d097a22947bb5bd18965ea163ea9d9542bb9c88accb7536dd2e",
+      "output_sha256": "ac5d96c96284768f5898542b23f7d0b6ad0bbe97de542a25b568436dae6e9044",
+      "issue_count": 10,
+      "cumulative_issues": 30,
+      "sources_deduplicated": 48,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "清理副本输入/输出已重新计算；原研究哈希另列，研究仍为十轮每轮十题",
+      "research_original_input_sha256": "eb911398e8be92f7603a9f365752209ec9475bdaac15c6be392aa2334bfc92aa",
+      "research_original_output_sha256": "0fb913e710e79c25b20dcbc072c30d3ba5bbf004e630a4745dc9bcea94f3b9fa",
+      "edition": "E01：编辑清理副本，非新增研究轮次"
+    },
+    {
+      "round": "R04",
+      "input_version": "R03",
+      "input_sha256": "ac5d96c96284768f5898542b23f7d0b6ad0bbe97de542a25b568436dae6e9044",
+      "output_sha256": "67600cda3c1725da1871e75e47cfefca3f0f0c9551a30f694feaa68761cad58c",
+      "issue_count": 10,
+      "cumulative_issues": 40,
+      "sources_deduplicated": 65,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "清理副本输入/输出已重新计算；原研究哈希另列，研究仍为十轮每轮十题",
+      "research_original_input_sha256": "0fb913e710e79c25b20dcbc072c30d3ba5bbf004e630a4745dc9bcea94f3b9fa",
+      "research_original_output_sha256": "bee8738314396a7bb226c7d4fab9661ab040260ff63d9fc5b9a81b0353f42897",
+      "edition": "E01：编辑清理副本，非新增研究轮次"
+    },
+    {
+      "round": "R05",
+      "input_version": "R04",
+      "input_sha256": "67600cda3c1725da1871e75e47cfefca3f0f0c9551a30f694feaa68761cad58c",
+      "output_sha256": "99dc5a5a246fa873b4b192e0ec93fdce28b0572b0087b643455da7734c13337c",
+      "issue_count": 10,
+      "cumulative_issues": 50,
+      "sources_deduplicated": 78,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "清理副本输入/输出已重新计算；原研究哈希另列，研究仍为十轮每轮十题",
+      "research_original_input_sha256": "bee8738314396a7bb226c7d4fab9661ab040260ff63d9fc5b9a81b0353f42897",
+      "research_original_output_sha256": "36d08962a41127a2901f57f1fbeb7858037a2082f9655e9dd8aa3555466ccdb1",
+      "edition": "E01：编辑清理副本，非新增研究轮次"
+    },
+    {
+      "round": "R06",
+      "input_version": "R05",
+      "input_sha256": "99dc5a5a246fa873b4b192e0ec93fdce28b0572b0087b643455da7734c13337c",
+      "output_sha256": "ab4de8a6565fc58e1f2cc7180651722e16e72197cdb8051f380cfbebe3e298f8",
+      "issue_count": 10,
+      "cumulative_issues": 60,
+      "sources_deduplicated": 95,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "清理副本输入/输出已重新计算；原研究哈希另列，研究仍为十轮每轮十题",
+      "research_original_input_sha256": "36d08962a41127a2901f57f1fbeb7858037a2082f9655e9dd8aa3555466ccdb1",
+      "research_original_output_sha256": "27a08a0dc6f47ff4da621ac0cf98dd74c8521e512a9f3e17edc429dcc61d140d",
+      "edition": "E01：编辑清理副本，非新增研究轮次"
+    },
+    {
+      "round": "R07",
+      "input_version": "R06",
+      "input_sha256": "ab4de8a6565fc58e1f2cc7180651722e16e72197cdb8051f380cfbebe3e298f8",
+      "output_sha256": "e91d856ae60a3f2e3c026f24b6aec61bcaa0f2947f9e80abe92d6221c11765c7",
+      "issue_count": 10,
+      "cumulative_issues": 70,
+      "sources_deduplicated": 112,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "清理副本输入/输出已重新计算；原研究哈希另列，研究仍为十轮每轮十题",
+      "research_original_input_sha256": "27a08a0dc6f47ff4da621ac0cf98dd74c8521e512a9f3e17edc429dcc61d140d",
+      "research_original_output_sha256": "42989b2614cb4028ee28ac5754ee3061a7a0d9712227c45d0a402ff1b373f0d0",
+      "edition": "E01：编辑清理副本，非新增研究轮次"
+    },
+    {
+      "round": "R08",
+      "input_version": "R07",
+      "input_sha256": "e91d856ae60a3f2e3c026f24b6aec61bcaa0f2947f9e80abe92d6221c11765c7",
+      "output_sha256": "90513de3d77d5b103fb7197f2405f98fbaa888638a6524d894b9f5b70542b23b",
+      "issue_count": 10,
+      "cumulative_issues": 80,
+      "sources_deduplicated": 128,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "清理副本输入/输出已重新计算；原研究哈希另列，研究仍为十轮每轮十题",
+      "research_original_input_sha256": "42989b2614cb4028ee28ac5754ee3061a7a0d9712227c45d0a402ff1b373f0d0",
+      "research_original_output_sha256": "9581e7afdeb1def3dec46dad10c29bb0a6612e0fe109169cfa5c91bf428656a4",
+      "edition": "E01：编辑清理副本，非新增研究轮次"
+    },
+    {
+      "round": "R09",
+      "input_version": "R08",
+      "input_sha256": "90513de3d77d5b103fb7197f2405f98fbaa888638a6524d894b9f5b70542b23b",
+      "output_sha256": "b683bc83cfa93b0c1705cf03e9e9f7eff225c29a2ee940820af8ffd3b122632e",
+      "issue_count": 10,
+      "cumulative_issues": 90,
+      "sources_deduplicated": 144,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "清理副本输入/输出已重新计算；原研究哈希另列，研究仍为十轮每轮十题",
+      "research_original_input_sha256": "9581e7afdeb1def3dec46dad10c29bb0a6612e0fe109169cfa5c91bf428656a4",
+      "research_original_output_sha256": "60bc9ba46020a1a1dc17aa3334693146d0397b89915e952dd46f5b26c9db5d6c",
+      "edition": "E01：编辑清理副本，非新增研究轮次"
+    },
+    {
+      "round": "R10",
+      "input_version": "R09",
+      "input_sha256": "b683bc83cfa93b0c1705cf03e9e9f7eff225c29a2ee940820af8ffd3b122632e",
+      "output_sha256": "18e577fd73f72571ec2869e0ea5022ab67dd786444e0522777e1fe9b008328bf",
+      "issue_count": 10,
+      "cumulative_issues": 100,
+      "sources_deduplicated": 156,
+      "source_read_date": "2026-10-18",
+      "sequential_validation": "清理副本输入/输出已重新计算；原研究哈希另列，研究仍为十轮每轮十题",
+      "research_original_input_sha256": "60bc9ba46020a1a1dc17aa3334693146d0397b89915e952dd46f5b26c9db5d6c",
+      "research_original_output_sha256": "57ab26cb037711c656f3486a58c0802576515ba7ed2dc04c95db7a7375de7ad1",
+      "edition": "E01：编辑清理副本，非新增研究轮次"
+    }
+  ],
+  "duplicate_url_groups": [
+    {
+      "canonical_url_id": "U-594ca9529fc9",
+      "url": "https://accesstoinsight.org/lib/authors/dhammika/wheel386.html",
+      "record_ids": [
+        "S-80a5da5bffd9",
+        "S-93605aa6c60f"
+      ],
+      "titles": [
+        "The Edicts of King Asoka, Wheel Publication 386/387",
+        "The Edicts of King Asoka（Wheel 386/387）"
+      ],
+      "used_in": [
+        "R01-Q08",
+        "R02-Q08",
+        "R10-Q03"
+      ],
+      "reading_by_record": {
+        "S-80a5da5bffd9": "英语译文与译者注；未读普拉克里特原文、婆罗米摹本或拓片；English；实际读取§2、§13全文及相关注释、序言；不是完整语文学对勘；同时代碑铭的现代英译；铭刻文本层与现代地名注释层分开；古代铭文现代英译直接读；未读婆罗米原铭、普拉克里特转写或拓片",
+        "S-93605aa6c60f": "英语译文及英语译注；未读普拉克里特原文或婆罗米摹本；实际读取以上三种诏文及相关译注；重读序言翻译方法；未校原拓片；原碑铭的现代英译；译者的分类、括号补文、经名比定与铭文正文分开"
+      },
+      "locations_by_record": {
+        "S-80a5da5bffd9": {
+          "R01-Q08": {
+            "locator": "The Fourteen Rock Edicts §2（Girnar版；注2、3），§13（Kalsi版；注25、28）；Preface解释译本依Sen/Sircar/Bhandarkar",
+            "reading": "实际读取§2、§13全文及相关注释、序言；不是完整语文学对勘"
+          },
+          "R10-Q03": {
+            "locator": "The Minor Pillar Edicts §1及注44；Preface说明所据Sen、Sircar、Bhandarkar译释",
+            "reading": "古代铭文现代英译直接读；未读婆罗米原铭、普拉克里特转写或拓片"
+          }
+        },
+        "S-93605aa6c60f": {
+          "R02-Q08": {
+            "locator": "The Fourteen Rock Edicts §12及注22（Girnar）；Minor Rock Edicts §3及注36—38（Bairat）；The Minor Pillar Edicts §2及注45—46（Allahabad版；残损补文说明）",
+            "reading": "实际读取以上三种诏文及相关译注；重读序言翻译方法；未校原拓片"
+          }
+        }
+      }
+    },
+    {
+      "canonical_url_id": "U-610b0bedd968",
+      "url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra23/T55n2145.pdf",
+      "record_ids": [
+        "S-8a992cb9f29d",
+        "S-83aeb3baa648"
+      ],
+      "titles": [
+        "出三藏记集",
+        "出三藏记集电子书·编辑说明"
+      ],
+      "used_in": [
+        "R02-Q05",
+        "R02-Q06",
+        "R03-Q06",
+        "R08-Q06"
+      ],
+      "reading_by_record": {
+        "S-8a992cb9f29d": "中文原典；已读两段，序文与传记不同文类；中文原典；已读传记段，事件叙述而非律制规范；未见原契券；中文经录原典指定条及卷首分类实读；以R02下载同URL的原典PDF复核；中文原典；已读两段，序文与传记不同文类；中文原典；已读传记段，事件叙述而非律制规范；未见原契券；中文经录原典指定条及卷首分类实读；以R02下载同URL的原典PDF复核",
+        "S-83aeb3baa648": "中文数字版本原始编辑说明实读；不是底本扫描图像；中文数字版本原始编辑说明实读；不是底本扫描图像"
+      },
+      "locations_by_record": {
+        "S-8a992cb9f29d": {
+          "R02-Q05": {
+            "locator": "卷十〈后出杂心序第十八〉电子PDF页157；卷十四〈僧伽跋摩传第六〉页220–221（页脚标号）",
+            "reading": null
+          },
+          "R02-Q06": {
+            "locator": "卷十四〈僧伽跋摩传第六〉；电子PDF页220（页脚标号）",
+            "reading": null
+          },
+          "R03-Q06": {
+            "locator": "卷四〈新集续撰失译杂经录第一〉中盂兰经一卷条；CBETA电子PDF页脚64，卷首著录原则段",
+            "reading": null
+          }
+        },
+        "S-83aeb3baa648": {
+          "R08-Q06": {
+            "locator": "电子书页脚7“编辑说明”（PDF第8页，零基7）：数据版本、Unicode、组字、悉昙及兰札转写、红字修订说明",
+            "reading": null
+          }
+        }
+      }
+    },
+    {
+      "canonical_url_id": "U-7fd35ed52c1e",
+      "url": "https://adeac.jp/tondabayashi-city/texthtml/d000010/cp000001/ht000522",
+      "record_ids": [
+        "S-0c0f96431d11",
+        "S-96d7d6566f12"
+      ],
+      "titles": [
+        "富田林市史 第一巻（本文編Ⅰ）「仏教の公伝と私伝」",
+        "富田林市史 第一卷（本文编Ⅰ）「仏教の公伝と私伝」"
+      ],
+      "used_in": [
+        "R02-Q10",
+        "R10-Q10"
+      ],
+      "reading_by_record": {
+        "S-0c0f96431d11": "ja（日文地方史数字正文），内含古典引文；未直接核古典写本或校勘本；市政府文化财数字档案所载现代地方史；对《扶桑略记》等为二手引述",
+        "S-96d7d6566f12": "日文原语数字文本；本轮重读首段与同节正文；未取得原书该页扫描；旧来源复核，只用于确认争点措辞；新增学术扫描为前一来源"
+      },
+      "locations_by_record": {
+        "S-0c0f96431d11": {
+          "R02-Q10": {
+            "locator": "数字文本标示原书656–658页，「仏教の公伝と私伝」节；通读该节",
+            "reading": null
+          }
+        },
+        "S-96d7d6566f12": {
+          "R10-Q10": {
+            "locator": "数字正文标原书656–658页，首段",
+            "reading": "本轮重读首段与同节正文；未取得原书该页扫描"
+          }
+        }
+      }
+    },
+    {
+      "canonical_url_id": "U-a226c845d13c",
+      "url": "https://www.library-archives.pref.fukui.lg.jp/fukui/08/2005lec/2005b/2005blec01.html",
+      "record_ids": [
+        "S-43a9c1dd9b95",
+        "S-041a90000589"
+      ],
+      "titles": [
+        "笹岡村利兵衛寺請判之義ニ付三国湊滝谷寺与問答仕候覚",
+        "古文書読解講座（B）-1 HP版 2005年下半期：講座の概要"
+      ],
+      "used_in": [
+        "R06-Q10"
+      ],
+      "reading_by_record": {
+        "S-43a9c1dd9b95": "ja，实读官方近世日文转录，未完成原件草书图像逐字校读；B-1至B-5已读；文书仍有后续页，未读完全文；一手文书的官方转录；非完整图像校勘",
+        "S-041a90000589": "ja，实读日文档案解说；讲座概要全文；同一档案的现代官方解释，不算独立第二份历史见证"
+      },
+      "locations_by_record": {
+        "S-43a9c1dd9b95": {
+          "R06-Q10": {
+            "locator": "机构转录网页B-1正文首二条，B-2第一条，B-4第一条，B-5首二条；对应原件展示图(1)–(6)，不冒称纸本页码",
+            "reading": "B-1至B-5已读；文书仍有后续页，未读完全文"
+          }
+        },
+        "S-041a90000589": {
+          "R06-Q10": {
+            "locator": "「講座の概要」介绍次郎左卫门、八月组头汇册及寺判的三段；无纸本页码",
+            "reading": "讲座概要全文"
+          }
+        }
+      }
+    }
+  ],
+  "_publication": {
+    "prepared": "2026-10-19",
+    "original_hash_scope": "原交付清单内哈希指恢复原件，不是隐私清理后公开文件；当前文件哈希见仓库manifest.json。",
+    "rights_scope": "早期权利评估保留其原日期；本次可分发附件及条件以rights/为准。",
+    "research_status": "未增加研究范围、未听校录音；来源元数据不代表已下载或通读。"
+  }
+}

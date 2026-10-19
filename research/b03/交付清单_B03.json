@@ -1,0 +1,107 @@
+{
+  "batch": "B03",
+  "revision": "layout-C1",
+  "counts": {
+    "people": 10,
+    "catalogue_records": 126,
+    "quotations": 15,
+    "media": 7,
+    "resource_categories": 20
+  },
+  "pdf_pages": 75,
+  "visual_checked_pages": [
+    1,
+    3,
+    38,
+    75
+  ],
+  "media_downloads": 0,
+  "files": [
+    {
+      "name": "P-B02-11_太虚.txt",
+      "bytes": 10299,
+      "sha256": "3bd09a18dc021b90546a14bf8dffe95a8bca33d55d71ae65a164f851bcad0ce8"
+    },
+    {
+      "name": "P-B02-12_印光.txt",
+      "bytes": 14537,
+      "sha256": "3195128071ff19729635c43fb42af8c43c3531d11354b1bc99cef1c921d61b50"
+    },
+    {
+      "name": "P-B02-13_弘一.txt",
+      "bytes": 8142,
+      "sha256": "c2fdd5ae4590741a8260b4f45515c10506375f72fc378d030c81afec22c527f7"
+    },
+    {
+      "name": "P-B02-14_印順.txt",
+      "bytes": 11883,
+      "sha256": "31f644719542b4f04dd4529f8068c543ce5eed553f616d94299f5a4d1578b6c4"
+    },
+    {
+      "name": "P-B02-15_金子大荣.txt",
+      "bytes": 22689,
+      "sha256": "523b867de2bd97dab799cab2ec057fc19d4506d95b0a40124ed0295804ed3b64"
+    },
+    {
+      "name": "P-B02-16_池田大作.txt",
+      "bytes": 14677,
+      "sha256": "e767b8e3d6ff8a3a52c9f6ed6ce9e015bf4cfe1553ff406eae2db9e2d716ca0c"
+    },
+    {
+      "name": "P-B02-17_少太山朴重彬.txt",
+      "bytes": 12849,
+      "sha256": "be6809c9253ba69700956473daa9089f06574d955d2009a44615e6cacd6a5a7c"
+    },
+    {
+      "name": "P-B02-18_瓦尔波拉·罗睺罗.txt",
+      "bytes": 14682,
+      "sha256": "fb9f2913fcdee02f292123155cdbcbf7ebc43800464cb9a6c7eee82d96359fd8"
+    },
+    {
+      "name": "P-B02-19_马哈希西亚多.txt",
+      "bytes": 20082,
+      "sha256": "f3883e34e8dc8ce5f7b0fd665e53b3d537ce3cd33bf114afbd7c833658935fb2"
+    },
+    {
+      "name": "P-B02-20_艾雅凯玛.txt",
+      "bytes": 19733,
+      "sha256": "efed1179f13b9056cbc3af4a465ea9b9730e48356444ee13e34338f398db4b1b"
+    },
+    {
+      "name": "全局人物注册表_20人.json",
+      "bytes": 8344,
+      "sha256": "141688b29d2d49e45f103df54f2221433420add41bc4359c44f292d8a570d387"
+    },
+    {
+      "name": "本批人物与视觉核验_B03.md",
+      "bytes": 1903,
+      "sha256": "02d06f9ea22ff9ad4307d38cc66daea5addc8ecfb4e888b517a34750a7e843e5"
+    },
+    {
+      "name": "近现代佛教第二批10人目录_B03.docx",
+      "bytes": 74431,
+      "sha256": "8a81338547946adb3400094ee04f9ea33d7e4c50932b8fbf11e8c13b3ae9ad4e"
+    },
+    {
+      "name": "近现代佛教第二批10人目录_B03.json",
+      "bytes": 266435,
+      "sha256": "d64c830afc355cbe7f69f666985eedf4f9b99368cc76c77d18aa723bbe33faf7"
+    },
+    {
+      "name": "近现代佛教第二批10人目录_B03.pdf",
+      "bytes": 1622150,
+      "sha256": "6c05d9b51e85cd1a780c1ab2d7392664c240731095c8c201f4d31f4034cd1084"
+    },
+    {
+      "name": "近现代佛教第二批10人目录_B03.xlsx",
+      "bytes": 69646,
+      "sha256": "f61c35932fc2f971c1d8c3452bee97a96480b704a3361255d58916a6dbf143bb"
+    }
+  ],
+  "_publication": {
+    "prepared": "2026-10-19",
+    "original_hash_scope": "原交付清单内哈希指恢复原件，不是隐私清理后公开文件；当前文件哈希见仓库manifest.json。",
+    "rights_scope": "早期权利评估保留其原日期；本次可分发附件及条件以rights/为准。",
+    "research_status": "未增加研究范围、未听校录音；来源元数据不代表已下载或通读。"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asset_name": "dharmagate-audio-2025-01.zip",
+  "bytes": 129003343,
+  "sha256": "3c166d5ae5c1c5f1d994f7f73ed0069dff482ba119bdc2559d8be4ed71d716af",
+  "audio_file_count": 18,
+  "archive_member_count": 20,
+  "proposed_tag": "research-archive-2026-10-19",
+  "planned_url": "https://github.com/boardx/dharmagate/releases/download/research-archive-2026-10-19/dharmagate-audio-2025-01.zip",
+  "release_created": false,
+  "license": "CC-BY-NC-4.0 with attribution/noncommercial/source conditions"
+}

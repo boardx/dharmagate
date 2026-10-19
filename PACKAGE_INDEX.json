@@ -1,0 +1,502 @@
+{
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 108,
+      "sha256": "1ebed4a6a581e7c2bda32a7632671422d7fee392f9183ce87c90529380230538"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 161,
+      "sha256": "8fee15b78e54c5f3fd53931182e863a187862b7e1832a46ab3d44bfbdce9c0d1"
+    },
+    {
+      "path": "COPYRIGHT.md",
+      "bytes": 1615,
+      "sha256": "2784a030668c58cf9321b6457f1aa7730256e60c4e1b45f4b7e755ed332d700a"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "path": "PUBLICATION_CHANGES.md",
+      "bytes": 845,
+      "sha256": "4725c7a56209d21f98cd9fc8ee90e32a2fe0dbc367d11c2f52e9f5b26623b707"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2987,
+      "sha256": "2d5b2686b8656ae5dc7f1f1a05fee8ca388460bf45919fbefdd496878e10a785"
+    },
+    {
+      "path": "STORAGE_PLAN.md",
+      "bytes": 1162,
+      "sha256": "0543767e5a00e9746a44a6f78b289ffa26cfd9ee9c34d66c2a1e201f97e41b59"
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 87448,
+      "sha256": "f78e4d1a42bbba3867b29d38e58ecc32c400c8ac3f323ce793afbcfcb9ac51c7"
+    },
+    {
+      "path": "release-assets.json",
+      "bytes": 495,
+      "sha256": "8868d4111d348cda7c474566b4fa97f0dc75123c79157e42823fbe8ab574dc6c"
+    },
+    {
+      "path": "research/b02/attachment_provenance/AUDIO_DOWNLOAD_MANIFEST.json",
+      "bytes": 19807,
+      "sha256": "ba82e02073ecdf06a17f991e34d9ea4933c68ea9a20dfe2466c2155542e13094"
+    },
+    {
+      "path": "research/b02/attachment_provenance/AUDIO_DOWNLOAD_PROVENANCE.json",
+      "bytes": 1501,
+      "sha256": "e00428f04ee42761ae9bb50102c6bb88b6b9576f302ff7db82a4e032bc09a7f7"
+    },
+    {
+      "path": "research/b02/attachment_provenance/LICENSE_AND_PROVENANCE.json",
+      "bytes": 1437,
+      "sha256": "826d4d052db3ef97861a2d136005ef7f12fab1c8560ea7b9e1a4389c223f640f"
+    },
+    {
+      "path": "research/b02/保存文件说明_B02.txt",
+      "bytes": 647,
+      "sha256": "ab060df2a0d051698706b788a393db203fd520c71cd18e4fb9f9c40d11e563c5"
+    },
+    {
+      "path": "research/b02/批次统计_B02.json",
+      "bytes": 1351,
+      "sha256": "dd9d587fa1000929be0c2d5775a6fc94665ce38bc2772f8e8b34630393f2ac00"
+    },
+    {
+      "path": "research/b02/文件校验清单_B02.json",
+      "bytes": 11200,
+      "sha256": "7d3d64300e335ae932d6aa2cb879e01130075d9e18026a5fbd27a9e5fd9581e5"
+    },
+    {
+      "path": "research/b02/近现代佛教10人目录_B02.json",
+      "bytes": 2013092,
+      "sha256": "2a1a2fc25a13ee79644c18a503c7703ca5717542da55b111d12d51a4cb0ff1b4"
+    },
+    {
+      "path": "research/b02/近现代佛教10人目录_阅读说明_B02.docx",
+      "bytes": 46911,
+      "sha256": "e5e4712b3f89db2169ee547b98785b2b2e98be393459355d199793224c330b9d"
+    },
+    {
+      "path": "research/b02/近现代佛教10人目录_阅读说明_B02.pdf",
+      "bytes": 374191,
+      "sha256": "416a8d6298cdd8aad2a7d885eaeff52dbc98b8f4dc6f4f2b6a73636c7433b361"
+    },
+    {
+      "path": "research/b02/近现代佛教10人目录_阅读说明_B02.txt",
+      "bytes": 18547,
+      "sha256": "0fabadbfc31c3138c51561bb81143a0dacdb2f8b3566ffa82a1a89917f62fc34"
+    },
+    {
+      "path": "research/b02/近现代佛教10人目录与缺口_B02.xlsx",
+      "bytes": 166339,
+      "sha256": "cdaf810f09a5243e552200f322424050bb3d0654f8168d18ce6ec5e34b1e38a5"
+    },
+    {
+      "path": "research/b02/逐人目录/P-B02-01_圣严.txt",
+      "bytes": 61680,
+      "sha256": "282056eee572fef6acda70bbc21c79e9f45d798c0f54a0247cdd464ba42b2357"
+    },
+    {
+      "path": "research/b02/逐人目录/P-B02-02_星云.txt",
+      "bytes": 65066,
+      "sha256": "f018d832ae78b400934ac1ec161b8fd8e4e30ba7c367fa9df276e4f8423cdf90"
+    },
+    {
+      "path": "research/b02/逐人目录/P-B02-03_一行.txt",
+      "bytes": 34083,
+      "sha256": "32d8c66eb9b82a603cd96b2a15a796b0df56f137fd5ed79fee8398b5ee54bfa6"
+    },
+    {
+      "path": "research/b02/逐人目录/P-B02-04_第十四世达赖喇嘛.txt",
+      "bytes": 86141,
+      "sha256": "dd97fc433d4ae8acfdc8441263f05c8377564c82df0c1183ce9677a4b4a8f585"
+    },
+    {
+      "path": "research/b02/逐人目录/P-B02-05_杰尊玛丹津葩默.txt",
+      "bytes": 46836,
+      "sha256": "50c3719d7771f98773badabeb6e7a69f789560368cf47c8560370600fae47470"
+    },
+    {
+      "path": "research/b02/逐人目录/P-B02-06_阿姜查.txt",
+      "bytes": 33756,
+      "sha256": "af24715213510bb16e4caaf3bfb352509c73d26453ac464f7a5903a2e52910be"
+    },
+    {
+      "path": "research/b02/逐人目录/P-B02-07_佛使.txt",
+      "bytes": 7310,
+      "sha256": "c4324316d7a56d5893f26307174cdb18a13e9a1ba5e3e96b23ed8bb72a08e8af"
+    },
+    {
+      "path": "research/b02/逐人目录/P-B02-08_坦尼沙罗.txt",
+      "bytes": 78048,
+      "sha256": "ee89679380e2dc3199466319b2fbd02cecc122af00b2a40129b94185568eec4b"
+    },
+    {
+      "path": "research/b02/逐人目录/P-B02-09_铃木俊隆.txt",
+      "bytes": 11353,
+      "sha256": "a7f841a0e00ef6eb2a4b099641f10e7a56ffa5318166a8bdb5aa1b05155205b6"
+    },
+    {
+      "path": "research/b02/逐人目录/P-B02-10_大行.txt",
+      "bytes": 41529,
+      "sha256": "1261e595399fd4a7881c4072d2f60f61aac0d7906c17b5883a6bfdcdb13fa62d"
+    },
+    {
+      "path": "research/b02/首批复核与缺口_B02-C1.json",
+      "bytes": 189343,
+      "sha256": "689876efe8ba453e9db236ae5d6290b297f87683b8c822fd103ec18b37ab808d"
+    },
+    {
+      "path": "research/b03/P-B02-11_太虚.txt",
+      "bytes": 10299,
+      "sha256": "3bd09a18dc021b90546a14bf8dffe95a8bca33d55d71ae65a164f851bcad0ce8"
+    },
+    {
+      "path": "research/b03/P-B02-12_印光.txt",
+      "bytes": 14537,
+      "sha256": "3195128071ff19729635c43fb42af8c43c3531d11354b1bc99cef1c921d61b50"
+    },
+    {
+      "path": "research/b03/P-B02-13_弘一.txt",
+      "bytes": 8142,
+      "sha256": "c2fdd5ae4590741a8260b4f45515c10506375f72fc378d030c81afec22c527f7"
+    },
+    {
+      "path": "research/b03/P-B02-14_印順.txt",
+      "bytes": 11883,
+      "sha256": "31f644719542b4f04dd4529f8068c543ce5eed553f616d94299f5a4d1578b6c4"
+    },
+    {
+      "path": "research/b03/P-B02-15_金子大荣.txt",
+      "bytes": 22689,
+      "sha256": "523b867de2bd97dab799cab2ec057fc19d4506d95b0a40124ed0295804ed3b64"
+    },
+    {
+      "path": "research/b03/P-B02-16_池田大作.txt",
+      "bytes": 14677,
+      "sha256": "e767b8e3d6ff8a3a52c9f6ed6ce9e015bf4cfe1553ff406eae2db9e2d716ca0c"
+    },
+    {
+      "path": "research/b03/P-B02-17_少太山朴重彬.txt",
+      "bytes": 12849,
+      "sha256": "be6809c9253ba69700956473daa9089f06574d955d2009a44615e6cacd6a5a7c"
+    },
+    {
+      "path": "research/b03/P-B02-18_瓦尔波拉·罗睺罗.txt",
+      "bytes": 14682,
+      "sha256": "fb9f2913fcdee02f292123155cdbcbf7ebc43800464cb9a6c7eee82d96359fd8"
+    },
+    {
+      "path": "research/b03/P-B02-19_马哈希西亚多.txt",
+      "bytes": 20082,
+      "sha256": "f3883e34e8dc8ce5f7b0fd665e53b3d537ce3cd33bf114afbd7c833658935fb2"
+    },
+    {
+      "path": "research/b03/P-B02-20_艾雅凯玛.txt",
+      "bytes": 19733,
+      "sha256": "efed1179f13b9056cbc3af4a465ea9b9730e48356444ee13e34338f398db4b1b"
+    },
+    {
+      "path": "research/b03/交付清单_B03.json",
+      "bytes": 3402,
+      "sha256": "34df1ad33084eb50dbc1591042027a33dce687097ae35f523a2b8e05ebb9baea"
+    },
+    {
+      "path": "research/b03/全局人物注册表_20人.json",
+      "bytes": 8776,
+      "sha256": "f718bb355e1ee0a66cd2307bc1fde76597825afbe28c6bf15e64f2d14e6d5856"
+    },
+    {
+      "path": "research/b03/本批人物与视觉核验_B03.md",
+      "bytes": 1903,
+      "sha256": "02d06f9ea22ff9ad4307d38cc66daea5addc8ecfb4e888b517a34750a7e843e5"
+    },
+    {
+      "path": "research/b03/近现代佛教第二批10人目录_B03.docx",
+      "bytes": 74441,
+      "sha256": "b9615095a3733568a967ee2a19ef407d1aa1b309b629b0649a5359aa388a34bd"
+    },
+    {
+      "path": "research/b03/近现代佛教第二批10人目录_B03.json",
+      "bytes": 266867,
+      "sha256": "7fb107c1ddf0fd35e1d6ac8f83a5abd8f92bcb5e4556d9515c8ce98efcda3cae"
+    },
+    {
+      "path": "research/b03/近现代佛教第二批10人目录_B03.pdf",
+      "bytes": 1622150,
+      "sha256": "6c05d9b51e85cd1a780c1ab2d7392664c240731095c8c201f4d31f4034cd1084"
+    },
+    {
+      "path": "research/b03/近现代佛教第二批10人目录_B03.xlsx",
+      "bytes": 69646,
+      "sha256": "f61c35932fc2f971c1d8c3452bee97a96480b704a3361255d58916a6dbf143bb"
+    },
+    {
+      "path": "research/global20/10项原源补核与字段修订_G20-I1.json",
+      "bytes": 382636,
+      "sha256": "065c4cebdd12fe37d195fc644f3e2df04280091f4defbc745b574f8cb68f248a"
+    },
+    {
+      "path": "research/global20/20人全局检索总目录_G20-I1.xlsx",
+      "bytes": 528120,
+      "sha256": "131f5a7563ec32c816abb3fa0b84a8dc6281161919b5f8cd3e3e4b40df976552"
+    },
+    {
+      "path": "research/global20/20人整合说明与采集路线_G20-I1.md",
+      "bytes": 18547,
+      "sha256": "dbe0ddfdc57d910a6485d17b9bfdcb7c9bcdfabc6b7cc4d1657f3c435d96b73f"
+    },
+    {
+      "path": "research/global20/20人现行总目录_G20-I1.json",
+      "bytes": 6316233,
+      "sha256": "1f9fd5bb3bfcbd825485c979f5fba88170d12b641ebac22a18059992139a0183"
+    },
+    {
+      "path": "research/global20/交付校验_G20-I1.json",
+      "bytes": 2397,
+      "sha256": "d98ca03341046317a367f6c4edce24d4862860e398eba0605bd913d5c9ef052c"
+    },
+    {
+      "path": "research/global20/版权页与馆藏责任复核_G20-I2.json",
+      "bytes": 118237,
+      "sha256": "9b1d31a136e9d90e0ccac576dd0017899c85f86f32e7dbeefbf5f2ca4b417d7b"
+    },
+    {
+      "path": "research/global_outline/current/全球佛教总纲_矩阵与修订账.xlsx",
+      "bytes": 410227,
+      "sha256": "d6fbf28fbe3df193c797ba83fd9b396b47698541498afaf76dbf42efbc3079ea"
+    },
+    {
+      "path": "research/global_outline/current/全球佛教研究总纲_现行版.docx",
+      "bytes": 137952,
+      "sha256": "c9fe673cf0f1bf556af171997c98d7dc519cbae3444a9e65115f8a05f46bdf07"
+    },
+    {
+      "path": "research/global_outline/current/全球佛教研究总纲_现行版.pdf",
+      "bytes": 1885840,
+      "sha256": "ab3b85eed378c5fa05c0aeeab232fddd83f243b3428d689142e84050c0b59d37"
+    },
+    {
+      "path": "research/global_outline/current/全球佛教研究总纲_现行版.txt",
+      "bytes": 231089,
+      "sha256": "7973dd20755be98ac6a9ecf56fb7087e4f82c0c434226a951aa2a635d0b5ed0d"
+    },
+    {
+      "path": "research/global_outline/current/十轮修订账_可检索.txt",
+      "bytes": 256947,
+      "sha256": "60b493884e1456605339a56c6c09ccd8b4a432826b2c4472b80f43809fe4d9f3"
+    },
+    {
+      "path": "research/global_outline/current/十轮修订账与来源索引.json",
+      "bytes": 971340,
+      "sha256": "b942d3608ee1acda1314d917bd0926b3a13c6d005c9edf72d70118def55632c1"
+    },
+    {
+      "path": "research/global_outline/current/注释书目与阅读层级.txt",
+      "bytes": 265308,
+      "sha256": "7ad035f45d8b6bdbe051d4f981255658925210999e4b42c177a6a37424a21cf5"
+    },
+    {
+      "path": "research/global_outline/current/版本编辑对照与来源关联.json",
+      "bytes": 24160,
+      "sha256": "78f20e168b3096938011c257106bfa72c7f33ca592c3610a08cd7a08be8b6d4f"
+    },
+    {
+      "path": "research/global_outline/current/阅读说明与覆盖缺口.txt",
+      "bytes": 1810,
+      "sha256": "f2fffc8a41be2e1653dbb7acdc1140269982460d4cf2ca939a1c559550423025"
+    },
+    {
+      "path": "research/global_outline/history/stages/R01_阶段结果.txt",
+      "bytes": 17427,
+      "sha256": "7e6743f5e53832a0974e3f4a656c02bf2e17dfb06f61ab4f7a8f0f9027032321"
+    },
+    {
+      "path": "research/global_outline/history/stages/R02_阶段结果.txt",
+      "bytes": 17047,
+      "sha256": "24a8ba91eccf8978e649e28f112b95f4b8c2e5827fbb7be657f8b3ce51a69007"
+    },
+    {
+      "path": "research/global_outline/history/stages/R03_阶段结果.txt",
+      "bytes": 16407,
+      "sha256": "491e4894a93405ff516a08208f18183d2e5217443b5cc6d83c5a8b4c490252d6"
+    },
+    {
+      "path": "research/global_outline/history/stages/R04_阶段结果.txt",
+      "bytes": 17898,
+      "sha256": "ecd5607fe54893ca9be4cb529519424699d663646dbff2bf94bb8c57795ed195"
+    },
+    {
+      "path": "research/global_outline/history/stages/R05_阶段结果.txt",
+      "bytes": 17977,
+      "sha256": "b1359262afdbc6a6186568d05aa5253059f67301ee178f50dbf83006d2049ab6"
+    },
+    {
+      "path": "research/global_outline/history/stages/R06_阶段结果.txt",
+      "bytes": 16888,
+      "sha256": "3719cd825035d268334c3e437b83638881db420a4ee9aab59e4c7b39e9943597"
+    },
+    {
+      "path": "research/global_outline/history/stages/R07_阶段结果.txt",
+      "bytes": 17381,
+      "sha256": "1143a69c9811302751ee4319b14676939d854785bb7faf0e282cd4c19d53449c"
+    },
+    {
+      "path": "research/global_outline/history/stages/R08_阶段结果.txt",
+      "bytes": 16174,
+      "sha256": "8eb8de1ce1da6c73f74bab2fc847f2843fa42f7e3b86fc99373390d39543ed0d"
+    },
+    {
+      "path": "research/global_outline/history/stages/R09_阶段结果.txt",
+      "bytes": 17047,
+      "sha256": "9349ac8b2e53f4b73eb9838640c2e7130e5f9178be642a3b16d4e3325b81a4ce"
+    },
+    {
+      "path": "research/global_outline/history/stages/R10_阶段结果.txt",
+      "bytes": 15954,
+      "sha256": "c08f7516f49365ff71a2c7ada23f4488798d8799f6dfbb1636fa714b713873e9"
+    },
+    {
+      "path": "research/global_outline/history/versions/outline_R00_E01.txt",
+      "bytes": 20930,
+      "sha256": "585bc33380c9b065d6692ec17e3c858a436a49d3997b06718f044718d121d952"
+    },
+    {
+      "path": "research/global_outline/history/versions/outline_R01_E01.txt",
+      "bytes": 38978,
+      "sha256": "5c493f39d80431663067be55bc97b9e40f5134217e5b7a5ad40434429e348db5"
+    },
+    {
+      "path": "research/global_outline/history/versions/outline_R02_E01.txt",
+      "bytes": 54579,
+      "sha256": "3ecfdd1a94d708e6aad76e4433e4e36c9ab726351e44f921fff8436977e94ad1"
+    },
+    {
+      "path": "research/global_outline/history/versions/outline_R03_E01.txt",
+      "bytes": 70036,
+      "sha256": "aafa2f14edffb25a5463dc0130d32324625457c941845598fe5ceb1b6308e731"
+    },
+    {
+      "path": "research/global_outline/history/versions/outline_R04_E01.txt",
+      "bytes": 86836,
+      "sha256": "7eb9ae6a60be01719273c98db4681563423fca895e997ba2c0d0b44a67122dcd"
+    },
+    {
+      "path": "research/global_outline/history/versions/outline_R05_E01.txt",
+      "bytes": 104174,
+      "sha256": "39ca76bc5bac7e8ea3705a70d984ab26acc978efa4c968cf2bea57ccd1faaae8"
+    },
+    {
+      "path": "research/global_outline/history/versions/outline_R06_E01.txt",
+      "bytes": 120166,
+      "sha256": "7335486ca1013f254f59562b86c932be3565551adda0db1def9e002a7b754bba"
+    },
+    {
+      "path": "research/global_outline/history/versions/outline_R07_E01.txt",
+      "bytes": 136300,
+      "sha256": "8cb78629e7ce9adf12afcf607d19e348a939676251eba25a4fd73cb84d5e634f"
+    },
+    {
+      "path": "research/global_outline/history/versions/outline_R08_E01.txt",
+      "bytes": 153655,
+      "sha256": "2ce2cb2bf80c881599655c6cfa81d7b70dcbf77749f3bebd642aaa37b0cda0a0"
+    },
+    {
+      "path": "research/global_outline/history/versions/outline_R09_E01.txt",
+      "bytes": 170599,
+      "sha256": "fb34aaf9a2cfb46b9faa07091a7584a2ab55a1c3e5227b7f36c044f1068dd7af"
+    },
+    {
+      "path": "research/global_outline/history/versions/outline_R10_E01.txt",
+      "bytes": 231089,
+      "sha256": "7973dd20755be98ac6a9ecf56fb7087e4f82c0c434226a951aa2a635d0b5ed0d"
+    },
+    {
+      "path": "research/kumarajiva/current/关键结论证据导航.tsv",
+      "bytes": 3090,
+      "sha256": "724a09526e214a41652be2ac7a8f020d2fb7a8f8bf7e29f0ff567d4ded0e4728"
+    },
+    {
+      "path": "research/kumarajiva/current/来源书目与阅读层级.md",
+      "bytes": 18311,
+      "sha256": "ae16dff16bff118256dda511e41c5df6bf3ad232ee84c94556940265ff33c975"
+    },
+    {
+      "path": "research/kumarajiva/current/阅读说明与研究范围.md",
+      "bytes": 3314,
+      "sha256": "7c0acfbbe7b0b3b64d075d372014932e76f49ffcd6c130f179c456c7e1ac8602"
+    },
+    {
+      "path": "research/kumarajiva/current/鸠摩罗什深度研究_多语种证据版.docx",
+      "bytes": 72521,
+      "sha256": "89252c6da2ceef7d734c139484a5166580294d9eda14598b6e41451f0c9d3b70"
+    },
+    {
+      "path": "research/kumarajiva/current/鸠摩罗什深度研究_多语种证据版.md",
+      "bytes": 67550,
+      "sha256": "dcb7409f9fcd5e02ed96e5101e92f2058c874c6ffc2bb356446526a7a016d267"
+    },
+    {
+      "path": "research/kumarajiva/current/鸠摩罗什深度研究_多语种证据版.pdf",
+      "bytes": 1152629,
+      "sha256": "5740187d909f48989c303796efd7dac4a63069dd8fdc0b5bbd52f8424ceb193f"
+    },
+    {
+      "path": "research/kumarajiva/history/early-draft/鸠摩罗什生平.docx",
+      "bytes": 47675,
+      "sha256": "661ce6a4f8bb629289d4d090b8a430a9b82d9fa180f5d11a06273a3f43c0eb3e"
+    },
+    {
+      "path": "rights/AUDIO_ATTRIBUTION.md",
+      "bytes": 6388,
+      "sha256": "0bc4986f5b7d7ccd5243e2be3a6da4b61872a72841f69901f472bd665c2a82a2"
+    },
+    {
+      "path": "rights/LICENSE_BuddhasTeachings.txt",
+      "bytes": 693,
+      "sha256": "9c99a5144b90924833dcc3ba6d744ff3ae5b059445df71026729c8adf178ce68"
+    },
+    {
+      "path": "rights/NOTICE_BuddhasTeachings.txt",
+      "bytes": 1255,
+      "sha256": "eaef97cfa5bd6cf6d6345f6e0c3afef2ab4cd83d3f045314dee43bfe36f8804e"
+    },
+    {
+      "path": "rights/audio-redistribution-audit.json",
+      "bytes": 77574,
+      "sha256": "4ff8ece9ced3e7bf3c541097ce4e435d782ef60d7e565eefa814a55be7f579d9"
+    },
+    {
+      "path": "rights/licensed-pdf-audit.json",
+      "bytes": 5830,
+      "sha256": "cbef4c8dc831241d8748aba22667fddae6a075024645ff32a206158d6fbb7f5c"
+    },
+    {
+      "path": "sources/coverage-and-missing.json",
+      "bytes": 2138,
+      "sha256": "57249f551e0efeb6ed2cb42501a39dc2ce8380cd47dad31fe533b72cb0bae827"
+    },
+    {
+      "path": "sources/image-links.json",
+      "bytes": 1788,
+      "sha256": "87dca06208bd1a0f1c04771c8602032227edd5a92a4f010a28f78c9da620a034"
+    },
+    {
+      "path": "third_party/books/Thanissaro_The_Buddhas_Teachings_251113.pdf",
+      "bytes": 472409,
+      "sha256": "874a313246339efcae76310c468309604ecf765eea007a34ffdd5d8963570cd5"
+    }
+  ],
+  "count_excluding_self": 99,
+  "bytes_excluding_self": 20478446,
+  "self_hash_note": "PACKAGE_INDEX.json不自含哈希；外部发布收据校验它的字节和提交。"
+}

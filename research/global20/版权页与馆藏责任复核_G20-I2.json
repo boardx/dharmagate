@@ -1,0 +1,2661 @@
+{
+  "statistics": {
+    "revision": "G20-I2",
+    "selected_groups": 10,
+    "selected_legacy_records": 17,
+    "changed_canonical_record_count": 14,
+    "canonical_field_changes": 114,
+    "authorized_current_electronic_copyright_page_groups": 1,
+    "institutional_record_groups": 4,
+    "authorized_edition_provenance_statement_groups": 1,
+    "remaining_groups_without_copyright_page_or_readable_full_institutional_responsibility_record": 4,
+    "physical_original_paper_copyright_page_images_read": 0,
+    "new_media_downloads": 0,
+    "new_catalogue_rows": 0,
+    "new_people": 0,
+    "unchanged_counts": {
+      "catalogue_source_rows": 771,
+      "manifestations": 770,
+      "search_groups": 759,
+      "media_metadata": 118,
+      "quarantined_media_leads": 3
+    },
+    "future_audio_comparison_prepared": 1,
+    "listened_or_matched_audio_samples": 0
+  },
+  "selection": [
+    {
+      "audit_id": "P2-01",
+      "family_id": "W-cc30d93aeea48e",
+      "title": "聖嚴法師年譜",
+      "person": "圣严",
+      "record_ids": [
+        "C-b2dd4dffe654"
+      ],
+      "risk_reason": "原书版权责任未核；传主不能当作者"
+    },
+    {
+      "audit_id": "P2-02",
+      "family_id": "W-01175d525d7523",
+      "title": "星雲大師人間佛教傳燈錄(共3冊)",
+      "person": "星云",
+      "record_ids": [
+        "C-fccc1d92b3d0"
+      ],
+      "risk_reason": "集体编纂、出版年及所据全集混淆风险"
+    },
+    {
+      "audit_id": "P2-03",
+      "family_id": "W-609887b21021ee",
+      "title": "The Heroic Heart",
+      "person": "杰尊玛丹津葩默",
+      "record_ids": [
+        "C-1da71601c58e"
+      ],
+      "risk_reason": "官网2026日期与早期版冲突"
+    },
+    {
+      "audit_id": "P2-04",
+      "family_id": "W-e8b367f1095fd1",
+      "title": "Zen Mind, Beginner's Mind",
+      "person": "铃木俊隆",
+      "record_ids": [
+        "C-d43c453caa26",
+        "C-9a5c6cb81c57"
+      ],
+      "risk_reason": "讲述者、整理者与日译底本混淆"
+    },
+    {
+      "audit_id": "P2-05",
+      "family_id": "W-a5191ae0e67498",
+      "title": "The Diamond Sutra: The world as an interconnected whole",
+      "person": "大行",
+      "record_ids": [
+        "C-d9f547a3a7e9",
+        "C-e9b96c1f54ef",
+        "C-450045a52db5",
+        "C-5b409f34d1b2"
+      ],
+      "risk_reason": "比较本、译本与韩文原释译对应未核"
+    },
+    {
+      "audit_id": "P2-06",
+      "family_id": "W-714ba1ff752cd1",
+      "title": "我心是金佛",
+      "person": "大行",
+      "record_ids": [
+        "C-b1f1708cdd18",
+        "C-9421265ef4d3"
+      ],
+      "risk_reason": "同ISBN但译者、原题及版权链未知"
+    },
+    {
+      "audit_id": "P2-07",
+      "family_id": "W-b51861530a8d85",
+      "title": "Awareness Itself",
+      "person": "坦尼沙罗",
+      "record_ids": [
+        "C-7328fc94fc6d"
+      ],
+      "risk_reason": "他人教导由坦尼沙罗译编，不能原著计"
+    },
+    {
+      "audit_id": "P2-08",
+      "family_id": "W-950e81d0c1552a",
+      "title": "What the Buddha Taught",
+      "person": "瓦尔波拉·罗睺罗",
+      "record_ids": [
+        "C-961bb91f2bc69787",
+        "C-f8f8f09b3d57bf20",
+        "C-cea83715425357cf"
+      ],
+      "risk_reason": "初版、增订、现售版日期及责任分层"
+    },
+    {
+      "audit_id": "P2-09",
+      "family_id": "W-c15e411fb895ae",
+      "title": "The Progress of Insight",
+      "person": "马哈希西亚多",
+      "record_ids": [
+        "C-daa40483a3101086"
+      ],
+      "risk_reason": "原语成稿、首次印行与英译序不同"
+    },
+    {
+      "audit_id": "P2-10",
+      "family_id": "W-217948dfb5e9ed",
+      "title": "불교정전（佛教正典）",
+      "person": "少太山朴重彬",
+      "record_ids": [
+        "C-ee876ff75d3a8d29"
+      ],
+      "risk_reason": "在世监修和弟子编纂不能混作创始人独著"
+    }
+  ],
+  "audits": [
+    {
+      "audit_id": "P2-01",
+      "family_id": "W-cc30d93aeea48e",
+      "record_ids": [
+        "C-b2dd4dffe654"
+      ],
+      "sources": [
+        {
+          "url": "https://dlbs.liberal.ntu.edu.tw/search/search_detail.jsp?comefrom=authorinfo&seq=652403",
+          "title": "臺大佛學數位圖書館书目652403：聖嚴法師年譜",
+          "access": "success",
+          "evidence_type": "institutional_catalogue_record_read",
+          "locator": "书目明细之作者、版本项、出版日期、出版者、使用语言、附注及ISBN字段",
+          "responsibility_and_edition_fields": {
+            "responsibility": "林其賢（編著）",
+            "edition": "初版",
+            "publication_date": "2016",
+            "publisher": "法鼓文化",
+            "publication_place": "臺北，臺灣",
+            "language": "中文",
+            "extent": "四冊",
+            "pagination_as_catalogued": "2582",
+            "isbn": [
+              "9789575986926",
+              "957598692X"
+            ]
+          },
+          "short_quote": "林其賢（編著）；初版；2016",
+          "evidence_read_scope": "中文书目字段实际阅读；不是原书版权页。",
+          "copyright_page_file_sequence": null,
+          "copyright_page_printed_page": null
+        },
+        {
+          "url": "https://nclfile.ncl.edu.tw/files/201610/a3ca09dc-2e5a-4233-9a67-ca99c0a278c5.pdf",
+          "title": "國家圖書館公开送存清单PDF（URL路径201610；文件首页题名未另核）",
+          "access": "success",
+          "evidence_type": "institutional_catalogue_record_read",
+          "locator": "PDF零基P213，即文件第214页，法鼓文化项目内ISBN9789575986926一行；本次读文本层，截图超时，未核印刷页码",
+          "responsibility_and_edition_fields": {
+            "responsibility": "林其賢編著",
+            "edition": "初版",
+            "binding": "精裝",
+            "unit": "全套",
+            "isbn": "9789575986926"
+          },
+          "short_quote": "聖嚴法師年譜　林其賢編著　初版　精裝　全套",
+          "evidence_read_scope": "国家图书馆送存清单文本层特定一行；不是原书影像或版权页；不以目录文件日期代替出版日期。",
+          "copyright_page_file_sequence": null,
+          "copyright_page_printed_page": null
+        }
+      ],
+      "patches": [
+        {
+          "record_id": "C-b2dd4dffe654",
+          "set_fields": {
+            "primary_author": "林其賢",
+            "authorship_status": "臺大书目及國圖送存清单均明列林其賢編著；聖嚴为传主，卷首序作者责任沿用既核证据。",
+            "count_as_person_authored_work": false,
+            "verified_print_edition": {
+              "title": "聖嚴法師年譜",
+              "responsibility": "林其賢編著",
+              "edition": "初版",
+              "publication_year": 2016,
+              "publication_date_precision": "year",
+              "publisher": "法鼓文化",
+              "publication_place": "臺北，臺灣",
+              "isbn_set": "9789575986926",
+              "isbn10_as_catalogued": "957598692X",
+              "language": "中文",
+              "extent_volumes": 4,
+              "evidence_type": "institutional_catalogue_record_read"
+            },
+            "edition_mapping_note": "2000《七十年谱》、2016《年谱》四册初版与2020全集纪念版所收电子条目分别记录；2016初版ISBN不能未经对照直接充作2020宿主电子版本ISBN。",
+            "date_as_source": null,
+            "date_basis": "目录条目是2020全集宿主；新核2016为相应四册纸本初版之馆藏书目年，另存verified_print_edition，不混写宿主年。",
+            "original_language": null,
+            "original_language_status": "机构书目明示该版使用语言中文；未独立证明全部底层引文/原作语言，不由英译题名判断原语。",
+            "phase2_evidence_status": "institutional_catalogue_verified_no_copyright_page"
+          }
+        }
+      ],
+      "confirmed": [
+        "正式编著责任：林其贤编著，不列圣严独著。",
+        "可定位的四册纸本初版：2016年，法鼓文化，臺北；全套ISBN9789575986926。",
+        "该版使用语言中文；英文章名是平行题名，不是英文原著证明。"
+      ],
+      "unresolved": [
+        "版权页图像未取得，故文件页序/印页均null；不宣称读过版权页。",
+        "本轮馆藏书目只确证2016年，未以教团商品页的2016-02-01升级为版权页精确出版日。",
+        "臺大页次2582与教团商品页2586不同，不据目录核验统一纸本实际页数。",
+        "2020全集宿主的各册印次、ISBN和与2016初版正文差异未核。"
+      ],
+      "attempts": [
+        {
+          "target": "https://dlbs.liberal.ntu.edu.tw/search/search_detail.jsp?comefrom=authorinfo&seq=652403",
+          "action": "从作者规范库点开书目",
+          "result": "浏览提取器重定向失败；规范的新域名普通HTTP公开读取成功，完整字段已读"
+        },
+        {
+          "target": "https://lib.tnml.tn.edu.tw/webpac/content.cfm?mid=932610",
+          "action": "读取公共馆藏书目",
+          "result": "HTTP503；不作为已读来源"
+        },
+        {
+          "target": "https://nclfile.ncl.edu.tw/files/201610/a3ca09dc-2e5a-4233-9a67-ca99c0a278c5.pdf",
+          "action": "读取国家图书馆公开PDF定位目标ISBN",
+          "result": "文本层成功；目标页截图超时，未作图像阅读声明"
+        }
+      ],
+      "summary": "责任、2016四册初版、ISBN与文本语种升级至机构书目证据；未升级版权页图像证据。",
+      "assessment": {
+        "evidence_level": "institutional_bibliography_read",
+        "reader_label": "机构书目，非纸本版权页",
+        "bounded_result": "林其贤编著；2016四册纸本初版，不能直接作2020电子宿主ISBN。",
+        "authorized_electronic_copyright_page_read": false,
+        "physical_original_copyright_page_image_read": false,
+        "institutional_record_read": true,
+        "complete_book_read": false,
+        "audit_status": "completed_bounded; unresolved_evidence_retained"
+      }
+    },
+    {
+      "audit_id": "P2-02",
+      "family_id": "W-01175d525d7523",
+      "record_ids": [
+        "C-fccc1d92b3d0"
+      ],
+      "sources": [
+        {
+          "url": "https://isbn.ncl.edu.tw/NEW_ISBNNet/main_DisplayRecord_Popup.php?KeepThis=true&Pact=ShowCard&Pkey=1140303%2A0077&TB_iframe=true&height=400&width=500",
+          "title": "國家圖書館出版品預行編目CIP：114002696",
+          "access": "success",
+          "evidence_type": "institutional_catalogue_record_read",
+          "locator": "Pkey=1140303*0077；显示预行编目资料主条目及主题字段",
+          "responsibility_and_edition_fields": {
+            "responsibility": "程恭讓總編輯",
+            "edition": "初版",
+            "publication_date": "2025.05",
+            "publisher": "佛光文化事業有限公司",
+            "publication_place": "高雄市",
+            "isbn": "978-957-457-844-3",
+            "isbn_scope": "全套；精裝",
+            "subject_person": "釋星雲",
+            "extent_as_catalogued": "冊；公分（数值空白）"
+          },
+          "short_quote": "程恭讓總編輯；初版；2025.05",
+          "evidence_read_scope": "中文国家图书馆CIP数据全文亲读；是出版前编目，非已读实物版权页或完整馆藏核验。",
+          "copyright_page_file_sequence": null,
+          "copyright_page_printed_page": null
+        },
+        {
+          "url": "https://torontofgslibrary.librarika.com/search/detail/11748735",
+          "title": "多倫多佛光山圖書館：星雲大師人間佛教傳燈錄（中），记录11748735",
+          "access": "success",
+          "evidence_type": "institutional_catalogue_record_read",
+          "locator": "Authors、Publication Year、Publisher、Volume、Library Accession No字段",
+          "responsibility_and_edition_fields": {
+            "authors_as_catalogued": "佛光山宗務委員會",
+            "publication_year": 2025,
+            "publisher": "佛光文化事業有限公司",
+            "publisher_country_as_catalogued": "Canada",
+            "volume": "V2",
+            "accession_examples": [
+              "92461",
+              "92462",
+              "92476",
+              "92491"
+            ],
+            "isbn": null
+          },
+          "short_quote": "佛光山宗務委員會；2025；V2",
+          "evidence_read_scope": "普通HTTP公开读取教团图书馆馆藏详情及副本入藏号；浏览提取器不可达。馆藏把团体列Authors，不等于独立确认其法定著作责任；该记录Canada地理字段不直接当出版地。",
+          "copyright_page_file_sequence": null,
+          "copyright_page_printed_page": null
+        }
+      ],
+      "patches": [
+        {
+          "record_id": "C-fccc1d92b3d0",
+          "set_fields": {
+            "editor_in_chief": "程恭讓",
+            "count_as_person_authored_work": false,
+            "person_role": "研究对象及被引著作作者；國圖CIP列释星云为主题，而程恭让为总编辑。",
+            "verified_print_edition": {
+              "title": "星雲大師人間佛教傳燈錄",
+              "responsibility": "程恭讓總編輯",
+              "edition": "初版",
+              "publication_year": 2025,
+              "publication_month": "2025-05",
+              "publication_month_basis": "国家图书馆CIP预告出版年月；同年教团馆藏记录佐证出版年，月未核实物",
+              "publisher": "佛光文化事業有限公司",
+              "publication_place": "高雄市",
+              "isbn_set": "9789574578443",
+              "binding": "精裝",
+              "extent_volumes": 3,
+              "extent_basis": "三册沿用已核官方编纂页；CIP册数字段空白，馆藏中册V2可核",
+              "evidence_type": "institutional_catalogue_record_read"
+            },
+            "date_as_source": "2025",
+            "date_basis": "2025出版年有教团馆藏中册记录；2025.05为國圖CIP预告年月，尚无版权页实物月日。2022为所据全集底本年，非本书年；不再以©2025判断。",
+            "original_language": null,
+            "original_language_status": "本轮所读CIP/馆藏责任记录均为中文条目，未有明确原著语种字段；沿用中文网页版本阅读状态，不提升为原语核定。",
+            "phase2_evidence_status": "national_CIP_and_institutional_holdings_read_no_copyright_page"
+          }
+        }
+      ],
+      "confirmed": [
+        "國圖CIP著者责任为程恭让总编辑；释星云是主题人物。",
+        "初版全套精装ISBN9789574578443，高雄市佛光文化事業有限公司；CIP预告2025.05。",
+        "多伦多佛光山图书馆实际中册V2馆藏记出版年2025，并提供多馆入藏副本号。"
+      ],
+      "unresolved": [
+        "未取得原书版权页图像，不能声明文件页序、印页或版权页署名全名单。",
+        "CIP是预行编目；2025年有馆藏佐证，五月及具体日尚未对照实物。",
+        "教团馆藏Authors列宗务委员会，与CIP个人总编辑是不同责任层，不机械覆盖程恭让总编辑。",
+        "多伦多记录Publisher后的Canada为馆藏地理字段疑点，不覆写國圖高雄市出版地。",
+        "本轮未独立核实原著语言、其他语种版、电子版ISBN及各册分册ISBN。"
+      ],
+      "attempts": [
+        {
+          "target": "https://isbn.ncl.edu.tw/NEW_ISBNNet/main_DisplayRecord_Popup.php?KeepThis=true&Pact=ShowCard&Pkey=1140303%2A0077&TB_iframe=true&height=400&width=500",
+          "action": "读取国家图书馆CIP公开条目",
+          "result": "成功，字段已读"
+        },
+        {
+          "target": "https://torontofgslibrary.librarika.com/search/detail/11748735",
+          "action": "读取教团馆藏详情",
+          "result": "浏览提取器不可达；普通HTTP同一公开URL成功读取"
+        },
+        {
+          "target": "https://ntu.primo.exlibrisgroup.com/nde/fulldisplay/alma991039346781304786/886NTU_INST%3A886NTU_INST_NDE",
+          "action": "读取臺大馆藏详情",
+          "result": "浏览提取器失败；普通HTTP仅前端壳；搜索摘要不升级为详情已读"
+        }
+      ],
+      "summary": "2025年、初版、程恭让总编辑及全套ISBN有新机构证据；五月仅为CIP预告，未冒称已见版权页。",
+      "assessment": {
+        "evidence_level": "national_CIP_and_holdings_read",
+        "reader_label": "国图CIP＋教团实藏，非版权页",
+        "bounded_result": "程恭让总编辑；2025出版年有馆藏，五月仅CIP预告。",
+        "authorized_electronic_copyright_page_read": false,
+        "physical_original_copyright_page_image_read": false,
+        "institutional_record_read": true,
+        "complete_book_read": false,
+        "audit_status": "completed_bounded; unresolved_evidence_retained"
+      }
+    },
+    {
+      "audit_id": "P2-03",
+      "family_id": "W-609887b21021ee",
+      "record_ids": [
+        "C-1da71601c58e"
+      ],
+      "sources": [
+        {
+          "url": "https://tenzinpalmo.com/publications/",
+          "evidence_type": "author_institution_catalogue_not_copyright_page",
+          "read_scope": "实际读取英文Other Books的The Heroic Heart项；显示August 16, 2026",
+          "locator": "Other Books > The Heroic Heart，作者/出版社/Publication date/Language四行"
+        },
+        {
+          "url": "https://www.shambhala.com/heroic-heart.html",
+          "evidence_type": "publisher_product_metadata_not_copyright_page",
+          "read_scope": "实际读取英文题名、作者、Paperback及出版日/ISBN字段；点击合法Look inside入口",
+          "locator": "Paperback；Shambhala Publications下08/16/2022；ISBN9781645470557；Look inside链接至Calaméo 000039257285803bead93"
+        },
+        {
+          "url": "https://en.calameo.com/read/000039257285803bead93",
+          "evidence_type": "publisher_linked_legal_preview_attempt_failed",
+          "read_scope": "未读；工具返回429 Too Many Requests；未重试或绕限制",
+          "locator": "出版社Look inside链接"
+        },
+        {
+          "url": "https://www.ahml.info/catalog/record/4130162",
+          "evidence_type": "institutional_library_search_snippet_only",
+          "read_scope": "搜索结果显示Boulder, Colorado : Shambhala, [2022]及ISBN9781645470557；记录页打开失败，不能称馆藏全文实读",
+          "locator": "搜索结果Details > PUBLISHED/ISBN；原记录页未读"
+        },
+        {
+          "url": "https://lccn.loc.gov/2021038864",
+          "evidence_type": "library_record_attempt_failed",
+          "read_scope": "未读，工具无法访问；LCCN线索不作核定依据",
+          "locator": null
+        },
+        {
+          "url": "https://search.worldcat.org/isbn/9781645470557",
+          "evidence_type": "institutional_catalogue_lookup_attempt_failed",
+          "read_scope": "以指定ISBN直接检索；工具返回不可访问；未读取具体馆藏记录，不作为版本事实依据。",
+          "locator": null
+        },
+        {
+          "url": "https://searchworks.stanford.edu/?q=9781645470557",
+          "evidence_type": "institutional_catalogue_lookup_attempt_failed",
+          "read_scope": "以指定ISBN直接检索；工具返回不可访问；未读取具体馆藏记录，不作为版本事实依据。",
+          "locator": null
+        },
+        {
+          "url": "https://search.library.wisc.edu/search/system?q=9781645470557",
+          "evidence_type": "institutional_catalogue_lookup_attempt_failed",
+          "read_scope": "以指定ISBN直接检索；工具返回不可访问；未读取具体馆藏记录，不作为版本事实依据。",
+          "locator": null
+        }
+      ],
+      "ISBN_edition": [
+        {
+          "ISBN": "9781645470557",
+          "format": "paperback",
+          "publication_date": "2022-08-16",
+          "basis": "出版商商品页；非版权页",
+          "edition_statement": null
+        }
+      ],
+      "patches": [
+        {
+          "record_id": "C-1da71601c58e",
+          "set_fields": {
+            "date_as_source": "2022-08-16",
+            "date_basis": "Shambhala当前所列ISBN9781645470557平装版出版日；版权页未读，不据此称已核第一版声明。作者机构目录仍显示2026-08-16，保留为冲突原标；未发现独立2026版ISBN证据。",
+            "date_display": "2022-08-16（出版商所列平装版）；作者目录2026原标有冲突",
+            "date_type_display": "特定ISBN版本出版日；非版权页确认的首版年",
+            "language": "en",
+            "edition_or_text_language_display": "英文平装版；ISBN9781645470557",
+            "copyright_page_status": "未读：出版商合法预览429",
+            "source_conflict": {
+              "author_catalogue": "2026-08-16",
+              "publisher_ISBN_9781645470557": "2022-08-16",
+              "resolution": "就该ISBN采用出版商版次日期；不抹除作者目录原标，不断言2026再版或断言误植原因。"
+            },
+            "reading_status": "英文作者目录及出版社书目字段实读；版权页/正文未读"
+          }
+        }
+      ],
+      "confirmed": [
+        "2026并非唯一现存出版日期依据：出版商明列同题英文平装版ISBN9781645470557于2022-08-16出版。",
+        "原作者目录确实仍列2026-08-16，日期冲突真实存在。"
+      ],
+      "unresolved": [
+        "版权页与印次声明未读；2026原标是误植、更新错误还是另有版本，尚无证据。",
+        "机构馆藏正文页面均未成功读取；仅搜索片段可作检索线索，不提升为版权页证据。",
+        "追加一次国家/大学/WorldCat范围的ISBN馆藏补查后，仍未取得可读机构实记录；到此停止。版权页保持未取得。"
+      ],
+      "attempts": [
+        {
+          "target": "出版社商品页",
+          "result": "success_metadata_only"
+        },
+        {
+          "target": "出版社Look inside合法预览",
+          "result": "429 Too Many Requests；stopped"
+        },
+        {
+          "target": "AHML机构馆藏页、LOC LCCN入口",
+          "result": "not_accessible；not_read"
+        },
+        {
+          "target": "一次有界ISBN9781645470557机构馆藏补查",
+          "queries": [
+            "ISBN精确检索WorldCat、Stanford SearchWorks、UW-Madison；辅以UQ域名索引检索"
+          ],
+          "urls": [
+            "https://search.worldcat.org/isbn/9781645470557",
+            "https://searchworks.stanford.edu/?q=9781645470557",
+            "https://search.library.wisc.edu/search/system?q=9781645470557"
+          ],
+          "result": "检索未取得匹配的可读实记录；三个直接入口均由web工具返回not accessible。无挑战绕过，无429重试。",
+          "outcome": "not_read; institutional_record_unavailable"
+        }
+      ],
+      "assessment": {
+        "evidence_level": "publisher_metadata_only_preview_unavailable",
+        "reader_label": "出版社版本信息；原版权页／馆藏未取",
+        "bounded_result": "ISBN9781645470557出版商列2022-08-16；作者目录2026冲突保留。",
+        "authorized_electronic_copyright_page_read": false,
+        "physical_original_copyright_page_image_read": false,
+        "institutional_record_read": false,
+        "complete_book_read": false,
+        "audit_status": "completed_bounded; unresolved_evidence_retained"
+      }
+    },
+    {
+      "audit_id": "P2-04",
+      "family_id": "W-e8b367f1095fd1",
+      "record_ids": [
+        "C-d43c453caa26",
+        "C-9a5c6cb81c57"
+      ],
+      "sources": [
+        {
+          "source_id": "P2-04-S1",
+          "url": "https://ci.nii.ac.jp/ncid/BD02357212",
+          "author_title": "国立情報学研究所 CiNii Books：Zen mind, beginner’s mind，50th anniversary ed",
+          "evidence_type": "institutional_union_catalogue_with_university_holdings",
+          "actual_reading": "直接实读书志事项、责任表示、注记、标识及馆藏；不是扉页或版权页影像",
+          "isbn": "9781611808414",
+          "publication_date": "2020",
+          "date_type": "馆藏书目出版年",
+          "language": "eng",
+          "original_title": "Zen mind, beginner’s mind : informal talks on Zen meditation and practice",
+          "locator": "NCID BD02357212；责任表示；京都产业大学188.8||SUZ／01389810；同志社大学188.8||S10593／251050460；LCCN2019051711",
+          "page_sequence_as_catalogued": "xx, 148 p.; 别题据p.[ii]为编目员注记，非本轮实看该页",
+          "short_quote": "edited by Trudy Dixon",
+          "supports": "铃木署名；Dixon编辑；Smith序；Baker导言；Chadwick后记；2020年50周年版。"
+        },
+        {
+          "source_id": "P2-04-S2",
+          "url": "https://www.shambhala.com/zen-mind-beginner-s-mind-9781611808414.html",
+          "author_title": "Shambhala出版商：Zen Mind, Beginner’s Mind, 50th Anniversary Edition",
+          "evidence_type": "publisher_product_metadata_and_authorized_preview_link",
+          "actual_reading": "产品元数据及Details实读；仅识别Look inside链接，预览内容未取得",
+          "isbn": "9781611808414",
+          "publication_date": "2020-06-02",
+          "date_type": "出版商该平装版日期栏06/02/2020，按美国月/日格式记录",
+          "language": "en；产品英文、与CiNii语言代码相互核实",
+          "original_title": "Zen Mind, Beginner’s Mind",
+          "locator": "标题版次、By、ISBN及日期/Pages栏；Details末责任说明",
+          "page_sequence_as_catalogued": "产品页Pages:176，与CiNii xx,148 p.口径不一致；未查原页解释",
+          "short_quote": null,
+          "supports": "该具体ISBN的2020版，Smith序、Baker导言和Chadwick后记。"
+        },
+        {
+          "source_id": "P2-04-S3",
+          "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I032360487",
+          "author_title": "日本国立国会图书馆：〈新訳〉禅マインドビギナーズ・マインド",
+          "evidence_type": "national_library_own_bibliographic_and_holdings_record",
+          "actual_reading": "直接实读完整书目、原题/版本注记、作者译者、语言代码及请求记号；另标准OpenSearch API读取同记录；未读原书版权页",
+          "isbn": "978-4-569-85293-5",
+          "publication_date": "2022-09",
+          "date_type": "出版年月日等2022.9，非精确发行日",
+          "language": {
+            "text": "jpn",
+            "original": "eng"
+          },
+          "original_title_as_catalogued": "ZEN MIND,BEGINNERS'S MIND",
+          "original_title_note": "保留NDL原样拼写，不将其撇号/拼写当作英文规范题名",
+          "locator": "NDLBibID032360487；请求记号HM171-M26；全国书志号23736578；一般注记/作者编者及语言代码",
+          "page_sequence_as_catalogued": "348p;18cm",
+          "short_quote": "原著50周年版の翻訳",
+          "supports": "铃木俊隆著、藤田一照译；从英文原著50周年版翻译。"
+        },
+        {
+          "source_id": "P2-04-S4",
+          "url": "https://www.php.co.jp/books/detail.php?isbn=978-4-569-85293-5",
+          "author_title": "PHP研究所出版商：［新訳］禅マインド ビギナーズ・マインド",
+          "evidence_type": "publisher_product_metadata_and_edition_statement",
+          "actual_reading": "直接实读作者译者、発売日、ISBN与内容第4段；非版权页、非此前PHP网页摘录",
+          "isbn": "978-4-569-85293-5",
+          "publication_date": "2022-09-14",
+          "date_type": "出版商明列発売日；与NDL出版月分字段保留",
+          "language": "ja，NDL明确原文eng",
+          "original_title": "Zen Mind, Beginner’s Mind: 50th Anniversary Edition",
+          "locator": "作者译者、発売日/ISBN栏；内容第4段“原書の発刊…”",
+          "page_sequence_as_catalogued": null,
+          "short_quote": null,
+          "supports": "明确说明日译完整翻译2020年50周年版，并新增Chadwick后记28页。此为出版商陈述，未原页对勘。"
+        }
+      ],
+      "patches": [
+        {
+          "record_id": "C-d43c453caa26",
+          "set_fields": {
+            "responsibility": [
+              {
+                "name": "Shunryu Suzuki",
+                "role": "teaching_author; institutional_edition_statement"
+              },
+              {
+                "name": "Trudy Dixon",
+                "role": "editor; verified_by_CiNii_BD02357212"
+              },
+              {
+                "name": "Huston Smith",
+                "role": "preface; verified_by_institution_and_publisher"
+              },
+              {
+                "name": "Richard Baker",
+                "role": "introduction; verified_by_institution_and_publisher"
+              },
+              {
+                "name": "David Chadwick",
+                "role": "afterword_in_2020_50th_anniversary_edition"
+              }
+            ],
+            "responsibility_history_unverified_by_copyright_page": [
+              {
+                "name": "Richard Baker",
+                "role_claim": "additional uncredited editing per earlier Cuke account; not confirmed by current institutional responsibility statement"
+              },
+              {
+                "name": "Marian Derby",
+                "role_claim": "initial lecture compiler per earlier Cuke account; not confirmed by current institutional responsibility statement"
+              }
+            ],
+            "edition_evidence": {
+              "title": "50th Anniversary Edition",
+              "isbn": "9781611808414",
+              "publisher": "Shambhala",
+              "publisher_publication_date": "2020-06-02",
+              "catalogue_publication_year": "2020",
+              "ncid": "BD02357212",
+              "lccn": "2019051711",
+              "text_language": "eng"
+            },
+            "date_as_source": null,
+            "date_basis": "既有英文记录未指定版次，不把新核2020具体ISBN静默套为原记录唯一版本；2020日期置于edition_evidence。",
+            "copyright_page_read": false,
+            "reading_status": "机构书目和出版商2020版资料已读；合法预览未取得；未通读正文",
+            "relationship_evidence_level": "日译所据英文版次已由PHP与NDL确认50周年版，出版商明确年份2020；不是版权页对勘。",
+            "source_evidence_ids": [
+              "P2-04-S1",
+              "P2-04-S2"
+            ]
+          }
+        },
+        {
+          "record_id": "C-9a5c6cb81c57",
+          "set_fields": {
+            "isbn": "9784569852935",
+            "publisher": "PHP研究所",
+            "publication_month_as_catalogued": "2022-09",
+            "date_as_source": "2022-09-14",
+            "date_basis": "PHP出版商明列発売日；NDL独立记录出版月2022.9；非2022-10-06摘录网页日期。",
+            "date_type": "publisher_release_date",
+            "original_language": "eng",
+            "language": "jpn",
+            "translator": "藤田一照",
+            "translation_source_edition": {
+              "title": "Zen Mind, Beginner’s Mind: 50th Anniversary Edition",
+              "year": "2020",
+              "basis": "PHP内容第4段明确全译2020版；NDL一般注记原著50周年版翻译",
+              "source_edition_isbn": null,
+              "source_edition_isbn_note": "已另核英文平装50周年版ISBN9781611808414，但未见日译版权页直接指向此ISBN，不强制填写所据载体ISBN。"
+            },
+            "institutional_identifiers": {
+              "NDLBibID": "032360487",
+              "JPNO": "23736578",
+              "NDL_call_number": "HM171-M26"
+            },
+            "extent_as_catalogued": "348p;18cm",
+            "responsibility": [
+              {
+                "name": "鈴木俊隆",
+                "role": "author"
+              },
+              {
+                "name": "藤田一照",
+                "role": "Japanese translator"
+              }
+            ],
+            "copyright_page_read": false,
+            "reading_status": "NDL自有馆藏书目与PHP出版商版本说明已读；原书扉页、版权页或奥付未读",
+            "relationship_evidence_level": "verified_2020_50th_anniversary_translation_by_publisher_and_national_library; no_copyright_page_collation",
+            "source_evidence_ids": [
+              "P2-04-S3",
+              "P2-04-S4"
+            ]
+          }
+        }
+      ],
+      "confirmed": [
+        "Trudy Dixon的编辑责任有2020版大学联合目录直接支持；Baker在该版明署导言，不能把其导言身份与Cuke所谓额外未署名编辑混作同一证据。",
+        "藤田一照日译ISBN9784569852935、出版商発売日2022-09-14、NDL出版月2022.9及原文eng均已核。",
+        "日译确为2020年英文50周年版的全译，PHP与NDL相互支持；此项从同作品家族判断推进为已核具体版次关系。"
+      ],
+      "unresolved": [
+        "两语原书版权页或日译奥付仍未取得；不将产品说明、网页摘录和编目员注记升级为原页实读。",
+        "日译版权页所指英文具体载体ISBN未核；2020平装ISBN虽然已知，不自动等于翻译合同所据载体。",
+        "英文本原记录尚未限定具体版次，保留泛题记录日期null；新核2020信息作为既有记录内edition_evidence，不新增条目。",
+        "出版商176页与CiNii xx,148 p.的页数口径差异未由原页解决；不静默统一。",
+        "Marian Derby及Richard Baker额外编辑史仍仅有旧Cuke叙述，未获本轮版权页/机构责任栏独立支持。"
+      ],
+      "attempts": [
+        {
+          "target": "Shambhala页面Look inside -> https://en.calameo.com/read/0000392575ca38fcb1a93",
+          "action": "打开出版商明确链接的合法预览",
+          "outcome": "浏览工具502；一次普通HTTP读取503，未读到页面、未绕过、未下载整书。"
+        },
+        {
+          "target": "NDL OpenSearch ISBN9784569852935及9781611808414",
+          "action": "标准公开API读取元数据",
+          "outcome": "成功，定位NDL日译自有书目及CiNii英文书目；随后直接读原机构页面。"
+        },
+        {
+          "target": "https://ci.nii.ac.jp/ncid/BD02357212",
+          "action": "机构联合目录正文读取",
+          "outcome": "成功；大学馆藏标识与责任栏已读，未访问实体书。"
+        },
+        {
+          "target": "https://www.php.co.jp/books/detail.php?isbn=978-4-569-85293-5",
+          "action": "出版商书籍详情读取",
+          "outcome": "成功；版次关系及発売日已核，无版权页影像。"
+        },
+        {
+          "target": "https://library.usi.edu/record/18805",
+          "action": "尝试1970版大学馆藏页",
+          "outcome": "浏览工具不可访问；未采用搜索摘要作为已读馆藏依据。"
+        }
+      ],
+      "assessment": {
+        "evidence_level": "national_and_union_library_record_read",
+        "reader_label": "NDL及CiNii机构书目，非版权页",
+        "bounded_result": "日译为2020英文50周年版全译；日版ISBN及2022发行日分列。",
+        "authorized_electronic_copyright_page_read": false,
+        "physical_original_copyright_page_image_read": false,
+        "institutional_record_read": true,
+        "complete_book_read": false,
+        "audit_status": "completed_bounded; unresolved_evidence_retained"
+      }
+    },
+    {
+      "audit_id": "P2-05",
+      "family_id": "W-a5191ae0e67498",
+      "record_ids": [
+        "C-d9f547a3a7e9",
+        "C-e9b96c1f54ef",
+        "C-450045a52db5",
+        "C-5b409f34d1b2"
+      ],
+      "sources": [
+        {
+          "source_url": "https://wakeupandlaugh.com/2025/01/24/the-diamond-sutra/",
+          "source_author_title": "Chong Go Sunim：The Diamond Sutra!!，2025-01-24",
+          "evidence_type": "publication_team_first_person_announcement_not_copyright_page",
+          "actual_read_scope": "实读英语正文与链接；非版权页、非机构馆藏",
+          "locator": "开头两段及From the Afterword前后",
+          "short_quote": "The English translation of Daehaeng Kun Sunim’s Diamond Sutra is out!!",
+          "library_control_number": null,
+          "copyright_page_sequence": null,
+          "url": "https://wakeupandlaugh.com/2025/01/24/the-diamond-sutra/"
+        },
+        {
+          "source_url": "https://wakeupandlaugh.com/wp-content/uploads/2025/01/20250123_1654332418202442159318132.jpg",
+          "source_author_title": "同篇公开封面照片",
+          "evidence_type": "original_book_cover_preview",
+          "actual_read_scope": "实际视觉阅读英韩封面；未见版权责任页",
+          "locator": "无页码封面；标题The Great Unfolding及韩文标题",
+          "short_quote": null,
+          "library_control_number": null,
+          "copyright_page_sequence": null,
+          "url": "https://wakeupandlaugh.com/wp-content/uploads/2025/01/20250123_1654332418202442159318132.jpg"
+        },
+        {
+          "source_url": "https://wakeupandlaugh.com/wp-content/uploads/2025/01/kakaotalk_20250123_162641661.jpg",
+          "source_author_title": "同篇公开书内跨页",
+          "evidence_type": "original_book_interior_preview",
+          "actual_read_scope": "实际视觉核对韩文左页和英语右页；只读该跨页，不通读",
+          "locator": "实印页42—43；第2章",
+          "short_quote": null,
+          "library_control_number": null,
+          "copyright_page_sequence": null,
+          "url": "https://wakeupandlaugh.com/wp-content/uploads/2025/01/kakaotalk_20250123_162641661.jpg"
+        },
+        {
+          "source_url": "https://wakeupandlaugh.com/wp-content/uploads/2025/01/kakaotalk_20250123_162641661_01.jpg",
+          "source_author_title": "同篇公开章节扉页",
+          "evidence_type": "original_book_interior_preview",
+          "actual_read_scope": "实际视觉阅读韩英第3章扉页及英语注释，不提取长引",
+          "locator": "实印页44—45；右页45",
+          "short_quote": null,
+          "library_control_number": null,
+          "copyright_page_sequence": null,
+          "url": "https://wakeupandlaugh.com/wp-content/uploads/2025/01/kakaotalk_20250123_162641661_01.jpg"
+        },
+        {
+          "source_url": "https://wakeupandlaugh.com/wp-content/uploads/2025/01/kakaotalk_20250123_162641661_02.jpg",
+          "source_author_title": "同篇公开书内跨页",
+          "evidence_type": "original_book_interior_preview",
+          "actual_read_scope": "实际视觉核对韩文左页和英语右页；非版权页",
+          "locator": "实印页46—47；第3章",
+          "short_quote": null,
+          "library_control_number": null,
+          "copyright_page_sequence": null,
+          "url": "https://wakeupandlaugh.com/wp-content/uploads/2025/01/kakaotalk_20250123_162641661_02.jpg"
+        }
+      ],
+      "patches": [
+        {
+          "record_id": "C-450045a52db5",
+          "set_fields": {
+            "language": "ko; en",
+            "edition_or_text_language_display": "韩英对照；公开实物预览页42—47可见双语",
+            "reading_status": "limited_original_interior_preview_read_not_full_book",
+            "date_evidence_note": "2025-01-24出版团队公告称已推出；2024原拟印刷后调整。非版权页年份，不填写精确初版日期。",
+            "responsibility_note": "大行韩文释译由公告及封面支持；Chong Go自述参与翻译团队，不足认定唯一署名英译者。",
+            "copyright_page_verified": false
+          }
+        }
+      ],
+      "confirmed": [
+        "2025年1月24日公告发布时328页精装已上市；不是2024计划即已正式发行的证明。",
+        "公开实物预览确为韩英对照，弥补此前仅出版社模板混用导致的语种未知。"
+      ],
+      "unresolved": [
+        "未取得这四项的版权页或可读机构馆藏记录；无馆藏号。",
+        "英译署名个人/团队全名、版权持有人、精装ISBN、确切刊行日仍待版权页。",
+        "比较按需本与电子版的ISBN和年份不能由零售检索片段正式核定。",
+        "韩文2008释译版与精装/电子文本逐字一致性仍未知。"
+      ],
+      "attempts": [
+        {
+          "target": "NLK：题名뜻으로 푼 금강경及ISBN9788991532045",
+          "action": "限定机构域检索及NLK搜索页打开",
+          "outcome": "搜索未得可读目标馆藏；https://www.nl.go.kr/NL/contents/search.do?kwd=9788991532045 工具返回不可访问；未绕过。"
+        },
+        {
+          "target": "https://product.kyobobook.co.kr/detail/S000215112101",
+          "action": "由出版团队链接打开详情以寻找合法预览",
+          "outcome": "返回0行，未获得版权页。"
+        },
+        {
+          "target": "https://wakeupandlaugh.com/2025/01/24/the-diamond-sutra/",
+          "action": "只读取公开链接的1张封面及3个书内跨页图",
+          "outcome": "均无版权页；确认双语排印，不升级为版权页已核。"
+        }
+      ],
+      "assessment": {
+        "evidence_level": "original_interior_preview_only",
+        "reader_label": "原书有限内页预览；未见版权页",
+        "bounded_result": "精装实印42—47页证韩英对照；截至2025-01-24已推出，非精确刊日。",
+        "authorized_electronic_copyright_page_read": false,
+        "physical_original_copyright_page_image_read": false,
+        "institutional_record_read": false,
+        "complete_book_read": false,
+        "audit_status": "completed_bounded; unresolved_evidence_retained"
+      }
+    },
+    {
+      "audit_id": "P2-06",
+      "family_id": "W-714ba1ff752cd1",
+      "record_ids": [
+        "C-b1f1708cdd18",
+        "C-9421265ef4d3"
+      ],
+      "sources": [
+        {
+          "source_url": "https://hanmaumbooks.org/wp-content/uploads/2013/10/eca491eab5adec96b4cip.jpg",
+          "source_author_title": "Hanmaum Publications公开中文封面图（链接标签중국어cip）",
+          "evidence_type": "original_book_cover_preview_not_cip_page",
+          "actual_read_scope": "实际视觉阅读中文封面：大行大师著及hanmaum标识；虽文件名含cip，图实为封面，不是CIP或版权页",
+          "locator": "无页码封面",
+          "short_quote": "大行大师 著",
+          "library_control_number": null,
+          "copyright_page_sequence": null,
+          "url": "https://hanmaumbooks.org/wp-content/uploads/2013/10/eca491eab5adec96b4cip.jpg"
+        },
+        {
+          "source_url": "https://product.kyobobook.co.kr/detail/S000001486146",
+          "source_author_title": "교보문고：아심시금불(중국 간체)",
+          "evidence_type": "retailer_search_snippet_only",
+          "actual_read_scope": "本轮仅读检索片段；不当馆藏或版权页",
+          "locator": "片段列2014-11-01、ISBN9788991857384及172页",
+          "short_quote": null,
+          "library_control_number": null,
+          "copyright_page_sequence": null,
+          "url": "https://product.kyobobook.co.kr/detail/S000001486146"
+        }
+      ],
+      "patches": [
+        {
+          "record_id": "C-b1f1708cdd18",
+          "set_fields": {
+            "copyright_page_verified": false,
+            "author_responsibility_evidence": "公开原书封面实见“大行大师 著”；未见中文译者。",
+            "translator": null,
+            "publication_place": null,
+            "publication_date_status": "待版权页/机构记录；零售片段2014-11-01不升级为已核刊行日。",
+            "pagination_discrepancy": "既核两官方详情178页；教保零售片段172页。保留差异，不能仅凭差异拆分新版本。"
+          }
+        },
+        {
+          "record_id": "C-9421265ef4d3",
+          "set_fields": {
+            "copyright_page_verified": false,
+            "author_responsibility_evidence": "公开原书封面实见“大行大师 著”；未见中文译者。",
+            "translator": null,
+            "publication_place": null,
+            "publication_date_status": "待版权页/机构记录；零售片段2014-11-01不升级为已核刊行日。",
+            "pagination_discrepancy": "既核两官方详情178页；教保零售片段172页。保留差异，不能仅凭差异拆分新版本。"
+          }
+        }
+      ],
+      "confirmed": [
+        "原书封面可支持大行大师的作者责任标示；封面不列中文译者。",
+        "本轮不改变此前同ISBN合并为一个已识别版本并保留来源映射的结论。"
+      ],
+      "unresolved": [
+        "未取得中文版权页或可读机构馆藏；译者、出版地、版权链、确切版本年及韩文原题对应仍待核。",
+        "网页图像文件名含cip，但实际封面不能认作版权页。",
+        "不把“台湾橡树林文化出版社”推广文字定为本ISBN的出版者或出版地。",
+        "未把中文书与英文My Heart is a Golden Buddha确认为同一译本族；此前关系仍为候选。"
+      ],
+      "attempts": [
+        {
+          "target": "NLK ISBN9788991857384及题名检索",
+          "action": "限定nl.go.kr检索及两种搜索页URL打开",
+          "outcome": "无可读目标馆藏；NLK页工具返回不可访问；未绕挑战。"
+        },
+        {
+          "target": "https://search.worldcat.org/search?q=isbn%3A9788991857384",
+          "action": "按ISBN查询",
+          "outcome": "工具返回不可访问；未获得馆藏控制号。"
+        },
+        {
+          "target": "https://hanmaumbooks.org/wp-content/uploads/2013/10/eca491eab5adec96b4cip.jpg",
+          "action": "查看出版社公开图片原图",
+          "outcome": "是封面而非版权页；只见作者，无译者、ISBN或刊行日期。"
+        }
+      ],
+      "assessment": {
+        "evidence_level": "original_cover_preview_only",
+        "reader_label": "原书封面预览；非文件名所暗示的CIP",
+        "bounded_result": "封面署大行大师著；中文译者、出版地和版本日仍待核。",
+        "authorized_electronic_copyright_page_read": false,
+        "physical_original_copyright_page_image_read": false,
+        "institutional_record_read": false,
+        "complete_book_read": false,
+        "audit_status": "completed_bounded; unresolved_evidence_retained"
+      }
+    },
+    {
+      "audit_id": "P2-07",
+      "family_id": "W-b51861530a8d85",
+      "record_ids": [
+        "C-7328fc94fc6d"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/books/AwarenessItself/Section0001.html",
+          "evidence_type": "authorized_online_book_titlepage",
+          "read_scope": "实际读取英文扉页署名完整区；非商品简介",
+          "locator": "Titlepage：The Teachings of Ajaan Fuang Jotiko / compiled and translated by Thanissaro Bhikkhu (Geoffrey DeGraff)"
+        },
+        {
+          "url": "https://www.dhammatalks.org/books/AwarenessItself/Section0002.html",
+          "evidence_type": "authorized_online_book_copyright_page",
+          "read_scope": "实际读取英文版权页、版次、许可、电子/纸本ISBN与机构地址区",
+          "locator": "Copyright首行1993版权/second edition2005；许可段；ISBN两行"
+        },
+        {
+          "url": "https://www.dhammatalks.org/books/AwarenessItself/Section0003.html",
+          "evidence_type": "authorized_online_book_introduction",
+          "read_scope": "实际读取英文Introduction相关段，尤其Because he had requested开头至编译说明及末尾2005修订注；未读泰文底本或全书",
+          "locator": "Introduction第22—30段（网页版行48—56）；末尾Note与June, 2005行63—72"
+        },
+        {
+          "url": "https://www.dhammatalks.org/books/AwarenessItself/",
+          "evidence_type": "official_ebook_landing_metadata",
+          "read_scope": "实际读取英文官网首页年份与修订字段；不据此声称当前ebook文件首次上线年",
+          "locator": "Published in1993 / Revised in June,2005"
+        }
+      ],
+      "ISBN_edition": [
+        {
+          "ISBN": "979-8-90281-322-4",
+          "format": "ebook",
+          "edition_statement": "second edition 2005",
+          "basis": "现行授权HTML版权页；ISBN配置时间未标，不认定2005已使用此ISBN"
+        },
+        {
+          "ISBN": "979-8-90281-321-7",
+          "format": "print",
+          "edition_statement": "second edition 2005",
+          "basis": "现行授权HTML版权页；未见纸本实物"
+        }
+      ],
+      "patches": [
+        {
+          "record_id": "C-7328fc94fc6d",
+          "set_fields": {
+            "author_or_teacher": "Ajaan Fuang Jotiko",
+            "compiler": "Thanissaro Bhikkhu (Geoffrey DeGraff)",
+            "translator": "Thanissaro Bhikkhu (Geoffrey DeGraff)",
+            "record_type": "other_author_teachings_compiled_and_translated",
+            "authorship_relation": "阿姜放教导；坦尼沙罗搜集、编选、编辑与英译；非坦尼沙罗独著，亦非全篇逐字录音稿",
+            "date_as_source": "1993",
+            "date_basis": "授权版权页copyright1993；2005第二版；前言修订注明确first edition in1993。不是电子文件首次发布年。",
+            "edition_statement": "second edition 2005",
+            "revision_date": "2005-06",
+            "language": "en",
+            "original_language": "Thai（泰语教导及泰文材料；依据编译者英文前言，未亲读泰文）",
+            "original_language_display": "泰语/泰文源材料；本次只读英文编译本，未做原语对勘",
+            "edition_or_text_language_display": "英文授权在线本；当前ebook ISBN979-8-90281-322-4；版权页记2005第二版",
+            "ebook_ISBN": "979-8-90281-322-4",
+            "print_ISBN": "979-8-90281-321-7",
+            "ebook_first_release_date": null,
+            "rights": "现行授权版权页CC BY-NC4.0；特别定义commercial为任何销售，包括非营利组织销售；不能外推其他版本许可",
+            "locator": "Section0001.html扉页；Section0002.html版权版次/ISBN；Section0003.html材料来源与2005修订注",
+            "reading_status": "英文授权扉页、版权页与前言相关段实际读取；非全书；未读泰文底本",
+            "access_status": "authorized_online_frontmatter_read; no_complete_book_download",
+            "source_material_note": "前言自述：为纪念集整理生平及少量录音；之后写下记忆、访谈其他学生，历时两年余并编辑成The Language of the Heart；另转录一份较深入录音为Transcendent Discernment。本书从上述三种材料选取，多数来自前者，部分轶事为适应西方读者重新讲述。"
+          }
+        }
+      ],
+      "confirmed": [
+        "扉页直接确认阿姜放教导、坦尼沙罗compiled and translated责任。",
+        "版权页明确1993版权、2005第二版；前言末记2005年6月并追述1993第一版。",
+        "前言明确材料经访谈、回忆、选编和部分重述；不能将整本当逐字口述或录音转录。",
+        "当前版权页实际列电子与纸本两个ISBN及CC BY-NC4.0许可。"
+      ],
+      "unresolved": [
+        "当前电子格式首次上线/发行日期没有明确证据；1993或2005不能自动作ebook首发年。",
+        "未读泰文三种源书、未听录音；不能逐条确定每则来自记忆、访谈还是录音。",
+        "现行ISBN何时配置未标；不反推它们在1993/2005已存在。"
+      ],
+      "attempts": [
+        {
+          "target": "授权在线扉页/版权页/Introduction/首页",
+          "result": "success；仅必要前页，无整书下载"
+        }
+      ],
+      "assessment": {
+        "evidence_level": "authorized_current_electronic_copyright_and_titlepage_read",
+        "reader_label": "授权电子本扉页、版权页与前言；非纸本影像",
+        "bounded_result": "阿姜放教导、坦尼沙罗编译；1993第一版、2005第二版，非逐字录音稿。",
+        "authorized_electronic_copyright_page_read": true,
+        "physical_original_copyright_page_image_read": false,
+        "institutional_record_read": false,
+        "complete_book_read": false,
+        "audit_status": "completed_bounded; unresolved_evidence_retained"
+      }
+    },
+    {
+      "audit_id": "P2-08",
+      "family_id": "W-950e81d0c1552a",
+      "record_ids": [
+        "C-961bb91f2bc69787",
+        "C-f8f8f09b3d57bf20",
+        "C-cea83715425357cf"
+      ],
+      "sources": [
+        {
+          "source_url": "https://library.kborneo.my/cgi-bin/koha/opac-detail.pl?biblionumber=1189",
+          "source_author_title": "i-CATS University College，Dato Maznah Library & Information Services：What the Buddha taught",
+          "evidence_type": "大学馆藏目录；馆员转录题名页背面版本说明，非本次直接观察原版权页",
+          "evidence_read_scope": "实际读英文完整馆藏条目相关字段；不登录、不借阅、不读全书。该馆藏是台北Mahayana Vihara Press [1990],c1978重印记录，不是1959或1967原印实物。",
+          "locator": "koha:biblionumber:1189；call number BQ4132 R3313 1990；barcode00001355；网页行27、34、54—61，版本注明确标T.p. verso",
+          "manifestation": {
+            "publisher": "Mahayana Vihara Press，Taipei",
+            "date": "[1990], c1978",
+            "edition": "2nd ed",
+            "isbn": null,
+            "extent": "xvi,151p.,[16]p.plates",
+            "language": "engchi；目录注明some material in Chinese"
+          },
+          "short_quote": {
+            "original": "First published 1959. Second and enlarged edition 1967.",
+            "translation_zh": "初刊1959年；第二增订版1967年。",
+            "word_count": 9
+          },
+          "supports": "目录转录版本注还列1972重印、1978第一平装版；加强Gordon Fraser1959/1967沿革的馆藏层证据。题名责任列Rahula和Demiéville前言及巴利选文。",
+          "limits": "不直接证明当前Grove ISBN9780802130310的1969商品日期对应哪次印刷；无ISBN不能合并为该ISBN实物。",
+          "url": "https://library.kborneo.my/cgi-bin/koha/opac-detail.pl?biblionumber=1189"
+        }
+      ],
+      "patches": [
+        {
+          "record_id": "C-961bb91f2bc69787",
+          "set_fields": {
+            "library_corroboration": {
+              "source_url": "https://library.kborneo.my/cgi-bin/koha/opac-detail.pl?biblionumber=1189",
+              "catalogue_record": "koha:biblionumber:1189",
+              "evidence_type": "later_reprint_catalogue_transcribed_title_verso",
+              "assertion": "后出大学馆藏的版本注转录支持First published1959，非直接读1959原印版权页"
+            },
+            "date_basis": "研究所书目列1959；新增大学馆藏1189所转录T.p. verso亦列First published1959。两者均非本次直接核1959原印页。",
+            "copyright_page_directly_read": false
+          }
+        },
+        {
+          "record_id": "C-f8f8f09b3d57bf20",
+          "set_fields": {
+            "library_corroboration": {
+              "source_url": "https://library.kborneo.my/cgi-bin/koha/opac-detail.pl?biblionumber=1189",
+              "catalogue_record": "koha:biblionumber:1189",
+              "assertion": "后出重印本题名页背面版本注由馆员转录，列Second and enlarged edition1967"
+            },
+            "date_basis": "机构书目及大学馆藏转录的版本注相互支持1967第二增订版；未读1967原印版权页。",
+            "copyright_page_directly_read": false
+          }
+        },
+        {
+          "record_id": "C-cea83715425357cf",
+          "set_fields": {
+            "edition_resolution_status": "仍未解决Grove1969商品元数据与其1962/1974版本沿革的实物对应",
+            "copyright_page_directly_read": false,
+            "library_manifestation_match": "新增大学馆藏1189为台北[1990],c1978无ISBN重印；不得直接认作Grove ISBN9780802130310",
+            "author_credit": "Walpola Rahula",
+            "foreword_by": "Paul Demiéville",
+            "translator": null,
+            "translation_responsibility_note": "既有出版社说明巴利选文由作者译；大学馆藏题名仅称巴利选文译出，未独立注明译者姓名。两类责任来源保留，不将前言作者充当全书译者。"
+          }
+        }
+      ],
+      "confirmed": [
+        "新读大学馆藏版本注为1959初刊、1967第二增订版提供明确可定位的独立馆藏支持。",
+        "该馆记录确属后出重印本，原作年、版权年与该馆藏出版年不可压成一个日期。"
+      ],
+      "unresolved": [
+        "1959、1967及Grove1969各原版权页均未直接读。",
+        "Grove1969-05-01为既有商品记录，不能据新增台北馆藏确定其具体印次或修订文本。",
+        "LC、Hathi目标未取得可用全文馆藏详情；不以搜索结果Similar Items当各版已读记录。"
+      ],
+      "attempts": [
+        {
+          "target": "https://niibsopac.cloud/cgi-bin/koha/opac-detail.pl?biblionumber=131",
+          "action": "读取馆藏详情",
+          "outcome": "web不可访问；独立元数据请求403，未绕过",
+          "evidence_used": false
+        },
+        {
+          "target": "https://catalog.hathitrust.org/Record/102043225",
+          "action": "读取馆藏详情",
+          "outcome": "搜索索引可见1997及Similar Items，目标详情不可访问；未把相似项当1959实物",
+          "evidence_used": false
+        },
+        {
+          "target": "https://catalog.hathitrust.org/Record/103346904",
+          "action": "读取馆藏详情",
+          "outcome": "不可访问，未绕过",
+          "evidence_used": false
+        },
+        {
+          "target": "https://lccn.loc.gov/62016338",
+          "action": "读取LC记录",
+          "outcome": "不可访问，馆藏号仅检索线索未验证",
+          "evidence_used": false
+        },
+        {
+          "target": "https://library.kborneo.my/cgi-bin/koha/opac-detail.pl?biblionumber=1189",
+          "action": "读取大学馆藏条目",
+          "outcome": "成功，版本注可读",
+          "evidence_used": true
+        }
+      ],
+      "status": "partial_confirmed_library_record; original_copyright_pages_and_Grove_ISBN_relation_unresolved",
+      "assessment": {
+        "evidence_level": "institutional_catalogue_transcribed_title_verso",
+        "reader_label": "大学馆藏转录题名页背面版本注；非直接看原页",
+        "bounded_result": "后出重印馆藏支持1959初刊、1967增订；Grove1969实物对应仍未解决。",
+        "authorized_electronic_copyright_page_read": false,
+        "physical_original_copyright_page_image_read": false,
+        "institutional_record_read": true,
+        "complete_book_read": false,
+        "audit_status": "completed_bounded; unresolved_evidence_retained"
+      }
+    },
+    {
+      "audit_id": "P2-09",
+      "family_id": "W-c15e411fb895ae",
+      "record_ids": [
+        "C-daa40483a3101086"
+      ],
+      "sources": [
+        {
+          "source_url": "https://accesstoinsight.org/lib/authors/mahasi/progress.html",
+          "source_author_title": "Mahasi Sayadaw／Nyanaponika Thera英译：The Progress of Insight；Access to Insight，Barre Center for Buddhist Studies",
+          "evidence_type": "版权方BPS供稿的授权电子转录之来源／版本及许可声明；不是原印版权页图像",
+          "evidence_read_scope": "此次新增实际读取页尾BPS版权及电子来源说明、Conclusion作者署时；不是仅重复译序。书全文未下载；巴利文原版未读。",
+          "locator": "网页行461—464：来源BPS供稿、Third BPS edition1994、ATI修订2013-11-30；Conclusion行311—315：作者自述缅文转巴利及22.5.1950署时；标题行19—23英译者责任",
+          "manifestation": {
+            "edition": "Third BPS edition",
+            "publication_year": "1994",
+            "publisher": "Buddhist Publication Society",
+            "isbn": null,
+            "digital_revision_date": "2013-11-30",
+            "language": "en",
+            "translator": "Nyanaponika Thera",
+            "translation_source_language": "Pali"
+          },
+          "short_quote": {
+            "original": "Third BPS edition 1994.",
+            "translation_zh": "BPS第三版，1994年。",
+            "word_count": 4
+          },
+          "supports": "1994不只页头©，页尾另有明确版次出版声明；1994可记录为所转录第三BPS版年。作者结语的1950-05-22是文本署时，不是英译出版日。",
+          "limits": "此转录未给ISBN，不能从其他书商或目录自动补ISBN9552400902；仍不能仅由1965译序确定首个英语印本确日。",
+          "rights_note": "页尾明确BPS供稿及附条件免费复制许可；不把此事实称为已读纸本版权页。",
+          "url": "https://accesstoinsight.org/lib/authors/mahasi/progress.html"
+        }
+      ],
+      "patches": [
+        {
+          "record_id": "C-daa40483a3101086",
+          "set_fields": {
+            "author_credit": "Mahasi Sayadaw",
+            "translator": "Nyanaponika Thera",
+            "translation_source_language": "pi",
+            "language": "en",
+            "original_language_note": "作者结语英译称先缅文、转巴利；本英文文本题名署从巴利译。未直接校缅／巴利原版。",
+            "verified_english_edition": {
+              "publisher": "Buddhist Publication Society",
+              "edition": "Third BPS edition",
+              "publication_year": "1994",
+              "basis": "ATI页尾明确由BPS提供文件并标第三BPS版1994；不是仅据©",
+              "isbn": null,
+              "evidence_url": "https://accesstoinsight.org/lib/authors/mahasi/progress.html",
+              "locator": "网页行461—464"
+            },
+            "digital_version": {
+              "host": "Access to Insight（Barre Center for Buddhist Studies）",
+              "revision_date": "2013-11-30",
+              "basis": "页尾Last revised标记，非英译首次发表日期"
+            },
+            "first_english_publication_year": null,
+            "first_english_publication_status": "1965有馆藏检索线索，但目标详情及首印版权页未取得；保留unknown",
+            "copyright_page_directly_read": false,
+            "chronology_additions": [
+              {
+                "date": "1950-05-22",
+                "event": "Conclusion所载文本署时",
+                "evidence_type": "作者结语之英译转录；非本轮巴利手稿实读"
+              },
+              {
+                "date": "1994",
+                "event": "本电子转录所据第三BPS英版",
+                "evidence_type": "BPS供稿来源声明明确版次年"
+              },
+              {
+                "date": "2013-11-30",
+                "event": "ATI电子修订",
+                "evidence_type": "网站末尾版本说明"
+              }
+            ]
+          }
+        }
+      ],
+      "confirmed": [
+        "英语版译者Nyanaponika及从巴利文译出的责任可定位；原作缅文与巴利文版本须分层。",
+        "新增读页尾明确Third BPS edition1994，所以1994有版次出版证据，不仅是版权标记。",
+        "数字修订日期与第三BPS版年可分别保存。"
+      ],
+      "unresolved": [
+        "没有读到1965英版或1994第三版原印版权页图像。",
+        "1965首英版馆藏详情仍不可访问，不能把译序1965署时直接升级为首版年。",
+        "本授权电子转录未列ISBN，无法确认其与ISBN9552400902／9789552400902具体印次对应。"
+      ],
+      "attempts": [
+        {
+          "target": "https://www.bps.lk/olib/bp/bp504s_Mahasi_Progress-of-Insight.pdf",
+          "action": "读取BPS原提供文件入口",
+          "outcome": "404；未下载全文",
+          "evidence_used": false
+        },
+        {
+          "target": "https://www.bps.lk/olib/bp/bp504s_Mahasi_Progress-of-Insight.html",
+          "action": "读取BPS电子入口",
+          "outcome": "不可访问",
+          "evidence_used": false
+        },
+        {
+          "target": "https://opac.lib.ruh.ac.lk/bib/197695",
+          "action": "读取Ruhuna大学馆藏详情",
+          "outcome": "搜索索引列1965/2014，详情web不可访问、独立元数据请求503；未据摘要定版",
+          "evidence_used": false
+        },
+        {
+          "target": "https://opac.lib.ruh.ac.lk/bib/174590",
+          "action": "读取Ruhuna大学馆藏详情",
+          "outcome": "web不可访问、元数据请求503",
+          "evidence_used": false
+        },
+        {
+          "target": "https://evergreen.lib.in.us/eg/opac/record/23310613",
+          "action": "读取公共馆藏详情",
+          "outcome": "反复自动跳转入口，未取得详情；停止",
+          "evidence_used": false
+        },
+        {
+          "target": "https://accesstoinsight.org/lib/authors/mahasi/progress.html",
+          "action": "读取授权电子转录的版本来源、许可及结语",
+          "outcome": "成功；不增加既有正文大段引文",
+          "evidence_used": true
+        }
+      ],
+      "status": "partial_confirmed_authorized_digital_third_BPS_1994; first_English_print_and_ISBN_unresolved",
+      "assessment": {
+        "evidence_level": "authorized_edition_provenance_statement_read",
+        "reader_label": "BPS供稿授权转录的来源／版次说明；非纸本版权页",
+        "bounded_result": "转录所据第三BPS版1994；2013-11-30为数字修订，1965初英版仍未证。",
+        "authorized_electronic_copyright_page_read": false,
+        "physical_original_copyright_page_image_read": false,
+        "institutional_record_read": false,
+        "complete_book_read": false,
+        "audit_status": "completed_bounded; unresolved_evidence_retained"
+      }
+    },
+    {
+      "audit_id": "P2-10",
+      "family_id": "W-217948dfb5e9ed",
+      "record_ids": [
+        "C-ee876ff75d3a8d29"
+      ],
+      "sources": [
+        {
+          "url": "https://hub.won.or.kr/dictionary/view/0082",
+          "source_author_title": "朴光秀，〈개교의 동기〉，原佛教大辞典，刊年未见",
+          "evidence_type": "教团后出辞典；旧来源链接核验",
+          "read_scope": "实读韩文标题、概要与形成过程；不是1943刊记或馆藏责任书目",
+          "locator": "条目标识0082；标题；〈형성 과정〉第1段",
+          "short_quote": "개교의 동기",
+          "translation_zh": "开教的动机",
+          "finding": "原URL确为该篇经文条目，不能冒作整部《佛教正典》的书目或编纂专条。"
+        },
+        {
+          "url": "https://hub.won.or.kr/dictionary/view/1578",
+          "source_author_title": "梁贤秀（梁賢秀），〈불교정전〉，原佛教大辞典，刊年未见",
+          "evidence_type": "教团后出辞典；有署名的编纂史说明，非初版实物",
+          "read_scope": "实读韩文全条；不得提升为版权页实读",
+          "locator": "条目标识1578；〈개요〉第1段；〈결집과정〉末2段；〈1권의 편제〉首段；〈2・3권의 편제〉",
+          "short_quote": "소태산의 친감이 이루어져 1942년에 《정전》이 성편되자",
+          "translation_zh": "经过少太山亲自审定，1942年《正典》编成。",
+          "finding": "条目将创始人亲审与弟子统编分开：宋道性、徐大圆、李共珠、朴长植、鼎山受命整理；卷2、3收入既有佛典及祖师文献，不能整套视为创始人逐字独著。条目记1943年3月20日名义刊行，但又说印本8月到益山、出书过程遇少太山去世；只是后出叙述。卷1说明国汉文混用，卷2、3有汉文与韩译但若干经省汉文。"
+        },
+        {
+          "url": "https://kabc.dongguk.edu/content/pop_seoji?dataId=ABC_NC_03178_0001",
+          "source_author_title": "东国大学佛教学术院档案，〈불교정전(佛敎正典)〉详细书志",
+          "evidence_type": "大学机构书志检索摘要，详细页未读成功",
+          "read_scope": "仅检索结果摘要见书名、卷首题改善论、金泰洽编；详细页不可访问。不能宣称实读完整责任书目或刊记。",
+          "locator": "机构资料ID ABC_NC_03178_0001；不是已核实体索书号",
+          "short_quote": "金泰洽(韓國) 編",
+          "translation_zh": "金泰洽（韩国）编。",
+          "finding": "显示出版书志有不同责任层级的线索；未据摘要认定他是全书思想作者。"
+        },
+        {
+          "url": "https://kabc.dongguk.edu/content/pop_seoji?dataId=ABC_NC_04363_0001",
+          "source_author_title": "东国大学佛教学术院档案，〈불교정전(佛敎正典)〉详细书志",
+          "evidence_type": "大学机构书志检索摘要，详细页502",
+          "read_scope": "仅读检索摘要，未取得全文、馆藏号或原页影像；不能确认与上一ID的卷册、复制或版次关系",
+          "locator": "机构资料ID ABC_NC_04363_0001；不是已核实体索书号",
+          "short_quote": "金泰洽 編輯",
+          "translation_zh": "金泰洽编辑。",
+          "finding": "责任著录线索，仍待原刊署名及馆藏详情核验。"
+        },
+        {
+          "url": "https://buddhaland.dongguk.edu/bulVoca/view?dataId=KBDI0001313",
+          "source_author_title": "东国大学佛教文化门户，〈불교정전〉",
+          "evidence_type": "大学后出馆藏介绍／术语解说的检索摘要；非亲读刊记",
+          "read_scope": "检索摘要载1943-03-20、佛教时报社、编辑兼发行金泰洽及东国大学中央图书馆藏；页面打开失败。未读取刊记影像，不能用摘要代替原页。",
+          "locator": "门户资料ID KBDI0001313；实际刊记页序及馆藏索书号未取得",
+          "short_quote": "편집 겸 발행자는 김태흡(金泰洽)이다.",
+          "translation_zh": "编辑兼发行者是金泰洽。",
+          "finding": "提供有待复核的刊记责任人线索。"
+        }
+      ],
+      "patches": [
+        {
+          "record_id": "C-ee876ff75d3a8d29",
+          "set_fields": {
+            "source_url": "https://hub.won.or.kr/dictionary/view/1578",
+            "locator": "〈불교정전〉：개요、결집과정、1권의 편제、2・3권의 편제；这是后出辞典，不是初版刊记",
+            "record_type": "创始人在世亲审、弟子参与统编的教团经典；含既有佛典及祖师文献的编辑版本（后出辞典记载，初版责任署名待核）",
+            "date_as_source": "1943",
+            "date_basis": "刊行年仅获后出教团说明支持；1943-03-20是其所述名义刊行日，且记印本8月抵达。未亲读初版刊记，暂不提高为原页核实的精确日。",
+            "language": "ko",
+            "edition_or_text_language_display": "韩文及汉文混用／若干部分汉韩对照（后出辞典说明，未逐叶验证）",
+            "original_language_status": "本书有教团原创教义文字与既有汉文佛典、祖师文献韩译；不能为全书指定单一原创语种。初版逐卷文字待核。",
+            "authorship_status": "不可计为创始人逐字独撰全三卷；亲审、弟子统编、刊记编辑发行角色分别待证。",
+            "publication_date_primary_verified": false,
+            "colophon_image_verified": false,
+            "primary_responsibility_statement": null,
+            "library_call_number": null,
+            "reading_status": "实读正确后出辞典条目；大学详细书志仅检索摘要，初版版权页/刊记未取得",
+            "access_status": "官方后出说明可读；1943初版刊记原页未取得",
+            "evidence_limit": "原旧链接0082实为〈开教的动机〉；保留旧来源快照，不将其当整书书目。东国大学书志有金泰洽编／编辑线索，但未取得完整馆藏责任书目。"
+          }
+        }
+      ],
+      "confirmed": [
+        "现行来源URL对应另一条目；1578才是《佛教正典》专条。",
+        "在后出教团专条层级，创始人亲审与弟子整理都明确出现；卷2、3收录既有经论文献，故不宜将全书计为创始人独撰。",
+        "东国大学机构存在两条同题档案书志线索；仅摘要可见金泰洽编／编辑，未获完整书目。"
+      ],
+      "unresolved": [
+        "1943初版扉页与刊记的可读影像、真实页序、实体馆藏号均未取得。",
+        "刊记责任者金泰洽及发行所佛教时报社虽有机构摘要支持，仍不升级为亲读原页确认。",
+        "1943-03-20与实际印成／送达时间的区别尚未原件核证。",
+        "两条东国大学书志的卷册及版次关系、是否1943初版实物均待核。",
+        "亲撰内容具体范围、弟子各自编辑份额及刊记法律责任署名不能互相替代。"
+      ],
+      "attempts": [
+        {
+          "action": "公开网页打开旧及正确教团条目",
+          "target": [
+            "https://hub.won.or.kr/dictionary/view/0082",
+            "https://hub.won.or.kr/dictionary/view/1578"
+          ],
+          "outcome": "成功；取得后出文字说明，未取得刊记。"
+        },
+        {
+          "action": "公开打开东国大学详细书志及普通详情地址",
+          "target": [
+            "ABC_NC_03178_0001",
+            "ABC_NC_04363_0001"
+          ],
+          "outcome": "详细页不可访问／502；检索摘要可见；未绕过限制。"
+        },
+        {
+          "action": "打开大学文化门户说明",
+          "target": "https://buddhaland.dongguk.edu/bulVoca/view?dataId=KBDI0001313",
+          "outcome": "工具Internal Error；仅保留检索摘要层级。"
+        },
+        {
+          "action": "打开首尔大学Primo书目线索",
+          "target": "https://primoapac01.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21448032210002591",
+          "outcome": "Internal Error；未得书目内容，不作事实来源。"
+        },
+        {
+          "action": "查看教团专条相关图片链接",
+          "target": "https://hub.won.or.kr/upload/dictionary/2014052818125304327_152.jpg",
+          "outcome": "返回图片资源但未获得刊记页或可核责任页，不将其当初版版权页。"
+        }
+      ],
+      "status": "partial_primary_colophon_unresolved",
+      "scope_note": "仅现有一组；无新增目录，无整书下载，无挑战绕过。",
+      "assessment": {
+        "evidence_level": "secondary_institutional_history_only_primary_unavailable",
+        "reader_label": "正确教团后出专条；初版刊记和完整馆藏仍未取",
+        "bounded_result": "修正0082误链为1578；亲审、弟子统编与刊记法律责任分层，不能全书独著。",
+        "authorized_electronic_copyright_page_read": false,
+        "physical_original_copyright_page_image_read": false,
+        "institutional_record_read": false,
+        "complete_book_read": false,
+        "audit_status": "completed_bounded; unresolved_evidence_retained"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-01",
+      "record_id": "C-b2dd4dffe654",
+      "field": "authorship_status",
+      "before": "林其贤执笔；圣严为传主及原七十年谱序作者。妻惠芯协作不等同已核正式合著署名。",
+      "after": "臺大书目及國圖送存清单均明列林其賢編著；聖嚴为传主，卷首序作者责任沿用既核证据。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-01",
+      "record_id": "C-b2dd4dffe654",
+      "field": "verified_print_edition",
+      "before": null,
+      "after": {
+        "title": "聖嚴法師年譜",
+        "responsibility": "林其賢編著",
+        "edition": "初版",
+        "publication_year": 2016,
+        "publication_date_precision": "year",
+        "publisher": "法鼓文化",
+        "publication_place": "臺北，臺灣",
+        "isbn_set": "9789575986926",
+        "isbn10_as_catalogued": "957598692X",
+        "language": "中文",
+        "extent_volumes": 4,
+        "evidence_type": "institutional_catalogue_record_read"
+      },
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-01",
+      "record_id": "C-b2dd4dffe654",
+      "field": "edition_mapping_note",
+      "before": null,
+      "after": "2000《七十年谱》、2016《年谱》四册初版与2020全集纪念版所收电子条目分别记录；2016初版ISBN不能未经对照直接充作2020宿主电子版本ISBN。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-01",
+      "record_id": "C-b2dd4dffe654",
+      "field": "date_basis",
+      "before": "2020仅全集纪念版标签；年谱初版日期本次未核版权页。",
+      "after": "目录条目是2020全集宿主；新核2016为相应四册纸本初版之馆藏书目年，另存verified_print_edition，不混写宿主年。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-01",
+      "record_id": "C-b2dd4dffe654",
+      "field": "original_language_status",
+      "before": null,
+      "after": "机构书目明示该版使用语言中文；未独立证明全部底层引文/原作语言，不由英译题名判断原语。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-01",
+      "record_id": "C-b2dd4dffe654",
+      "field": "phase2_evidence_status",
+      "before": null,
+      "after": "institutional_catalogue_verified_no_copyright_page",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-02",
+      "record_id": "C-fccc1d92b3d0",
+      "field": "person_role",
+      "before": "研究对象；被引文献作者",
+      "after": "研究对象及被引著作作者；國圖CIP列释星云为主题，而程恭让为总编辑。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-02",
+      "record_id": "C-fccc1d92b3d0",
+      "field": "verified_print_edition",
+      "before": null,
+      "after": {
+        "title": "星雲大師人間佛教傳燈錄",
+        "responsibility": "程恭讓總編輯",
+        "edition": "初版",
+        "publication_year": 2025,
+        "publication_month": "2025-05",
+        "publication_month_basis": "国家图书馆CIP预告出版年月；同年教团馆藏记录佐证出版年，月未核实物",
+        "publisher": "佛光文化事業有限公司",
+        "publication_place": "高雄市",
+        "isbn_set": "9789574578443",
+        "binding": "精裝",
+        "extent_volumes": 3,
+        "extent_basis": "三册沿用已核官方编纂页；CIP册数字段空白，馆藏中册V2可核",
+        "evidence_type": "institutional_catalogue_record_read"
+      },
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-02",
+      "record_id": "C-fccc1d92b3d0",
+      "field": "date_as_source",
+      "before": null,
+      "after": "2025",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-02",
+      "record_id": "C-fccc1d92b3d0",
+      "field": "date_basis",
+      "before": "编辑序明示圆寂后编纂，以2022全集增订版为文献依据；未核本套版权页出版年，不由网页©2025补值",
+      "after": "2025出版年有教团馆藏中册记录；2025.05为國圖CIP预告年月，尚无版权页实物月日。2022为所据全集底本年，非本书年；不再以©2025判断。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-02",
+      "record_id": "C-fccc1d92b3d0",
+      "field": "original_language_status",
+      "before": null,
+      "after": "本轮所读CIP/馆藏责任记录均为中文条目，未有明确原著语种字段；沿用中文网页版本阅读状态，不提升为原语核定。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-02",
+      "record_id": "C-fccc1d92b3d0",
+      "field": "phase2_evidence_status",
+      "before": null,
+      "after": "national_CIP_and_institutional_holdings_read_no_copyright_page",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-03",
+      "record_id": "C-1da71601c58e",
+      "field": "date_as_source",
+      "before": "2026-08-16",
+      "after": "2022-08-16",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-03",
+      "record_id": "C-1da71601c58e",
+      "field": "date_basis",
+      "before": "Official page gives 2026-08-16; earlier 2022 edition indicated by publisher's 2022 review and Tsadra bibliography; date unresolved; not treated as first-publication date",
+      "after": "Shambhala当前所列ISBN9781645470557平装版出版日；版权页未读，不据此称已核第一版声明。作者机构目录仍显示2026-08-16，保留为冲突原标；未发现独立2026版ISBN证据。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-03",
+      "record_id": "C-1da71601c58e",
+      "field": "date_display",
+      "before": "2026-08-16",
+      "after": "2022-08-16（出版商所列平装版）；作者目录2026原标有冲突",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-03",
+      "record_id": "C-1da71601c58e",
+      "field": "date_type_display",
+      "before": "Official page gives 2026-08-16; earlier 2022 edition indicated by publisher's 2022 review and Tsadra bibliography; date unresolved; not treated as first-publication date",
+      "after": "特定ISBN版本出版日；非版权页确认的首版年",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-03",
+      "record_id": "C-1da71601c58e",
+      "field": "language",
+      "before": null,
+      "after": "en",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-03",
+      "record_id": "C-1da71601c58e",
+      "field": "edition_or_text_language_display",
+      "before": "该条文本/版本语种未逐项核；不以目录界面语言替代",
+      "after": "英文平装版；ISBN9781645470557",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-03",
+      "record_id": "C-1da71601c58e",
+      "field": "copyright_page_status",
+      "before": null,
+      "after": "未读：出版商合法预览429",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-03",
+      "record_id": "C-1da71601c58e",
+      "field": "source_conflict",
+      "before": null,
+      "after": {
+        "author_catalogue": "2026-08-16",
+        "publisher_ISBN_9781645470557": "2022-08-16",
+        "resolution": "就该ISBN采用出版商版次日期；不抹除作者目录原标，不断言2026再版或断言误植原因。"
+      },
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-03",
+      "record_id": "C-1da71601c58e",
+      "field": "reading_status",
+      "before": "仅读目录或已注明局部正文；未逐本通读",
+      "after": "英文作者目录及出版社书目字段实读；版权页/正文未读",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-d43c453caa26",
+      "field": "responsibility",
+      "before": [
+        {
+          "name": "Shunryu Suzuki",
+          "role": "speaker_and_teaching_author"
+        },
+        {
+          "name": "Trudy Dixon",
+          "role": "editor"
+        },
+        {
+          "name": "Richard Baker",
+          "role": "editor; Cuke notes uncredited"
+        },
+        {
+          "name": "Marian Derby",
+          "role": "initial_lecture_compiler; per Cuke history"
+        }
+      ],
+      "after": [
+        {
+          "name": "Shunryu Suzuki",
+          "role": "teaching_author; institutional_edition_statement"
+        },
+        {
+          "name": "Trudy Dixon",
+          "role": "editor; verified_by_CiNii_BD02357212"
+        },
+        {
+          "name": "Huston Smith",
+          "role": "preface; verified_by_institution_and_publisher"
+        },
+        {
+          "name": "Richard Baker",
+          "role": "introduction; verified_by_institution_and_publisher"
+        },
+        {
+          "name": "David Chadwick",
+          "role": "afterword_in_2020_50th_anniversary_edition"
+        }
+      ],
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-d43c453caa26",
+      "field": "responsibility_history_unverified_by_copyright_page",
+      "before": null,
+      "after": [
+        {
+          "name": "Richard Baker",
+          "role_claim": "additional uncredited editing per earlier Cuke account; not confirmed by current institutional responsibility statement"
+        },
+        {
+          "name": "Marian Derby",
+          "role_claim": "initial lecture compiler per earlier Cuke account; not confirmed by current institutional responsibility statement"
+        }
+      ],
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-d43c453caa26",
+      "field": "edition_evidence",
+      "before": null,
+      "after": {
+        "title": "50th Anniversary Edition",
+        "isbn": "9781611808414",
+        "publisher": "Shambhala",
+        "publisher_publication_date": "2020-06-02",
+        "catalogue_publication_year": "2020",
+        "ncid": "BD02357212",
+        "lccn": "2019051711",
+        "text_language": "eng"
+      },
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-d43c453caa26",
+      "field": "date_basis",
+      "before": null,
+      "after": "既有英文记录未指定版次，不把新核2020具体ISBN静默套为原记录唯一版本；2020日期置于edition_evidence。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-d43c453caa26",
+      "field": "copyright_page_read",
+      "before": null,
+      "after": false,
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-d43c453caa26",
+      "field": "reading_status",
+      "before": "仅读目录或已注明局部正文；未逐本通读",
+      "after": "机构书目和出版商2020版资料已读；合法预览未取得；未通读正文",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-d43c453caa26",
+      "field": "relationship_evidence_level",
+      "before": null,
+      "after": "日译所据英文版次已由PHP与NDL确认50周年版，出版商明确年份2020；不是版权页对勘。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-d43c453caa26",
+      "field": "source_evidence_ids",
+      "before": null,
+      "after": [
+        "P2-04-S1",
+        "P2-04-S2"
+      ],
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "isbn",
+      "before": null,
+      "after": "9784569852935",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "publisher",
+      "before": null,
+      "after": "PHP研究所",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "publication_month_as_catalogued",
+      "before": null,
+      "after": "2022-09",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "date_as_source",
+      "before": null,
+      "after": "2022-09-14",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "date_basis",
+      "before": "PHP摘录页2022-10-06公开、2024-12-16更新是网页日期，不补为书籍出版日",
+      "after": "PHP出版商明列発売日；NDL独立记录出版月2022.9；非2022-10-06摘录网页日期。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "date_type",
+      "before": null,
+      "after": "publisher_release_date",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "original_language",
+      "before": null,
+      "after": "eng",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "language",
+      "before": "ja",
+      "after": "jpn",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "translator",
+      "before": null,
+      "after": "藤田一照",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "translation_source_edition",
+      "before": null,
+      "after": {
+        "title": "Zen Mind, Beginner’s Mind: 50th Anniversary Edition",
+        "year": "2020",
+        "basis": "PHP内容第4段明确全译2020版；NDL一般注记原著50周年版翻译",
+        "source_edition_isbn": null,
+        "source_edition_isbn_note": "已另核英文平装50周年版ISBN9781611808414，但未见日译版权页直接指向此ISBN，不强制填写所据载体ISBN。"
+      },
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "institutional_identifiers",
+      "before": null,
+      "after": {
+        "NDLBibID": "032360487",
+        "JPNO": "23736578",
+        "NDL_call_number": "HM171-M26"
+      },
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "extent_as_catalogued",
+      "before": null,
+      "after": "348p;18cm",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "copyright_page_read",
+      "before": null,
+      "after": false,
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "reading_status",
+      "before": "仅读目录或已注明局部正文；未逐本通读",
+      "after": "NDL自有馆藏书目与PHP出版商版本说明已读；原书扉页、版权页或奥付未读",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "relationship_evidence_level",
+      "before": "同作品家族的题名、责任及初心段内容可互证；本轮未核日译版权页所载原版ISBN，不能认定对应哪次英文修订版。",
+      "after": "verified_2020_50th_anniversary_translation_by_publisher_and_national_library; no_copyright_page_collation",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-04",
+      "record_id": "C-9a5c6cb81c57",
+      "field": "source_evidence_ids",
+      "before": null,
+      "after": [
+        "P2-04-S3",
+        "P2-04-S4"
+      ],
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-05",
+      "record_id": "C-450045a52db5",
+      "field": "language",
+      "before": null,
+      "after": "ko; en",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-05",
+      "record_id": "C-450045a52db5",
+      "field": "edition_or_text_language_display",
+      "before": "英语题名/简介已核；精装本实际语种组成待核",
+      "after": "韩英对照；公开实物预览页42—47可见双语",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-05",
+      "record_id": "C-450045a52db5",
+      "field": "reading_status",
+      "before": "仅读目录或已注明局部正文；未逐本通读",
+      "after": "limited_original_interior_preview_read_not_full_book",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-05",
+      "record_id": "C-450045a52db5",
+      "field": "date_evidence_note",
+      "before": null,
+      "after": "2025-01-24出版团队公告称已推出；2024原拟印刷后调整。非版权页年份，不填写精确初版日期。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-05",
+      "record_id": "C-450045a52db5",
+      "field": "responsibility_note",
+      "before": null,
+      "after": "大行韩文释译由公告及封面支持；Chong Go自述参与翻译团队，不足认定唯一署名英译者。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-05",
+      "record_id": "C-450045a52db5",
+      "field": "copyright_page_verified",
+      "before": null,
+      "after": false,
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-06",
+      "record_id": "C-b1f1708cdd18",
+      "field": "copyright_page_verified",
+      "before": null,
+      "after": false,
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-06",
+      "record_id": "C-b1f1708cdd18",
+      "field": "author_responsibility_evidence",
+      "before": null,
+      "after": "公开原书封面实见“大行大师 著”；未见中文译者。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-06",
+      "record_id": "C-b1f1708cdd18",
+      "field": "publication_date_status",
+      "before": null,
+      "after": "待版权页/机构记录；零售片段2014-11-01不升级为已核刊行日。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-06",
+      "record_id": "C-b1f1708cdd18",
+      "field": "pagination_discrepancy",
+      "before": null,
+      "after": "既核两官方详情178页；教保零售片段172页。保留差异，不能仅凭差异拆分新版本。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-06",
+      "record_id": "C-9421265ef4d3",
+      "field": "copyright_page_verified",
+      "before": null,
+      "after": false,
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-06",
+      "record_id": "C-9421265ef4d3",
+      "field": "author_responsibility_evidence",
+      "before": null,
+      "after": "公开原书封面实见“大行大师 著”；未见中文译者。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-06",
+      "record_id": "C-9421265ef4d3",
+      "field": "publication_date_status",
+      "before": null,
+      "after": "待版权页/机构记录；零售片段2014-11-01不升级为已核刊行日。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-06",
+      "record_id": "C-9421265ef4d3",
+      "field": "pagination_discrepancy",
+      "before": null,
+      "after": "既核两官方详情178页；教保零售片段172页。保留差异，不能仅凭差异拆分新版本。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "author_or_teacher",
+      "before": null,
+      "after": "Ajaan Fuang Jotiko",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "compiler",
+      "before": null,
+      "after": "Thanissaro Bhikkhu (Geoffrey DeGraff)",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "translator",
+      "before": null,
+      "after": "Thanissaro Bhikkhu (Geoffrey DeGraff)",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "record_type",
+      "before": "other_author_translation_or_compilation",
+      "after": "other_author_teachings_compiled_and_translated",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "authorship_relation",
+      "before": null,
+      "after": "阿姜放教导；坦尼沙罗搜集、编选、编辑与英译；非坦尼沙罗独著，亦非全篇逐字录音稿",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "date_as_source",
+      "before": null,
+      "after": "1993",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "date_basis",
+      "before": null,
+      "after": "授权版权页copyright1993；2005第二版；前言修订注明确first edition in1993。不是电子文件首次发布年。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "edition_statement",
+      "before": null,
+      "after": "second edition 2005",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "revision_date",
+      "before": null,
+      "after": "2005-06",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "original_language",
+      "before": null,
+      "after": "Thai（泰语教导及泰文材料；依据编译者英文前言，未亲读泰文）",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "original_language_display",
+      "before": "原作/原讲语种未逐项核",
+      "after": "泰语/泰文源材料；本次只读英文编译本，未做原语对勘",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "edition_or_text_language_display",
+      "before": "en",
+      "after": "英文授权在线本；当前ebook ISBN979-8-90281-322-4；版权页记2005第二版",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "ebook_ISBN",
+      "before": null,
+      "after": "979-8-90281-322-4",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "print_ISBN",
+      "before": null,
+      "after": "979-8-90281-321-7",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "rights",
+      "before": null,
+      "after": "现行授权版权页CC BY-NC4.0；特别定义commercial为任何销售，包括非营利组织销售；不能外推其他版本许可",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "locator",
+      "before": "",
+      "after": "Section0001.html扉页；Section0002.html版权版次/ISBN；Section0003.html材料来源与2005修订注",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "reading_status",
+      "before": "仅读目录或已注明局部正文；未逐本通读",
+      "after": "英文授权扉页、版权页与前言相关段实际读取；非全书；未读泰文底本",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "access_status",
+      "before": "official_index_read; individual_book_not_read",
+      "after": "authorized_online_frontmatter_read; no_complete_book_download",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-07",
+      "record_id": "C-7328fc94fc6d",
+      "field": "source_material_note",
+      "before": null,
+      "after": "前言自述：为纪念集整理生平及少量录音；之后写下记忆、访谈其他学生，历时两年余并编辑成The Language of the Heart；另转录一份较深入录音为Transcendent Discernment。本书从上述三种材料选取，多数来自前者，部分轶事为适应西方读者重新讲述。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-08",
+      "record_id": "C-961bb91f2bc69787",
+      "field": "library_corroboration",
+      "before": null,
+      "after": {
+        "source_url": "https://library.kborneo.my/cgi-bin/koha/opac-detail.pl?biblionumber=1189",
+        "catalogue_record": "koha:biblionumber:1189",
+        "evidence_type": "later_reprint_catalogue_transcribed_title_verso",
+        "assertion": "后出大学馆藏的版本注转录支持First published1959，非直接读1959原印版权页"
+      },
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-08",
+      "record_id": "C-961bb91f2bc69787",
+      "field": "date_basis",
+      "before": "研究所书目列Gordon Fraser Gallery Ltd, London and Bedford, 1959；初版版权页未独立核",
+      "after": "研究所书目列1959；新增大学馆藏1189所转录T.p. verso亦列First published1959。两者均非本次直接核1959原印页。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-08",
+      "record_id": "C-961bb91f2bc69787",
+      "field": "copyright_page_directly_read",
+      "before": null,
+      "after": false,
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-08",
+      "record_id": "C-f8f8f09b3d57bf20",
+      "field": "library_corroboration",
+      "before": null,
+      "after": {
+        "source_url": "https://library.kborneo.my/cgi-bin/koha/opac-detail.pl?biblionumber=1189",
+        "catalogue_record": "koha:biblionumber:1189",
+        "assertion": "后出重印本题名页背面版本注由馆员转录，列Second and enlarged edition1967"
+      },
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-08",
+      "record_id": "C-f8f8f09b3d57bf20",
+      "field": "date_basis",
+      "before": "研究所明确second and enlarged edn. 1967；未核实物版权页",
+      "after": "机构书目及大学馆藏转录的版本注相互支持1967第二增订版；未读1967原印版权页。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-08",
+      "record_id": "C-f8f8f09b3d57bf20",
+      "field": "copyright_page_directly_read",
+      "before": null,
+      "after": false,
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-08",
+      "record_id": "C-cea83715425357cf",
+      "field": "edition_resolution_status",
+      "before": null,
+      "after": "仍未解决Grove1969商品元数据与其1962/1974版本沿革的实物对应",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-08",
+      "record_id": "C-cea83715425357cf",
+      "field": "copyright_page_directly_read",
+      "before": null,
+      "after": false,
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-08",
+      "record_id": "C-cea83715425357cf",
+      "field": "library_manifestation_match",
+      "before": null,
+      "after": "新增大学馆藏1189为台北[1990],c1978无ISBN重印；不得直接认作Grove ISBN9780802130310",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-08",
+      "record_id": "C-cea83715425357cf",
+      "field": "translation_responsibility_note",
+      "before": "出版社说书中所选巴利文本由作者专译；不是他人对整书的英译责任",
+      "after": "既有出版社说明巴利选文由作者译；大学馆藏题名仅称巴利选文译出，未独立注明译者姓名。两类责任来源保留，不将前言作者充当全书译者。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-09",
+      "record_id": "C-daa40483a3101086",
+      "field": "author_credit",
+      "before": null,
+      "after": "Mahasi Sayadaw",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-09",
+      "record_id": "C-daa40483a3101086",
+      "field": "translator",
+      "before": null,
+      "after": "Nyanaponika Thera",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-09",
+      "record_id": "C-daa40483a3101086",
+      "field": "translation_source_language",
+      "before": null,
+      "after": "pi",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-09",
+      "record_id": "C-daa40483a3101086",
+      "field": "original_language_note",
+      "before": null,
+      "after": "作者结语英译称先缅文、转巴利；本英文文本题名署从巴利译。未直接校缅／巴利原版。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-09",
+      "record_id": "C-daa40483a3101086",
+      "field": "verified_english_edition",
+      "before": null,
+      "after": {
+        "publisher": "Buddhist Publication Society",
+        "edition": "Third BPS edition",
+        "publication_year": "1994",
+        "basis": "ATI页尾明确由BPS提供文件并标第三BPS版1994；不是仅据©",
+        "isbn": null,
+        "evidence_url": "https://accesstoinsight.org/lib/authors/mahasi/progress.html",
+        "locator": "网页行461—464"
+      },
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-09",
+      "record_id": "C-daa40483a3101086",
+      "field": "digital_version",
+      "before": null,
+      "after": {
+        "host": "Access to Insight（Barre Center for Buddhist Studies）",
+        "revision_date": "2013-11-30",
+        "basis": "页尾Last revised标记，非英译首次发表日期"
+      },
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-09",
+      "record_id": "C-daa40483a3101086",
+      "field": "first_english_publication_status",
+      "before": null,
+      "after": "1965有馆藏检索线索，但目标详情及首印版权页未取得；保留unknown",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-09",
+      "record_id": "C-daa40483a3101086",
+      "field": "copyright_page_directly_read",
+      "before": null,
+      "after": false,
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-09",
+      "record_id": "C-daa40483a3101086",
+      "field": "chronology_additions",
+      "before": null,
+      "after": [
+        {
+          "date": "1950-05-22",
+          "event": "Conclusion所载文本署时",
+          "evidence_type": "作者结语之英译转录；非本轮巴利手稿实读"
+        },
+        {
+          "date": "1994",
+          "event": "本电子转录所据第三BPS英版",
+          "evidence_type": "BPS供稿来源声明明确版次年"
+        },
+        {
+          "date": "2013-11-30",
+          "event": "ATI电子修订",
+          "evidence_type": "网站末尾版本说明"
+        }
+      ],
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-10",
+      "record_id": "C-ee876ff75d3a8d29",
+      "field": "source_url",
+      "before": "https://hub.won.or.kr/dictionary/view/0082",
+      "after": "https://hub.won.or.kr/dictionary/view/1578",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-10",
+      "record_id": "C-ee876ff75d3a8d29",
+      "field": "locator",
+      "before": "형성 과정；创始人亲自监修刊行",
+      "after": "〈불교정전〉：개요、결집과정、1권의 편제、2・3권의 편제；这是后出辞典，不是初版刊记",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-10",
+      "record_id": "C-ee876ff75d3a8d29",
+      "field": "record_type",
+      "before": "创始人在世监修的教团经典版本",
+      "after": "创始人在世亲审、弟子参与统编的教团经典；含既有佛典及祖师文献的编辑版本（后出辞典记载，初版责任署名待核）",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-10",
+      "record_id": "C-ee876ff75d3a8d29",
+      "field": "date_basis",
+      "before": "刊行年；据官方后出辞典，非网页发布日期",
+      "after": "刊行年仅获后出教团说明支持；1943-03-20是其所述名义刊行日，且记印本8月抵达。未亲读初版刊记，暂不提高为原页核实的精确日。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-10",
+      "record_id": "C-ee876ff75d3a8d29",
+      "field": "edition_or_text_language_display",
+      "before": "ko",
+      "after": "韩文及汉文混用／若干部分汉韩对照（后出辞典说明，未逐叶验证）",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-10",
+      "record_id": "C-ee876ff75d3a8d29",
+      "field": "original_language_status",
+      "before": null,
+      "after": "本书有教团原创教义文字与既有汉文佛典、祖师文献韩译；不能为全书指定单一原创语种。初版逐卷文字待核。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-10",
+      "record_id": "C-ee876ff75d3a8d29",
+      "field": "authorship_status",
+      "before": null,
+      "after": "不可计为创始人逐字独撰全三卷；亲审、弟子统编、刊记编辑发行角色分别待证。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-10",
+      "record_id": "C-ee876ff75d3a8d29",
+      "field": "publication_date_primary_verified",
+      "before": null,
+      "after": false,
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-10",
+      "record_id": "C-ee876ff75d3a8d29",
+      "field": "colophon_image_verified",
+      "before": null,
+      "after": false,
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-10",
+      "record_id": "C-ee876ff75d3a8d29",
+      "field": "reading_status",
+      "before": "读编纂说明，未核1943实物",
+      "after": "实读正确后出辞典条目；大学详细书志仅检索摘要，初版版权页/刊记未取得",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-10",
+      "record_id": "C-ee876ff75d3a8d29",
+      "field": "access_status",
+      "before": "来源说明网页可读；未下载原版",
+      "after": "官方后出说明可读；1943初版刊记原页未取得",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-10",
+      "record_id": "C-ee876ff75d3a8d29",
+      "field": "evidence_limit",
+      "before": null,
+      "after": "原旧链接0082实为〈开教的动机〉；保留旧来源快照，不将其当整书书目。东国大学书志有金泰洽编／编辑线索，但未取得完整馆藏责任书目。",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-03",
+      "record_id": "C-1da71601c58e",
+      "field": "isbn",
+      "before": null,
+      "after": "9781645470557",
+      "reason": "使新采用的出版社版本日明确绑定到实读ISBN"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-03",
+      "record_id": "C-1da71601c58e",
+      "field": "source_url",
+      "before": "https://tenzinpalmo.com/publications/",
+      "after": "https://www.shambhala.com/heroic-heart.html",
+      "reason": "规范日期现据出版商；原作者目录2026值保存在source_conflict及来源快照"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-03",
+      "record_id": "C-1da71601c58e",
+      "field": "identified_edition_scope",
+      "before": null,
+      "after": "Shambhala平装ISBN9781645470557；未核版权页/印次，不能声称首版已证",
+      "reason": "原证/馆藏复核"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-10",
+      "record_id": "C-ee876ff75d3a8d29",
+      "field": "language",
+      "before": "ko",
+      "after": "ko; zh（据后出编纂说明；未读1943初版逐叶）",
+      "reason": "避免韩文单语字段掩盖所述汉韩混用；不升级为原件语种核实"
+    },
+    {
+      "stage": "G20-I2",
+      "audit_id": "P2-05",
+      "record_id": "C-450045a52db5",
+      "field": "publication_available_not_after",
+      "before": null,
+      "after": "2025-01-24",
+      "reason": "出版团队当日公告已推出；不能写作版权页精确初版日"
+    }
+  ],
+  "future_audio_sample_preparation": {
+    "status": "prepared_for_future_comparison_not_listened",
+    "record_id": "M-e9c91ed6bd24",
+    "title": "Do, Maintain, Use",
+    "speaker_as_catalogued": "Ṭhānissaro Bhikkhu；本阶段未听辨声音",
+    "event_date_as_catalogued": "2025-01-31",
+    "source_url": "https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html",
+    "official_mp3_url": "https://www.dhammatalks.org/Archive/y2025/250131_Do,_Maintain,_Use.mp3",
+    "source_read_on": "2026-10-18",
+    "permission_basis": "官方详情明确Click here to download / mp3 audio；只据此准备个人研究，未建立独立再传播或剪辑许可。",
+    "page_locator": "题名、2025-01-31日期行及下载链接；其下有完整连续文字，无逐句时码。",
+    "duration_seconds_from_previously_saved_file": 1016.946939,
+    "proposed_audio_range_seconds": [
+      0,
+      120
+    ],
+    "range_status": "未来拟校范围，非已定位引语时码；未确认开场静音、介绍或正文起点。",
+    "proposed_text_anchor": "官网正文首段及随后段落；能否对应前120秒须以后实听核验。",
+    "text_read_scope": "本阶段读取官网题名、日期、下载声明及开头段落；不据文字宣布已匹配音轨。",
+    "new_audio_downloads": 0,
+    "existing_private_asset_reused": true,
+    "audio_listened": false,
+    "transcript_matched": false,
+    "verified_timecodes": [],
+    "publication_warning": "本索引不附音频、不切片、不发布转写；后续是否可公开比较须另按音源权利处理。"
+  },
+  "_publication": {
+    "prepared": "2026-10-19",
+    "original_hash_scope": "原交付清单内哈希指恢复原件，不是隐私清理后公开文件；当前文件哈希见仓库manifest.json。",
+    "rights_scope": "早期权利评估保留其原日期；本次可分发附件及条件以rights/为准。",
+    "research_status": "未增加研究范围、未听校录音；来源元数据不代表已下载或通读。"
+  }
+}

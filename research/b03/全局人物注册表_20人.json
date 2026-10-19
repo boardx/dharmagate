@@ -1,0 +1,283 @@
+{
+  "namespace_note": "沿用首批P-B02编号作为稳定人物命名空间，新增人物顺延11—20；batch字段另列B03，编号前缀不再表示当次批次，不重命名既有ID。",
+  "people": [
+    {
+      "person_id": "P-B02-01",
+      "name_zh": "圣严",
+      "original_name": "聖嚴",
+      "aliases": [
+        "圣严",
+        "釋聖嚴",
+        "Sheng Yen",
+        "Sheng-yen"
+      ],
+      "first_batch": "B02"
+    },
+    {
+      "person_id": "P-B02-02",
+      "name_zh": "星云",
+      "original_name": "星雲",
+      "aliases": [
+        "星云",
+        "釋星雲",
+        "Hsing Yun",
+        "Hsing-yun"
+      ],
+      "first_batch": "B02"
+    },
+    {
+      "person_id": "P-B02-03",
+      "name_zh": "一行",
+      "original_name": "Thích Nhất Hạnh",
+      "aliases": [
+        "Thich Nhat Hanh",
+        "一行禅师",
+        "釋一行",
+        "Thầy"
+      ],
+      "first_batch": "B02"
+    },
+    {
+      "person_id": "P-B02-04",
+      "name_zh": "第十四世达赖喇嘛",
+      "original_name": "第十四世达赖喇嘛",
+      "aliases": [
+        "14th Dalai Lama",
+        "Tenzin Gyatso",
+        "丹增嘉措"
+      ],
+      "first_batch": "B02"
+    },
+    {
+      "person_id": "P-B02-05",
+      "name_zh": "杰尊玛丹津葩默",
+      "original_name": "杰尊玛丹津葩默",
+      "aliases": [
+        "Jetsunma Tenzin Palmo",
+        "Tenzin Palmo",
+        "Diane Perry"
+      ],
+      "first_batch": "B02"
+    },
+    {
+      "person_id": "P-B02-06",
+      "name_zh": "阿姜查",
+      "original_name": "阿姜查 Ajahn Chah",
+      "aliases": [
+        "หลวงพ่อชา",
+        "หลวงปู่ชา สุภัทโท",
+        "พระโพธิญาณเถร"
+      ],
+      "first_batch": "B02"
+    },
+    {
+      "person_id": "P-B02-07",
+      "name_zh": "佛使",
+      "original_name": "佛使 Buddhadasa Bhikkhu",
+      "aliases": [
+        "พุทธทาส",
+        "พุทธทาสภิกขุ",
+        "พุทธทาส อินทปัญโญ"
+      ],
+      "first_batch": "B02"
+    },
+    {
+      "person_id": "P-B02-08",
+      "name_zh": "坦尼沙罗",
+      "original_name": "Ṭhānissaro Bhikkhu",
+      "aliases": [
+        "Thanissaro Bhikkhu",
+        "Ajaan Geoff",
+        "坦尼沙罗"
+      ],
+      "first_batch": "B02"
+    },
+    {
+      "person_id": "P-B02-09",
+      "name_zh": "铃木俊隆",
+      "original_name": "铃木俊隆",
+      "aliases": [
+        "Shunryu Suzuki",
+        "Shunryū Suzuki",
+        "鈴木俊隆",
+        "Suzuki Roshi",
+        "祥岳俊隆"
+      ],
+      "first_batch": "B02"
+    },
+    {
+      "person_id": "P-B02-10",
+      "name_zh": "大行",
+      "original_name": "大行",
+      "aliases": [
+        "Daehaeng",
+        "대행",
+        "大行",
+        "Daehaeng Kun Sunim",
+        "대행선사"
+      ],
+      "first_batch": "B02"
+    },
+    {
+      "person_id": "P-B02-11",
+      "name_zh": "太虚",
+      "first_batch": "B03",
+      "selection_reason": "汉地佛教改革与僧教育，复用总纲已核1944讲说入口",
+      "status": "有限目录证据已复核；详见B03记录",
+      "original_name": "太虛",
+      "aliases": [
+        "太虛大師",
+        "釋太虛",
+        "唯心"
+      ],
+      "region": "中国",
+      "tradition_context": "汉传大乘；佛教改革与人生佛教"
+    },
+    {
+      "person_id": "P-B02-12",
+      "name_zh": "印光",
+      "first_batch": "B03",
+      "selection_reason": "净土劝修、书信与在家仪式，复用总纲《临终三大要》入口",
+      "status": "有限目录证据已复核；详见B03记录",
+      "original_name": "印光",
+      "aliases": [
+        "印光大師",
+        "釋印光"
+      ],
+      "region": "中国",
+      "tradition_context": "汉传净土"
+    },
+    {
+      "person_id": "P-B02-13",
+      "name_zh": "弘一",
+      "first_batch": "B03",
+      "selection_reason": "近现代律学、艺术与出家著述，补首批汉传范围",
+      "status": "有限目录证据已复核；详见B03记录",
+      "original_name": "李叔同；出家法名演音，號弘一",
+      "aliases": [
+        "弘一大師",
+        "弘一法師",
+        "李叔同",
+        "演音"
+      ],
+      "region": "中国",
+      "tradition_context": "汉传南山律学"
+    },
+    {
+      "person_id": "P-B02-14",
+      "name_zh": "印順",
+      "first_batch": "B03",
+      "selection_reason": "近现代经论研究与教史诠释，补首批学术与修学谱系",
+      "status": "有限目录证据已复核；详见B03记录",
+      "original_name": "釋印順；俗名張鹿芹",
+      "aliases": [
+        "印順導師",
+        "印順法師",
+        "Yin Shun",
+        "Yinshun"
+      ],
+      "region": "中国—台湾",
+      "tradition_context": "汉传大乘；人间佛教与经论研究"
+    },
+    {
+      "person_id": "P-B02-15",
+      "name_zh": "金子大荣",
+      "first_batch": "B03",
+      "selection_reason": "日本净土真宗近现代教学与著述，补首批曹洞以外传统",
+      "status": "有限目录证据已复核；详见B03记录",
+      "original_name": "金子大榮",
+      "aliases": [
+        "金子大栄",
+        "Kaneko Daiei",
+        "Daiei Kaneko",
+        "かねこ だいえい"
+      ],
+      "region": "日本",
+      "tradition_context": "净土真宗（大谷派教学）"
+    },
+    {
+      "person_id": "P-B02-16",
+      "name_zh": "池田大作",
+      "first_batch": "B03",
+      "selection_reason": "日本日莲系在家运动与国际出版，区别本人、合著与组织材料",
+      "status": "有限目录证据已复核；详见B03记录",
+      "original_name": "池田大作",
+      "aliases": [
+        "Daisaku Ikeda",
+        "いけだ だいさく",
+        "山本伸一（小説筆名）",
+        "法悟空（筆名）"
+      ],
+      "region": "日本及国际",
+      "tradition_context": "日莲系；创价学会在家运动"
+    },
+    {
+      "person_id": "P-B02-17",
+      "name_zh": "少太山朴重彬",
+      "first_batch": "B03",
+      "selection_reason": "韩国圆佛教创始与后出经典编集，独立标示自我认同和宗教分类",
+      "status": "有限目录证据已复核；详见B03记录",
+      "original_name": "소태산 박중빈（少太山 朴重彬）",
+      "aliases": [
+        "Sotaesan Park Chung-bin",
+        "Sot’aesan Pak Chungbin",
+        "박중빈",
+        "少太山大宗师"
+      ],
+      "region": "韩国",
+      "tradition_context": "圆佛教；佛教渊源新宗教，分类须另辨"
+    },
+    {
+      "person_id": "P-B02-18",
+      "name_zh": "瓦尔波拉·罗睺罗",
+      "first_batch": "B03",
+      "selection_reason": "斯里兰卡佛教、学术与跨语言著述，补首批地区缺口",
+      "status": "有限目录证据已复核；详见B03记录",
+      "original_name": "Walpola Rahula",
+      "aliases": [
+        "Walpola Sri Rahula",
+        "Walpola Rahula Thera",
+        "වල්පොළ රාහුල"
+      ],
+      "region": "斯里兰卡及国际",
+      "tradition_context": "上座部佛教；学术与跨语种传播"
+    },
+    {
+      "person_id": "P-B02-19",
+      "name_zh": "马哈希西亚多",
+      "first_batch": "B03",
+      "selection_reason": "缅甸内观教学与译传，补首批泰国森林以外的上座部网络",
+      "status": "有限目录证据已复核；详见B03记录",
+      "original_name": "Mahāsi Sayādaw",
+      "aliases": [
+        "Mahasi Sayadaw",
+        "U Sobhana",
+        "Ashin Sobhana",
+        "မဟာစည်ဆရာတော်"
+      ],
+      "region": "缅甸及国际",
+      "tradition_context": "上座部佛教；内观教学"
+    },
+    {
+      "person_id": "P-B02-20",
+      "name_zh": "艾雅凯玛",
+      "first_batch": "B03",
+      "selection_reason": "德语与英语上座部修学、尼众和欧洲机构，补语言与女性案例",
+      "status": "有限目录证据已复核；详见B03记录",
+      "original_name": "Ayya Khema",
+      "aliases": [
+        "Sister Ayya Khema",
+        "Sister Khema",
+        "Ilse Kussel"
+      ],
+      "region": "德国—斯里兰卡及国际",
+      "tradition_context": "上座部佛教；德英语禅修教学"
+    }
+  ],
+  "_publication": {
+    "prepared": "2026-10-19",
+    "original_hash_scope": "原交付清单内哈希指恢复原件，不是隐私清理后公开文件；当前文件哈希见仓库manifest.json。",
+    "rights_scope": "早期权利评估保留其原日期；本次可分发附件及条件以rights/为准。",
+    "research_status": "未增加研究范围、未听校录音；来源元数据不代表已下载或通读。"
+  }
+}

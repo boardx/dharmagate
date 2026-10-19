@@ -1,0 +1,55 @@
+{
+  "gaps": [
+    {
+      "item": "outline R00–R10 original pre-E01 byte versions",
+      "status": "not_recovered",
+      "available": "11份E01清理文本及原始版本哈希、版本对照",
+      "reason": "当前资料包不含原始未清理字节，不以哈希替代原件"
+    },
+    {
+      "item": "B03 initial 126-page draft and initial v0 package",
+      "status": "not_recovered",
+      "available": "75页版及迭代说明、历史大小记录",
+      "reason": "已知旧file_id固定版本读取被原有Library接口拒绝匹配；未覆盖现行文件"
+    },
+    {
+      "item": "G20-I1 full historical byte snapshot",
+      "status": "not_recovered",
+      "available": "当前I2、I1→I2修订账与原值",
+      "reason": "旧版本固定读取未成功；修订差异不等于完整旧文件"
+    },
+    {
+      "item": "Historical source preview JPGs and render checks",
+      "status": "not_recovered_link_only",
+      "available": "图片/预览链接与实读范围、未取得状态",
+      "reason": "临时环境未保留，且未建立图片公开再分发许可，未重下载凑数"
+    },
+    {
+      "item": "Most referenced books, papers, recordings",
+      "status": "metadata_only_not_downloaded",
+      "available": "来源、作者、题名、页段、原语/版本关系、访问状态及原创摘要",
+      "reason": "现有研究只是有限资料集，不是全世界佛教文献或媒体备份"
+    },
+    {
+      "item": "Two newly discovered same-domain PDFs",
+      "status": "scope_pending_excluded",
+      "available": "本地私有scope-review目录已恢复，两份各13页",
+      "reason": "非已交接研究主线，需确认其归属与图片来源后再发布，不擅自公开其他会话成果"
+    }
+  ],
+  "research_counts": {
+    "people": 20,
+    "source_catalogue_rows": 771,
+    "manifestations": 770,
+    "search_families": 759,
+    "media_metadata": 118,
+    "quarantined_leads": 3
+  },
+  "not_claimed": [
+    "all_lifetime_works",
+    "all_languages",
+    "all_sources_downloaded",
+    "full_texts_all_read",
+    "audio_listened_or_verified_transcripts"
+  ]
+}

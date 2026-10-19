@@ -1,0 +1,269 @@
+{
+  "person_id": "P-B02-16",
+  "name_zh": "池田大作",
+  "original_name": "池田大作",
+  "aliases": [
+    "Daisaku Ikeda",
+    "いけだ だいさく",
+    "山本伸一（小説筆名）",
+    "法悟空（筆名）"
+  ],
+  "selection_reason": "日莲系在家运动创价学会与国际出版；区分个人作品、共同对谈、组织编辑叙述及后期影音。",
+  "bounded_scope": "河出书房新社作者搜索页5/5版册全列，加创价学会本人官方简介明确列举的6个书名/系列，合计11记录；两个边界并列，不称池田全部书目。河出作者介绍含过时职衔与卷数，身份及系列总卷数采用当前官方本人简介，本轮不沿用“现16卷”。影音只列1条官方明确说明含当日本人讲演影像的后期纪录片。",
+  "sources": [
+    {
+      "title": "池田大作 河出作者搜索结果",
+      "author": "河出书房新社",
+      "url": "https://www.kawade.co.jp/np/search_result.html?writer_id=00067",
+      "locator": "5件中1–5；书名、合著者、発売日与ISBN",
+      "read_level": "日文出版社目录实读；各书正文未读"
+    },
+    {
+      "title": "第3代会長・池田大作先生",
+      "author": "创价学会",
+      "url": "https://www.sokagakkai.jp/philosophy/founding-presidents/ikeda.html",
+      "locator": "略历主な著書及作家、诗人、哲学者节",
+      "read_level": "日文官方组织传记实读；关于本人成就为组织自述，不当独立评估"
+    },
+    {
+      "title": "ガンジー記念館講演 不戦世界を目指して",
+      "author": "创价学会 SOKAnet",
+      "url": "https://www.sokanet.jp/recommend/movie/videos/gandhi/",
+      "locator": "公開日及動画の概要",
+      "read_level": "日文视频说明实读；未播放"
+    },
+    {
+      "title": "SOKAnetムービー",
+      "url": "https://www.sokanet.jp/recommend/movie/",
+      "locator": "学术讲演分类中Gandhi项目11:09；页脚版权",
+      "read_level": "官方视频目录实读"
+    }
+  ],
+  "works": [
+    {
+      "title": "今日の世界 明日の文明―新たな平和のシルクロード",
+      "url": "https://www.kawade.co.jp/np/isbn/9784309230795/",
+      "locator": "河出作者搜索页5件中对应书名、作者、発売日、ISBN",
+      "date": "2007-09-05",
+      "date_type": "该河出版発売日",
+      "language": "ja",
+      "record_type": "coauthored_dialogue_book",
+      "rights": "出版商网页Copyright All rights reserved；未发现书籍开放许可",
+      "access_status": "书目简介公开；搜索页标品切・重版未定，不等于没有图书馆或二手渠道",
+      "read_status": "publisher_index_metadata_read；非书籍正文",
+      "coauthors": [
+        "ヌール・ヤーマン"
+      ],
+      "isbn": "9784309230795",
+      "volume": null,
+      "source_index_url": "https://www.kawade.co.jp/np/search_result.html?writer_id=00067",
+      "relationship_note": "池田与所列对象合著对谈；上下两册属同一作品，不各计独立对谈。"
+    },
+    {
+      "title": "希望の選択",
+      "url": "https://www.kawade.co.jp/np/isbn/9784309230641/",
+      "locator": "河出作者搜索页5件中对应书名、作者、発売日、ISBN",
+      "date": "2001-08-24",
+      "date_type": "该河出版発売日",
+      "language": "ja",
+      "record_type": "coauthored_dialogue_book",
+      "rights": "出版商网页Copyright All rights reserved；未发现书籍开放许可",
+      "access_status": "书目简介公开；搜索页标品切・重版未定，不等于没有图书馆或二手渠道",
+      "read_status": "publisher_index_metadata_read；非书籍正文",
+      "coauthors": [
+        "デイビッド・クリーガー"
+      ],
+      "isbn": "9784309230641",
+      "volume": null,
+      "source_index_url": "https://www.kawade.co.jp/np/search_result.html?writer_id=00067",
+      "relationship_note": "池田与所列对象合著对谈；上下两册属同一作品，不各计独立对谈。"
+    },
+    {
+      "title": "太平洋の旭日",
+      "url": "https://www.kawade.co.jp/np/isbn/9784309241999/",
+      "locator": "河出作者搜索页5件中对应书名、作者、発売日、ISBN",
+      "date": "1997-10-30",
+      "date_type": "该河出版発売日",
+      "language": "ja",
+      "record_type": "coauthored_dialogue_book",
+      "rights": "出版商网页Copyright All rights reserved；未发现书籍开放许可",
+      "access_status": "书目简介公开；搜索页标品切・重版未定，不等于没有图书馆或二手渠道",
+      "read_status": "publisher_index_metadata_read；非书籍正文",
+      "coauthors": [
+        "P・エイルウィン"
+      ],
+      "isbn": "9784309241999",
+      "volume": null,
+      "source_index_url": "https://www.kawade.co.jp/np/search_result.html?writer_id=00067",
+      "relationship_note": "池田与所列对象合著对谈；上下两册属同一作品，不各计独立对谈。"
+    },
+    {
+      "title": "二十一世紀への人間と哲学 上―新しい人間像を求めて",
+      "url": "https://www.kawade.co.jp/np/isbn/9784309230085/",
+      "locator": "河出作者搜索页5件中对应书名、作者、発売日、ISBN",
+      "date": "1989-04-25",
+      "date_type": "该河出版発売日",
+      "language": "ja",
+      "record_type": "coauthored_dialogue_volume",
+      "rights": "出版商网页Copyright All rights reserved；未发现书籍开放许可",
+      "access_status": "书目简介公开；搜索页标品切・重版未定，不等于没有图书馆或二手渠道",
+      "read_status": "publisher_index_metadata_read；非书籍正文",
+      "coauthors": [
+        "J・デルボラフ"
+      ],
+      "isbn": "9784309230085",
+      "volume": "上",
+      "source_index_url": "https://www.kawade.co.jp/np/search_result.html?writer_id=00067",
+      "relationship_note": "池田与所列对象合著对谈；上下两册属同一作品，不各计独立对谈。"
+    },
+    {
+      "title": "二十一世紀への人間と哲学 下―新しい人間像を求めて",
+      "url": "https://www.kawade.co.jp/np/isbn/9784309230092/",
+      "locator": "河出作者搜索页5件中对应书名、作者、発売日、ISBN",
+      "date": "1989-04-25",
+      "date_type": "该河出版発売日",
+      "language": "ja",
+      "record_type": "coauthored_dialogue_volume",
+      "rights": "出版商网页Copyright All rights reserved；未发现书籍开放许可",
+      "access_status": "书目简介公开；搜索页标品切・重版未定，不等于没有图书馆或二手渠道",
+      "read_status": "publisher_index_metadata_read；非书籍正文",
+      "coauthors": [
+        "J・デルボラフ"
+      ],
+      "isbn": "9784309230092",
+      "volume": "下",
+      "source_index_url": "https://www.kawade.co.jp/np/search_result.html?writer_id=00067",
+      "relationship_note": "池田与所列对象合著对谈；上下两册属同一作品，不各计独立对谈。"
+    },
+    {
+      "title": "人間革命",
+      "url": "https://www.sokagakkai.jp/philosophy/founding-presidents/ikeda.html",
+      "locator": "《略歴》主な著書段；「作家、詩人、哲学者として」节",
+      "date": null,
+      "date_type": "具体版本出版日期未知；文中写作起迄不充当出版日",
+      "language": "ja",
+      "record_type": "novel_series",
+      "rights": "官方网页页脚SokaGakkai All Rights Reserved；书籍权属及许可未逐版核验",
+      "access_status": "官方简介公开；非该书全文入口",
+      "read_status": "official_biographical_index_only",
+      "relationship_note": "官方简介标全12卷；本条为系列级记录，不拆作已核12条单卷版本"
+    },
+    {
+      "title": "新・人間革命",
+      "url": "https://www.sokagakkai.jp/philosophy/founding-presidents/ikeda.html",
+      "locator": "《略歴》主な著書段；「作家、詩人、哲学者として」节",
+      "date": null,
+      "date_type": "具体版本出版日期未知；文中写作起迄不充当出版日",
+      "language": "ja",
+      "record_type": "novel_series",
+      "rights": "官方网页页脚SokaGakkai All Rights Reserved；书籍权属及许可未逐版核验",
+      "access_status": "官方简介公开；非该书全文入口",
+      "read_status": "official_biographical_index_only",
+      "relationship_note": "官方简介标全30卷；本条为系列级记录；不是前作12卷的重版"
+    },
+    {
+      "title": "二十一世紀への対話",
+      "url": "https://www.sokagakkai.jp/philosophy/founding-presidents/ikeda.html",
+      "locator": "《略歴》主な著書段；「作家、詩人、哲学者として」节",
+      "date": null,
+      "date_type": "具体版本出版日期未知；文中写作起迄不充当出版日",
+      "language": "ja",
+      "record_type": "coauthored_dialogue_book",
+      "rights": "官方网页页脚SokaGakkai All Rights Reserved；书籍权属及许可未逐版核验",
+      "access_status": "官方简介公开；非该书全文入口",
+      "read_status": "official_biographical_index_only",
+      "relationship_note": "与A・トインビー对谈；与河出J・デルボラフ的上下册不是同书"
+    },
+    {
+      "title": "さくらの木",
+      "url": "https://www.sokagakkai.jp/philosophy/founding-presidents/ikeda.html",
+      "locator": "《略歴》主な著書段；「作家、詩人、哲学者として」节",
+      "date": null,
+      "date_type": "具体版本出版日期未知；文中写作起迄不充当出版日",
+      "language": "ja",
+      "record_type": "children_literature",
+      "rights": "官方网页页脚SokaGakkai All Rights Reserved；书籍权属及许可未逐版核验",
+      "access_status": "官方简介公开；非该书全文入口",
+      "read_status": "official_biographical_index_only",
+      "relationship_note": "官方简介列举的童话标题；未核具体初版"
+    },
+    {
+      "title": "青春対話",
+      "url": "https://www.sokagakkai.jp/philosophy/founding-presidents/ikeda.html",
+      "locator": "《略歴》主な著書段；「作家、詩人、哲学者として」节",
+      "date": null,
+      "date_type": "具体版本出版日期未知；文中写作起迄不充当出版日",
+      "language": "ja",
+      "record_type": "dialogue_collection_for_youth",
+      "rights": "官方网页页脚SokaGakkai All Rights Reserved；书籍权属及许可未逐版核验",
+      "access_status": "官方简介公开；非该书全文入口",
+      "read_status": "official_biographical_index_only",
+      "relationship_note": "官方简介列举的青少年读物；未核卷册版本"
+    },
+    {
+      "title": "法華経の智慧",
+      "url": "https://www.sokagakkai.jp/philosophy/founding-presidents/ikeda.html",
+      "locator": "《略歴》主な著書段；「作家、詩人、哲学者として」节",
+      "date": null,
+      "date_type": "具体版本出版日期未知；文中写作起迄不充当出版日",
+      "language": "ja",
+      "record_type": "buddhist_teaching_collection",
+      "rights": "官方网页页脚SokaGakkai All Rights Reserved；书籍权属及许可未逐版核验",
+      "access_status": "官方简介公开；非该书全文入口",
+      "read_status": "official_biographical_index_only",
+      "relationship_note": "官方简介列举的佛法哲学解说书；具体协作者、版本及卷数未核，不能据简介确认为独著"
+    }
+  ],
+  "quotations": [
+    {
+      "original": "戦争ほど、残酷なものはない。",
+      "translation_zh": "没有什么比战争更残酷。",
+      "source_url": "https://www.sokagakkai.jp/philosophy/founding-presidents/ikeda.html",
+      "locator": "「作家、詩人、哲学者として―小説『人間革命』の執筆」首段，官方注明小说开头",
+      "date_basis": "该简介述1964年冲绳开始写作；不是本轮核实的初版日期；网页无此段独立发表日",
+      "classification": "本人小说语句的官方日文转引；非对战争史的经验证明",
+      "read_scope": "亲读官方引语及相邻两段，语境为小说创作和反战主旨；未读小说原版页，故不提供虚构纸本页码。"
+    }
+  ],
+  "media": [
+    {
+      "title": "ガンジー記念館講演 不戦世界を目指して",
+      "url": "https://www.sokanet.jp/recommend/movie/videos/gandhi/",
+      "event_date": "1992-02",
+      "publication_date": "2026-05-19",
+      "language_role": {
+        "page_language": "ja",
+        "original_speech": null,
+        "narration_or_translation": null
+      },
+      "locator": "影片详情「動画の概要」说明1992年2月在印度国立博物馆讲演，纪录片以当日讲演影像为轴；邀请机构为国立甘地纪念馆",
+      "timecode_status": "本人讲演在剪辑片中的起止时码未知；目录只提供整片时长",
+      "duration": "00:11:09",
+      "rights": "©SokaGakkai（JAPAN）All Rights Reserved；未发现开放转载许可",
+      "access_status": "官方详情有Vimeo嵌入播放器入口；播放与字幕可用性未实测",
+      "playback_status": "not_played；not_downloaded",
+      "record_type": "institutional_documentary_including_original_speaker_footage",
+      "attribution_caution": "含拉达克里希南等他人访谈及组织后期编辑，不把11分09秒当作1992本人完整演讲。"
+    }
+  ],
+  "gaps": [
+    "11条是两种公开目录边界的记录，远非全部著作；河出5册含同作上下册，官方6项含系列及未核协作者书目。",
+    "本人短引仅核官方日文转引，未读小说纸本原页；后续可据初版或授权电子版精确对勘。",
+    "媒体语音/译语、字幕及本人发言时码未播放核验，不推定日文网页就等于全部日语音轨。",
+    "其他哈佛、博洛尼亚视频仅见官方剪辑说明，未认证为完整本人演说记录，未增列凑数。",
+    "官方传记对作用及国际影响有自身立场，独立历史评价尚须其他学术材料。"
+  ],
+  "coverage_count_basis": {
+    "kawade_catalogue_boundary_total": 5,
+    "kawade_records_enumerated": 5,
+    "official_biography_named_title_boundary_total": 6,
+    "official_biography_records_enumerated": 6,
+    "works_records_total": 11,
+    "independent_original_work_count": null,
+    "media_records": 1,
+    "quotations": 1,
+    "status": "complete_in_two_explicit_small_boundaries; lifetime_partial"
+  },
+  "region": "日本及国际",
+  "tradition_context": "日莲系；创价学会在家运动"
+}

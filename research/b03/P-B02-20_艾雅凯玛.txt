@@ -1,0 +1,345 @@
+{
+  "person_id": "P-B02-20",
+  "name_zh": "艾雅凯玛",
+  "original_name": "Ayya Khema",
+  "aliases": [
+    "Sister Ayya Khema",
+    "Sister Khema",
+    "Ilse Kussel"
+  ],
+  "selection_reason": "德语与英语上座部修学、尼众与欧洲机构的具体案例；机构生平记1923—1997，观察窗口不等于全程活动。",
+  "bounded_scope": "B03独立目录：2026-10-18实际读取Jhana/Buddha-Haus德文书类第一页10项、ATI作者页全部3项、Buddha-Haus本人音频页全部3项及Dharma Seed两条指定详情；不扩展全站。",
+  "sources": [
+    {
+      "url": "https://www.buddha-haus-shop.de/Buecher/Buddha-Haus-Jhana-Verlag-Ayya-Khema-Meditation-Buddhistische-Buecher-Theravada-Buddhismus-Nyanabodhi-Buddha-Lehre-Waldkloster-Metta-Vihara-Vipassana-7/",
+      "institution": "Buddha-Haus / Jhana Verlag",
+      "read_scope": "德文类别第一页与10条商品详情；当前页显示10/14，顺序及库存可变",
+      "access_date": "2026-10-18"
+    },
+    {
+      "url": "https://accesstoinsight.org/lib/authors/khema/index.html",
+      "institution": "Access to Insight / Barre Center for Buddhist Studies",
+      "read_scope": "英文作者索引全部3项及链接文献指定部分",
+      "access_date": "2026-10-18"
+    },
+    {
+      "url": "https://www.buddha-haus.de/ayya-khema/",
+      "institution": "Buddha-Haus",
+      "read_scope": "德文生平正文，非独立学术传记",
+      "access_date": "2026-10-18"
+    },
+    {
+      "url": "https://www.buddha-haus.de/ayya-khema/audio/",
+      "institution": "Buddha-Haus",
+      "read_scope": "德文本人音频栏目3项及页脚权利声明",
+      "access_date": "2026-10-18"
+    },
+    {
+      "url": "https://dharmaseed.org/teacher/334/",
+      "institution": "Dharma Seed",
+      "read_scope": "讲者过滤页与7689/7692两条详情；未枚举53页",
+      "access_date": "2026-10-18"
+    }
+  ],
+  "works": [
+    {
+      "title": "Unsere Umwelt als Spiegel",
+      "url": "https://www.buddha-haus-shop.de/Buecher/Buddha-Haus-Jhana-Verlag-Ayya-Khema-Meditation-Buddhistische-Buecher-Theravada-Buddhismus-Nyanabodhi-Buddha-Lehre-Waldkloster-Metta-Vihara-Vipassana-7/unsere-umwelt-als-spiegel.html",
+      "locator": "商品详情 Beschreibung / Produktinformation；ISBN 978-3-931274-65-8",
+      "date": null,
+      "date_type": "修订新版，未标年月",
+      "language": {
+        "display": "德文",
+        "original_or_translation": "德文版本；讲说原语/翻译及编辑关系未逐本核实"
+      },
+      "record_type": "书目/特定ISBN销售版",
+      "rights": "商业在售；详情未列开放许可，版权保留；不下载正文",
+      "access_status": "公开商品详情已读取",
+      "read_status": "德文简介与书目元数据实读；未读全书"
+    },
+    {
+      "title": "Erinnerung an das Wesentliche",
+      "url": "https://www.buddha-haus-shop.de/Ayya-Khema-45/100-jahre-ayya-khema-jubilaeumsangebote/erinnerung-an-das-wesentliche.html",
+      "locator": "商品详情 Beschreibung / Produktinformation；ISBN 978-3-931274-69-6",
+      "date": null,
+      "date_type": "百年诞辰纪念选集；最后七年讲说的身后编集，页面未标出版年月",
+      "language": {
+        "display": "德文",
+        "original_or_translation": "德文版本；讲说原语/翻译及编辑关系未逐本核实"
+      },
+      "record_type": "书目/特定ISBN销售版",
+      "rights": "商业在售；详情未列开放许可，版权保留；不下载正文",
+      "access_status": "公开商品详情已读取",
+      "read_status": "德文简介与书目元数据实读；未读全书"
+    },
+    {
+      "title": "Buddha ohne Geheimnis",
+      "url": "https://www.buddha-haus-shop.de/Buecher/Buddha-Haus-Jhana-Verlag-Ayya-Khema-Meditation-Buddhistische-Buecher-Theravada-Buddhismus-Nyanabodhi-Buddha-Lehre-Waldkloster-Metta-Vihara-Vipassana-7/Buddha-ohne-Geheimnis-593.html",
+      "locator": "商品详情 Beschreibung / Produktinformation；ISBN 978-3-931274-48-1",
+      "date": null,
+      "date_type": "当前销售版，未标年月",
+      "language": {
+        "display": "德文",
+        "original_or_translation": "德文版本；讲说原语/翻译及编辑关系未逐本核实"
+      },
+      "record_type": "书目/特定ISBN销售版",
+      "rights": "商业在售；详情未列开放许可，版权保留；不下载正文",
+      "access_status": "公开商品详情已读取",
+      "read_status": "德文简介与书目元数据实读；未读全书"
+    },
+    {
+      "title": "Weihnachten: Das Fest des Lichts",
+      "url": "https://www.buddha-haus-shop.de/Buecher/Buddha-Haus-Jhana-Verlag-Ayya-Khema-Meditation-Buddhistische-Buecher-Theravada-Buddhismus-Nyanabodhi-Buddha-Lehre-Waldkloster-Metta-Vihara-Vipassana-7/Weihnachten.html",
+      "locator": "商品详情 Beschreibung / Produktinformation；ISBN 978-3-931274-10-8",
+      "date": null,
+      "date_type": "当前销售版，未标年月",
+      "language": {
+        "display": "德文",
+        "original_or_translation": "德文版本；讲说原语/翻译及编辑关系未逐本核实"
+      },
+      "record_type": "书目/特定ISBN销售版",
+      "rights": "商业在售；详情未列开放许可，版权保留；不下载正文",
+      "access_status": "公开商品详情已读取",
+      "read_status": "德文简介与书目元数据实读；未读全书"
+    },
+    {
+      "title": "Um was geht’s in der Meditation?",
+      "url": "https://www.buddha-haus-shop.de/Buecher/Buddha-Haus-Jhana-Verlag-Ayya-Khema-Meditation-Buddhistische-Buecher-Theravada-Buddhismus-Nyanabodhi-Buddha-Lehre-Waldkloster-Metta-Vihara-Vipassana-7/Um-was-geht-s-in-der-Meditation-.html",
+      "locator": "商品详情 Beschreibung / Produktinformation；ISBN 978-3-931274-35-1",
+      "date": null,
+      "date_type": "Fragen an Ayya Khema第二卷；当前版年月未标",
+      "language": {
+        "display": "德文",
+        "original_or_translation": "德文版本；讲说原语/翻译及编辑关系未逐本核实"
+      },
+      "record_type": "书目/特定ISBN销售版",
+      "rights": "商业在售；详情未列开放许可，版权保留；不下载正文",
+      "access_status": "公开商品详情已读取",
+      "read_status": "德文简介与书目元数据实读；未读全书"
+    },
+    {
+      "title": "Offenes Herz - mutiger Geist",
+      "url": "https://www.buddha-haus-shop.de/Buecher/Buddha-Haus-Jhana-Verlag-Ayya-Khema-Meditation-Buddhistische-Buecher-Theravada-Buddhismus-Nyanabodhi-Buddha-Lehre-Waldkloster-Metta-Vihara-Vipassana-7/Offenes-Herz---mutiger-Geist.html",
+      "locator": "商品详情 Beschreibung / Produktinformation；ISBN 978-3-931274-28-3",
+      "date": null,
+      "date_type": "与Pema Chödrön共同列名的书；各部分来源未核，年月未标",
+      "language": {
+        "display": "德文",
+        "original_or_translation": "德文版本；讲说原语/翻译及编辑关系未逐本核实"
+      },
+      "record_type": "书目/特定ISBN销售版",
+      "rights": "商业在售；详情未列开放许可，版权保留；不下载正文",
+      "access_status": "公开商品详情已读取",
+      "read_status": "德文简介与书目元数据实读；未读全书"
+    },
+    {
+      "title": "Ich schenke euch mein Leben",
+      "url": "https://www.buddha-haus-shop.de/Buecher/Buddha-Haus-Jhana-Verlag-Ayya-Khema-Meditation-Buddhistische-Buecher-Theravada-Buddhismus-Nyanabodhi-Buddha-Lehre-Waldkloster-Metta-Vihara-Vipassana-7/Ich-schenke-euch-mein-Leben.html",
+      "locator": "商品详情 Beschreibung / Produktinformation；ISBN 978-3-931274-34-4",
+      "date": null,
+      "date_type": "自传当前销售版，未标年月",
+      "language": {
+        "display": "德文",
+        "original_or_translation": "德文版本；讲说原语/翻译及编辑关系未逐本核实"
+      },
+      "record_type": "书目/特定ISBN销售版",
+      "rights": "商业在售；详情未列开放许可，版权保留；不下载正文",
+      "access_status": "公开商品详情已读取",
+      "read_status": "德文简介与书目元数据实读；未读全书"
+    },
+    {
+      "title": "Liebe ohne Geheimnis",
+      "url": "https://www.buddha-haus-shop.de/Buecher/Buddha-Haus-Jhana-Verlag-Ayya-Khema-Meditation-Buddhistische-Buecher-Theravada-Buddhismus-Nyanabodhi-Buddha-Lehre-Waldkloster-Metta-Vihara-Vipassana-7/-366.html",
+      "locator": "商品详情 Beschreibung / Produktinformation；ISBN 978-3-931274-05-4",
+      "date": null,
+      "date_type": "当前销售版，未标年月",
+      "language": {
+        "display": "德文",
+        "original_or_translation": "德文版本；讲说原语/翻译及编辑关系未逐本核实"
+      },
+      "record_type": "书目/特定ISBN销售版",
+      "rights": "商业在售；详情未列开放许可，版权保留；不下载正文",
+      "access_status": "公开商品详情已读取",
+      "read_status": "德文简介与书目元数据实读；未读全书"
+    },
+    {
+      "title": "Die Kunst des Loslassens",
+      "url": "https://www.buddha-haus-shop.de/Buecher/Buddha-Haus-Jhana-Verlag-Ayya-Khema-Meditation-Buddhistische-Buecher-Theravada-Buddhismus-Nyanabodhi-Buddha-Lehre-Waldkloster-Metta-Vihara-Vipassana-7/Die-Kunst-des-Loslassens.html",
+      "locator": "商品详情 Beschreibung / Produktinformation；ISBN 978-3-931274-33-7",
+      "date": null,
+      "date_type": "当前销售版，未标年月",
+      "language": {
+        "display": "德文",
+        "original_or_translation": "德文版本；讲说原语/翻译及编辑关系未逐本核实"
+      },
+      "record_type": "书目/特定ISBN销售版",
+      "rights": "商业在售；详情未列开放许可，版权保留；不下载正文",
+      "access_status": "公开商品详情已读取",
+      "read_status": "德文简介与书目元数据实读；未读全书"
+    },
+    {
+      "title": "Meditation: Das Herz der Religionen",
+      "url": "https://www.buddha-haus-shop.de/Buecher/Buddha-Haus-Jhana-Verlag-Ayya-Khema-Meditation-Buddhistische-Buecher-Theravada-Buddhismus-Nyanabodhi-Buddha-Lehre-Waldkloster-Metta-Vihara-Vipassana-7/Meditation---Das-Herz-der-Religionen.html",
+      "locator": "商品详情 Beschreibung / Produktinformation；ISBN 978-3-931274-11-5",
+      "date": null,
+      "date_type": "讲说编集当前销售版，未标年月",
+      "language": {
+        "display": "德文",
+        "original_or_translation": "德文版本；讲说原语/翻译及编辑关系未逐本核实"
+      },
+      "record_type": "书目/特定ISBN销售版",
+      "rights": "商业在售；详情未列开放许可，版权保留；不下载正文",
+      "access_status": "公开商品详情已读取",
+      "read_status": "德文简介与书目元数据实读；未读全书"
+    },
+    {
+      "title": "All of Us: Beset by birth, decay, and death",
+      "url": "https://accesstoinsight.org/lib/authors/khema/allofus",
+      "locator": "Appreciation及末尾来源说明",
+      "date": "1988",
+      "date_type": "版权年；1994电子转录，2013-11-30网页修订，不据此断言初版",
+      "language": {
+        "display": "英文",
+        "original_or_translation": "署名本人英文讲说整理；未据录音核原始讲说语言"
+      },
+      "record_type": "讲说编集/小册子电子转录",
+      "rights": "页面附免费传播及来源/许可保留条件；bl095另限纸本重印不超过50份；非无条件公版",
+      "access_status": "公开HTML已读取；未下载正文文件",
+      "read_status": "英文指定段及来源说明实读；未逐篇通读"
+    },
+    {
+      "title": "(To Be Seen) Here and Now: Ten Dhamma Talks",
+      "url": "https://accesstoinsight.org/lib/authors/khema/herenow",
+      "locator": "作者索引、页面末尾来源说明",
+      "date": "1989",
+      "date_type": "版权年；1994电子转录，2013-11-30网页修订，不据此断言初版",
+      "language": {
+        "display": "英文",
+        "original_or_translation": "署名本人英文讲说整理；未据录音核原始讲说语言"
+      },
+      "record_type": "讲说编集/小册子电子转录",
+      "rights": "页面附免费传播及来源/许可保留条件；bl095另限纸本重印不超过50份；非无条件公版",
+      "access_status": "公开HTML已读取；未下载正文文件",
+      "read_status": "英文指定段及来源说明实读；未逐篇通读"
+    },
+    {
+      "title": "Meditating on No-Self: A Dhamma Talk (Edited for Bodhi Leaves)",
+      "url": "https://accesstoinsight.org/lib/authors/khema/bl095",
+      "locator": "正文第1—3段及末尾版权、来源说明",
+      "date": "1984",
+      "date_type": "Bodhi Leaves No.95纸本出版年；1994转录，2013-11-02网页修订",
+      "language": {
+        "display": "英文",
+        "original_or_translation": "署名本人英文讲说整理；未据录音核原始讲说语言"
+      },
+      "record_type": "讲说编辑稿；Bodhi Leaves No.95",
+      "rights": "页面附免费传播及来源/许可保留条件；bl095另限纸本重印不超过50份；非无条件公版",
+      "access_status": "公开HTML已读取；未下载正文文件",
+      "read_status": "英文指定段及来源说明实读；未逐篇通读"
+    }
+  ],
+  "quotations": [
+    {
+      "original": "Liebe ist weder käuflich noch verkäuflich.",
+      "translation_zh": "爱既不能买来，也不能出售。",
+      "source_url": "https://www.buddha-haus-shop.de/Buecher/Buddha-Haus-Jhana-Verlag-Ayya-Khema-Meditation-Buddhistische-Buecher-Theravada-Buddhismus-Nyanabodhi-Buddha-Lehre-Waldkloster-Metta-Vihara-Vipassana-7/-366.html",
+      "locator": "Beschreibung引文第二段末句（以Man kann die Anweisungen开头）；网页无纸本页码",
+      "date_basis": "所列ISBN版本出版日期未标；读取日2026-10-18",
+      "classification": "出版社以引号刊出的本人教学摘录；尚未对纸本校核",
+      "read_scope": "德文商品Beschreibung引文前两段实读；未读书全文"
+    },
+    {
+      "original": "one has to experience it.",
+      "translation_zh": "人必须亲自体验它。",
+      "source_url": "https://accesstoinsight.org/lib/authors/khema/bl095",
+      "locator": "正文第2段第1句末；Much has been written开头，it指无我",
+      "date_basis": "Bodhi Leaves 95，1984；1994电子转录；非1994初版",
+      "classification": "本人讲说编辑稿的公开英文转录，短句截取",
+      "read_scope": "英文正文第1—3段及来源许可说明实读；未核录音"
+    }
+  ],
+  "media": [
+    {
+      "title": "Kontemplation Liebende Güte",
+      "url": "https://www.buddha-haus.de/wp-content/uploads/2019/08/kontemplation_liebende_guete.mp3",
+      "event_date": null,
+      "publication_date": null,
+      "language_role": "德文标题/德文机构页面；本人专页归属，未听核原语、口译或声纹",
+      "locator": "https://www.buddha-haus.de/ayya-khema/audio/，Audio栏目对应题名；2019/08仅文件路径，不作录制/发布日期",
+      "timecode_status": "未播放；无已核时码；页面未列文字稿",
+      "rights": "页面All Rights Reserved；公开播放入口不等于开放再利用许可",
+      "access_status": "机构页面及链接已核；媒体文件未请求或下载",
+      "playback_status": "未播放"
+    },
+    {
+      "title": "Liebende Güte Meditation – Blumengarten",
+      "url": "https://www.buddha-haus.de/wp-content/uploads/2019/08/LGM_blumengarten.mp3",
+      "event_date": null,
+      "publication_date": null,
+      "language_role": "德文标题/德文机构页面；本人专页归属，未听核原语、口译或声纹",
+      "locator": "https://www.buddha-haus.de/ayya-khema/audio/，Audio栏目对应题名；2019/08仅文件路径，不作录制/发布日期",
+      "timecode_status": "未播放；无已核时码；页面未列文字稿",
+      "rights": "页面All Rights Reserved；公开播放入口不等于开放再利用许可",
+      "access_status": "机构页面及链接已核；媒体文件未请求或下载",
+      "playback_status": "未播放"
+    },
+    {
+      "title": "Liebende Güte Meditation – Sonne im Herzen",
+      "url": "https://www.buddha-haus.de/wp-content/uploads/2019/08/LGM_sonne_im_herzen.mp3",
+      "event_date": null,
+      "publication_date": null,
+      "language_role": "德文标题/德文机构页面；本人专页归属，未听核原语、口译或声纹",
+      "locator": "https://www.buddha-haus.de/ayya-khema/audio/，Audio栏目对应题名；2019/08仅文件路径，不作录制/发布日期",
+      "timecode_status": "未播放；无已核时码；页面未列文字稿",
+      "rights": "页面All Rights Reserved；公开播放入口不等于开放再利用许可",
+      "access_status": "机构页面及链接已核；媒体文件未请求或下载",
+      "playback_status": "未播放"
+    },
+    {
+      "title": "Anatta - Corelessness",
+      "url": "https://dharmaseed.org/talks/7689/",
+      "event_date": "1996-07-10",
+      "publication_date": null,
+      "language_role": "英文题名及英文档案元数据；讲者明确Ayya Khema，未听核原语/口译",
+      "locator": "题名下日期、时长、讲者及Green Gulch Farm Zen Center / The Seven Factors of Enlightenment系列；日期按录音目录讲说日期记录",
+      "duration": "1:12:21",
+      "timecode_status": "未播放；无已核时码；详情未见文字稿",
+      "rights": "详情页列CC BY-NC-ND 4.0；不得据此擅改或商用",
+      "access_status": "单条详情已读取；未下载媒体",
+      "playback_status": "未播放"
+    },
+    {
+      "title": "Third & Fourth Jhana; Fifth & Sixth Jhana",
+      "url": "https://dharmaseed.org/talks/7692/",
+      "event_date": "1996-07-13",
+      "publication_date": null,
+      "language_role": "英文题名及英文档案元数据；讲者明确Ayya Khema，未听核原语/口译",
+      "locator": "题名下日期、时长、讲者及Green Gulch Farm Zen Center / The Seven Factors of Enlightenment系列；日期按录音目录讲说日期记录",
+      "duration": "1:30:18",
+      "timecode_status": "未播放；无已核时码；详情未见文字稿",
+      "rights": "详情页列CC BY-NC-ND 4.0；不得据此擅改或商用",
+      "access_status": "单条详情已读取；未下载媒体",
+      "playback_status": "未播放"
+    }
+  ],
+  "gaps": [
+    "德文类别其余4项、英文书类、其他出版社及翻译版本未枚举；本目录不称全集。",
+    "10个德文ISBN版未标出版年月，不能用网页©2026替代出版年；初版与重印链待图书馆或版权页核验。",
+    "英德文本均未与原录音对勘；德文摘录纸本页码未知。",
+    "Dharma Seed其余页未枚举；同题异录或重复条目未全面排重。",
+    "5条媒体均未播放；机构归属已核，声音、口译、文字稿和时码未独立核验。"
+  ],
+  "coverage_count_basis": {
+    "works": 13,
+    "media": 5,
+    "quotations": 2,
+    "total_catalogue_records": 18,
+    "german_book_category": "本次当前第一页10/14；不采用早先缓存显示的19作为固定分母",
+    "ATI_author_index": "3/3作者索引项；不是本人全部英文著作",
+    "Buddha_Haus_audio": "3/3该指定音频页项",
+    "Dharma_Seed": "2条选定详情；53页总库未全收",
+    "deduplication": "按作品详情URL/音频单条URL计数；不把短引另算作品"
+  },
+  "region": "德国—斯里兰卡及国际",
+  "tradition_context": "上座部佛教；德英语禅修教学"
+}

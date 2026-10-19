@@ -1,0 +1,61 @@
+{
+  "schema": "G20-I2",
+  "statistics": {
+    "revision": "G20-I2",
+    "selected_groups": 10,
+    "selected_legacy_records": 17,
+    "changed_canonical_record_count": 14,
+    "canonical_field_changes": 114,
+    "authorized_current_electronic_copyright_page_groups": 1,
+    "institutional_record_groups": 4,
+    "authorized_edition_provenance_statement_groups": 1,
+    "remaining_groups_without_copyright_page_or_readable_full_institutional_responsibility_record": 4,
+    "physical_original_paper_copyright_page_images_read": 0,
+    "new_media_downloads": 0,
+    "new_catalogue_rows": 0,
+    "new_people": 0,
+    "unchanged_counts": {
+      "catalogue_source_rows": 771,
+      "manifestations": 770,
+      "search_groups": 759,
+      "media_metadata": 118,
+      "quarantined_media_leads": 3
+    },
+    "future_audio_comparison_prepared": 1,
+    "listened_or_matched_audio_samples": 0
+  },
+  "validation": "稳定人物/记录/检索组ID及数量不变；892来源映射保留；媒体记录与I1逐项相同；原证层级不混用；14记录实际字段变化",
+  "files": [
+    {
+      "name": "10项原源补核与字段修订_G20-I1.json",
+      "bytes": 382204,
+      "sha256": "d2800fdd0405dde1bea5603c1dcb8200913f13f3c39b72df2aded82db53aee3b"
+    },
+    {
+      "name": "20人全局检索总目录_G20-I1.xlsx",
+      "bytes": 528120,
+      "sha256": "131f5a7563ec32c816abb3fa0b84a8dc6281161919b5f8cd3e3e4b40df976552"
+    },
+    {
+      "name": "20人整合说明与采集路线_G20-I1.md",
+      "bytes": 18563,
+      "sha256": "6f2a927b87725833750afbca4e74e15466e18d4b9a3401875f0d0e10be19998b"
+    },
+    {
+      "name": "20人现行总目录_G20-I1.json",
+      "bytes": 6315817,
+      "sha256": "d81de542db3b972158fd409983fb0f75d54bfb37dca39bfcb8c7a314aa040304"
+    },
+    {
+      "name": "版权页与馆藏责任复核_G20-I2.json",
+      "bytes": 117805,
+      "sha256": "d1b849363b8d37cf4d453771b98e3ee9be241682e7cf58938cafa992c2976a26"
+    }
+  ],
+  "_publication": {
+    "prepared": "2026-10-19",
+    "original_hash_scope": "原交付清单内哈希指恢复原件，不是隐私清理后公开文件；当前文件哈希见仓库manifest.json。",
+    "rights_scope": "早期权利评估保留其原日期；本次可分发附件及条件以rights/为准。",
+    "research_status": "未增加研究范围、未听校录音；来源元数据不代表已下载或通读。"
+  }
+}

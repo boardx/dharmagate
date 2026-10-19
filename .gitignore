@@ -1,0 +1,10 @@
+# Large payload is published separately as a GitHub Release asset.
+release_payload/
+release_assets/
+recovered/
+private_hold/
+helpers/
+.env
+*.pem
+*.key
+.DS_Store

@@ -1,0 +1,25 @@
+{
+  "author": "Ṭhānissaro Bhikkhu",
+  "title": "The Buddha’s Teachings: An Introduction",
+  "source_url": "https://www.dhammatalks.org/Archive/Writings/Ebooks/BuddhasTeachings_251113.pdf",
+  "catalogue_url": "https://www.dhammatalks.org/books/BuddhasTeachings/",
+  "retrieved_date": "2026-10-18",
+  "license": "CC BY-NC 4.0 (book says Unported; linked deed is International)",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "rights_holder": "Ṭhānissaro Bhikkhu, copyright 2016",
+  "change_notice": "Unmodified PDF, noncommercial research copy; no endorsement implied",
+  "bytes": 472409,
+  "sha256": "874a313246339efcae76310c468309604ecf765eea007a34ffdd5d8963570cd5",
+  "content_read_status": "Catalogue and copyright page checked; full text not critically read",
+  "permission_evidence": "PDF copyright page licenses work and page provides official PDF download option.",
+  "license_locator": {
+    "pdf_page_1based": 4,
+    "printed_page": "unpaginated front matter"
+  },
+  "_publication": {
+    "prepared": "2026-10-19",
+    "original_hash_scope": "原交付清单内哈希指恢复原件，不是隐私清理后公开文件；当前文件哈希见仓库manifest.json。",
+    "rights_scope": "早期权利评估保留其原日期；本次可分发附件及条件以rights/为准。",
+    "research_status": "未增加研究范围、未听校录音；来源元数据不代表已下载或通读。"
+  }
+}

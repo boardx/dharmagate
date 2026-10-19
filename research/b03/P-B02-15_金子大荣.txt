@@ -1,0 +1,447 @@
+{
+  "person_id": "P-B02-15",
+  "name_zh": "金子大荣",
+  "original_name": "金子大榮",
+  "aliases": [
+    "金子大栄",
+    "Kaneko Daiei",
+    "Daiei Kaneko",
+    "かねこ だいえい"
+  ],
+  "selection_reason": "日本净土真宗近现代教学与著述，补充曹洞禅以外传统；著作集编辑、本人讲述与后人转引分别记录。",
+  "bounded_scope": "完整列出CiNii母记录BN00137066相关文献区的13条书目，按明确卷次拆成正编12卷、别卷4卷共16卷记录；仅此春秋社著作集范围完整，不含全部生前书文及其他出版社版本。短引采机构日文转引；影音限1项有机构目录认证的本人讲演CD。",
+  "sources": [
+    {
+      "title": "金子大栄著作集",
+      "author": "国立情報学研究所 CiNii Books",
+      "url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "locator": "相关文献13件全部；书志事项及语言代码",
+      "read_level": "日文机构书目全文；非16卷正文"
+    },
+    {
+      "title": "形は滅びても人は死なぬ",
+      "author": "青木玲；真宗大谷派教学研究所／しんらん交流馆",
+      "url": "https://jodo-shinshu.info/category/shusotoshite/syu1012.html",
+      "date": "2010-12",
+      "date_type": "原载《ともしび》年月",
+      "locator": "题下第3段引《意訳歎異抄》56页及继后解释",
+      "read_level": "日文机构文章实读；所引1949书第56页未经原页独立复核"
+    },
+    {
+      "title": "念仏成仏これ真宗 法話CD「本願に生きた念仏者」2",
+      "author": "法藏馆销售目录；出版者东本愿寺出版",
+      "url": "https://pub.hozokan.co.jp/book/b532954.html",
+      "locator": "出版年月日、内容及目次",
+      "read_level": "日文商品详情实读；未听录音"
+    },
+    {
+      "title": "法藏馆网站政策",
+      "url": "https://pub.hozokan.co.jp/company/cc1971.html",
+      "locator": "著作权节",
+      "read_level": "日文政策正文实读；仅记录其网站及出版物使用声明"
+    }
+  ],
+  "works": [
+    {
+      "title": "金子大栄著作集 第1巻：仏教概論",
+      "url": "https://ci.nii.ac.jp/ncid/BN01626578",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN01626578",
+      "date": "1980-09",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "1",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 第2巻：仏教の本質 ; 宗教的理性",
+      "url": "https://ci.nii.ac.jp/ncid/BN02361399",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN02361399",
+      "date": "1977-04",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "2",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 第3巻：親鸞教の研究 ; 彼岸の世界",
+      "url": "https://ci.nii.ac.jp/ncid/BN01626647",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN01626647",
+      "date": "1982-06",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "3",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 第4巻：仏教の諸問題",
+      "url": "https://ci.nii.ac.jp/ncid/BN01626705",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN01626705",
+      "date": "1979-03",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "4",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 第5巻：日本仏教史観",
+      "url": "https://ci.nii.ac.jp/ncid/BN01626782",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN01626782",
+      "date": "1979-10",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "5",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 第6巻：教行信証講読・教行巻",
+      "url": "https://ci.nii.ac.jp/ncid/BN0162683X",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN0162683X",
+      "date": "1981",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "6",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 第7巻：教行信証講読・信証巻",
+      "url": "https://ci.nii.ac.jp/ncid/BN0162683X",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN0162683X",
+      "date": "1981",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "7",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 第8巻：教行信証講読・真化巻",
+      "url": "https://ci.nii.ac.jp/ncid/BN0162683X",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN0162683X",
+      "date": "1981",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "8",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 第9巻：教行信証の研究 ; 教行信証の諸問題",
+      "url": "https://ci.nii.ac.jp/ncid/BN01627005",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN01627005",
+      "date": "1978-02",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "9",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 第10巻：教行信証総説",
+      "url": "https://ci.nii.ac.jp/ncid/BN01627093",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN01627093",
+      "date": "1983-04",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "10",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 第11巻：大無量寿経総説",
+      "url": "https://ci.nii.ac.jp/ncid/BN01627140",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN01627140",
+      "date": "1984-12",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "11",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 第12巻：真宗聞思録",
+      "url": "https://ci.nii.ac.jp/ncid/BN0162721X",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN0162721X",
+      "date": "1984-01",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "12",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 別巻1：安居講録 1",
+      "url": "https://ci.nii.ac.jp/ncid/BN00615011",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN00615011",
+      "date": "1985",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "別1",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 別巻2：安居講録 2",
+      "url": "https://ci.nii.ac.jp/ncid/BN00615011",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN00615011",
+      "date": "1985",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "別2",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 別巻3：真宗の教義と其の歴史",
+      "url": "https://ci.nii.ac.jp/ncid/BN00827982",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN00827982",
+      "date": "1986-03",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "別3",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    },
+    {
+      "title": "金子大栄著作集 別巻4：宗教的覚醒 ; 真宗の要義",
+      "url": "https://ci.nii.ac.jp/ncid/BN00137055",
+      "locator": "母记录BN00137066相关文献区对应卷次；子记录BN00137055",
+      "date": "1985-11",
+      "date_type": "该春秋社著作集卷本出版年月/年，非原作初版或写作日期",
+      "language": "ja",
+      "record_type": "posthumous_collected_works_volume",
+      "rights": null,
+      "access_status": "大学联合书目公开，可查馆藏；本轮未获取卷本全文",
+      "read_status": "index_metadata_read；母记录的13条分卷书目已读，子记录详情未逐一实读",
+      "series": "金子大栄著作集",
+      "volume": "別4",
+      "publisher": "春秋社",
+      "editors": [
+        "寺田正勝",
+        "廣瀬杲",
+        "伊藤慧明"
+      ],
+      "source_index_url": "https://ci.nii.ac.jp/ncid/BN00137066",
+      "relationship_note": "同一著作集分卷，不计为16部独立原著；卷6–8共用一条子书目，别卷1–2共用一条子书目；分号连接同卷内作品。"
+    }
+  ],
+  "quotations": [
+    {
+      "original": "花びらは散っても花は散らない。",
+      "translation_zh": "花瓣虽凋落，花却未凋散。",
+      "source_url": "https://jodo-shinshu.info/category/shusotoshite/syu1012.html",
+      "locator": "「形は滅びても人は死なぬ」第3段；机构文章注明《意訳歎異抄》56页",
+      "date_basis": "机构文章原载2010年12月《ともしび》；其说明原书昭和24年即1949年发行；未核该页原版",
+      "classification": "本人日文著作的机构二手转引；并非本轮亲读原书56页",
+      "read_scope": "亲读机构文章及上下文：作者借丧亲经验讨论形体消逝后人与教法的相遇；不把诗喻直接当神秘灵魂论断。"
+    }
+  ],
+  "media": [
+    {
+      "title": "念仏成仏これ真宗（法話CD「本願に生きた念仏者」2）",
+      "url": "https://pub.hozokan.co.jp/book/b532954.html",
+      "event_date": "1961-04-27",
+      "publication_date": "2013-04-28",
+      "language_role": {
+        "original_speech": "ja（日文机构目录与曲目；未听核）",
+        "translation": null
+      },
+      "locator": "内容说明：高倉会館「親鸞聖人七百回大遠忌讃仰講演会」音声编辑收录；四曲目",
+      "timecode_status": null,
+      "duration": null,
+      "rights": "未发现开放许可；法藏馆网站政策对其出版物和本站内容声明未经许可不得私用以外复制转载；此目录列出版者东本愿寺出版，不由销售页推定法藏馆持有录音全部权利。",
+      "access_status": "公开目录；实体CD需订购，未发现该页公开流播",
+      "playback_status": "not_played；not_downloaded",
+      "record_type": "authenticated_original_speaker_audio_commercial_edited_release",
+      "attribution_caution": "目录责任者栏标“編”，但内容说明明确为金子大荣该场讲演音声；不据此改写为生前2013录音。"
+    }
+  ],
+  "gaps": [
+    "仅16卷著作集书目，不含生前全部著作、论文、译本或各次重版；卷本正文未读。",
+    "短引有机构转引及原书页码线索，未亲验1949原书56页。",
+    "发现西光寺2021文章链接“浄土の機縁”YouTube候选，但未能认证上传者及录音权利，未列本人可用媒体记录。",
+    "法藏馆作者简介死亡日与部分其他网络资料有差异，本条不以此制定生平日表。"
+  ],
+  "coverage_count_basis": {
+    "bibliographic_parent_records": 1,
+    "child_catalogue_records_enumerated": 13,
+    "volume_records": 16,
+    "volume_denominator_within_boundary": 16,
+    "independent_original_work_count": null,
+    "media_records": 1,
+    "quotations": 1,
+    "status": "complete_within_named_series_catalogue_boundary; lifetime_partial"
+  },
+  "region": "日本",
+  "tradition_context": "净土真宗（大谷派教学）"
+}

@@ -1,0 +1,24 @@
+{
+  "author": "Ṭhānissaro Bhikkhu",
+  "title": "Do, Maintain, Use",
+  "event_date": "2025-01-31",
+  "source_url": "https://www.dhammatalks.org/Archive/y2025/250131_Do,_Maintain,_Use.mp3",
+  "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html",
+  "permission_evidence": "Official individual page explicitly offers Click here to download / mp3 audio",
+  "permission_locator": "official page below date and before transcript",
+  "rights_status": "Official download provided; private research archive only; independent redistribution or adaptation licence not established",
+  "retrieved_date": "2026-10-18",
+  "bytes": 9505255,
+  "sha256": "fd38617344e7f078246b92a17a9009a7d5951d07adc3ede7208cc41955f81e63",
+  "duration_seconds_from_file": 1016.946939,
+  "format": "MP3",
+  "playback_status": "download complete; not listened or transcript-matched",
+  "transcript_status": "official webpage available; not copied in full",
+  "technical_note": "mutagen unavailable; ffprobe used if installed, otherwise duration remains unknown",
+  "_publication": {
+    "prepared": "2026-10-19",
+    "original_hash_scope": "原交付清单内哈希指恢复原件，不是隐私清理后公开文件；当前文件哈希见仓库manifest.json。",
+    "rights_scope": "早期权利评估保留其原日期；本次可分发附件及条件以rights/为准。",
+    "research_status": "未增加研究范围、未听校录音；来源元数据不代表已下载或通读。"
+  }
+}

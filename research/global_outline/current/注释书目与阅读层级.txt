@@ -1,0 +1,3681 @@
+注释书目与实际阅读层级 · E01
+156条著录记录，152个不同URL；按链接统一导航，保留同页不同章节与阅读范围。不是全文阅读总数。
+
+U-ba885530cdb1｜https://whc.unesco.org/en/list/666/
+S-4fbd90c26130｜Lumbini, the Birthplace of the Lord Buddha
+实际阅读摘要：英语正文及中文说明；实际核读所列网页段落；未读提名卷宗、碑文校勘或考古发掘报告
+用于R01-Q01
+{
+  "institution": "UNESCO World Heritage Centre",
+  "author": "机构署名；网页部分多语说明另标UNESCO/CPE",
+  "title": "Lumbini, the Birthplace of the Lord Buddha",
+  "date": null,
+  "date_note": "网页未给正文更新日期；列入遗产年份1997不是本文发表日期",
+  "url": "https://whc.unesco.org/en/list/666/",
+  "locator": "英文Description首段；Outstanding Universal Value > Brief synthesis第1—3段；Criterion (iii)；中文说明首段",
+  "read_language": "英语正文及中文说明",
+  "read_level": "实际核读所列网页段落；未读提名卷宗、碑文校勘或考古发掘报告",
+  "evidence_type": "官方遗产说明；可以证明机构如何表述，不能代替年代学专门论证",
+  "short_quote": "was born in 623 B.C.",
+  "translation": "诞生于公元前623年",
+  "relevance": "官方说明使用623 BCE，并将阿育王柱置于249 BCE；该网页同时提供朝圣遗址材料与传统纪年，须拆开使用。",
+  "normalized_url": "https://whc.unesco.org/en/list/666/",
+  "source_id": "S-4fbd90c26130",
+  "canonical_url_id": "U-ba885530cdb1",
+  "actual_reading_summary": "英语正文及中文说明；实际核读所列网页段落；未读提名卷宗、碑文校勘或考古发掘报告"
+}
+用于R01-Q02
+{
+  "institution": "UNESCO World Heritage Centre",
+  "author": "机构署名；网页部分多语说明另标UNESCO/CPE",
+  "title": "Lumbini, the Birthplace of the Lord Buddha",
+  "date": null,
+  "date_note": "网页未给正文更新日期；列入遗产年份1997不是本文发表日期",
+  "url": "https://whc.unesco.org/en/list/666/",
+  "locator": "英文Description首段；Outstanding Universal Value > Brief synthesis第1—3段；Criterion (iii)；中文说明首段",
+  "read_language": "英语正文及中文说明",
+  "read_level": "实际核读所列网页段落；未读提名卷宗、碑文校勘或考古发掘报告",
+  "evidence_type": "官方遗产说明；可以证明机构如何表述，不能代替年代学专门论证",
+  "short_quote": "was born in 623 B.C.",
+  "translation": "诞生于公元前623年",
+  "relevance": "官方说明使用623 BCE，并将阿育王柱置于249 BCE；该网页同时提供朝圣遗址材料与传统纪年，须拆开使用。",
+  "normalized_url": "https://whc.unesco.org/en/list/666/",
+  "source_id": "S-4fbd90c26130",
+  "canonical_url_id": "U-ba885530cdb1",
+  "actual_reading_summary": "英语正文及中文说明；实际核读所列网页段落；未读提名卷宗、碑文校勘或考古发掘报告"
+}
+
+U-523a904222e3｜https://plato.stanford.edu/entries/buddha/
+S-090cc47aeed9｜Buddha
+实际阅读摘要：英语；实际核读§1相关正文；未把所引Gombrich、Shulman、Cousins等书视为已读；实际读背景相关段；现代综述，未读其全部引书
+用于R01-Q01
+{
+  "institution": "Stanford Encyclopedia of Philosophy / Stanford University",
+  "author": "Mark Siderits",
+  "title": "Buddha",
+  "date": "首次发表2011-02-17；实质修订2023-03-06",
+  "url": "https://plato.stanford.edu/entries/buddha/",
+  "locator": "§1 Buddha as Philosopher，第3段及第18—21段（段落以§1正文自This entry concerns起计）；网页无纸本页码",
+  "read_language": "英语",
+  "read_level": "实际核读§1相关正文；未把所引Gombrich、Shulman、Cousins等书视为已读",
+  "evidence_type": "署名学术参考条目，现代解释与研究综述；非古代一手证言",
+  "short_quote": "preserved through oral transmission",
+  "translation": "通过口头传承保存",
+  "relevance": "并列约560—480 BCE旧估计与约405 BCE涅槃重估；指出后写、语言和文本分歧问题，亦认为口传本身不必使研究不可能。",
+  "normalized_url": "https://plato.stanford.edu/entries/buddha/",
+  "source_id": "S-090cc47aeed9",
+  "canonical_url_id": "U-523a904222e3",
+  "actual_reading_summary": "英语；实际核读§1相关正文；未把所引Gombrich、Shulman、Cousins等书视为已读"
+}
+用于R01-Q02
+{
+  "institution": "Stanford Encyclopedia of Philosophy / Stanford University",
+  "author": "Mark Siderits",
+  "title": "Buddha",
+  "date": "首次发表2011-02-17；实质修订2023-03-06",
+  "url": "https://plato.stanford.edu/entries/buddha/",
+  "locator": "§1 Buddha as Philosopher，第3段及第18—21段（段落以§1正文自This entry concerns起计）；网页无纸本页码",
+  "read_language": "英语",
+  "read_level": "实际核读§1相关正文；未把所引Gombrich、Shulman、Cousins等书视为已读",
+  "evidence_type": "署名学术参考条目，现代解释与研究综述；非古代一手证言",
+  "short_quote": "preserved through oral transmission",
+  "translation": "通过口头传承保存",
+  "relevance": "并列约560—480 BCE旧估计与约405 BCE涅槃重估；指出后写、语言和文本分歧问题，亦认为口传本身不必使研究不可能。",
+  "normalized_url": "https://plato.stanford.edu/entries/buddha/",
+  "source_id": "S-090cc47aeed9",
+  "canonical_url_id": "U-523a904222e3",
+  "actual_reading_summary": "英语；实际核读§1相关正文；未把所引Gombrich、Shulman、Cousins等书视为已读"
+}
+用于R04-Q01
+{
+  "institution": "Stanford Encyclopedia of Philosophy",
+  "author": "Mark Siderits",
+  "title": "Buddha",
+  "date": "2011初刊；2023-03-06实质修订",
+  "url": "https://plato.stanford.edu/entries/buddha/",
+  "locator": "§1，自Gautama could himself be classified起至共有业、轮回、解脱问题段",
+  "read_language": "英语",
+  "read_level": "实际读背景相关段；现代综述，未读其全部引书",
+  "short_quote": "rituals and sacrifices prescribed in the Vedas",
+  "translation": "吠陀所规定的仪礼与祭祀",
+  "evidence": "将佛陀置于北印度沙门背景，并指出奥义书内部亦有对婆罗门仪礼的不满足，避免简单二元对立。",
+  "normalized_url": "https://plato.stanford.edu/entries/buddha/",
+  "source_id": "S-090cc47aeed9",
+  "canonical_url_id": "U-523a904222e3",
+  "actual_reading_summary": "英语；实际读背景相关段；现代综述，未读其全部引书"
+}
+
+U-e13868293553｜https://scholarlypublications.universiteitleiden.nl/handle/1887/3454696
+S-b3c0dfe18fd9｜Origins of the Mahāyāna
+实际阅读摘要：English；大学仓储PDF实际取得；定向阅读相关段落，并非通读所有引文原典
+用于R01-Q03
+{
+  "author": "Jonathan A. Silk",
+  "title": "Origins of the Mahāyāna",
+  "year": 2020,
+  "url": "https://scholarlypublications.universiteitleiden.nl/handle/1887/3454696",
+  "fulltext_url": "https://scholarlypublications.universiteitleiden.nl/download/1887/3454696/1?col=81522199610002711",
+  "publication": "Indo-Iranian Journal 63:371–394",
+  "actual_location": "印刷页378–379；393–394",
+  "read_language": "English",
+  "read_level": "大学仓储PDF实际取得；定向阅读相关段落，并非通读所有引文原典",
+  "quote": "different communities produced different scriptures at different times",
+  "translation": "不同群体在不同时期产生了不同经典。",
+  "evidence": "作者对不同经典的年代、诉求和森林假说争论的比较；这是现代学术论证，不是已出土的宗派成立档案",
+  "limitation": "Drewes、Harrison等观点本轮由Silk转述，不宣称已直接读他们的原文；律统问题在393–394页仅提出跨文献研究要求，不能据此冒充完成律藏核证",
+  "normalized_url": "https://scholarlypublications.universiteitleiden.nl/handle/1887/3454696",
+  "source_id": "S-b3c0dfe18fd9",
+  "canonical_url_id": "U-e13868293553",
+  "actual_reading_summary": "English；大学仓储PDF实际取得；定向阅读相关段落，并非通读所有引文原典"
+}
+
+U-1cb172cfbec3｜https://doi.org/10.1017/S1356186313000308
+S-134e763ac28a｜Tibetan, Burmese and Chinese Inscriptions from Bodhgayā in the British Museum
+实际阅读摘要：English；出版方HTML正文相关节实际阅读；未逐字校读藏、缅文铭文
+用于R01-Q04
+{
+  "author": "Tsering Gongkatsang and Michael Willis",
+  "title": "Tibetan, Burmese and Chinese Inscriptions from Bodhgayā in the British Museum",
+  "year": 2013,
+  "url": "https://doi.org/10.1017/S1356186313000308",
+  "access_url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/tibetan-burmese-and-chinese-inscriptions-from-bodhgaya-in-the-british-museum/5B24658C7C41B8979D2E6E0462067A3E",
+  "publication": "Journal of the Royal Asiatic Society 23(3):429–439",
+  "actual_location": "HTML正文“Significance and context”，以“This tells of a series of restoration campaigns”开头句及紧随其后的铜伞铭文句；不将期刊整篇页码冒作实际引文页",
+  "read_language": "English",
+  "read_level": "出版方HTML正文相关节实际阅读；未逐字校读藏、缅文铭文",
+  "quote": "a mission that completed repairs to the Mahābodhi in 1298",
+  "translation": "一次于1298年完成摩诃菩提寺修缮的使团。",
+  "evidence": "作者据缅甸铭文说明1298年完成修缮，另列1293–94年鎏金铜伞铭文；属于基于铭文与档案的研究",
+  "limitation": "藏文铭文断代范围宽，不能拿其第十四世纪上限当作确定纪年；本轮未复核原碑及所有拓本",
+  "normalized_url": "https://doi.org/10.1017/S1356186313000308",
+  "source_id": "S-134e763ac28a",
+  "canonical_url_id": "U-1cb172cfbec3",
+  "actual_reading_summary": "English；出版方HTML正文相关节实际阅读；未逐字校读藏、缅文铭文"
+}
+
+U-e966de78ed69｜https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra19/T48n2025.pdf
+S-d4982c6375e5｜敕修百丈清规
+实际阅读摘要：中文原典，制度规范文本；已读该段；中文原典，制度规范文本；已读该段
+用于R01-Q05
+{
+  "author": "德煇奉敕重编、大訢奉敕校正",
+  "title": "敕修百丈清规",
+  "year": "元代，1336年前后编修；本次不另定刊刻年",
+  "URL": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra19/T48n2025.pdf",
+  "locator": "卷三，住持章第五，议举住持；所读CBETA电子PDF显示页56–57（不是大正藏原页码）",
+  "language_level": "中文原典，制度规范文本；已读该段",
+  "short_quote": "不可以鄉人法眷阿黨傳會，不擇才德",
+  "translation": "不可因同乡或法系亲缘结党串联而不择才德。",
+  "evidence_limit": "规定能证明规范及防弊对象，不能直接证明每寺均照章执行，也不能由元代规范反推唐代。",
+  "normalized_url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra19/T48n2025.pdf",
+  "source_id": "S-d4982c6375e5",
+  "canonical_url_id": "U-e966de78ed69",
+  "actual_reading_summary": "中文原典，制度规范文本；已读该段"
+}
+
+U-001d4fbcb0fa｜https://glorisunglobalnetwork.org/chin-hijbs/e-journal/6-1/157-196/?lang=zh-hant
+S-5668a556a3d9｜禅宗与宋代政权
+实际阅读摘要：中文译文摘要，现代学术解释；非全文已读；中文译文摘要，现代学术解释；非全文已读
+用于R01-Q05
+{
+  "author": "莫舒特（Morten Schlütter）；孔雁译",
+  "title": "禅宗与宋代政权",
+  "year": 2023,
+  "URL": "https://glorisunglobalnetwork.org/chin-hijbs/e-journal/6-1/157-196/?lang=zh-hant",
+  "locator": "《华林国际佛学学刊》6.1，157–196；本次只读官网摘要段，未据全文分配页码",
+  "language_level": "中文译文摘要，现代学术解释；非全文已读",
+  "short_quote": "“十方”制寺",
+  "translation": "住持选任方式等制度须与法脉认同分别考察。",
+  "evidence_limit": "摘要讨论宋代十方寺、甲乙寺及政权支持；不能扩展为所有时期宗派均无排他边界。",
+  "normalized_url": "https://glorisunglobalnetwork.org/chin-hijbs/e-journal/6-1/157-196/?lang=zh-hant",
+  "source_id": "S-5668a556a3d9",
+  "canonical_url_id": "U-001d4fbcb0fa",
+  "actual_reading_summary": "中文译文摘要，现代学术解释；非全文已读"
+}
+
+U-b12713a931dc｜https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra20/T50n2063.pdf
+S-9c9b7a56156b｜比丘尼传
+实际阅读摘要：中文原典，后出传记汇编；非所述事件同期档案；中文原典，后出传记汇编；非所述事件同期档案
+用于R01-Q06
+{
+  "author": "宝唱",
+  "title": "比丘尼传",
+  "year": "梁代，约6世纪初；成书具体年未重考",
+  "URL": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra20/T50n2063.pdf",
+  "locator": "卷二〈景福寺慧果尼传〉、〈广陵僧果尼传〉；所读电子PDF显示页11–12、16；〈东青园寺业首尼传〉页17",
+  "language_level": "中文原典，后出传记汇编；非所述事件同期档案",
+  "short_quote": "果問曰：此土諸尼先受戒者，未有本事。",
+  "translation": "慧果主动追问本地尼众过去受戒欠缺尼众一方仪式依据的问题。",
+  "evidence_limit": "慧果传九年、僧果传十年及宝贤传十一年不一致；不得抹平后以单一年作无争议事实。",
+  "normalized_url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra20/T50n2063.pdf",
+  "source_id": "S-9c9b7a56156b",
+  "canonical_url_id": "U-b12713a931dc",
+  "actual_reading_summary": "中文原典，后出传记汇编；非所述事件同期档案"
+}
+
+U-5b06a69c57fe｜https://dlbs.liberal.ntu.edu.tw/FULLTEXT/JR-BJ013/bj99856.htm
+S-eba680d7dc31｜《比丘尼传》研究
+实际阅读摘要：中文现代研究，已读相关正文段落；中文现代研究，已读相关正文段落
+用于R01-Q06
+{
+  "author": "吴季霏",
+  "title": "《比丘尼传》研究",
+  "year": 2000,
+  "year_verification": "年份由台湾博硕士论文系统参考书目检索交叉支持；正文页首仅列第4期，待期刊原封面再核",
+  "URL": "https://dlbs.liberal.ntu.edu.tw/FULLTEXT/JR-BJ013/bj99856.htm",
+  "locator": "《法光学坛》4，105–123；本次重点读110–115、118–119页标记",
+  "language_level": "中文现代研究，已读相关正文段落",
+  "short_quote": "詳今略古、詳南略北",
+  "translation": "记述偏重较近时代及南方，不能据其名单推算全国尼众比例。",
+  "evidence_limit": "作者对戒法合法性及事件年代有解释，应同原典条目并列；正文自身出现435与434不同表述，不能不加辨析沿用。",
+  "normalized_url": "https://dlbs.liberal.ntu.edu.tw/FULLTEXT/JR-BJ013/bj99856.htm",
+  "source_id": "S-eba680d7dc31",
+  "canonical_url_id": "U-5b06a69c57fe",
+  "actual_reading_summary": "中文现代研究，已读相关正文段落"
+}
+
+U-cc301860a3b9｜https://zh.wikisource.org/zh-hant/大唐西域記/11
+S-b06179fcbb67｜《大唐西域记》卷十一，僧伽罗国，第三段“佛教二部”
+实际阅读摘要：古汉语；实际读取该完整段落，并查看僧伽罗国相邻段；未读全书；历史文献原文之网络转录；不是碑铭、不是现代考古报告，也不是经校勘纸本；本轮未核CBETA底本
+用于R01-Q07
+{
+  "author_institution": "玄奘述、辩机撰；本轮所读载体为维基文库转录",
+  "title": "《大唐西域记》卷十一，僧伽罗国，第三段“佛教二部”",
+  "year": 646,
+  "year_note": "原书成书年；本轮网页底本及转录日期未核定",
+  "url": "https://zh.wikisource.org/zh-hant/大唐西域記/11",
+  "locator": "卷十一／僧伽罗国／三、佛教二部；网页所读行179",
+  "actual_language": "古汉语",
+  "evidence_level": "历史文献原文之网络转录；不是碑铭、不是现代考古报告，也不是经校勘纸本；本轮未核CBETA底本",
+  "read_scope": "实际读取该完整段落，并查看僧伽罗国相邻段；未读全书",
+  "short_quote": "二曰阿跋耶祇厘住部，學兼二乘，弘演三藏。",
+  "translation_zh": "第二派称阿跋耶祇厘（无畏山）住部，兼学两乘，弘传三藏。",
+  "supports": "在该汉文资料的分类中，无畏山与排斥大乘的摩诃毗诃罗住部有别；同段还出现“大乘上座部法”，说明古代“上座部”与“大乘”的词汇组合不能简单用现代三分法排除。",
+  "limitations": "属古代作者报告及其分类，不应据此推定全体僧人的课程、戒律、人口比例或所有世纪的状态。未核实其具体消息来源与亲见性质，不标为玄奘现场调查。",
+  "normalized_url": "https://zh.wikisource.org/zh-hant/大唐西域記/11",
+  "source_id": "S-b06179fcbb67",
+  "canonical_url_id": "U-cc301860a3b9",
+  "actual_reading_summary": "古汉语；实际读取该完整段落，并查看僧伽罗国相邻段；未读全书；历史文献原文之网络转录；不是碑铭、不是现代考古报告，也不是经校勘纸本；本轮未核CBETA底本"
+}
+
+U-9b40d3d47428｜https://camlab.fas.harvard.edu/project/digital-borobudur/
+S-7d0884a7c45e｜Digital Borobudur
+实际阅读摘要：英语；实际读取项目说明全文相关段落；大学研究项目机构说明；现代学术解释概述，非当时碑铭、非完整研究论文
+用于R01-Q07
+{
+  "author_institution": "Harvard University FAS CAMLab",
+  "title": "Digital Borobudur",
+  "year": null,
+  "year_note": "网页未见可核验出版日期；访问2026-10-18",
+  "url": "https://camlab.fas.harvard.edu/project/digital-borobudur/",
+  "locator": "Academic Research说明正文第1—6段，尤其网页行44—49",
+  "actual_language": "英语",
+  "evidence_level": "大学研究项目机构说明；现代学术解释概述，非当时碑铭、非完整研究论文",
+  "read_scope": "实际读取项目说明全文相关段落",
+  "short_quote": "deeply shaped by Mahāyāna Buddhist thought",
+  "translation_zh": "深受大乘佛教思想塑造。",
+  "supports": "项目将8—9世纪婆罗浮屠置于夏连特拉王朝及印度洋跨区交流，并明确以大乘思想解释其信仰与建筑；可据此为爪哇设置大乘及区域融合单元。",
+  "limitations": "页面关于金刚界曼荼罗及建筑象征属项目解释；本轮未比较不同学者，不能写成无争议定论。网页未提供本轮可直接核对的古代题铭全文。",
+  "normalized_url": "https://camlab.fas.harvard.edu/project/digital-borobudur/",
+  "source_id": "S-7d0884a7c45e",
+  "canonical_url_id": "U-9b40d3d47428",
+  "actual_reading_summary": "英语；实际读取项目说明全文相关段落；大学研究项目机构说明；现代学术解释概述，非当时碑铭、非完整研究论文"
+}
+
+U-594ca9529fc9｜https://accesstoinsight.org/lib/authors/dhammika/wheel386.html
+S-80a5da5bffd9｜The Edicts of King Asoka, Wheel Publication 386/387
+实际阅读摘要：英语译文与译者注；未读普拉克里特原文、婆罗米摹本或拓片；English；实际读取§2、§13全文及相关注释、序言；不是完整语文学对勘；同时代碑铭的现代英译；铭刻文本层与现代地名注释层分开；古代铭文现代英译直接读；未读婆罗米原铭、普拉克里特转写或拓片
+用于R01-Q08
+{
+  "author_institution": "阿育王碑铭；S. Dhammika英译，Buddhist Publication Society；Access to Insight / Barre Center for Buddhist Studies网络载体",
+  "title": "The Edicts of King Asoka, Wheel Publication 386/387",
+  "year": 1993,
+  "year_note": "出版1993；转录1994；网站修订2013。古代碑铭约前3世纪；不套用译者所有绝对年代。",
+  "url": "https://accesstoinsight.org/lib/authors/dhammika/wheel386.html",
+  "locator": "The Fourteen Rock Edicts §2（Girnar版；注2、3），§13（Kalsi版；注25、28）；Preface解释译本依Sen/Sircar/Bhandarkar",
+  "actual_language": "英语译文与译者注；未读普拉克里特原文、婆罗米摹本或拓片",
+  "evidence_level": "同时代碑铭的现代英译；铭刻文本层与现代地名注释层分开",
+  "read_scope": "实际读取§2、§13全文及相关注释、序言；不是完整语文学对勘",
+  "short_quotes": [
+    {
+      "original": "medical treatment for humans and medical treatment for animals",
+      "translation_zh": "为人类和动物提供医疗。",
+      "where": "大石诏II"
+    },
+    {
+      "original": "Now it is conquest by Dhamma",
+      "translation_zh": "如今所重的是以法征服。",
+      "where": "大石诏XIII；短摘，不含完整句"
+    }
+  ],
+  "supports": "§2把Tamraparni列入王者宣称医疗及植物等措施所及地理范围；§13将法胜宣称延伸至南方及Tamraparni，并提使者。两段均无摩哂陀或僧伽蜜多具名行程；译注将Tamraparni解释为斯里兰卡。",
+  "limitations": "地名释为斯里兰卡是译者注释，不是原文直接出现现代国名；本轮未复核地名争论。碑铭是君王公共宣示，措施实施及影响需独立材料。仅据所读两条不作“所有阿育王碑铭绝无某字”的全库负断言。",
+  "normalized_url": "https://accesstoinsight.org/lib/authors/dhammika/wheel386.html",
+  "source_id": "S-80a5da5bffd9",
+  "canonical_url_id": "U-594ca9529fc9",
+  "actual_reading_summary": "英语译文与译者注；未读普拉克里特原文、婆罗米摹本或拓片；实际读取§2、§13全文及相关注释、序言；不是完整语文学对勘；同时代碑铭的现代英译；铭刻文本层与现代地名注释层分开"
+}
+用于R10-Q03
+{
+  "author": "阿育王铭文；S. Dhammika英译",
+  "title": "The Edicts of King Asoka, Wheel Publication 386/387",
+  "year": 1993,
+  "url": "https://accesstoinsight.org/lib/authors/dhammika/wheel386.html",
+  "actual_location": "The Minor Pillar Edicts §1及注44；Preface说明所据Sen、Sircar、Bhandarkar译释",
+  "read_language": "English",
+  "read_level": "古代铭文现代英译直接读；未读婆罗米原铭、普拉克里特转写或拓片",
+  "quote": "Twenty years after his coronation",
+  "translation": "在他灌顶即位二十年后。",
+  "evidence": "译文记王亲访、敬礼此处为释迦族圣者佛陀出生地、立柱及村税安排，没有给出佛陀生年。",
+  "version_note": "已核对页面末尾出版说明：纸本BPS1993；1994是网络转录年，2013-11-30是ATI修订日；不由页首©1994推原作出版年。",
+  "normalized_url": "https://accesstoinsight.org/lib/authors/dhammika/wheel386.html",
+  "source_id": "S-80a5da5bffd9",
+  "canonical_url_id": "U-594ca9529fc9",
+  "actual_reading_summary": "English；古代铭文现代英译直接读；未读婆罗米原铭、普拉克里特转写或拓片"
+}
+S-93605aa6c60f｜The Edicts of King Asoka（Wheel 386/387）
+实际阅读摘要：英语译文及英语译注；未读普拉克里特原文或婆罗米摹本；实际读取以上三种诏文及相关译注；重读序言翻译方法；未校原拓片；原碑铭的现代英译；译者的分类、括号补文、经名比定与铭文正文分开
+用于R02-Q08
+{
+  "author_institution": "阿育王碑铭；S. Dhammika英译；Buddhist Publication Society／Access to Insight",
+  "title": "The Edicts of King Asoka（Wheel 386/387）",
+  "year": 1993,
+  "url": "https://accesstoinsight.org/lib/authors/dhammika/wheel386.html",
+  "locator": "The Fourteen Rock Edicts §12及注22（Girnar）；Minor Rock Edicts §3及注36—38（Bairat）；The Minor Pillar Edicts §2及注45—46（Allahabad版；残损补文说明）",
+  "actual_language": "英语译文及英语译注；未读普拉克里特原文或婆罗米摹本",
+  "evidence_level": "原碑铭的现代英译；译者的分类、括号补文、经名比定与铭文正文分开",
+  "read_scope": "实际读取以上三种诏文及相关译注；重读序言翻译方法；未校原拓片",
+  "short_quotes": [
+    {
+      "original": "all religions",
+      "translation_zh": "所有宗教群体（本英译用词）。",
+      "where": "大石诏XII"
+    },
+    {
+      "original": "faith in the Buddha, the Dhamma and Sangha",
+      "translation_zh": "对佛、法、僧的信心。",
+      "where": "Bairat诏，本译本Minor Rock Edicts §3"
+    }
+  ],
+  "quote_total_words": 11,
+  "supports": "XII要求约束贬损他者的言语并尊重/听闻其他群体教说；Bairat直接致僧团、表三宝信心，并建议僧尼及在家男女常听忆若干教说；反分裂诏针对破僧的僧尼作白衣离寺处置。",
+  "limits": "religions为英译选择，不能直接倒填现代宗教自由或法律平等概念；Bairat七项教说与现行巴利经名的对应，译注明确有争论；Allahabad段含残损重建，不能作完好逐字碑面。",
+  "normalized_url": "https://accesstoinsight.org/lib/authors/dhammika/wheel386.html",
+  "source_id": "S-93605aa6c60f",
+  "canonical_url_id": "U-594ca9529fc9",
+  "actual_reading_summary": "英语译文及英语译注；未读普拉克里特原文或婆罗米摹本；实际读取以上三种诏文及相关译注；重读序言翻译方法；未校原拓片；原碑铭的现代英译；译者的分类、括号补文、经名比定与铭文正文分开"
+}
+
+U-a3cdc1f7bfaa｜https://lakdiva.org.lk/mahavamsa/
+S-94e6d06bc30a｜The Mahavamsa / The Great Chronicle of Lanka
+实际阅读摘要：英语译文；未读巴利原文；网页有OCR拼写讹误；实际读取第XII、XIX章相关完整段落及网站版本说明；未通读全书；较晚编年史的英译网络转录；作为其传承叙事的一手文本，而非前3世纪同步记录
+用于R01-Q08
+{
+  "author_institution": "《大史》传统编纂；Wilhelm Geiger英译，1912；Lakdiva网络转录，2002上线",
+  "title": "The Mahavamsa / The Great Chronicle of Lanka",
+  "year": 1912,
+  "year_note": "此为英译本年；古代编纂晚于阿育王时代，本轮未用该网页核定全部编纂层年代",
+  "url": "https://lakdiva.org.lk/mahavamsa/",
+  "urls": [
+    "https://lakdiva.org.lk/mahavamsa/chap012.html",
+    "https://lakdiva.org.lk/mahavamsa/chap019.html"
+  ],
+  "locator": "第XII章开头派遣名单及Mahinda一段；第XIX章开头Samghamitta与十一比丘尼随树登船一段、后段Anula受戒一段；网页未标偈号，故不编造偈号",
+  "actual_language": "英语译文；未读巴利原文；网页有OCR拼写讹误",
+  "evidence_level": "较晚编年史的英译网络转录；作为其传承叙事的一手文本，而非前3世纪同步记录",
+  "read_scope": "实际读取第XII、XIX章相关完整段落及网站版本说明；未通读全书",
+  "short_quotes": [
+    {
+      "original": "he sent forth theras",
+      "translation_zh": "他派遣诸长老。",
+      "where": "第XII章开头；主语为Moggaliputta"
+    },
+    {
+      "original": "the theri Samghamitta with eleven bhikkhunis",
+      "translation_zh": "僧伽蜜多长老尼与十一位比丘尼。",
+      "where": "第XIX章开头登船叙事"
+    }
+  ],
+  "supports": "XII章把派遣长老的主语写为目犍连子帝须，并具名Mahinda与同伴去Lanka；XIX章叙僧伽蜜多与菩提树航行及比丘尼活动。不能简写为碑铭直接记载“阿育王派儿女传教”。",
+  "limitations": "叙事含神变、龙众、树升空等宗教表达，宗教意义与可外证事件需分开；同类传承的重复出现不自动是相互独立证人。",
+  "normalized_url": "https://lakdiva.org.lk/mahavamsa/",
+  "source_id": "S-94e6d06bc30a",
+  "canonical_url_id": "U-a3cdc1f7bfaa",
+  "actual_reading_summary": "英语译文；未读巴利原文；网页有OCR拼写讹误；实际读取第XII、XIX章相关完整段落及网站版本说明；未通读全书；较晚编年史的英译网络转录；作为其传承叙事的一手文本，而非前3世纪同步记录"
+}
+
+U-6b6a0b2642f0｜https://rubinmuseum.org/projecthimalayanart/essays/goddess-dharmameghabhumi-in-the-tabo-main-temple/
+S-fd02d3ec7d79｜Goddess Dharmameghabhumi in the Tabo Main Temple: The Iconographic Program of a Mid-Eleventh Century Monument
+实际阅读摘要：English；学者对保存建筑、壁画题名与重修铭文的解释；本轮读网页正文与注1，未亲校藏文铭文，也未读1999年铭文校译集。
+用于R01-Q09
+{
+  "author": "Christian Luczanits",
+  "title": "Goddess Dharmameghabhumi in the Tabo Main Temple: The Iconographic Program of a Mid-Eleventh Century Monument",
+  "year": 2023,
+  "institution": "Rubin Museum of Art, Project Himalayan Art",
+  "url": "https://rubinmuseum.org/projecthimalayanart/essays/goddess-dharmameghabhumi-in-the-tabo-main-temple/",
+  "language": "English",
+  "locator": "正文开头第1—2段（web lines64—66）；Iconographic Program首段及图3、图4（lines73—85）；注1（lines128—130）",
+  "pages": null,
+  "short_original": "Tabo was founded forty-six years earlier",
+  "translation": "塔波寺的创建比此前所说的1042年重修早四十六年。",
+  "evidence_level": "学者对保存建筑、壁画题名与重修铭文的解释；本轮读网页正文与注1，未亲校藏文铭文，也未读1999年铭文校译集。",
+  "supports": "常用定年为996年创建、1042年重修；铭文十二年生肖循环的绝对年须结合其他历史信息校准。",
+  "limits": "注1明确理论上重修年可提前或推后十二年；996/1042并非不经论证的铭文公历原文。",
+  "normalized_url": "https://rubinmuseum.org/projecthimalayanart/essays/goddess-dharmameghabhumi-in-the-tabo-main-temple/",
+  "source_id": "S-fd02d3ec7d79",
+  "canonical_url_id": "U-6b6a0b2642f0",
+  "actual_reading_summary": "English；学者对保存建筑、壁画题名与重修铭文的解释；本轮读网页正文与注1，未亲校藏文铭文，也未读1999年铭文校译集。"
+}
+
+U-cf58d4df0b2b｜https://www.metmuseum.org/art/collection/search/38006
+S-cd0875f8645b｜Portrait of the Indian Monk Atisha
+实际阅读摘要：English；现代博物馆学术馆藏说明，非1042年同时代记录；画像本身为12世纪早至中期。
+用于R01-Q09
+{
+  "author": "The Metropolitan Museum of Art，Asian Art馆藏说明（页面未署个人作者）",
+  "title": "Portrait of the Indian Monk Atisha",
+  "year": null,
+  "institution": "The Metropolitan Museum of Art",
+  "url": "https://www.metmuseum.org/art/collection/search/38006",
+  "language": "English",
+  "locator": "Overview作品说明第1段；藏品编号1993.479",
+  "pages": null,
+  "short_original": "In 1042, he traveled to Tibet",
+  "translation": "1042年，他前往西藏。",
+  "evidence_level": "现代博物馆学术馆藏说明，非1042年同时代记录；画像本身为12世纪早至中期。",
+  "supports": "说明采用1042年为阿底峡赴藏年，可作本轮比较节点。",
+  "limits": "邀请者叙述与详细行历未在本轮独立核对；不将12世纪肖像当作1042年事件的直接见证。",
+  "normalized_url": "https://www.metmuseum.org/art/collection/search/38006",
+  "source_id": "S-cd0875f8645b",
+  "canonical_url_id": "U-cf58d4df0b2b",
+  "actual_reading_summary": "English；现代博物馆学术馆藏说明，非1042年同时代记录；画像本身为12世纪早至中期。"
+}
+
+U-d4ef9066a9ec｜https://www.jstage.jst.go.jp/article/aija/70/594/70_KJ00004390231/_pdf
+S-0492a7e86706｜20世紀前半の朝鮮総督府による朝鮮の歴史的建造物の調査・保存事業について
+实际阅读摘要：ja（日文正文及注释实读；不是把英文摘要当日文）；论文第207–209页相关制度论述及第214页注23；未声称通读全文
+用于R01-Q10
+{
+  "author": "田中禎彦",
+  "title": "20世紀前半の朝鮮総督府による朝鮮の歴史的建造物の調査・保存事業について",
+  "year": 2005,
+  "publication": "日本建築学会計画系論文集，第594号，207–214页",
+  "url": "https://www.jstage.jst.go.jp/article/aija/70/594/70_KJ00004390231/_pdf",
+  "language_read": "ja（日文正文及注释实读；不是把英文摘要当日文）",
+  "read_scope": "论文第207–209页相关制度论述及第214页注23；未声称通读全文",
+  "locator": "印刷页209，3-1-1节；印刷页214，注23；PDF第3、8页",
+  "original_short": "寺院を総督府の管理下におくことを眼目とした法制度であった",
+  "translation_zh": "这是一种以把寺院置于总督府管理之下为主要目标的法律制度。",
+  "evidence_type": "学者解释，依据殖民时期法规及施政年报；本轮未直接查验法规原刊",
+  "supports": "论文第209页列1911年6月3日制令第7号寺刹令，并讨论寺产目录、流出防止与古迹调查联动；注23解释寺院合并、迁移、废止、改名及财产处置须经许可。",
+  "verification_note": "页码来自PDF文本页标；截图读取超时，未作图像复核。",
+  "normalized_url": "https://www.jstage.jst.go.jp/article/aija/70/594/70_KJ00004390231/_pdf",
+  "source_id": "S-0492a7e86706",
+  "canonical_url_id": "U-d4ef9066a9ec",
+  "actual_reading_summary": "ja（日文正文及注释实读；不是把英文摘要当日文）；论文第207–209页相关制度论述及第214页注23；未声称通读全文"
+}
+
+U-0bed21f82f81｜https://www.library.ucla.edu/collections/explore/buddhist-churches-of-america-records/
+S-17f11c4682d9｜Buddhist Churches of America Records
+实际阅读摘要：en（实读英文网页，不冒称日文原语）；网页Using the Collection、About the Collection及About the Buddhist Churches of America全部相关段落
+用于R01-Q10
+{
+  "author": "UCLA Library（机构作者）",
+  "title": "Buddhist Churches of America Records",
+  "year": null,
+  "url": "https://www.library.ucla.edu/collections/explore/buddhist-churches-of-america-records/",
+  "language_read": "en（实读英文网页，不冒称日文原语）",
+  "read_scope": "网页Using the Collection、About the Collection及About the Buddhist Churches of America全部相关段落",
+  "locator": "无纸本页码；About the Collection首段；About the Buddhist Churches of America第2–3段",
+  "original_short": "A devout Buddhist immigrant living in California requested missionaries in San Francisco",
+  "translation_zh": "一位居住在加利福尼亚的虔诚佛教移民请求在旧金山派驻传教师。",
+  "evidence_type": "大学档案馆馆藏说明；尚未逐件阅读所述往来信件",
+  "supports": "馆藏包含美国总部、京都本愿寺总部与个别寺院间往来信件。说明记载19世纪70年代宗主派僧出国学习宗教教育与传播，1898年本多惠隆与宫本惠顺访美调查需求，同年青年佛教徒组织成立，BCA组织成立年份为1899。",
+  "normalized_url": "https://www.library.ucla.edu/collections/explore/buddhist-churches-of-america-records/",
+  "source_id": "S-17f11c4682d9",
+  "canonical_url_id": "U-0bed21f82f81",
+  "actual_reading_summary": "en（实读英文网页，不冒称日文原语）；网页Using the Collection、About the Collection及About the Buddhist Churches of America全部相关段落"
+}
+
+U-b4262c495f24｜https://asian.washington.edu/early-buddhist-manuscripts-project
+S-baee09f1b4dd｜The Early Buddhist Manuscripts Project
+实际阅读摘要：英语；实际阅读项目正文；未读每件写本校勘本、碳测报告或原物
+用于R02-Q01
+{
+  "institution": "University of Washington, Asian Languages & Literature",
+  "author": "Early Buddhist Manuscripts Project（机构署名）",
+  "title": "The Early Buddhist Manuscripts Project",
+  "date": null,
+  "url": "https://asian.washington.edu/early-buddhist-manuscripts-project",
+  "locator": "正文第1—3段",
+  "read_language": "英语",
+  "read_level": "实际阅读项目正文；未读每件写本校勘本、碳测报告或原物",
+  "short_quote": "first century BCE to the third century CE",
+  "translation": "公元前一世纪至公元三世纪",
+  "evidence": "项目所研究桦皮卷使用佉卢文、犍陀罗语；项目给出上述总体断代范围。不是每卷同一日期，也不是所有内容的创作日期。",
+  "normalized_url": "https://asian.washington.edu/early-buddhist-manuscripts-project",
+  "source_id": "S-baee09f1b4dd",
+  "canonical_url_id": "U-b4262c495f24",
+  "actual_reading_summary": "英语；实际阅读项目正文；未读每件写本校勘本、碳测报告或原物"
+}
+
+U-9d3ddccac498｜https://lakdiva.org.lk/mahavamsa/chap033.html
+S-ce3be761f922｜Mahāvaṃsa, Chapter XXXIII: The Ten Kings
+实际阅读摘要：英语译文；实际读三藏与义注写成书籍段及毗多伽马尼王上下文；未读巴利原文或英译纸本
+用于R02-Q01
+{
+  "institution": "Lakdiva数字转录",
+  "author": "《大史》编者；Wilhelm Geiger英译",
+  "title": "Mahāvaṃsa, Chapter XXXIII: The Ten Kings",
+  "date": "英译1912；网页更新时间未核定",
+  "url": "https://lakdiva.org.lk/mahavamsa/chap033.html",
+  "locator": "第XXXIII章，末尾以The text of the three pitakas开头段；网络正文未显示偈号，不补造页码",
+  "read_language": "英语译文",
+  "read_level": "实际读三藏与义注写成书籍段及毗多伽马尼王上下文；未读巴利原文或英译纸本",
+  "short_quote": "they wrote them down in books",
+  "translation": "他们把它们写成书籍",
+  "evidence": "编年史叙述三藏及义注由口传转为书写。这是过去书写活动的文本记载，不是该时期写本实物的馆藏证明；本轮不凭此建立精确公元前年份。",
+  "normalized_url": "https://lakdiva.org.lk/mahavamsa/chap033.html",
+  "source_id": "S-ce3be761f922",
+  "canonical_url_id": "U-9d3ddccac498",
+  "actual_reading_summary": "英语译文；实际读三藏与义注写成书籍段及毗多伽马尼王上下文；未读巴利原文或英译纸本"
+}
+
+U-e1c2cad0d5dc｜https://suttacentral.net/api/parallels/sn56.11
+S-dd873c2bc726｜SN 56.11平行关系与SA 379《转法轮》
+实际阅读摘要：数据库英文字段与汉译文言正文；实际读API平行关系及汉译经文；前端JS未呈正文，改用官方API；未校对大正藏影印页
+用于R02-Q02
+{
+  "institution": "SuttaCentral",
+  "author": "数据库编辑团队；《杂阿含经》传统译者求那跋陀罗",
+  "title": "SN 56.11平行关系与SA 379《转法轮》",
+  "date": null,
+  "url": "https://suttacentral.net/api/parallels/sn56.11",
+  "additional_url": "https://suttacentral.net/api/suttas/sa379/taisho?lang=lzh",
+  "locator": "JSON sn56.11数组中to.uid=sa379项（type=full，resembling=true）；中文经文T02 no.99，第379经，103c14—104a29，特别104a02—08",
+  "read_language": "数据库英文字段与汉译文言正文",
+  "read_level": "实际读API平行关系及汉译经文；前端JS未呈正文，改用官方API；未校对大正藏影印页",
+  "short_quote": "四聖諦三轉十二行",
+  "translation": "四圣谛的三次转进、十二种行相",
+  "evidence": "数据库SA379条目标为full且resembling=true；关系字段有区别，不能只数parallel_count。汉译在场景后直接进入四谛三转叙述，本经未有巴利版开头两极端/中道展开。",
+  "normalized_url": "https://suttacentral.net/api/parallels/sn56.11",
+  "source_id": "S-dd873c2bc726",
+  "canonical_url_id": "U-e1c2cad0d5dc",
+  "actual_reading_summary": "数据库英文字段与汉译文言正文；实际读API平行关系及汉译经文；前端JS未呈正文，改用官方API；未校对大正藏影印页"
+}
+
+U-76707ecc2ccf｜https://accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html
+S-24f74a516c71｜Dhammacakkappavattana Sutta: Setting the Wheel of Dhamma in Motion (SN 56.11)
+实际阅读摘要：英语译文，未声称核读巴利原文；实际读英译正文相关段；页面提示更新版另见dhammatalks，不视为最新校订版
+用于R02-Q02
+{
+  "institution": "Access to Insight / Barre Center for Buddhist Studies",
+  "author": "Ṭhānissaro Bhikkhu英译",
+  "title": "Dhammacakkappavattana Sutta: Setting the Wheel of Dhamma in Motion (SN 56.11)",
+  "date": "译作版权1993；网站现用版本日期需另核",
+  "url": "https://accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html",
+  "locator": "经号SN56.11，页面标PTS S v 420；开头两极端与中道段，以及my three-round, twelve-permutation所在段",
+  "read_language": "英语译文，未声称核读巴利原文",
+  "read_level": "实际读英译正文相关段；页面提示更新版另见dhammatalks，不视为最新校订版",
+  "short_quote": "three-round, twelve-permutation",
+  "translation": "三转、十二行相",
+  "evidence": "共享四谛三转结构；此版本另外展开两极端、中道与八正道。比较的是具体文本见证，不是两位目击者陈述。",
+  "normalized_url": "https://accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html",
+  "source_id": "S-24f74a516c71",
+  "canonical_url_id": "U-76707ecc2ccf",
+  "actual_reading_summary": "英语译文，未声称核读巴利原文；实际读英译正文相关段；页面提示更新版另见dhammatalks，不视为最新校订版"
+}
+
+U-88a6598726cf｜https://cbetaonline.dila.edu.tw/zh/T55n2145_p0048c09
+S-2247d15d7ded｜出三藏记集卷七·般舟三昧经记第八
+实际阅读摘要：文言汉语；原典电子校订转录；非179年原件，未查大正影印页
+用于R02-Q03
+{
+  "author": "未详作者；僧祐编集",
+  "title": "出三藏记集卷七·般舟三昧经记第八",
+  "year": "梁代编集；记述179年译出及后续校定",
+  "url": "https://cbetaonline.dila.edu.tw/zh/T55n2145_p0048c09",
+  "actual_access_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T55/T55n2145.xml",
+  "actual_location": "T55 no.2145，48c09–16；CBETA XML行标实际读取",
+  "read_language": "文言汉语",
+  "read_level": "原典电子校订转录；非179年原件，未查大正影印页",
+  "quote": "光和二年十月八日",
+  "translation": "东汉光和二年（179）农历十月初八。",
+  "evidence": "记竺朔佛于洛阳出经、支讖传言、孟福随侍与张莲笔受，并记建安年间校定。",
+  "normalized_url": "https://cbetaonline.dila.edu.tw/zh/T55n2145_p0048c09",
+  "source_id": "S-2247d15d7ded",
+  "canonical_url_id": "U-88a6598726cf",
+  "actual_reading_summary": "文言汉语；原典电子校订转录；非179年原件，未查大正影印页"
+}
+
+U-c373d2e790b3｜https://dazangthings.nz/cbc/text/2195/
+S-0157fc6c24b7｜CBC@: Text T0418 般舟三昧經
+实际阅读摘要：English及所引文言汉语；实际读数据库校释摘要；未直接读Harrison、Zürcher全文
+用于R02-Q03
+{
+  "author": "Sophie Florence / Michael Radich（数据库条目署名）",
+  "title": "CBC@: Text T0418 般舟三昧經",
+  "year": null,
+  "url": "https://dazangthings.nz/cbc/text/2195/",
+  "actual_location": "Assertions中Harrison 1990条（引原书223–249页）；Zürcher 1959/2007条；数据库无固定纸本页码",
+  "read_language": "English及所引文言汉语",
+  "read_level": "实际读数据库校释摘要；未直接读Harrison、Zürcher全文",
+  "quote": "with some reservations",
+  "translation": "带有若干保留。",
+  "evidence": "汇录现存T417/T418、韩国本与宋元明本的归属和改编层争论；179年不能不加区分套在现存每句文字上。",
+  "normalized_url": "https://dazangthings.nz/cbc/text/2195/",
+  "source_id": "S-0157fc6c24b7",
+  "canonical_url_id": "U-c373d2e790b3",
+  "actual_reading_summary": "English及所引文言汉语；实际读数据库校释摘要；未直接读Harrison、Zürcher全文"
+}
+
+U-7912d603cd61｜https://govtmuseumchennai.org/uploads/topics/16527949944825.pdf
+S-d6222535560f｜The Nagapattinam and Other Buddhist Bronzes in the Chennai Museum
+实际阅读摘要：English；政府博物馆官方扫描PDF相关正文定向阅读；未通读全书，未独立释读泰米尔铭文
+用于R02-Q04
+{
+  "author": "T. N. Ramachandran",
+  "title": "The Nagapattinam and Other Buddhist Bronzes in the Chennai Museum",
+  "year": "1954初版；2005修订版所见扫描",
+  "url": "https://govtmuseumchennai.org/uploads/topics/16527949944825.pdf",
+  "actual_location": "印刷页28–29，图版VII.2及相关第三尊铜像的讨论；标题页、版次页实际读取",
+  "read_language": "English",
+  "read_level": "政府博物馆官方扫描PDF相关正文定向阅读；未通读全书，未独立释读泰米尔铭文",
+  "quote": "early 16th century A.D.",
+  "translation": "公元十六世纪初。",
+  "evidence": "作者依据袈裟、耳垂、螺发、火焰状顶饰及与毗奢耶那伽罗造像的比较，将所论佛像断为十六世纪初；属于风格断代。",
+  "normalized_url": "https://govtmuseumchennai.org/uploads/topics/16527949944825.pdf",
+  "source_id": "S-d6222535560f",
+  "canonical_url_id": "U-7912d603cd61",
+  "actual_reading_summary": "English；政府博物馆官方扫描PDF相关正文定向阅读；未通读全书，未独立释读泰米尔铭文"
+}
+
+U-faa67082fc62｜https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra20/T50n2059.pdf
+S-e0ed09dae322｜高僧传
+实际阅读摘要：中文原典；已读取指定段，属后出僧传而非现场文书；中文原典；已读取指定段，属后出僧传而非现场文书
+用于R02-Q05
+{
+  "author": "慧皎",
+  "title": "高僧传",
+  "year": "梁代，6世纪初；本次未另核成书精确年",
+  "URL": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra20/T50n2059.pdf",
+  "locator": "卷三〈求那跋摩传〉、〈僧伽跋摩传〉；CBETA电子PDF页42、44–45（页脚标号；不冒充大正藏页栏）",
+  "read_language_level": "中文原典；已读取指定段，属后出僧传而非现场文书",
+  "short_quote": "以宋元嘉十年，出自流沙，至于京邑。",
+  "translation": "传记把僧伽跋摩来京置于元嘉十年。",
+  "evidence": "求那跋摩传记八尼、学习宋语、另请尼众；僧伽跋摩传记继承重受戒工作，僧尼数百人，继以其年九月译杂心。不能把另一传的元嘉十一年径说成本传原文。",
+  "normalized_url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra20/T50n2059.pdf",
+  "source_id": "S-e0ed09dae322",
+  "canonical_url_id": "U-faa67082fc62",
+  "actual_reading_summary": "中文原典；已读取指定段，属后出僧传而非现场文书"
+}
+
+U-610b0bedd968｜https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra23/T55n2145.pdf
+S-8a992cb9f29d｜出三藏记集
+实际阅读摘要：中文原典；已读两段，序文与传记不同文类；中文原典；已读传记段，事件叙述而非律制规范；未见原契券；中文经录原典指定条及卷首分类实读；以R02下载同URL的原典PDF复核；中文原典；已读两段，序文与传记不同文类；中文原典；已读传记段，事件叙述而非律制规范；未见原契券；中文经录原典指定条及卷首分类实读；以R02下载同URL的原典PDF复核
+用于R02-Q05
+{
+  "author": "僧祐编；〈后出杂心序〉题焦镜法师",
+  "title": "出三藏记集",
+  "year": "梁代，6世纪初汇编；序文所记译事属刘宋",
+  "URL": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra23/T55n2145.pdf",
+  "locator": "卷十〈后出杂心序第十八〉电子PDF页157；卷十四〈僧伽跋摩传第六〉页220–221（页脚标号）",
+  "read_language_level": "中文原典；已读两段，序文与传记不同文类",
+  "short_quote": "於宋元嘉十一年甲戌之歲。",
+  "translation": "序文明确给译事相关三藏的来游标为元嘉十一年甲戌。",
+  "evidence": "卷十四传本文却作元嘉十年至京都，再叙重受戒及其年九月译论；卷十序作十一年，并未直接叙述重受戒，故只能间接限定译者活动，不能直接拿来确定受戒日。",
+  "normalized_url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra23/T55n2145.pdf",
+  "source_id": "S-8a992cb9f29d",
+  "canonical_url_id": "U-610b0bedd968",
+  "actual_reading_summary": "中文原典；已读两段，序文与传记不同文类"
+}
+用于R02-Q06
+{
+  "author": "僧祐编",
+  "title": "出三藏记集",
+  "year": "梁代，6世纪初",
+  "URL": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra23/T55n2145.pdf",
+  "locator": "卷十四〈僧伽跋摩传第六〉；电子PDF页220（页脚标号）",
+  "read_language_level": "中文原典；已读传记段，事件叙述而非律制规范；未见原契券",
+  "short_quote": "平陸令許桑捨宅建剎。",
+  "translation": "平陆县令许桑捐出宅第兴建寺院。",
+  "evidence": "同段另记慧观请住、崇供养、共加塔三层及彭城王义康设斋供；官职身份与皇族护持可证文本所述赞助网络，但不能直接证明行政强制。",
+  "normalized_url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra23/T55n2145.pdf",
+  "source_id": "S-8a992cb9f29d",
+  "canonical_url_id": "U-610b0bedd968",
+  "actual_reading_summary": "中文原典；已读传记段，事件叙述而非律制规范；未见原契券"
+}
+用于R03-Q06
+{
+  "author": "僧祐编",
+  "title": "出三藏记集",
+  "year": "梁代，6世纪初",
+  "URL": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra23/T55n2145.pdf",
+  "locator": "卷四〈新集续撰失译杂经录第一〉中盂兰经一卷条；CBETA电子PDF页脚64，卷首著录原则段",
+  "read_language_level": "中文经录原典指定条及卷首分类实读；以R02下载同URL的原典PDF复核",
+  "short_quote": "盂蘭經一卷",
+  "translation": "列名为一卷本《盂兰经》。",
+  "evidence_limit": "经录失译著录不等于中国撰述结论；古题名与现存T685逐字一致性尚须文本族考证。",
+  "normalized_url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra23/T55n2145.pdf",
+  "source_id": "S-8a992cb9f29d",
+  "canonical_url_id": "U-610b0bedd968",
+  "actual_reading_summary": "中文经录原典指定条及卷首分类实读；以R02下载同URL的原典PDF复核"
+}
+S-83aeb3baa648｜出三藏记集电子书·编辑说明
+实际阅读摘要：中文数字版本原始编辑说明实读；不是底本扫描图像；中文数字版本原始编辑说明实读；不是底本扫描图像
+用于R08-Q06
+{
+  "author": "CBETA编辑；原著僧祐",
+  "title": "出三藏记集电子书·编辑说明",
+  "year": "数字数据Version 2023.Q4；原典梁代，二者不混同",
+  "URL": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra23/T55n2145.pdf",
+  "locator": "电子书页脚7“编辑说明”（PDF第8页，零基7）：数据版本、Unicode、组字、悉昙及兰札转写、红字修订说明",
+  "read_language_level": "中文数字版本原始编辑说明实读；不是底本扫描图像",
+  "short_quote": "修訂用字以紅色字元表示",
+  "translation": "数字编辑对底本作的改字以红色显示。",
+  "evidence_limit": "这是实际版本说明实例，不声称已独立核实每一红字改订；纯文本抽取可能丢失颜色、字形与图档。",
+  "normalized_url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra23/T55n2145.pdf",
+  "source_id": "S-83aeb3baa648",
+  "canonical_url_id": "U-610b0bedd968",
+  "actual_reading_summary": "中文数字版本原始编辑说明实读；不是底本扫描图像"
+}
+
+U-29c932e625d9｜https://ccf.gov.lk/museums/abhayagiriya-museum/
+S-5a28c6936a59｜Abhayagiriya Museum
+实际阅读摘要：英语；实际读取博物馆说明及完整Collections清单；遗址管理机构对出土/馆藏实物的介绍；非发掘报告、非馆藏逐件鉴定、非本轮亲见实物
+用于R02-Q07
+{
+  "author_institution": "Central Cultural Fund（斯里兰卡中央文化基金）",
+  "title": "Abhayagiriya Museum",
+  "year": null,
+  "year_note": "网页未署可核出版日期；页脚©2025不作出版年；访问2026-10-18",
+  "url": "https://ccf.gov.lk/museums/abhayagiriya-museum/",
+  "locator": "Purpose and Significance；Collections条目（网页行57—69）",
+  "actual_language": "英语",
+  "evidence_level": "遗址管理机构对出土/馆藏实物的介绍；非发掘报告、非馆藏逐件鉴定、非本轮亲见实物",
+  "read_scope": "实际读取博物馆说明及完整Collections清单",
+  "short_quote": "Chinese porcelain demonstrating ancient trade connections",
+  "translation_zh": "显示古代贸易联系的中国瓷器。",
+  "supports": "该馆明确说馆藏来自无畏山寺遗址及其邻近地区，并列中国瓷器、佛像与神像、铭文、钱币、陶器等，可为跨境物质联系和多类型遗产建立具体查核入口。",
+  "limits": "网页未给这些瓷器、造像和铭文逐件编号、地层、年代、释读；中国瓷器本身不证明大乘、密教或任何特定戒脉。",
+  "normalized_url": "https://ccf.gov.lk/museums/abhayagiriya-museum/",
+  "source_id": "S-5a28c6936a59",
+  "canonical_url_id": "U-29c932e625d9",
+  "actual_reading_summary": "英语；实际读取博物馆说明及完整Collections清单；遗址管理机构对出土/馆藏实物的介绍；非发掘报告、非馆藏逐件鉴定、非本轮亲见实物"
+}
+
+U-293ee62ab324｜https://whc.unesco.org/en/list/592/
+S-2274616b9461｜Borobudur Temple Compounds
+实际阅读摘要：英语机构说明；非古爪哇语或梵文铭文；实读三寺构成、文物真实性与遗产价值相关段落；官方遗址说明；实物描述与现代意义阐释并存
+用于R02-Q07
+{
+  "author_institution": "UNESCO World Heritage Centre",
+  "title": "Borobudur Temple Compounds",
+  "year": null,
+  "year_note": "世界遗产列入1991；所读动态说明未署出版年，不将列入年当说明撰写年",
+  "url": "https://whc.unesco.org/en/list/592/",
+  "locator": "Outstanding Universal Value / Brief synthesis，三寺构成段（网页行52）；Authenticity（行68—69）；Criterion (vi)（行56）",
+  "actual_language": "英语机构说明；非古爪哇语或梵文铭文",
+  "evidence_level": "官方遗址说明；实物描述与现代意义阐释并存",
+  "read_scope": "实读三寺构成、文物真实性与遗产价值相关段落",
+  "short_quote": "accompanied by two Bodhisattvas",
+  "translation_zh": "由两尊菩萨像相伴。",
+  "supports": "明确列Borobudur、Mendut、Pawon三寺，并描述Mendut主佛与两侧菩萨像这一具体造像组合；同时说明修复主要采用原材料且遗留足够原物。",
+  "limits": "现代对十阶/菩萨阶段的阐释不是一条原铭释文；造像组合不足以单独还原所有僧人的身份和仪轨，不能因此把全部海域东南亚归成同一教派。",
+  "normalized_url": "https://whc.unesco.org/en/list/592/",
+  "source_id": "S-2274616b9461",
+  "canonical_url_id": "U-293ee62ab324",
+  "actual_reading_summary": "英语机构说明；非古爪哇语或梵文铭文；实读三寺构成、文物真实性与遗产价值相关段落；官方遗址说明；实物描述与现代意义阐释并存"
+}
+
+U-3fd8c3cbf161｜https://journaloftibetanliterature.org/index.php/jtl/article/download/77/226?inline=1
+S-f9ffe74cabbd｜Eighty-Four Thousand Reasons to Translate the Canon
+实际阅读摘要：English；实读英文HTML相关完整章节，非摘要；未据藏文编纂目录作独立校勘
+用于R02-Q09
+{
+  "author": "John Canti",
+  "title": "Eighty-Four Thousand Reasons to Translate the Canon",
+  "year": 2024,
+  "published_on": "2024-05-31",
+  "publication": "Journal of Tibetan Literature, Spring 2024",
+  "url": "https://journaloftibetanliterature.org/index.php/jtl/article/download/77/226?inline=1",
+  "language": "English",
+  "reading_level": "实读英文HTML相关完整章节，非摘要；未据藏文编纂目录作独立校勘",
+  "locator": "The canon as the fruit of a project significant in medieval world history节，早9世纪目录段至14世纪编集段（web lines112—127）；The canon as structured and interconnected collection节，德格1733年段（lines73—80）；The canon as textual history节开头（lines136—138）",
+  "pages": null,
+  "short_original": "the mid-fourteenth century",
+  "translation": "14世纪中叶。",
+  "supports": "作者区分早9世纪已有大量藏译与目录、后续汇集校勘及14世纪中叶成套经论编集；另以1733年初印德格甘珠尔说明具体刻本层次，指出不同甘珠尔有异文与复杂传承。",
+  "limits": "为现代概述，非所有编集中心与版本的逐项定年；作者声明系个人论述，不等于84000官方政策。未采用其Toh目录出版年一句来扩展本题。",
+  "normalized_url": "https://journaloftibetanliterature.org/index.php/jtl/article/download/77/226?inline=1",
+  "source_id": "S-f9ffe74cabbd",
+  "canonical_url_id": "U-3fd8c3cbf161",
+  "actual_reading_summary": "English；实读英文HTML相关完整章节，非摘要；未据藏文编纂目录作独立校勘"
+}
+
+U-3e2a04db5ec6｜https://tibetcenter.as.virginia.edu/tibetan-literature
+S-bcf44fc74211｜Tibetan Literature Collections at the UVa Library
+实际阅读摘要：English；实读机构馆藏说明的Canonical Holdings节；未打开各部藏经实体或逐卷影像
+用于R02-Q09
+{
+  "author": "University of Virginia Tibet Center（页面未署个人作者）",
+  "title": "Tibetan Literature Collections at the UVa Library",
+  "year": null,
+  "url": "https://tibetcenter.as.virginia.edu/tibetan-literature",
+  "language": "English",
+  "reading_level": "实读机构馆藏说明的Canonical Holdings节；未打开各部藏经实体或逐卷影像",
+  "locator": "Canonical Holdings节及其项目列表，web lines47—62",
+  "pages": null,
+  "short_original": "over twelve editions of the Kangyur and Tengyur",
+  "translation": "甘珠尔与丹珠尔的十余种版本。",
+  "supports": "馆藏分别列德格、拉萨、那塘、北京等版本，并进一步区分重印、缩微片与电子影印；支持将版本身份与现代载体分开。",
+  "limits": "页面无发表日期且部分机构名称与馆藏状态可能陈旧；只用于说明目录层级，不据其列表断言当前全部馆藏或版本总数。",
+  "normalized_url": "https://tibetcenter.as.virginia.edu/tibetan-literature",
+  "source_id": "S-bcf44fc74211",
+  "canonical_url_id": "U-3e2a04db5ec6",
+  "actual_reading_summary": "English；实读机构馆藏说明的Canonical Holdings节；未打开各部藏经实体或逐卷影像"
+}
+
+U-f9b8fcef1be4｜https://www.museum.or.jp/event/75920
+S-686030d137d1｜平成23年度秋季特別展「仏教伝来」
+实际阅读摘要：ja，实读日文展览说明全文；博物馆展览介绍在第三方展览门户的刊载；非原典直读，亦非已读展览图录；官网历史页本轮未取得
+用于R02-Q10
+{
+  "author": "奈良县立橿原考古学研究所附属博物馆（展览举办机构）；Internet Museum刊载，未署个人作者",
+  "title": "平成23年度秋季特別展「仏教伝来」",
+  "year": 2011,
+  "url": "https://www.museum.or.jp/event/75920",
+  "locator": "展览介绍首段；无纸本页码",
+  "language_read": "ja，实读日文展览说明全文",
+  "source_level": "博物馆展览介绍在第三方展览门户的刊载；非原典直读，亦非已读展览图录；官网历史页本轮未取得",
+  "original_short": "仏教公伝は６世紀半ばのこと",
+  "translation_zh": "佛教公传是六世纪中叶的事件。",
+  "supports": "介绍将538系于《元兴寺伽蓝缘起并流记资财帐》，将552系于《日本书纪》；公传内容是百济圣明王向钦明天皇送达释迦像、幢盖及经论，并说明此后新罗、高句丽的僧侣和文化输入，展览另以寺院、古坟考古材料讨论地方接受和渡来氏族。",
+  "normalized_url": "https://www.museum.or.jp/event/75920",
+  "source_id": "S-686030d137d1",
+  "canonical_url_id": "U-f9b8fcef1be4",
+  "actual_reading_summary": "ja，实读日文展览说明全文；博物馆展览介绍在第三方展览门户的刊载；非原典直读，亦非已读展览图录；官网历史页本轮未取得"
+}
+
+U-7fd35ed52c1e｜https://adeac.jp/tondabayashi-city/texthtml/d000010/cp000001/ht000522
+S-0c0f96431d11｜富田林市史 第一巻（本文編Ⅰ）「仏教の公伝と私伝」
+实际阅读摘要：ja（日文地方史数字正文），内含古典引文；未直接核古典写本或校勘本；市政府文化财数字档案所载现代地方史；对《扶桑略记》等为二手引述
+用于R02-Q10
+{
+  "author": "富田林市（地方史机构作者；该节执笔人本轮未核）",
+  "title": "富田林市史 第一巻（本文編Ⅰ）「仏教の公伝と私伝」",
+  "year": null,
+  "url": "https://adeac.jp/tondabayashi-city/texthtml/d000010/cp000001/ht000522",
+  "locator": "数字文本标示原书656–658页，「仏教の公伝と私伝」节；通读该节",
+  "language_read": "ja（日文地方史数字正文），内含古典引文；未直接核古典写本或校勘本",
+  "source_level": "市政府文化财数字档案所载现代地方史；对《扶桑略记》等为二手引述",
+  "original_short": "鏡背の仏像をどの程度に理解していたかは問題",
+  "translation_zh": "其对镜背佛像理解到何种程度，仍是问题。",
+  "supports": "该节讨论《扶桑略记》522年司马达等建草堂礼拜的传说，并明确古书性质不明、是否含可信古传须条件判断；四佛四兽镜可说明图像流入，却不直接证明持有人充分理解信仰。",
+  "textual_discrepancy": "该数字文本首段实际写钦明七年（546），归于《元兴寺伽蓝缘起并流记资财帐》，与展览介绍538不同；本轮不静默改为538，不据此提出独立546定论。",
+  "normalized_url": "https://adeac.jp/tondabayashi-city/texthtml/d000010/cp000001/ht000522",
+  "source_id": "S-0c0f96431d11",
+  "canonical_url_id": "U-7fd35ed52c1e",
+  "actual_reading_summary": "ja（日文地方史数字正文），内含古典引文；未直接核古典写本或校勘本；市政府文化财数字档案所载现代地方史；对《扶桑略记》等为二手引述"
+}
+S-96d7d6566f12｜富田林市史 第一卷（本文编Ⅰ）「仏教の公伝と私伝」
+实际阅读摘要：日文原语数字文本；本轮重读首段与同节正文；未取得原书该页扫描；旧来源复核，只用于确认争点措辞；新增学术扫描为前一来源
+用于R10-Q10
+{
+  "author": "富田林市；该节执笔人未核",
+  "title": "富田林市史 第一卷（本文编Ⅰ）「仏教の公伝と私伝」",
+  "year": null,
+  "url": "https://adeac.jp/tondabayashi-city/texthtml/d000010/cp000001/ht000522",
+  "locator": "数字正文标原书656–658页，首段",
+  "language_read": "日文原语数字文本",
+  "read_scope": "本轮重读首段与同节正文；未取得原书该页扫描",
+  "source_level": "旧来源复核，只用于确认争点措辞；新增学术扫描为前一来源",
+  "original_short": "欽明天皇七年（五四六）",
+  "translation_zh": "钦明天皇七年（546）。",
+  "supports": "该数字文本确实按七年标为546，并归于元兴寺缘起；没有随附解释为什么不用戊午换算。",
+  "caution": "不能由网页文字判定原书有误还是转录有误，也不能替编者补写理由。",
+  "normalized_url": "https://adeac.jp/tondabayashi-city/texthtml/d000010/cp000001/ht000522",
+  "source_id": "S-96d7d6566f12",
+  "canonical_url_id": "U-7fd35ed52c1e",
+  "actual_reading_summary": "日文原语数字文本；本轮重读首段与同节正文；未取得原书该页扫描；旧来源复核，只用于确认争点措辞；新增学术扫描为前一来源"
+}
+
+U-0b0382357f9d｜https://accesstoinsight.org/tipitaka/sn/sn12/sn12.002.than.html
+S-63a0fe939c4c｜SN12.2 Paticca-samuppada-vibhanga Sutta: Analysis of Dependent Co-arising
+实际阅读摘要：英语译文；实际核读正文；未核巴利原文或纸本PTS
+用于R03-Q01
+{
+  "author": "Ṭhānissaro Bhikkhu英译",
+  "institution": "Access to Insight / Barre Center for Buddhist Studies",
+  "title": "SN12.2 Paticca-samuppada-vibhanga Sutta: Analysis of Dependent Co-arising",
+  "date": "译作1997；网页修订2013-11-30",
+  "url": "https://accesstoinsight.org/tipitaka/sn/sn12/sn12.002.than.html",
+  "locator": "SN12.2；页面标PTS S ii 2；缘起链、name-&-form及ignorance释义段",
+  "read_language": "英语译文",
+  "read_level": "实际核读正文；未核巴利原文或纸本PTS",
+  "short_quote": "Feeling, perception, intention, contact, & attention",
+  "translation": "受、想、思、触与作意",
+  "evidence": "名的定义列五项；无明定义为不知苦、集、灭、道；同时列生起及止息次序。",
+  "normalized_url": "https://accesstoinsight.org/tipitaka/sn/sn12/sn12.002.than.html",
+  "source_id": "S-63a0fe939c4c",
+  "canonical_url_id": "U-0b0382357f9d",
+  "actual_reading_summary": "英语译文；实际核读正文；未核巴利原文或纸本PTS"
+}
+
+U-9974ddf19dd0｜https://suttacentral.net/api/suttas/sa298/taisho?lang=lzh
+S-edaf0c37bb2a｜《杂阿含经》第298经：法说义说
+实际阅读摘要：汉译文言；实际读API返回汉译全文；保存sa298-api.json；未核影印页或梵文
+用于R03-Q01
+{
+  "author": "传统译者求那跋陀罗；数字转录SuttaCentral/CBETA",
+  "institution": "SuttaCentral",
+  "title": "《杂阿含经》第298经：法说义说",
+  "date": "古汉译年代另核；API页面无更新年",
+  "url": "https://suttacentral.net/api/suttas/sa298/taisho?lang=lzh",
+  "locator": "T02 no.99，85a12—85b20；名的定义85a28—85b02，无明定义85a17—25",
+  "read_language": "汉译文言",
+  "read_level": "实际读API返回汉译全文；保存sa298-api.json；未核影印页或梵文",
+  "short_quote": "謂四無色陰",
+  "translation": "即四种非色的蕴",
+  "evidence": "共同解释无明缘行等关系，名则用受想行识四阴说明；无明的解释也比所读SN12.2英译长。",
+  "normalized_url": "https://suttacentral.net/api/suttas/sa298/taisho?lang=lzh",
+  "source_id": "S-edaf0c37bb2a",
+  "canonical_url_id": "U-9974ddf19dd0",
+  "actual_reading_summary": "汉译文言；实际读API返回汉译全文；保存sa298-api.json；未核影印页或梵文"
+}
+
+U-2c986d69f38a｜https://www.dhammatalks.org/vinaya/bmc/Section0006.html
+S-edd3433fe093｜The Buddhist Monastic Code I, Introduction: Dhamma-Vinaya
+实际阅读摘要：英语；实际核读律藏结构与不同版本解释段；本书是现代译释，不冒充纯原典
+用于R03-Q02
+{
+  "author": "Ṭhānissaro Bhikkhu",
+  "institution": "dhammatalks.org",
+  "title": "The Buddhist Monastic Code I, Introduction: Dhamma-Vinaya",
+  "date": "现用网页未在本节显示修订年",
+  "url": "https://www.dhammatalks.org/vinaya/bmc/Section0006.html",
+  "locator": "Introduction中The Vinaya was organized into two main parts段；The Vibhaṅga forms the basis段；Disagreements among the texts小节",
+  "read_language": "英语",
+  "read_level": "实际核读律藏结构与不同版本解释段；本书是现代译释，不冒充纯原典",
+  "short_quote": "two main parts",
+  "translation": "两个主要部分",
+  "evidence": "分别部围绕戒本及其解释，犍度另收其他制度材料；正文讨论不同版本和注释层的实际解释分歧。",
+  "normalized_url": "https://www.dhammatalks.org/vinaya/bmc/Section0006.html",
+  "source_id": "S-edd3433fe093",
+  "canonical_url_id": "U-2c986d69f38a",
+  "actual_reading_summary": "英语；实际核读律藏结构与不同版本解释段；本书是现代译释，不冒充纯原典"
+}
+
+U-9d6367d698a8｜https://www.dhammatalks.org/vinaya/bmc/Section0054.html
+S-8d8932310ec3｜The Buddhist Monastic Code II, Chapter Fourteen: Ordination
+实际阅读摘要：英语译释；实际读法定人数段；未读巴利原文，未核现代受戒现场
+用于R03-Q02
+{
+  "author": "Ṭhānissaro Bhikkhu译释；所引巴利律出处与作者解释分别标记",
+  "institution": "dhammatalks.org",
+  "title": "The Buddhist Monastic Code II, Chapter Fourteen: Ordination",
+  "date": "现用网页本节未核出版修订日",
+  "url": "https://www.dhammatalks.org/vinaya/bmc/Section0054.html",
+  "locator": "The validity of the assembly小节首段（以The quorum for full Acceptance开头）；邻段所引Mv.V.13.12用于地理界限，不冒充人数条文本身",
+  "read_language": "英语译释",
+  "read_level": "实际读法定人数段；未读巴利原文，未核现代受戒现场",
+  "short_quote": "ten bhikkhus",
+  "translation": "十位比丘",
+  "evidence": "文中说明恒河中游受具法定人数为十，边地为五且其中应有知律者；对知律者定义又区分注释与作者意见。",
+  "normalized_url": "https://www.dhammatalks.org/vinaya/bmc/Section0054.html",
+  "source_id": "S-8d8932310ec3",
+  "canonical_url_id": "U-9d6367d698a8",
+  "actual_reading_summary": "英语译释；实际读法定人数段；未读巴利原文，未核现代受戒现场"
+}
+
+U-7b1dda694d2a｜https://www.metmuseum.org/art/collection/search/38118
+S-c97b916a1505｜Vajrapani Attends the Buddha at His First Sermon
+实际阅读摘要：English；官方馆藏简介和元数据实际读取；未作实物鉴定
+用于R03-Q03
+{
+  "author": "The Metropolitan Museum of Art（馆藏条目未署个人作者）",
+  "title": "Vajrapani Attends the Buddha at His First Sermon",
+  "year": null,
+  "url": "https://www.metmuseum.org/art/collection/search/38118",
+  "actual_location": "Object Number 1980.527.4；简介及Artwork Details",
+  "read_language": "English",
+  "read_level": "官方馆藏简介和元数据实际读取；未作实物鉴定",
+  "quote": "drawing on Heracles imagery",
+  "translation": "借鉴赫拉克勒斯图像。",
+  "evidence": "馆录定为约二世纪犍陀罗片岩浮雕；将持金刚杵者识为金刚手，并解释其英雄形象借鉴赫拉克勒斯。",
+  "normalized_url": "https://www.metmuseum.org/art/collection/search/38118",
+  "source_id": "S-c97b916a1505",
+  "canonical_url_id": "U-7b1dda694d2a",
+  "actual_reading_summary": "English；官方馆藏简介和元数据实际读取；未作实物鉴定"
+}
+
+U-93a6e2522960｜https://www.metmuseum.org/essays/gandhara
+S-65c3d2c0326c｜Gandhara
+实际阅读摘要：English；馆方学术短文相关正文直接阅读
+用于R03-Q03
+{
+  "author": "Kurt Behrendt",
+  "title": "Gandhara",
+  "year": 2012,
+  "url": "https://www.metmuseum.org/essays/gandhara",
+  "actual_location": "正文以“As is typical of many Gandharan compositions”开头段及“Most of the major Buddhist centers”相关段；HTML无固定页码",
+  "read_language": "English",
+  "read_level": "馆方学术短文相关正文直接阅读",
+  "quote": "synthesis of foreign styles with Indian forms",
+  "translation": "外来风格与印度形式的融合。",
+  "evidence": "作者以多族群品味及南亚、地中海、帕提亚艺术词汇解释犍陀罗，并具体讨论1980.527.4号。",
+  "normalized_url": "https://www.metmuseum.org/essays/gandhara",
+  "source_id": "S-65c3d2c0326c",
+  "canonical_url_id": "U-93a6e2522960",
+  "actual_reading_summary": "English；馆方学术短文相关正文直接阅读"
+}
+
+U-3bcd033039ae｜https://idp.bl.uk/collection/20DD6A04679D41E0806AA8CEABF2FDAF/
+S-20e00e9c5c2b｜Or.9614/5 — The Book of Zambasta
+实际阅读摘要：English；实际读取搜索工具返回的官方目录索引文本；详情直开及普通HTTP请求均403，未读详情全文或原叶
+用于R03-Q04
+{
+  "author": "British Library / International Dunhuang Programme",
+  "title": "Or.9614/5 — The Book of Zambasta",
+  "year": null,
+  "url": "https://idp.bl.uk/collection/20DD6A04679D41E0806AA8CEABF2FDAF/",
+  "actual_location": "官方目录索引所显示Overview：Language/script、Material、Institution、Date；物号Or.9614/5",
+  "read_language": "English",
+  "read_level": "实际读取搜索工具返回的官方目录索引文本；详情直开及普通HTTP请求均403，未读详情全文或原叶",
+  "quote": "Khotanese (lang.) Brahmi (script)",
+  "translation": "于阗语（语言）；婆罗米文（文字）。",
+  "evidence": "官方索引分别记录语言、文字、纸上墨书、British Library馆藏，并将Date记为undated。",
+  "access_status": "indexed_metadata_read; detail_403",
+  "normalized_url": "https://idp.bl.uk/collection/20DD6A04679D41E0806AA8CEABF2FDAF/",
+  "source_id": "S-20e00e9c5c2b",
+  "canonical_url_id": "U-3bcd033039ae",
+  "actual_reading_summary": "English；实际读取搜索工具返回的官方目录索引文本；详情直开及普通HTTP请求均403，未读详情全文或原叶"
+}
+
+U-77c735f217f9｜https://www.iranicaonline.org/articles/khotan-parent/khotan-iv-khotanese-language/
+S-030c0778e077｜KHOTAN iv. The Khotanese Language
+实际阅读摘要：English；学者署名百科条目相关正文实际阅读；未直接释读于阗语原件
+用于R03-Q04
+{
+  "author": "Prods Oktor Skjærvø",
+  "title": "KHOTAN iv. The Khotanese Language",
+  "year": 2022,
+  "url": "https://www.iranicaonline.org/articles/khotan-parent/khotan-iv-khotanese-language/",
+  "actual_location": "导言；DECIPHERMENT AND NAME OF THE LANGUAGE；DOCUMENTATION之Manuscript collections及The text corpus",
+  "read_language": "English",
+  "read_level": "学者署名百科条目相关正文实际阅读；未直接释读于阗语原件",
+  "quote": "a Middle Iranian language",
+  "translation": "一种中古伊朗语言。",
+  "evidence": "区分语言历史阶段和发现地域；介绍于阗与敦煌写本及过去语言识别和命名的修正。",
+  "normalized_url": "https://www.iranicaonline.org/articles/khotan-parent/khotan-iv-khotanese-language/",
+  "source_id": "S-030c0778e077",
+  "canonical_url_id": "U-77c735f217f9",
+  "actual_reading_summary": "English；学者署名百科条目相关正文实际阅读；未直接释读于阗语原件"
+}
+
+U-083ea2a330a9｜https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra20/T50n2053.pdf
+S-9893967fbd58｜大唐大慈恩寺三藏法师传
+实际阅读摘要：中文原典指定段实读；传记内保存奏请与敕令叙述，非现存原奏敕；中文原典指定段实读；传记内保存奏请与敕令叙述，非现存原奏敕
+用于R03-Q05
+{
+  "author": "慧立本、彦悰笺",
+  "title": "大唐大慈恩寺三藏法师传",
+  "year": "唐代；具体定本年本轮未核",
+  "URL": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra20/T50n2053.pdf",
+  "locator": "卷六，弘福寺开译及六月译场人员段；CBETA电子PDF页脚60（非大正藏原页码）",
+  "read_language_level": "中文原典指定段实读；传记内保存奏请与敕令叙述，非现存原奏敕",
+  "short_quote": "自餘筆受、書手，所司供料等並至。",
+  "translation": "名单所列人员以外，笔受、抄写人员和官署供应物料也已到位。",
+  "evidence_limit": "十二证义、九缀文、一字学、一证梵语梵文合为23，不能当整个译场总人数。",
+  "normalized_url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra20/T50n2053.pdf",
+  "source_id": "S-9893967fbd58",
+  "canonical_url_id": "U-083ea2a330a9",
+  "actual_reading_summary": "中文原典指定段实读；传记内保存奏请与敕令叙述，非现存原奏敕"
+}
+
+U-0c2e8b109cd5｜https://www.gaya.org.tw/library/readers/guide-ylpj.htm
+S-04c0d70ddac0｜盂兰盆经解题（佛书解题·香光版）
+实际阅读摘要：中文机构书目解题全文实读；后出目录的具体归属本轮经此解题二手取得，未声称直接读全部目录；中文机构书目解题全文实读；后出目录的具体归属本轮经此解题二手取得，未声称直接读全部目录
+用于R03-Q06
+{
+  "author": "香光尼众佛学院图书馆整理",
+  "title": "盂兰盆经解题（佛书解题·香光版）",
+  "year": null,
+  "URL": "https://www.gaya.org.tw/library/readers/guide-ylpj.htm",
+  "locator": "著译者栏；“本经的真伪”第一、二条；网页无纸本页码",
+  "read_language_level": "中文机构书目解题全文实读；后出目录的具体归属本轮经此解题二手取得，未声称直接读全部目录",
+  "short_quote": "譯者不詳",
+  "translation": "早期著录没有确定译者。",
+  "evidence_limit": "解题同时保留竺法护传统归属、疑伪意见及不可遽断伪的意见；不能据其传统书目栏抹去正文争议。",
+  "normalized_url": "https://www.gaya.org.tw/library/readers/guide-ylpj.htm",
+  "source_id": "S-04c0d70ddac0",
+  "canonical_url_id": "U-0c2e8b109cd5",
+  "actual_reading_summary": "中文机构书目解题全文实读；后出目录的具体归属本轮经此解题二手取得，未声称直接读全部目录"
+}
+
+U-565f962a9795｜https://zh.wikisource.org/wiki/大唐西域求法高僧傳/卷下
+S-c8fc088bf36f｜《大唐西域求法高僧传》卷下
+实际阅读摘要：古汉语原文网络转录；不是现代汉译；未校藏经底本；实际读取义净完整自述段、大津法师传及相邻说明；未通读全书；求法者旅行自述及其记人传记；网络转录非手稿或铭文
+用于R03-Q07
+{
+  "author_institution": "义净；维基文库网络转录",
+  "title": "《大唐西域求法高僧传》卷下",
+  "year": null,
+  "year_note": "唐代原典；本轮不以未经版本核定的单一年份代替成书过程。所读大津段含天授二年（691）携书归唐信息。",
+  "url": "https://zh.wikisource.org/wiki/大唐西域求法高僧傳/卷下",
+  "locator": "义净自述“于时咸亨二年”起至“权居佛逝矣”止（网页行133）；大津法师传（行151）",
+  "actual_language": "古汉语原文网络转录；不是现代汉译；未校藏经底本",
+  "evidence_level": "求法者旅行自述及其记人传记；网络转录非手稿或铭文",
+  "read_scope": "实际读取义净完整自述段、大津法师传及相邻说明；未通读全书",
+  "short_quotes": [
+    {
+      "original": "經停六月，漸學聲明。",
+      "translation_zh": "停留半年，逐步学习声明（语言学问）。"
+    },
+    {
+      "original": "停斯多載，解崑崙語，頗習梵書。",
+      "translation_zh": "在当地停留多年，懂得昆仑语，也学习梵文书写或梵书。"
+    }
+  ],
+  "supports": "自述记录广州与波斯船主相约、到佛逝停半年学习声明、王室资助与王船、途经末罗瑜/羯荼赴印度，返程携梵本权居佛逝；大津传记录昆仑语、梵书与向唐地携书。",
+  "limits": "古地名与现代地点、商船航日、梵本数量、声明/梵书具体课程不能未经考证精确化。义净自述和其大津传属于同一作者，不计作两位独立外证者。",
+  "normalized_url": "https://zh.wikisource.org/wiki/大唐西域求法高僧傳/卷下",
+  "source_id": "S-c8fc088bf36f",
+  "canonical_url_id": "U-565f962a9795",
+  "actual_reading_summary": "古汉语原文网络转录；不是现代汉译；未校藏经底本；实际读取义净完整自述段、大津法师传及相邻说明；未通读全书；求法者旅行自述及其记人传记；网络转录非手稿或铭文"
+}
+
+U-e2ec7fe2d7be｜https://www.dhammatalks.net/Books12/Bhadantacariya_Buddhaghosa-Path_of_Purification.pdf
+S-e4c7847fb1a5｜The Path of Purification (Visuddhimagga), fourth edition
+实际阅读摘要：英语译文；另实读现代英语导论；未读巴利原文；实读I.4及注、Conclusion及Postscript、僧伽罗/缅甸本专见尾偈标记、译者导论相关段；未全文通读；原典正文/结尾的英译与现代译者导论，分层使用；不是觉音时代写本
+用于R03-Q08
+{
+  "author_institution": "觉音传统署名；Bhikkhu Ñāṇamoli英译；Buddhist Publication Society，公开PDF转载于Dhammatalks.net",
+  "title": "The Path of Purification (Visuddhimagga), fourth edition",
+  "year": 2010,
+  "year_note": "书内版权页确认第四版2010；电子版网络发布年另记，不能把2010当原作年",
+  "url": "https://www.dhammatalks.net/Books12/Bhadantacariya_Buddhaghosa-Path_of_Purification.pdf",
+  "locator": "I.4，印刷p.6（PDF零基页63）；Conclusion，印刷pp.745—747（PDF零基页802—804）；Introduction，印刷pp.xxxv—xxxvi（PDF零基页36—37）；版权页PDF零基5",
+  "actual_language": "英语译文；另实读现代英语导论；未读巴利原文",
+  "evidence_level": "原典正文/结尾的英译与现代译者导论，分层使用；不是觉音时代写本",
+  "read_scope": "实读I.4及注、Conclusion及Postscript、僧伽罗/缅甸本专见尾偈标记、译者导论相关段；未全文通读",
+  "short_quote": "After collating all the expositions",
+  "quote_words": 6,
+  "translation_zh": "在汇校各项解说之后。",
+  "supports": "I.4自述依大寺教学阐释；结论以五尼柯耶的注释体系说明汇整，Postscript署觉音，后页明确标出僧伽罗本与缅甸本各有专见尾偈；导论转引尼柯耶注序的语言转换与删繁声明。",
+  "limits": "书中作者/传承自述不等于本轮外证的逐字编写过程。导论关于助手或编集顺序为译者假设，不能改写为历史事实。尾偈异文只证明所据版本有差别，未确定其年代及作者。",
+  "normalized_url": "https://www.dhammatalks.net/Books12/Bhadantacariya_Buddhaghosa-Path_of_Purification.pdf",
+  "source_id": "S-e4c7847fb1a5",
+  "canonical_url_id": "U-e2ec7fe2d7be",
+  "actual_reading_summary": "英语译文；另实读现代英语导论；未读巴利原文；实读I.4及注、Conclusion及Postscript、僧伽罗/缅甸本专见尾偈标记、译者导论相关段；未全文通读；原典正文/结尾的英译与现代译者导论，分层使用；不是觉音时代写本"
+}
+
+U-6ca386f9d113｜https://palitextsociety.org/the-books-of-the-pali-canon/
+S-441123dd3090｜The works of the Pali canon / Canonical texts and their commentaries
+实际阅读摘要：英语目录与巴利拉丁转写书名；未读七论巴利正文；实读两页七论与相应注释列表，不声称读完所列书；现代学术出版机构自身书目/经典分类原始目录；非古代成书年代证据
+用于R03-Q08
+{
+  "author_institution": "Pali Text Society",
+  "title": "The works of the Pali canon / Canonical texts and their commentaries",
+  "year": null,
+  "year_note": "动态目录未署可核年份；访问2026-10-18",
+  "url": "https://palitextsociety.org/the-books-of-the-pali-canon/",
+  "additional_url": "https://palitextsociety.org/the-books-of-the-pali-canon-the-commentaries/",
+  "locator": "两页各自的Abhidhamma-piṭaka及Abhidhamma-piṭaka commentaries标题下七项（前者网页行112—129，后者行102—117）",
+  "actual_language": "英语目录与巴利拉丁转写书名；未读七论巴利正文",
+  "evidence_level": "现代学术出版机构自身书目/经典分类原始目录；非古代成书年代证据",
+  "read_scope": "实读两页七论与相应注释列表，不声称读完所列书",
+  "short_quote": null,
+  "translation_zh": null,
+  "supports": "目录把七部论藏与其注释逐项对应分列，可核如Dhammasaṅgaṇi/Atthasālinī、Vibhaṅga/Sammohavinodanī；说明“经典与注释”在该目录中并非同一对象。",
+  "limits": "目录排列及现代出版不证明七书同期成书、每句皆为佛陀亲说或某位传统作者一次完成现存定本。",
+  "normalized_url": "https://palitextsociety.org/the-books-of-the-pali-canon/",
+  "source_id": "S-441123dd3090",
+  "canonical_url_id": "U-6ca386f9d113",
+  "actual_reading_summary": "英语目录与巴利拉丁转写书名；未读七论巴利正文；实读两页七论与相应注释列表，不声称读完所列书；现代学术出版机构自身书目/经典分类原始目录；非古代成书年代证据"
+}
+
+U-db0d419a06e3｜https://hodgson.socanth.cam.ac.uk/chunkhtml/vol040.html
+S-e1109fca6f44｜Hodgson Papers: Inventory of Hodgson's private papers at the British Library, vol. 40
+实际阅读摘要：English catalogue metadata；实读整条英文目录（共7行）；未见或释读尼瓦尔语手卷影像，未核书末题记；1830仅作目录所载日期
+用于R03-Q09
+{
+  "author": "University of Cambridge, Department of Social Anthropology, Hodgson Papers project（该条未署个人作者）",
+  "title": "Hodgson Papers: Inventory of Hodgson's private papers at the British Library, vol. 40",
+  "year": null,
+  "url": "https://hodgson.socanth.cam.ac.uk/chunkhtml/vol040.html",
+  "institution": "剑桥大学社会人类学系项目；所著录对象为英国图书馆Hodgson私人文书",
+  "collection_number": "MSS EUR HODGSON/40",
+  "item_title": "Mahāyānacaryāvidhi of the Buddhist Vajrācāryas (Bajracharyas)",
+  "item_date_as_catalogued": "1830",
+  "language_of_source_read": "English catalogue metadata",
+  "language_of_manuscript_as_catalogued": "Newari（尼瓦尔语）；目录另称Nepali hand-made paper，后者是纸张／产地描述，不据此改判为尼泊尔语文本",
+  "locator": "卷40条目及其唯一子项，web lines1—6；网页写1[vol.40 fol(s)]，没有给可独立核准的完整叶码区间",
+  "pages": null,
+  "short_original": "Regulations (vows) for monks, householders",
+  "translation": "面向僧人与在家者的规范（誓愿）。",
+  "reading_level": "实读整条英文目录（共7行）；未见或释读尼瓦尔语手卷影像，未核书末题记；1830仅作目录所载日期",
+  "supports": "目录明确将此手卷列为Newar Buddhism、Vajrayāna传统、尼瓦尔语，描述其内容涉及僧人、在家者与婚姻规范，并以Vajrācāryas名义命名。",
+  "limits": "目录记录不等于证明1830为该仪轨起源年，也不能证明其中每一规定都实际施行；不据标题推定全部Vajrācārya的家族资格或寺职制度。",
+  "normalized_url": "https://hodgson.socanth.cam.ac.uk/chunkhtml/vol040.html",
+  "source_id": "S-e1109fca6f44",
+  "canonical_url_id": "U-db0d419a06e3",
+  "actual_reading_summary": "English catalogue metadata；实读整条英文目录（共7行）；未见或释读尼瓦尔语手卷影像，未核书末题记；1830仅作目录所载日期"
+}
+
+U-48048852a312｜https://encykorea.aks.ac.kr/Article/E0006967
+S-fbc28a796ee3｜권수정혜결사문（勸修定慧結社文）
+实际阅读摘要：ko；实读韩文相关正文，非中文或英文转述；内容摘要、编撰刊行经过、构成与内容及书目；未读所列研究论文；现代学术百科解释；其列出的《韩国佛教全书》第4册（1982）原文未取得
+用于R03-Q10
+{
+  "author": "个人执笔者网页未显示；韩国学中央研究院《韩国民族文化大百科事典》条目",
+  "title": "권수정혜결사문（勸修定慧結社文）",
+  "year": 2022,
+  "updated": "2023-09-23",
+  "url": "https://encykorea.aks.ac.kr/Article/E0006967",
+  "locator": "「편찬 및 간행경위」「구성과 내용」节；无纸本页码",
+  "language_read": "ko；实读韩文相关正文，非中文或英文转述",
+  "source_level": "现代学术百科解释；其列出的《韩国佛教全书》第4册（1982）原文未取得",
+  "read_scope": "内容摘要、编撰刊行经过、构成与内容及书目；未读所列研究论文",
+  "original_short": "선정과 지혜를 함께 닦는 정혜쌍수",
+  "translation_zh": "共同修习禅定与智慧的定慧双修。",
+  "supports": "条目把1182年结愿、1188年居祖寺开始结社、1190年作文及1200年移住曹溪山后刊行区分；称原刊与高丽刊本不传，现存后出版本；以七种问答组织内容。",
+  "normalized_url": "https://encykorea.aks.ac.kr/Article/E0006967",
+  "source_id": "S-fbc28a796ee3",
+  "canonical_url_id": "U-48048852a312",
+  "actual_reading_summary": "ko；实读韩文相关正文，非中文或英文转述；内容摘要、编撰刊行经过、构成与内容及书目；未读所列研究论文；现代学术百科解释；其列出的《韩国佛教全书》第4册（1982）原文未取得"
+}
+
+U-28f4551c4676｜https://encykorea.aks.ac.kr/Article/E0078407
+S-aa61823186d1｜하동 청계사 권수정혜결사문（河东清溪寺劝修定慧结社文）
+实际阅读摘要：ko；实读韩文书志及内容解说；书志、内容及评价相关全文；未读取馆藏原册图像；学者对现存1608年松广寺刊本的书志说明；不是本轮直接读取1608年影像
+用于R03-Q10
+{
+  "author": "남권희（南权熙，한국전적문화재연구소）",
+  "title": "하동 청계사 권수정혜결사문（河东清溪寺劝修定慧结社文）",
+  "year": 2021,
+  "updated": "2024-07-05",
+  "url": "https://encykorea.aks.ac.kr/Article/E0078407",
+  "locator": "「개요」「서지사항」「내용」「의의 및 평가」；无纸本页码",
+  "language_read": "ko；实读韩文书志及内容解说",
+  "source_level": "学者对现存1608年松广寺刊本的书志说明；不是本轮直接读取1608年影像",
+  "read_scope": "书志、内容及评价相关全文；未读取馆藏原册图像",
+  "original_short": "권말 간기",
+  "translation_zh": "卷末刊记。",
+  "supports": "条目说明河东清溪寺藏本卷末有1608年松广寺刊行记录、正文施主名等；判式每面9行17字；将1190年作文与1200年刊布分开，并以六次问答描述正文。",
+  "source_internal_caution": "网页把1608年附注为광혜군 41，另一般条目出现광해군 41等不一致纪年，本轮仅保留公历1608作为其书志记载，不采用异常年号换算。",
+  "normalized_url": "https://encykorea.aks.ac.kr/Article/E0078407",
+  "source_id": "S-aa61823186d1",
+  "canonical_url_id": "U-28f4551c4676",
+  "actual_reading_summary": "ko；实读韩文书志及内容解说；书志、内容及评价相关全文；未读取馆藏原册图像；学者对现存1608年松广寺刊本的书志说明；不是本轮直接读取1608年影像"
+}
+
+U-239afb02d9de｜https://sacred-texts.com/book/the-upanishads-part-ii/ii-4-3
+S-48a9a0d5a3f4｜The Upanishads, Part II: Brihadāranyaka Upanishad II.4
+实际阅读摘要：英语旧译；实际读II.4.1—5；未读梵文或校勘版本；页码据转录标记未验影印
+用于R04-Q01
+{
+  "institution": "Internet Sacred Text Archive，经典旧译数字转录",
+  "author": "《广林奥义书》；F. Max Müller英译",
+  "title": "The Upanishads, Part II: Brihadāranyaka Upanishad II.4",
+  "date": "英译1884；网页未标更新日",
+  "url": "https://sacred-texts.com/book/the-upanishads-part-ii/ii-4-3",
+  "locator": "II.4.1—5；转录显示纸本页109（II.4.2—4）及110（II.4.5续）",
+  "read_language": "英语旧译",
+  "read_level": "实际读II.4.1—5；未读梵文或校勘版本；页码据转录标记未验影印",
+  "short_quote": "there is no hope of immortality by wealth",
+  "translation": "财富不能带来不死的希望",
+  "evidence": "耶若婆佉与弥勒夷对话把家产分配、离家与不死/自我知识问题并置；这证明文本如何表达问题，不证明谈话实录或精确年代。",
+  "normalized_url": "https://sacred-texts.com/book/the-upanishads-part-ii/ii-4-3",
+  "source_id": "S-48a9a0d5a3f4",
+  "canonical_url_id": "U-239afb02d9de",
+  "actual_reading_summary": "英语旧译；实际读II.4.1—5；未读梵文或校勘版本；页码据转录标记未验影印"
+}
+
+U-17a95fc80953｜https://whc.unesco.org/en/list/524/
+S-c7f541bd76df｜Buddhist Monuments at Sanchi
+实际阅读摘要：英语正文；实际核读建筑分期及绕行结构段；未读发掘报告或原碑铭
+用于R04-Q02
+{
+  "institution": "UNESCO World Heritage Centre",
+  "author": "机构署名",
+  "title": "Buddhist Monuments at Sanchi",
+  "date": null,
+  "url": "https://whc.unesco.org/en/list/524/",
+  "locator": "Outstanding Universal Value > Brief synthesis第3—5段；Criterion(iv)；实物为Stupa1及遗产编号524",
+  "read_language": "英语正文",
+  "read_level": "实际核读建筑分期及绕行结构段；未读发掘报告或原碑铭",
+  "short_quote": "circumambulatory paths and staircases",
+  "translation": "绕行道路与阶梯",
+  "evidence": "桑奇一号塔砖塔、后续包石扩建及绕行设施说明宗教空间经历建设；王朝和遗存分期依官方综述，不把全部现貌当阿育王原状。",
+  "normalized_url": "https://whc.unesco.org/en/list/524/",
+  "source_id": "S-c7f541bd76df",
+  "canonical_url_id": "U-17a95fc80953",
+  "actual_reading_summary": "英语正文；实际核读建筑分期及绕行结构段；未读发掘报告或原碑铭"
+}
+
+U-b266f6596ba9｜https://www.metmuseum.org/art/collection/search/38926
+S-8ebec4101b9d｜Reliquary in the Shape of a Stupa
+实际阅读摘要：英语；实际读物件目录与馆方解释；未检查原物内部或考古背景
+用于R04-Q02
+{
+  "institution": "The Metropolitan Museum of Art",
+  "author": "馆藏机构署名",
+  "title": "Reliquary in the Shape of a Stupa",
+  "date": "物件约4—5世纪；网页修订日未知",
+  "url": "https://www.metmuseum.org/art/collection/search/38926",
+  "locator": "馆藏号1985.387a,b；首段说明及Artwork Details",
+  "read_language": "英语",
+  "read_level": "实际读物件目录与馆方解释；未检查原物内部或考古背景",
+  "short_quote": "placed in a shrine where it was seen",
+  "translation": "置于可供观看的龛堂中",
+  "evidence": "犍陀罗铜制塔形舍利容器；馆方依据形制推测为可见供奉而非封入实心塔；这是4—5世纪比较例，不倒填前佛教时代。",
+  "normalized_url": "https://www.metmuseum.org/art/collection/search/38926",
+  "source_id": "S-8ebec4101b9d",
+  "canonical_url_id": "U-b266f6596ba9",
+  "actual_reading_summary": "英语；实际读物件目录与馆方解释；未检查原物内部或考古背景"
+}
+
+U-e33bea24e118｜https://cbetaonline.dila.edu.tw/zh/T30n1564_p0033b11
+S-dd71ebec94ef｜中论卷四·观四谛品第二十四
+实际阅读摘要：文言汉语；CBETA XML原典电子转录实际读；未读梵文写本或梵文校本
+用于R04-Q03
+{
+  "author": "龙树偈；青目释（传统署名）；鸠摩罗什汉译",
+  "title": "中论卷四·观四谛品第二十四",
+  "year": "古代汉译；此处不重新研究译者生平",
+  "url": "https://cbetaonline.dila.edu.tw/zh/T30n1564_p0033b11",
+  "actual_access_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T30/T30n1564.xml",
+  "actual_location": "T30 no.1564，33b11–19；通行对应根本中颂24.18及相邻释文",
+  "read_language": "文言汉语",
+  "read_level": "CBETA XML原典电子转录实际读；未读梵文写本或梵文校本",
+  "quote": "亦為是假名，亦是中道義",
+  "translation": "也是假名安立，也就是中道的意义。",
+  "evidence": "底本偈作我说即是无；随后释文作我说即是空，并说明无自性、空亦复空、离有无二边；不得默改底本文字。",
+  "normalized_url": "https://cbetaonline.dila.edu.tw/zh/T30n1564_p0033b11",
+  "source_id": "S-dd71ebec94ef",
+  "canonical_url_id": "U-e33bea24e118",
+  "actual_reading_summary": "文言汉语；CBETA XML原典电子转录实际读；未读梵文写本或梵文校本"
+}
+
+U-4101a5156ae8｜https://plato.stanford.edu/entries/nagarjuna/
+S-25bf6745ef7a｜Nāgārjuna
+实际阅读摘要：English；大学学术百科正文直接读；所引其他论文未直接读
+用于R04-Q03
+{
+  "author": "Jan Christoph Westerhoff",
+  "title": "Nāgārjuna",
+  "year": 2026,
+  "url": "https://plato.stanford.edu/entries/nagarjuna/",
+  "actual_location": "§2 Emptiness and svabhāva，特别是虚无主义指控及反驳段",
+  "read_language": "English",
+  "read_level": "大学学术百科正文直接读；所引其他论文未直接读",
+  "quote": "powerful systematic and historical reasons against it",
+  "translation": "有力的系统性及历史性反对理由。",
+  "evidence": "说明将中观作虚无主义解释的历史与争议，并区分自性概念及修行目的。",
+  "date_note": "正文页头实际明确：First published Feb10 2010; substantive revision May31 2026。2026来自该实质修订声明，非整站版权。",
+  "normalized_url": "https://plato.stanford.edu/entries/nagarjuna/",
+  "source_id": "S-25bf6745ef7a",
+  "canonical_url_id": "U-4101a5156ae8",
+  "actual_reading_summary": "English；大学学术百科正文直接读；所引其他论文未直接读"
+}
+
+U-bc679ce8997b｜https://cbetaonline.dila.edu.tw/zh/T31n1590_p0074b27
+S-977f35313ab5｜唯识二十论
+实际阅读摘要：文言汉语；CBETA XML原典电子转录实际读；未核梵文转写或藏译
+用于R04-Q04
+{
+  "author": "世亲造；玄奘译",
+  "title": "唯识二十论",
+  "year": "古代汉译；本轮不另断具体译年",
+  "url": "https://cbetaonline.dila.edu.tw/zh/T31n1590_p0074b27",
+  "actual_access_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1590.xml",
+  "actual_location": "T31 no.1590，74b27–74c20：开篇及处时、相续、作用的诘难与梦喻答复",
+  "read_language": "文言汉语",
+  "read_level": "CBETA XML原典电子转录实际读；未核梵文转写或藏译",
+  "quote": "唯遮外境，不遣相應",
+  "translation": "唯字排除外境，但不排除与心相应的心所。",
+  "evidence": "开篇讨论识似外境显现；对手以时间地点规则、多人经验和作用提出诘难，论以梦等例回应。",
+  "normalized_url": "https://cbetaonline.dila.edu.tw/zh/T31n1590_p0074b27",
+  "source_id": "S-977f35313ab5",
+  "canonical_url_id": "U-bc679ce8997b",
+  "actual_reading_summary": "文言汉语；CBETA XML原典电子转录实际读；未核梵文转写或藏译"
+}
+
+U-f4f98d86a965｜https://plato.stanford.edu/entries/yogacara/
+S-962302f48397｜Yogācāra
+实际阅读摘要：English；大学学术百科相关正文直接读；其汇述的各家著作本轮未直接读
+用于R04-Q04
+{
+  "author": "Szilvia Szanyi",
+  "title": "Yogācāra",
+  "year": 2024,
+  "url": "https://plato.stanford.edu/entries/yogacara/",
+  "actual_location": "§3.1 The idealism debate；§3.3；§3.4 Idealism in Vasubandhu’s Twenty Verses",
+  "read_language": "English",
+  "read_level": "大学学术百科相关正文直接读；其汇述的各家著作本轮未直接读",
+  "quote": "not every Yogācāra work advocates",
+  "translation": "并非每部瑜伽行作品都主张……",
+  "evidence": "分别介绍本体论唯心、认识论及现象学读法，并指出早期瑜伽行文献不全主张唯识。",
+  "date_note": "正文页头仅标First published Jul 7, 2024；不据整站版权或归档版次标实质修订年。另实际访问的Author and Citation Information页记Last modified Jun20 2026、Summer2026 minor correction，但本轮统一以初刊2024引用，不称2026修订。",
+  "date_evidence_url": "https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=yogacara",
+  "normalized_url": "https://plato.stanford.edu/entries/yogacara/",
+  "source_id": "S-962302f48397",
+  "canonical_url_id": "U-f4f98d86a965",
+  "actual_reading_summary": "English；大学学术百科相关正文直接读；其汇述的各家著作本轮未直接读"
+}
+
+U-86101f04a625｜https://tripitaka.zensoul.org/T/T1911/1
+S-261c7c817fd0｜摩诃止观
+实际阅读摘要：中文原典实读卷首；禅心学苑电子载本，CBETA主阅读页此次仅加载框架，未冒称由其读到全文；中文原典实读卷首；禅心学苑电子载本，CBETA主阅读页此次仅加载框架，未冒称由其读到全文
+用于R04-Q05
+{
+  "author": "题隋天台智者大师说、门人灌顶记",
+  "title": "摩诃止观",
+  "year": "卷首自记讲授为隋开皇十四年（594）；现存编定时间不等同讲授日",
+  "URL": "https://tripitaka.zensoul.org/T/T1911/1",
+  "locator": "卷一上卷首：题署及开皇十四年玉泉寺讲说段；网页正文第1段；CBETA检索行标T46n1911_p0001a07–09可交叉定位",
+  "read_language_level": "中文原典实读卷首；禅心学苑电子载本，CBETA主阅读页此次仅加载框架，未冒称由其读到全文",
+  "short_quote": "隋天台智者大師說，門人灌頂記。",
+  "translation": "文本明分智顗讲说与弟子灌顶记录两种角色。",
+  "evidence_limit": "题署及讲授叙事不足以断定每字为当时逐字实录，亦不能仅据此确定全部编定过程。",
+  "normalized_url": "https://tripitaka.zensoul.org/T/T1911/1",
+  "source_id": "S-261c7c817fd0",
+  "canonical_url_id": "U-86101f04a625",
+  "actual_reading_summary": "中文原典实读卷首；禅心学苑电子载本，CBETA主阅读页此次仅加载框架，未冒称由其读到全文"
+}
+
+U-eed626da7af3｜https://tripitaka.zensoul.org/T/T1911/2
+S-f93acebce21e｜摩诃止观
+实际阅读摘要：中文原典指定段实读；修行规范文本，不是实施人数记录；中文原典指定段实读；修行规范文本，不是实施人数记录
+用于R04-Q05
+{
+  "author": "题智顗说、灌顶记",
+  "title": "摩诃止观",
+  "year": "隋代讲授传统；现存整理本具体定本年本轮未核",
+  "URL": "https://tripitaka.zensoul.org/T/T1911/2",
+  "locator": "卷二上“二、劝进四种三昧”及“一、常坐”“二、常行三昧”方法段；网页正文第1–12段，以小节题定位，不补造大正藏页栏",
+  "read_language_level": "中文原典指定段实读；修行规范文本，不是实施人数记录",
+  "short_quote": "一、常坐，二、常行，三、半行半坐，四、非行非坐。",
+  "translation": "文本以身体活动形式区分四种三昧。",
+  "evidence_limit": "规范不证明所有寺院或信众一律完成这些行法。",
+  "normalized_url": "https://tripitaka.zensoul.org/T/T1911/2",
+  "source_id": "S-f93acebce21e",
+  "canonical_url_id": "U-eed626da7af3",
+  "actual_reading_summary": "中文原典指定段实读；修行规范文本，不是实施人数记录"
+}
+用于R04-Q06
+{
+  "author": "题智顗说、灌顶记",
+  "title": "摩诃止观",
+  "year": "隋代讲授传统；现存整理本具体定本年本轮未核",
+  "URL": "https://tripitaka.zensoul.org/T/T1911/2",
+  "locator": "卷二上“二、劝进四种三昧”及“一、常坐”“二、常行三昧”方法段；网页正文第1–12段，以小节题定位，不补造大正藏页栏",
+  "read_language_level": "中文原典指定段实读；修行规范文本，不是实施人数记录",
+  "short_quote": "一、常坐，二、常行，三、半行半坐，四、非行非坐。",
+  "translation": "文本以身体活动形式区分四种三昧。",
+  "evidence_limit": "规范不证明所有寺院或信众一律完成这些行法。",
+  "normalized_url": "https://tripitaka.zensoul.org/T/T1911/2",
+  "source_id": "S-f93acebce21e",
+  "canonical_url_id": "U-eed626da7af3",
+  "actual_reading_summary": "中文原典指定段实读；修行规范文本，不是实施人数记录"
+}
+
+U-bba5809da153｜https://jodoshuzensho.jp/jozensearch_post/search/detail.php?lineno=J01_0693
+S-5ed6d23678cc｜安乐集
+实际阅读摘要：中文原典正文实读；日文机构界面，未把汉文当日语译文；宗教劝修论述；中文原典正文实读；日文机构界面，未把汉文当日语译文；宗教劝修论述
+用于R04-Q06
+{
+  "author": "道绰",
+  "title": "安乐集",
+  "year": "唐代，7世纪；本轮未确定写作年",
+  "URL": "https://jodoshuzensho.jp/jozensearch_post/search/detail.php?lineno=J01_0693",
+  "locator": "净土宗全书数据库J0190《安楽集》，J01_0693A01–15，尤其A01–06；非大正藏页号",
+  "read_language_level": "中文原典正文实读；日文机构界面，未把汉文当日语译文；宗教劝修论述",
+  "short_quote": "一謂聖道，二謂往生淨土。",
+  "translation": "作者区分圣道与往生净土两种道路。",
+  "evidence_limit": "作者对末法难证的判断属自身判教及劝修立场；不能充作全体佛教徒实际修行能力的统计。",
+  "normalized_url": "https://jodoshuzensho.jp/jozensearch_post/search/detail.php?lineno=J01_0693",
+  "source_id": "S-5ed6d23678cc",
+  "canonical_url_id": "U-bba5809da153",
+  "actual_reading_summary": "中文原典正文实读；日文机构界面，未把汉文当日语译文；宗教劝修论述"
+}
+
+U-107241c99225｜https://palitextsociety.org/wp-content/uploads/2024/12/JPTS_XIII_4.pdf
+S-db561f7a7c6b｜The Stūpa Cult and the Extant Pāli Vinaya, Journal of the Pali Text Society XIII
+实际阅读摘要：现代英语研究及所引僧规英语译文；见少量僧伽罗语拉丁转写，未独立读中古僧伽罗文原铭；扫描文字无可提取文本；OCR定位后实际查看PDF第2页图像，核读pp.84—85与注释；另读取p.94相关讨论，不声称全篇精读；原始研究论文，对12世纪铭文的刊本/英译作转引；非本轮直接读取原碑或拓片
+用于R04-Q07
+{
+  "author_institution": "Gregory Schopen；Pali Text Society原刊扫描",
+  "title": "The Stūpa Cult and the Extant Pāli Vinaya, Journal of the Pali Text Society XIII",
+  "year": 1989,
+  "url": "https://palitextsociety.org/wp-content/uploads/2024/12/JPTS_XIII_4.pdf",
+  "locator": "印刷pp.84—85及注4—7（PDF第2页双页扫描）；p.94及注24（PDF第7页）",
+  "actual_language": "现代英语研究及所引僧规英语译文；见少量僧伽罗语拉丁转写，未独立读中古僧伽罗文原铭",
+  "evidence_level": "原始研究论文，对12世纪铭文的刊本/英译作转引；非本轮直接读取原碑或拓片",
+  "read_scope": "扫描文字无可提取文本；OCR定位后实际查看PDF第2页图像，核读pp.84—85与注释；另读取p.94相关讨论，不声称全篇精读",
+  "short_quote": "duties pertaining to Stūpas",
+  "quote_words": 4,
+  "translation_zh": "与佛塔有关的职责。",
+  "supports": "作者明确指出Mahā-Parākramabāhu Katikāvata见于12世纪Galvihāra铭文，转引日常规范：照护佛塔、菩提树、寺院院落、师长、长老、病者及住处。注4提供刊本，注6指Ratnapala§12。",
+  "original_publication_locator": "Schopen注4：E. Müller, Ancient Inscriptions in Ceylon（1883），图版137；D.M. de Zilva Wickremasinghe，Epigraphia Zeylanica II（1928），pp.256—283；注6：N. Ratnapala, The Katikāvatas（1971），p.40 §12，英译pp.131—132。以上均为本轮从Schopen注释读到的二手书目信息，未冒称查过原刊。",
+  "limits": "Schopen据规范中Khandhaka与佛塔职责关系提出巴利律文本变化的解释，是有条件学术论证，不能写成已经发现某失落原卷；规范也不证明实际遵守程度。",
+  "normalized_url": "https://palitextsociety.org/wp-content/uploads/2024/12/JPTS_XIII_4.pdf",
+  "source_id": "S-db561f7a7c6b",
+  "canonical_url_id": "U-107241c99225",
+  "actual_reading_summary": "现代英语研究及所引僧规英语译文；见少量僧伽罗语拉丁转写，未独立读中古僧伽罗文原铭；扫描文字无可提取文本；OCR定位后实际查看PDF第2页图像，核读pp.84—85与注释；另读取p.94相关讨论，不声称全篇精读；原始研究论文，对12世纪铭文的刊本/英译作转引；非本轮直接读取原碑或拓片"
+}
+
+U-c929938c3d94｜https://scholarworks.iu.edu/journals/index.php/tmr/article/view/58903
+S-3af6ca95ebc9｜Review of Bruno M. Shirley, Religion, Gender, and Politics in Medieval Sri Lanka: The Reconstruction of Buddhist Kingship, ca. 1070–1215
+实际阅读摘要：英语书评全文相关段落；未读被评专著或其原始铭文；实际读取书评相关段及作者/出版信息；大学托管学术书评；关于Shirley专著的结论为二手转述
+用于R04-Q07
+{
+  "author_institution": "Stephen C. Berkwitz，The Medieval Review；Indiana University ScholarWorks托管",
+  "title": "Review of Bruno M. Shirley, Religion, Gender, and Politics in Medieval Sri Lanka: The Reconstruction of Buddhist Kingship, ca. 1070–1215",
+  "year": 2026,
+  "url": "https://scholarworks.iu.edu/journals/index.php/tmr/article/view/58903",
+  "locator": "书评正文讨论Sundarā与Dimbulāgala的段落（网页行31—33）、Parākramabāhu整顿（行34—36）",
+  "actual_language": "英语书评全文相关段落；未读被评专著或其原始铭文",
+  "evidence_level": "大学托管学术书评；关于Shirley专著的结论为二手转述",
+  "read_scope": "实际读取书评相关段及作者/出版信息",
+  "short_quote": null,
+  "translation_zh": null,
+  "supports": "书评说明Shirley把王后Sundarā对Dimbulāgala的施助与后来的林居僧改革联系起来；提示僧团权威不应只从一位国王个人意志解释。",
+  "limits": "书评括注专著p.132、153—154仅作其转述出处，本轮未核书页；不把此关系提升为本轮直接铭证。",
+  "normalized_url": "https://scholarworks.iu.edu/journals/index.php/tmr/article/view/58903",
+  "source_id": "S-3af6ca95ebc9",
+  "canonical_url_id": "U-c929938c3d94",
+  "actual_reading_summary": "英语书评全文相关段落；未读被评专著或其原始铭文；实际读取书评相关段及作者/出版信息；大学托管学术书评；关于Shirley专著的结论为二手转述"
+}
+
+U-4797522a4dd2｜https://whc.unesco.org/en/list/1588/
+S-1e0a90459ae8｜Bagan
+实际阅读摘要：英语官方遗址说明；未读缅文、孟文或巴利铭文；实际读取王权/功德经济、寺院建造、铭文壁画以及真实性相关段；遗产机构对遗址物证与历史的综合说明，非原始碑文
+用于R04-Q08
+{
+  "author_institution": "UNESCO World Heritage Centre",
+  "title": "Bagan",
+  "year": null,
+  "year_note": "2019年列入世界遗产；所读说明未署独立撰写年",
+  "url": "https://whc.unesco.org/en/list/1588/",
+  "locator": "Outstanding Universal Value / Brief synthesis（网页行37—39）；Authenticity（行48—49）",
+  "actual_language": "英语官方遗址说明；未读缅文、孟文或巴利铭文",
+  "evidence_level": "遗产机构对遗址物证与历史的综合说明，非原始碑文",
+  "read_scope": "实际读取王权/功德经济、寺院建造、铭文壁画以及真实性相关段",
+  "short_quote": "the king effectively acting as the chief donor",
+  "quote_words": 9,
+  "translation_zh": "国王实际充当主要施主。",
+  "supports": "说明将11—13世纪供养/功德活动与政治控制、河运及寺院营建相联，记13世纪营建高峰及多种物证；不以1057一年覆盖数世纪。",
+  "limits": "功德经济与政治控制是机构历史解释；原始捐施铭文未逐条读，不能据此断定每座寺的施主。",
+  "normalized_url": "https://whc.unesco.org/en/list/1588/",
+  "source_id": "S-1e0a90459ae8",
+  "canonical_url_id": "U-4797522a4dd2",
+  "actual_reading_summary": "英语官方遗址说明；未读缅文、孟文或巴利铭文；实际读取王权/功德经济、寺院建造、铭文壁画以及真实性相关段；遗产机构对遗址物证与历史的综合说明，非原始碑文"
+}
+
+U-86b2422e7f63｜https://rubinmuseum.org/projecthimalayanart/essays/maitreya-and-manjushri-mural/
+S-040ea895defe｜Maitreya and Manjushri Mural: Cosmopolitanism in a Local Tibetan Environment
+实际阅读摘要：英语研究说明及英语图注；未读缅语题记；实际读取相关比较段和Fig.4图注；未声称现场考察或独立断代；学者撰写博物馆艺术研究及具体壁画照片图录；图像比较与历史归属分层
+用于R04-Q08
+{
+  "author_institution": "Roberto Vitali；Rubin Museum of Art, Project Himalayan Art",
+  "title": "Maitreya and Manjushri Mural: Cosmopolitanism in a Local Tibetan Environment",
+  "year": 2023,
+  "url": "https://rubinmuseum.org/projecthimalayanart/essays/maitreya-and-manjushri-mural/",
+  "locator": "关于Gangetic风格传播的三条路线；Fig.4及图注（网页行86—103）；Citation（行198—199）",
+  "actual_language": "英语研究说明及英语图注；未读缅语题记",
+  "evidence_level": "学者撰写博物馆艺术研究及具体壁画照片图录；图像比较与历史归属分层",
+  "read_scope": "实际读取相关比较段和Fig.4图注；未声称现场考察或独立断代",
+  "short_quote": "Detail of a Bodhisattva",
+  "quote_words": 5,
+  "translation_zh": "菩萨像局部。",
+  "supports": "Fig.4明确记录Abeyadana Temple、Pagan、11世纪壁画，由Bianca Visconti摄影，提供可辨识的菩萨图像对象，正文把蒲甘放入跨区艺术传播比较。",
+  "limits": "一幅菩萨壁画不能推出全寺受戒宗派、全部王朝教理或全体居民信仰；11世纪为图录归年，本轮未作独立物质断代。",
+  "normalized_url": "https://rubinmuseum.org/projecthimalayanart/essays/maitreya-and-manjushri-mural/",
+  "source_id": "S-040ea895defe",
+  "canonical_url_id": "U-86b2422e7f63",
+  "actual_reading_summary": "英语研究说明及英语图注；未读缅语题记；实际读取相关比较段和Fig.4图注；未声称现场考察或独立断代；学者撰写博物馆艺术研究及具体壁画照片图录；图像比较与历史归属分层"
+}
+
+U-b25e31ec6efb｜https://zenodo.org/records/3564303
+S-70e89b02cbac｜A Corpus of Early Tibetan Inscriptions, The Bsam-yas rdo-rings
+实际阅读摘要：English introduction and English translation; 藏文排印未作独立校勘；已下载并读取研究目录内的5页官方项目提供摘录；提取文本并目视核对印刷页27与29。页29译文在摘录中截断，未将未见续文当作已读。
+用于R04-Q09
+{
+  "author": "Hugh Richardson",
+  "title": "A Corpus of Early Tibetan Inscriptions, The Bsam-yas rdo-rings",
+  "year": 1985,
+  "publication": "London: Royal Asiatic Society",
+  "url": "https://zenodo.org/records/3564303",
+  "file_url": "https://zenodo.org/records/3564303/files/Richardson%201985%20extract%20full.pdf?download=1",
+  "version": "Zenodo v2, Bsamyas extract; original 1985 edition",
+  "locator": "印刷页26—27导言与定年讨论；页28铭文排印；页29 Translation第一段及译注1；碑名The Bsam-yas rdo-rings（桑耶石碑）",
+  "pages": "26–29",
+  "inscription_identifier": "Bsam-yas rdo-rings；未另造数字铭号",
+  "original_language": "Old Tibetan（碑铭藏文）",
+  "language_actually_read": "English introduction and English translation; 藏文排印未作独立校勘",
+  "reading_level": "已下载并读取研究目录内的5页官方项目提供摘录；提取文本并目视核对印刷页27与29。页29译文在摘录中截断，未将未见续文当作已读。",
+  "short_original": "shall not be diminished or reduced",
+  "translation": "不得使之减少或削减。",
+  "supports": "页29英译明确王室对寺院三宝所依、佛教实践及供养财产维护的承诺；页27结合寺院完工与大臣任期，将碑文有条件地置于779—782年。",
+  "limits": "碑自身未在本轮读到明确公历纪年；779—782系Richardson接受779完工前提后的学者推定，不直接归为碑面自署年代。",
+  "normalized_url": "https://zenodo.org/records/3564303",
+  "source_id": "S-70e89b02cbac",
+  "canonical_url_id": "U-b25e31ec6efb",
+  "actual_reading_summary": "English introduction and English translation; 藏文排印未作独立校勘；已下载并读取研究目录内的5页官方项目提供摘录；提取文本并目视核对印刷页27与29。页29译文在摘录中截断，未将未见续文当作已读。"
+}
+
+U-fbb75bb49dd3｜https://www.musashikokubunji.jp/history
+S-66ffa0394e70｜武蔵国分寺の歴史／武蔵国分寺のあゆみと東大寺のこと
+实际阅读摘要：ja（日文原语寺院官网；含《续日本纪》引文日文读下文）；该节741年诏引述和现代解释相关段落；非《续日本纪》校勘本直读；寺院现代历史解释与节引原典；不作为独立中立全史，也不以寺传神异段作为史实
+用于R04-Q10
+{
+  "author": "星野亮雅（武藏国分寺中兴二十九世；网页署名）",
+  "title": "武蔵国分寺の歴史／武蔵国分寺のあゆみと東大寺のこと",
+  "year": null,
+  "url": "https://www.musashikokubunji.jp/history",
+  "locator": "「武蔵国分寺のあゆみと東大寺のこと」节，解释741年诏及引录寺名/僧尼数的段落；无纸本页码",
+  "language_read": "ja（日文原语寺院官网；含《续日本纪》引文日文读下文）",
+  "read_scope": "该节741年诏引述和现代解释相关段落；非《续日本纪》校勘本直读",
+  "source_level": "寺院现代历史解释与节引原典；不作为独立中立全史，也不以寺传神异段作为史实",
+  "original_short": "尼寺には一十尼あらしめ",
+  "translation_zh": "尼寺应置十名尼众。",
+  "supports": "网页引《续日本纪》诏：僧寺20僧、尼寺10尼，分别称金光明四天王护国之寺、法华灭罪之寺；又引抄《金光明最胜王经》《妙法莲华经》各十部规定。只采用与区史互证的制度信息。",
+  "caution": "网页杂有赞颂及推断，并存在其他纪年/译经叙述需另核；不引用其全国68寺数量、福利大学类比或理想国已实现为本轮结论。",
+  "normalized_url": "https://www.musashikokubunji.jp/history",
+  "source_id": "S-66ffa0394e70",
+  "canonical_url_id": "U-fbb75bb49dd3",
+  "actual_reading_summary": "ja（日文原语寺院官网；含《续日本纪》引文日文读下文）；该节741年诏引述和现代解释相关段落；非《续日本纪》校勘本直读；寺院现代历史解释与节引原典；不作为独立中立全史，也不以寺传神异段作为史实"
+}
+
+U-bcfc3c3ba9af｜https://www.city.katsushika.lg.jp/history/history/2-1-5-77.html
+S-c62a59dfe0d5｜葛飾区史 第2章 第1節 古代の葛飾「古代の葛飾における災害：国分寺の創建」
+实际阅读摘要：ja（日文区政府历史正文）；该小节全文及注释；未读取其所依据《续日本纪》版本和发掘报告；官方地方史现代解说；741与747诏为间接引述
+用于R04-Q10
+{
+  "author": "葛饰区（官方《葛饰区史》机构作者，个人执笔及年未核）",
+  "title": "葛飾区史 第2章 第1節 古代の葛飾「古代の葛飾における災害：国分寺の創建」",
+  "year": null,
+  "url": "https://www.city.katsushika.lg.jp/history/history/2-1-5-77.html",
+  "locator": "「国分寺の創建」正文第3、4段（开头分别为国分寺・国分尼寺は、下総国における）；网页无纸本页码",
+  "language_read": "ja（日文区政府历史正文）",
+  "read_scope": "该小节全文及注释；未读取其所依据《续日本纪》版本和发掘报告",
+  "source_level": "官方地方史现代解说；741与747诏为间接引述",
+  "original_short": "造営が全国的に遅れていた",
+  "translation_zh": "营建在全国范围出现了延迟。",
+  "supports": "说明741年诏规定国分寺20僧、国分尼寺10尼、经卷和维持财源；另记747年11月诏督促国司郡司合作并限三年建设塔、金堂和僧坊。下总先塔、后其他堂宇和尼寺、奈良后半完成，是该区史对地方分期的解释。",
+  "normalized_url": "https://www.city.katsushika.lg.jp/history/history/2-1-5-77.html",
+  "source_id": "S-c62a59dfe0d5",
+  "canonical_url_id": "U-bcfc3c3ba9af",
+  "actual_reading_summary": "ja（日文区政府历史正文）；该小节全文及注释；未读取其所依据《续日本纪》版本和发掘报告；官方地方史现代解说；741与747诏为间接引述"
+}
+
+U-a544773eecb2｜https://zh.wikisource.org/wiki/異部宗輪論
+S-24f620efae16｜《异部宗轮论》一卷
+实际阅读摘要：汉译文言；实际读分派与所列教义段；未读梵藏平行本或藏经影印；网页有明显转录异常字，不据该字立论
+用于R05-Q01
+{
+  "author": "传统署世友造、玄奘译",
+  "institution": "维基文库原典转录；非影印校本",
+  "title": "《异部宗轮论》一卷",
+  "date": "唐译；具体译年本轮未核",
+  "url": "https://zh.wikisource.org/wiki/異部宗輪論",
+  "locator": "开篇“如是传闻”及“后即于此第二百年”起的分派段；后文“说一切有部本宗同义者”“其化地部本宗同义”“其末宗异义者”段；无网页纸本页码",
+  "read_language": "汉译文言",
+  "read_level": "实际读分派与所列教义段；未读梵藏平行本或藏经影印；网页有明显转录异常字，不据该字立论",
+  "short_quote": "本末別說合成九部",
+  "translation": "将根本与分支分别列举，总计九部",
+  "evidence": "大众系九部、上座系十一部；按佛灭后第二、第三、第四百年叙分化。教义段分别记三世存在问题，且化地本末有异。",
+  "normalized_url": "https://zh.wikisource.org/wiki/異部宗輪論",
+  "source_id": "S-24f620efae16",
+  "canonical_url_id": "U-a544773eecb2",
+  "actual_reading_summary": "汉译文言；实际读分派与所列教义段；未读梵藏平行本或藏经影印；网页有明显转录异常字，不据该字立论"
+}
+用于R05-Q02
+{
+  "author": "传统署世友造、玄奘译",
+  "institution": "维基文库原典转录；非影印校本",
+  "title": "《异部宗轮论》一卷",
+  "date": "唐译；具体译年本轮未核",
+  "url": "https://zh.wikisource.org/wiki/異部宗輪論",
+  "locator": "开篇“如是传闻”及“后即于此第二百年”起的分派段；后文“说一切有部本宗同义者”“其化地部本宗同义”“其末宗异义者”段；无网页纸本页码",
+  "read_language": "汉译文言",
+  "read_level": "实际读分派与所列教义段；未读梵藏平行本或藏经影印；网页有明显转录异常字，不据该字立论",
+  "short_quote": "本末別說合成九部",
+  "translation": "将根本与分支分别列举，总计九部",
+  "evidence": "大众系九部、上座系十一部；按佛灭后第二、第三、第四百年叙分化。教义段分别记三世存在问题，且化地本末有异。",
+  "normalized_url": "https://zh.wikisource.org/wiki/異部宗輪論",
+  "source_id": "S-24f620efae16",
+  "canonical_url_id": "U-a544773eecb2",
+  "actual_reading_summary": "汉译文言；实际读分派与所列教义段；未读梵藏平行本或藏经影印；网页有明显转录异常字，不据该字立论"
+}
+
+U-a262f3d566b7｜https://plato.stanford.edu/entries/abhidharma/
+S-eeafc9ad0a85｜Abhidharma
+实际阅读摘要：英语；实际读现用正文§4—5及作者信息；未读其引Cox/Williams原书，AKB2.49为二手定位而非本轮直接读《俱舍》
+用于R05-Q02
+{
+  "author": "Noa Ronkin",
+  "institution": "Stanford Encyclopedia of Philosophy",
+  "title": "Abhidharma",
+  "date": "2010-08-16初刊；2026-03-31实质修订；作者页记录2026-06-04修改",
+  "url": "https://plato.stanford.edu/entries/abhidharma/",
+  "citation_url": "https://plato.stanford.edu/archives/sum2026/entries/abhidharma/",
+  "locator": "§4 Intrinsic nature: between categorization and ontology；§5 Causation: existence as functioning，尤其AKB2.49相关段",
+  "read_language": "英语",
+  "read_level": "实际读现用正文§4—5及作者信息；未读其引Cox/Williams原书，AKB2.49为二手定位而非本轮直接读《俱舍》",
+  "short_quote": "all things exist",
+  "translation": "一切皆有",
+  "evidence": "说明说一切有部三世存在与当下活动的区分，及经量系关于无常、因果连续性的批评；不将法的类型定义与恒常实体轻率等同。",
+  "normalized_url": "https://plato.stanford.edu/entries/abhidharma/",
+  "source_id": "S-eeafc9ad0a85",
+  "canonical_url_id": "U-a262f3d566b7",
+  "actual_reading_summary": "英语；实际读现用正文§4—5及作者信息；未读其引Cox/Williams原书，AKB2.49为二手定位而非本轮直接读《俱舍》"
+}
+
+U-80543ed69d85｜https://cbetaonline.dila.edu.tw/zh/T51n2087_p0923c13
+S-e72808f7f11e｜大唐西域记卷九·摩揭陀国下·那烂陀僧伽蓝
+实际阅读摘要：文言汉语；CBETA XML原典电子转录直接阅读；非原始旅行手稿，未核各抄本
+用于R05-Q03
+{
+  "author": "玄奘述、辩机编",
+  "title": "大唐西域记卷九·摩揭陀国下·那烂陀僧伽蓝",
+  "year": "唐代；本轮未另考编集年月",
+  "url": "https://cbetaonline.dila.edu.tw/zh/T51n2087_p0923c13",
+  "actual_access_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T51/T51n2087.xml",
+  "actual_location": "T51 no.2087，923c13–924a09，重点923c20以后教学、异域学人与门者诘难段",
+  "read_language": "文言汉语",
+  "read_level": "CBETA XML原典电子转录直接阅读；非原始旅行手稿，未核各抄本",
+  "quote": "異域學人欲馳聲問，咸來稽疑",
+  "translation": "外地求学者为了扩大学问声名，来到这里求问疑难。",
+  "evidence": "该段记僧徒数千、谈三藏、昼夜请益、异域学人来访及门者诘难；并列护法、护月、德慧、坚慧、光友、胜友、智月、戒贤。",
+  "normalized_url": "https://cbetaonline.dila.edu.tw/zh/T51n2087_p0923c13",
+  "source_id": "S-e72808f7f11e",
+  "canonical_url_id": "U-80543ed69d85",
+  "actual_reading_summary": "文言汉语；CBETA XML原典电子转录直接阅读；非原始旅行手稿，未核各抄本"
+}
+
+U-f1314d2b9bb3｜https://cbetaonline.dila.edu.tw/zh/T18n0848_p0004a26
+S-71d095c24e07｜大毗卢遮那成佛神变加持经卷一·入漫荼罗具缘真言品第二
+实际阅读摘要：文言汉语；CBETA XML原典转录相关品直接读；未读梵文残本、藏译或现代校译全文
+用于R05-Q04
+{
+  "author": "善无畏共一行译（经题署名）",
+  "title": "大毗卢遮那成佛神变加持经卷一·入漫荼罗具缘真言品第二",
+  "year": "唐代汉译；本轮不据此段断定具体译年或印度成书年",
+  "url": "https://cbetaonline.dila.edu.tw/zh/T18n0848_p0004a26",
+  "actual_access_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0848.xml",
+  "actual_location": "T18 no.848，4a26–4b22：阿阇梨资格、灌顶、弟子资格、劝发与择地造坛；卷首译者署名另核",
+  "read_language": "文言汉语",
+  "read_level": "CBETA XML原典转录相关品直接读；未读梵文残本、藏译或现代校译全文",
+  "quote": "佛子此大乘，真言行道法",
+  "translation": "佛子，这是大乘中的真言修行之道。",
+  "evidence": "经文规定阿阇梨发菩提心、修般若、通达三乘、受传教灌顶、了解画坛，并审察弟子；本身称大乘真言行道。",
+  "normalized_url": "https://cbetaonline.dila.edu.tw/zh/T18n0848_p0004a26",
+  "source_id": "S-71d095c24e07",
+  "canonical_url_id": "U-f1314d2b9bb3",
+  "actual_reading_summary": "文言汉语；CBETA XML原典转录相关品直接读；未读梵文残本、藏译或现代校译全文"
+}
+
+U-f31fc55dcd7c｜https://zh.wikisource.org/wiki/舊唐書/卷18上
+S-5a9c2d32bd63｜旧唐书·武宗本纪
+实际阅读摘要：文言汉语原典实读；后出史书转录政令，不是现存845年诏书原件，也非近同期目击记录；文言汉语原典实读；后出史书转录政令，不是现存845年诏书原件，也非近同期目击记录
+用于R05-Q05
+{
+  "author": "刘昫等修",
+  "title": "旧唐书·武宗本纪",
+  "year": "后晋945年成书；所录敕制系会昌五年（845）",
+  "URL": "https://zh.wikisource.org/wiki/舊唐書/卷18上",
+  "locator": "卷十八上，会昌五年四月、七月、八月、十一月条；实际读取网页对应条目，无纸本页码",
+  "read_language_level": "文言汉语原典实读；后出史书转录政令，不是现存845年诏书原件，也非近同期目击记录",
+  "short_quote": "其天下所拆寺四千六百餘所",
+  "translation": "八月制书宣称天下拆寺四千六百余所。",
+  "evidence_limit": "数字嵌于国家制书论证与成果宣称，不能未经地方资料核验即视为全国逐寺实施实数。",
+  "normalized_url": "https://zh.wikisource.org/wiki/舊唐書/卷18上",
+  "source_id": "S-5a9c2d32bd63",
+  "canonical_url_id": "U-f31fc55dcd7c",
+  "actual_reading_summary": "文言汉语原典实读；后出史书转录政令，不是现存845年诏书原件，也非近同期目击记录"
+}
+
+U-73c7192444d5｜https://www.nlc.cn/migrated/www.nlc.cn/newhxjy/wjsy/wjls/wjqcsy/wjd28q/d28qtzdt/201011/P020101124400486825641.pdf
+S-9b19bf22fd9a｜佛教典籍展品综述
+实际阅读摘要：中文馆藏专家展品说明实读；转述原卷题记与版式观察，未独立逐卷核实原物；中文馆藏专家展品说明实读；转述原卷题记与版式观察，未独立逐卷核实原物
+用于R05-Q06
+{
+  "author": "刘波、林世田（国家图书馆古籍馆）",
+  "title": "佛教典籍展品综述",
+  "year": null,
+  "year_note": "PDF未核到正式刊年；URL入库路径2010不能替代发表年",
+  "URL": "https://www.nlc.cn/migrated/www.nlc.cn/newhxjy/wjsy/wjls/wjqcsy/wjd28q/d28qtzdt/201011/P020101124400486825641.pdf",
+  "locator": "印刷页13“赵城金藏”段，PDF第3页；页12“刻本藏经”段",
+  "read_language_level": "中文馆藏专家展品说明实读；转述原卷题记与版式观察，未独立逐卷核实原物",
+  "short_quote": "民间募资雕版",
+  "translation": "说明将此藏的组织方式定位为民间募集资金刻版。",
+  "evidence_limit": "以展出上海图书馆藏《景德传灯录》零本为具体对象，文章未给该件馆藏号及卷次；不造藏号。崔法珍募刻为说明中的历史归属，断臂故事本轮不据此确证。",
+  "normalized_url": "https://www.nlc.cn/migrated/www.nlc.cn/newhxjy/wjsy/wjls/wjqcsy/wjd28q/d28qtzdt/201011/P020101124400486825641.pdf",
+  "source_id": "S-9b19bf22fd9a",
+  "canonical_url_id": "U-73c7192444d5",
+  "actual_reading_summary": "中文馆藏专家展品说明实读；转述原卷题记与版式观察，未独立逐卷核实原物"
+}
+
+U-7027fe718eb9｜https://whc.unesco.org/en/list/574/
+S-9e72c1ded72f｜Historic Town of Sukhothai and Associated Historic Towns
+实际阅读摘要：实际读取英语正文与日语摘要；不是古泰文碑铭或泰文原报告；实际读取三城功能、王室赞助、砖与灰泥寺院、水利及Wat Mahathat佛像段；官方遗产说明及所载日本伙伴摘要；物质遗址概述与制度解释，非原碑转录
+用于R05-Q07
+{
+  "author_institution": "UNESCO World Heritage Centre；日文摘要注明NFUAJ来源",
+  "title": "Historic Town of Sukhothai and Associated Historic Towns",
+  "year": null,
+  "year_note": "1991为列入世界遗产年，不充当动态说明出版年",
+  "url": "https://whc.unesco.org/en/list/574/",
+  "locator": "Brief Synthesis第1—5段（网页行47—51）；日文说明Wat Mahathat段（行35）；Authenticity（行71—75）",
+  "actual_language": "实际读取英语正文与日语摘要；不是古泰文碑铭或泰文原报告",
+  "evidence_level": "官方遗产说明及所载日本伙伴摘要；物质遗址概述与制度解释，非原碑转录",
+  "read_scope": "实际读取三城功能、王室赞助、砖与灰泥寺院、水利及Wat Mahathat佛像段",
+  "short_quote": "Under royal patronage",
+  "quote_words": 3,
+  "translation_zh": "在王室赞助下。",
+  "supports": "具体三城遗址包括Sukhothai、Si Satchanalai、Kamphaeng Phet；说明分别提政治行政中心、寺院精神中心和军事/贸易保障，王室赞助砖与灰泥寺院；日文摘要指Wat Mahathat大坐佛为砖胎灰泥表面。",
+  "limits": "机构的统一性/民族奠基论述不是本轮独立证明；未读取古泰文铭文，不使用兰甘亨碑推定成立日期、普遍治理或全境改宗；实物风格不等于全体僧人受戒身份。",
+  "normalized_url": "https://whc.unesco.org/en/list/574/",
+  "source_id": "S-9e72c1ded72f",
+  "canonical_url_id": "U-7027fe718eb9",
+  "actual_reading_summary": "实际读取英语正文与日语摘要；不是古泰文碑铭或泰文原报告；实际读取三城功能、王室赞助、砖与灰泥寺院、水利及Wat Mahathat佛像段；官方遗产说明及所载日本伙伴摘要；物质遗址概述与制度解释，非原碑转录"
+}
+
+U-44fe85f72ea2｜https://www.guimet.fr/en/our-collections/southeast-asia/portrait-king-jayavarman-vii
+S-7302abbce840｜Portrait of King Jayavarman VII
+实际阅读摘要：英语博物馆藏品说明；未读古高棉文或梵文铭文；实际读取完整短说明及藏品号、材质、尺寸、归年；具体藏品记录及现代馆方图像/历史解释；非王者同期书面自述
+用于R05-Q08
+{
+  "author_institution": "Musée national des arts asiatiques–Guimet",
+  "title": "Portrait of King Jayavarman VII",
+  "year": null,
+  "year_note": "藏品归年12世纪末—13世纪初；说明未署发表年",
+  "url": "https://www.guimet.fr/en/our-collections/southeast-asia/portrait-king-jayavarman-vii",
+  "locator": "藏品P430，Object details；正文王者冥想形象及政策解释段（网页行34—39）",
+  "actual_language": "英语博物馆藏品说明；未读古高棉文或梵文铭文",
+  "evidence_level": "具体藏品记录及现代馆方图像/历史解释；非王者同期书面自述",
+  "read_scope": "实际读取完整短说明及藏品号、材质、尺寸、归年",
+  "short_quote": "a posture of humble meditation",
+  "quote_words": 6,
+  "translation_zh": "谦抑的冥想姿态。",
+  "supports": "P430为砂岩头像，42×25×31厘米，馆方识为阇耶跋摩七世，贝云风格，归12末13初；正文把大乘王室政策和纪念建筑联系起来，并将湿婆教复归置13世纪中叶。",
+  "limits": "王者身份、政治原因及阶段划分是馆方解释；不能据一件王像证明全国人口改宗，且该页并非上座部传播史。",
+  "normalized_url": "https://www.guimet.fr/en/our-collections/southeast-asia/portrait-king-jayavarman-vii",
+  "source_id": "S-7302abbce840",
+  "canonical_url_id": "U-44fe85f72ea2",
+  "actual_reading_summary": "英语博物馆藏品说明；未读古高棉文或梵文铭文；实际读取完整短说明及藏品号、材质、尺寸、归年；具体藏品记录及现代馆方图像/历史解释；非王者同期书面自述"
+}
+
+U-db53cb6b607c｜https://zh.wikisource.org/wiki/真臘風土記
+S-7f97a82331d3｜《真腊风土记》
+实际阅读摘要：古汉语原文网络转录；未校古高棉/巴利资料；实际读取《总叙》行程及《三教》完整相关段；旅行者见闻记载；分类带中国式“儒僧道”框架，非当地僧团自称谱系
+用于R05-Q08
+{
+  "author_institution": "周达观；维基文库网络转录",
+  "title": "《真腊风土记》",
+  "year": null,
+  "year_note": "元代原典；《总叙》自记元贞丙申抵真腊及大德丁酉回舟（1296—1297），不以此等同所有现存文字写定年",
+  "url": "https://zh.wikisource.org/wiki/真臘風土記",
+  "locator": "《总叙》末段；《三教》苧姑、八思惟及僧家教习段（网页行213—220）",
+  "actual_language": "古汉语原文网络转录；未校古高棉/巴利资料",
+  "evidence_level": "旅行者见闻记载；分类带中国式“儒僧道”框架，非当地僧团自称谱系",
+  "read_scope": "实际读取《总叙》行程及《三教》完整相关段",
+  "short_quote": "苧姑削髪穿黄，偏袒右肩",
+  "translation_zh": "作者称为苧姑的僧人剃发、穿黄衣，露出右肩。",
+  "supports": "具体记黄衣僧、单像寺院、贝叶经、施主供斋、国政咨询与僧家教育，并区分不同宗教群体；提供13世纪末另一个社会层截面。",
+  "limits": "这些特征可用于考察后期上座部相关实践，却不能单凭衣色便判所有僧侣派别；作者关于三教及全称判断须核来源偏差，不能作全国普查。",
+  "normalized_url": "https://zh.wikisource.org/wiki/真臘風土記",
+  "source_id": "S-7f97a82331d3",
+  "canonical_url_id": "U-db53cb6b607c",
+  "actual_reading_summary": "古汉语原文网络转录；未校古高棉/巴利资料；实际读取《总叙》行程及《三教》完整相关段；旅行者见闻记载；分类带中国式“儒僧道”框架，非当地僧团自称谱系"
+}
+
+U-7be16cae211f｜https://rubinmuseum.org/projecthimalayanart/essays/mongol-messengers-badge-paiza-or-gerege-in-pakpa-script/
+S-eb29b18d5b63｜Mongol Messenger’s Badge (Paiza or Gerege) in Pakpa Script: Signs of Authority in the Mongol Empire
+实际阅读摘要：English；实读网页正文Paizas in the Mongol Empire、Reforms under Qubilai Khan、Pakpa Lama and the Square Script及图片说明；未独立释读蒙古语铭文
+用于R05-Q09
+{
+  "author": "Christopher P. Atwood",
+  "title": "Mongol Messenger’s Badge (Paiza or Gerege) in Pakpa Script: Signs of Authority in the Mongol Empire",
+  "year": 2023,
+  "institution": "Rubin Museum of Art, Project Himalayan Art",
+  "url": "https://rubinmuseum.org/projecthimalayanart/essays/mongol-messengers-badge-paiza-or-gerege-in-pakpa-script/",
+  "language": "English",
+  "reading_level": "实读网页正文Paizas in the Mongol Empire、Reforms under Qubilai Khan、Pakpa Lama and the Square Script及图片说明；未独立释读蒙古语铭文",
+  "locator": "题图物号1993.256（web lines25—30）；Paizas in the Mongol Empire节（lines63—79）；Pakpa Lama and the Square Script节（lines88—105）",
+  "pages": null,
+  "object_number": "Metropolitan Museum of Art 1993.256",
+  "short_original": "power to requisition resources",
+  "translation": "征调资源的权力。",
+  "supports": "此类使者牌体现驿路征调权限；作者将八思巴设计文字与忽必烈统治改革相连，并把宗教人员祈祷和学习技能与治理活动联系起来。",
+  "limits": "文章关于牌符制度的一般说明不能全部当作该件物品持有人履历；页面Summary称bronze，与物品说明iron with silver inlay不同，材质采用馆藏记录。页面术语框与正文关于文字创制／颁行的年份亦不一致，本轮不据此给单一确年。",
+  "normalized_url": "https://rubinmuseum.org/projecthimalayanart/essays/mongol-messengers-badge-paiza-or-gerege-in-pakpa-script/",
+  "source_id": "S-eb29b18d5b63",
+  "canonical_url_id": "U-7be16cae211f",
+  "actual_reading_summary": "English；实读网页正文Paizas in the Mongol Empire、Reforms under Qubilai Khan、Pakpa Lama and the Square Script及图片说明；未独立释读蒙古语铭文"
+}
+
+U-ffb13fd18f89｜https://www.metmuseum.org/art/collection/search/39624
+S-b84b6209beed｜Safe Conduct Pass (Paiza) with Inscription in Phakpa Script
+实际阅读摘要：English catalogue; Chinese object title also displayed；实读官方馆藏页的题名及Artwork Details；未由图像独立转写铭文，未宣称阅见完整原物
+用于R05-Q09
+{
+  "author": "The Metropolitan Museum of Art, Asian Art（条目未署个人作者）",
+  "title": "Safe Conduct Pass (Paiza) with Inscription in Phakpa Script",
+  "year": null,
+  "url": "https://www.metmuseum.org/art/collection/search/39624",
+  "language": "English catalogue; Chinese object title also displayed",
+  "reading_level": "实读官方馆藏页的题名及Artwork Details；未由图像独立转写铭文，未宣称阅见完整原物",
+  "locator": "Artwork Details > Object Information，藏品编号1993.256",
+  "pages": null,
+  "object_number": "1993.256",
+  "short_original": "Iron with silver inlay",
+  "translation": "铁质嵌银。",
+  "supports": "官方物号、题名、材质与晚13世纪的年代判定；元代分期1271—1368。",
+  "limits": "年代为馆方鉴定，非本轮发现铭面自署年。Atwood题图采用晚13至早14世纪，须保留范围差异。馆方Culture字段China是现代目录标签，不能直接替代历史管辖论证。",
+  "normalized_url": "https://www.metmuseum.org/art/collection/search/39624",
+  "source_id": "S-b84b6209beed",
+  "canonical_url_id": "U-ffb13fd18f89",
+  "actual_reading_summary": "English catalogue; Chinese object title also displayed；实读官方馆藏页的题名及Artwork Details；未由图像独立转写铭文，未宣称阅见完整原物"
+}
+
+U-f1db0f116f93｜https://eap.princeton.edu/events/re-envisioning-kamakura-buddhism
+S-4fa402695349｜鎌倉仏教再考（報告要旨）／Re-Envisioning Kamakura Buddhism
+实际阅读摘要：ja；实读大学网页所载完整日文报告要旨，不是英文活动标题；报告要旨全文；未听讲座或读学者相关专著；大学公布学者研究摘要，非完整论文
+用于R05-Q10
+{
+  "author": "上島享（京都大学）",
+  "title": "鎌倉仏教再考（報告要旨）／Re-Envisioning Kamakura Buddhism",
+  "year": 2013,
+  "url": "https://eap.princeton.edu/events/re-envisioning-kamakura-buddhism",
+  "locator": "日文报告要旨：开头研究史段；第一、第二问题段；结论段（网页全文无纸本页码）",
+  "language_read": "ja；实读大学网页所载完整日文报告要旨，不是英文活动标题",
+  "read_scope": "报告要旨全文；未听讲座或读学者相关专著",
+  "source_level": "大学公布学者研究摘要，非完整论文",
+  "original_short": "二項対立図式",
+  "translation_zh": "二元对立的图式。",
+  "supports": "作者追溯近代新旧佛教分类，评价黑田俊雄显密体制论把所谓旧佛教重新置于中世中心的贡献，同时批评两者都可能保留新旧/正统异端二分；主张考察复杂交织的总体。",
+  "caution": "作者对九至十四世纪显密佛教中心地位的判断是其解释，不写为全学界定论。",
+  "normalized_url": "https://eap.princeton.edu/events/re-envisioning-kamakura-buddhism",
+  "source_id": "S-4fa402695349",
+  "canonical_url_id": "U-f1db0f116f93",
+  "actual_reading_summary": "ja；实读大学网页所载完整日文报告要旨，不是英文活动标题；报告要旨全文；未听讲座或读学者相关专著；大学公布学者研究摘要，非完整论文"
+}
+
+U-d6647d9b9012｜https://www.aham.jp/exhibition/past/saidaijitemple/images/pdf_lst_saidaiji.pdf
+S-6067526320c6｜創建1250年記念 奈良 西大寺展 叡尊と一門の名宝：出品目録
+实际阅读摘要：ja；实读日文PDF展品目录相关条目；另核展览官网说明；两页目录相关条目；未读完整图录的历史论证或古文献正文；博物馆机构文物目录元数据；不是古代原文直读
+用于R05-Q10
+{
+  "author": "あべのハルカス美術館等展览主办机构（个人编者未署）",
+  "title": "創建1250年記念 奈良 西大寺展 叡尊と一門の名宝：出品目録",
+  "year": 2017,
+  "url": "https://www.aham.jp/exhibition/past/saidaijitemple/images/pdf_lst_saidaiji.pdf",
+  "locator": "PDF第1页展品66；第2页展品117；编号为图录号，非展示顺序",
+  "language_read": "ja；实读日文PDF展品目录相关条目；另核展览官网说明",
+  "read_scope": "两页目录相关条目；未读完整图录的历史论证或古文献正文",
+  "source_level": "博物馆机构文物目录元数据；不是古代原文直读",
+  "original_short": "十巻抄（鳴滝本）",
+  "translation_zh": "《十卷抄》（鸣泷本）。",
+  "supports": "66号标信慧、叡尊、善长书写，嘉禄二年（1226），奈良宝山寺藏；117号为厨子入爱染明王坐像，净胤、藤原秀吉作，永仁五年（1297），神奈川称名寺藏。该目录把戒律改革相关人物与密教抄写/造像物件并列为可查对象。",
+  "companion_url": "https://www.aham.jp/exhibition/past/saidaijitemple/",
+  "caution": "目录反映现代鉴定及现藏地；现藏地不能直接当作中世原始流通路线，也未据此判定具体宗派隶属时间。",
+  "normalized_url": "https://www.aham.jp/exhibition/past/saidaijitemple/images/pdf_lst_saidaiji.pdf",
+  "source_id": "S-6067526320c6",
+  "canonical_url_id": "U-d6647d9b9012",
+  "actual_reading_summary": "ja；实读日文PDF展品目录相关条目；另核展览官网说明；两页目录相关条目；未读完整图录的历史论证或古文献正文；博物馆机构文物目录元数据；不是古代原文直读"
+}
+
+U-0251e1cc8e48｜https://www.fgsbmc.org.tw/tw/exhibition.aspx?serno=169
+S-53665b10c761｜佛光藏珍—走读金陵刻经处
+实际阅读摘要：中文繁体；实际读机构说明及展件清单；未核原始出版实物版权页
+用于R06-Q01
+{
+  "institution": "佛光山佛陀纪念馆",
+  "author": "机构展览说明",
+  "title": "佛光藏珍—走读金陵刻经处",
+  "date": "展期2025-07-26—11-16；网页发表日未署",
+  "url": "https://www.fgsbmc.org.tw/tw/exhibition.aspx?serno=169",
+  "locator": "走读金陵刻经处说明第2—4段、展品清单",
+  "read_language": "中文繁体",
+  "read_level": "实际读机构说明及展件清单；未核原始出版实物版权页",
+  "short_quote": "楊仁山居士遺著",
+  "translation": "杨仁山居士的遗著",
+  "evidence": "机构将杨仁山称创办者，并列其全集、遗著及经论展件；称谓与规模评价属于机构自述，不能直接当独立统计。",
+  "normalized_url": "https://www.fgsbmc.org.tw/tw/exhibition.aspx?serno=169",
+  "source_id": "S-53665b10c761",
+  "canonical_url_id": "U-0251e1cc8e48",
+  "actual_reading_summary": "中文繁体；实际读机构说明及展件清单；未核原始出版实物版权页"
+}
+
+U-6982e96b8d58｜https://www.zgfxy.cn/xygk/lsmr/content_678
+S-95f37a3301f1｜吕澂教授
+实际阅读摘要：中文；实际读传略相关正文；未读文中所据原始档案或账簿
+用于R06-Q01
+{
+  "institution": "中国佛学院网站",
+  "author": "于凌波",
+  "title": "吕澂教授",
+  "date": "网页2012-03-14",
+  "url": "https://www.zgfxy.cn/xygk/lsmr/content_678",
+  "locator": "一、吕秋逸传略，第2—6段（1914问学、1918筹备、1922成立1923开课、停课后校刻）",
+  "read_language": "中文",
+  "read_level": "实际读传略相关正文；未读文中所据原始档案或账簿",
+  "short_quote": "并校勘刻经处刻印的经典",
+  "translation": "同时校勘刻经处印行的经典",
+  "evidence": "传略将刻经处、欧阳竟无、吕澂及内学院筹备教学连接；并记教学停办不等于印经中断。这是后出传记陈述，成立与开课日期须区分。",
+  "normalized_url": "https://www.zgfxy.cn/xygk/lsmr/content_678",
+  "source_id": "S-95f37a3301f1",
+  "canonical_url_id": "U-6982e96b8d58",
+  "actual_reading_summary": "中文；实际读传略相关正文；未读文中所据原始档案或账簿"
+}
+
+U-975381b7fda9｜https://archive2.cbeta.org/node/6547
+S-3c472217a18d｜太虚大师全书：人生佛教栏目所引《人生佛教开题》
+实际阅读摘要：中文繁体；实际读本人文本的机构节引；CBETA正文页只返回界面，故未标全文直读，不补页码；1944地点系机构介绍
+用于R06-Q02
+{
+  "institution": "CBETA基金会",
+  "author": "太虚原文节引；机构编者介绍",
+  "title": "太虚大师全书：人生佛教栏目所引《人生佛教开题》",
+  "date": "引文标1944年秋；网页发表日期未知",
+  "url": "https://archive2.cbeta.org/node/6547",
+  "original_text_locator": "《人生佛教开题》第三节：人生佛教之目的及其效果；机构链接定位TX03n0002_pa220a07",
+  "original_text_url": "https://cbetaonline.dila.edu.tw/zh/TX03n0002_pa220a07",
+  "locator": "机构页面“人生佛教”栏目及引文",
+  "read_language": "中文繁体",
+  "read_level": "实际读本人文本的机构节引；CBETA正文页只返回界面，故未标全文直读，不补页码；1944地点系机构介绍",
+  "short_quote": "自亦含攝後世勝進與生死解脫",
+  "translation": "也包含后世的进步与生死解脱",
+  "evidence": "人生改善与菩提心、菩萨道和解脱相连，不能解成只经营现世福利。该材料联系世苑汉藏教理院的讲说场域。",
+  "normalized_url": "https://archive2.cbeta.org/node/6547",
+  "source_id": "S-3c472217a18d",
+  "canonical_url_id": "U-975381b7fda9",
+  "actual_reading_summary": "中文繁体；实际读本人文本的机构节引；CBETA正文页只返回界面，故未标全文直读，不补页码；1944地点系机构介绍"
+}
+
+U-b0de10f38dd3｜https://dlbs.liberal.ntu.edu.tw/FULLTEXT/JR-AN/an585501.pdf
+S-9e0fa2c5be72｜太虚大师“人生佛教”理念之渊源及思想背景
+实际阅读摘要：中文正文；实际读所列全文页段，不限摘要；未通读34页或核其全部转引
+用于R06-Q02
+{
+  "institution": "台湾大学佛学数字图书馆托管全文；原收2018星云大师人间佛教理论实践研究",
+  "author": "金易明",
+  "title": "太虚大师“人生佛教”理念之渊源及思想背景",
+  "date": "卷册题记2018；搜索索引2019不当正文出版年",
+  "url": "https://dlbs.liberal.ntu.edu.tw/FULLTEXT/JR-AN/an585501.pdf",
+  "locator": "印页612摘要、616、627及635（PDF物理页1、5、16、24）；本轮核读这些段落",
+  "read_language": "中文正文",
+  "read_level": "实际读所列全文页段，不限摘要；未通读34页或核其全部转引",
+  "short_quote": "理論有餘而實行不足",
+  "translation": "理论多而实际落实不足（该文转引太虚自评，未直接核原书）",
+  "evidence": "作者用人生到人间的传承与现代转型解释太虚，同时讨论三大改革的落实障碍；其“主流”“必然路径”等是作者评价，不能当全部现代佛教的共同自称。",
+  "normalized_url": "https://dlbs.liberal.ntu.edu.tw/FULLTEXT/JR-AN/an585501.pdf",
+  "source_id": "S-9e0fa2c5be72",
+  "canonical_url_id": "U-b0de10f38dd3",
+  "actual_reading_summary": "中文正文；实际读所列全文页段，不限摘要；未通读34页或核其全部转引"
+}
+
+U-9a6eb546cb1c｜https://franpritchett.com/00ambedkar/ambedkar_buddha/03_05.html
+S-388511df8abe｜The Buddha and His Dhamma
+实际阅读摘要：English；作者文本网络转录相关段实际读；原Columbia地址转向Pritchett个人学术网站，非本轮查读1957纸本
+用于R06-Q03
+{
+  "author": "B. R. Ambedkar",
+  "title": "The Buddha and His Dhamma",
+  "year": 1957,
+  "url": "https://franpritchett.com/00ambedkar/ambedkar_buddha/03_05.html",
+  "additional_url": "https://franpritchett.com/00ambedkar/ambedkar_buddha/04_01.html",
+  "actual_location": "Book III Part V Section Four §1段1–14；Book IV Part I §2段1–30",
+  "read_language": "English",
+  "read_level": "作者文本网络转录相关段实际读；原Columbia地址转向Pritchett个人学术网站，非本轮查读1957纸本",
+  "quote": "Society cannot do without Dhamma.",
+  "translation": "社会不能没有法。",
+  "evidence": "其将种姓等级与不平等联系，借佛陀叙述反对之；并区分Religion与Dhamma，将后者置于人际关系、自由、智慧与慈悲。",
+  "normalized_url": "https://franpritchett.com/00ambedkar/ambedkar_buddha/03_05.html",
+  "source_id": "S-388511df8abe",
+  "canonical_url_id": "U-9a6eb546cb1c",
+  "actual_reading_summary": "English；作者文本网络转录相关段实际读；原Columbia地址转向Pritchett个人学术网站，非本轮查读1957纸本"
+}
+
+U-b32631270560｜https://museumsofindia.gov.in/repository/record/avm_pun-diorama-06-679
+S-0625690bccf2｜Embraced Buddhism at Nagpur (14th October 1956)
+实际阅读摘要：English；政府博物馆平台现代立体场景目录直接读；不是1956当场照片或录音
+用于R06-Q03
+{
+  "author": "Dr. Babasaheb Ambedkar Museum & Memorial, Pune / Museums of India",
+  "title": "Embraced Buddhism at Nagpur (14th October 1956)",
+  "year": null,
+  "url": "https://museumsofindia.gov.in/repository/record/avm_pun-diorama-06-679",
+  "actual_location": "馆藏号diorama-06，Title、Brief Description",
+  "read_language": "English",
+  "read_level": "政府博物馆平台现代立体场景目录直接读；不是1956当场照片或录音",
+  "quote": "Senior monk Chandramani initiated them",
+  "translation": "长老Chandramani为他们授予入教仪式。",
+  "evidence": "记1956年10月14日那格浦尔仪式及安贝德卡夫妇、Chandramani等；日期为事件日期，不作模型制作或网页发表日期。",
+  "normalized_url": "https://museumsofindia.gov.in/repository/record/avm_pun-diorama-06-679",
+  "source_id": "S-0625690bccf2",
+  "canonical_url_id": "U-b32631270560",
+  "actual_reading_summary": "English；政府博物馆平台现代立体场景目录直接读；不是1956当场照片或录音"
+}
+
+U-f3da3ba75c20｜https://www.gutenberg.org/cache/epub/30216/pg30216-images.html
+S-77166040204f｜The Buddhist Catechism
+实际阅读摘要：English；历史原著网络转录相关前置文直接读；未读僧伽罗语原版或独立教育档案
+用于R06-Q04
+{
+  "author": "Henry Steel Olcott；所录证书H. Sumangala",
+  "title": "The Buddhist Catechism",
+  "year": "1915第44版；内收1881证书及1897、1903等序",
+  "url": "https://www.gutenberg.org/cache/epub/30216/pg30216-images.html",
+  "actual_location": "标题页；Certificate to the First Edition（Colombo,7 July1881）；Preface to Thirty-Third Edition（Adyar,17 May1897）及Thirty-Sixth（7 February1903）",
+  "read_language": "English",
+  "read_level": "历史原著网络转录相关前置文直接读；未读僧伽罗语原版或独立教育档案",
+  "quote": "mainly by Buddhists, for Buddhists",
+  "translation": "主要由佛教徒为佛教徒而出版。",
+  "evidence": "1881证书署Sumangala，1897序自述与僧伽罗同事逐词审阅、学校用途及多语传播；1903序同时带有贬低当地僧侣积极性的作者评价。",
+  "normalized_url": "https://www.gutenberg.org/cache/epub/30216/pg30216-images.html",
+  "source_id": "S-77166040204f",
+  "canonical_url_id": "U-f3da3ba75c20",
+  "actual_reading_summary": "English；历史原著网络转录相关前置文直接读；未读僧伽罗语原版或独立教育档案"
+}
+
+U-3fc968ee8277｜https://pluralism.org/dharmapala-anagarika
+S-375250be9972｜Dharmapala, Anagarika
+实际阅读摘要：English；大学项目历史综述直接读；非本人日记或会议原始记录
+用于R06-Q04
+{
+  "author": "The Pluralism Project（未署个人作者）",
+  "title": "Dharmapala, Anagarika",
+  "year": null,
+  "url": "https://pluralism.org/dharmapala-anagarika",
+  "actual_location": "正文两段：Maha Bodhi Society、journal及Barrows邀请赴1893芝加哥宗教大会",
+  "read_language": "English",
+  "read_level": "大学项目历史综述直接读；非本人日记或会议原始记录",
+  "quote": "edited the society’s journal",
+  "translation": "编辑该会的期刊。",
+  "evidence": "将达磨波罗的组织、募款与期刊，同南亚—芝加哥交流连接。",
+  "normalized_url": "https://pluralism.org/dharmapala-anagarika",
+  "source_id": "S-375250be9972",
+  "canonical_url_id": "U-3fc968ee8277",
+  "actual_reading_summary": "English；大学项目历史综述直接读；非本人日记或会议原始记录"
+}
+
+U-7cee29a5d276｜https://suttaworld.com/Collection_of_Buddhist/Successive_Tripitaka/pdf/X60/X60n1128.pdf
+S-419f660ab48c｜传戒正范
+实际阅读摘要：文言汉语原典指定段实读；现行电子排本，仪轨规范而非某场受戒实录；文言汉语原典指定段实读；现行电子排本，仪轨规范而非某场受戒实录
+用于R06-Q05
+{
+  "author": "读体",
+  "title": "传戒正范",
+  "year": "清代；具体成书年本轮依现代研究而非PDF发布日期",
+  "URL": "https://suttaworld.com/Collection_of_Buddhist/Successive_Tripitaka/pdf/X60/X60n1128.pdf",
+  "locator": "卷四，二坛传受比丘戒正范，第八明乞戒法、第九羯磨师单白法、第十正问难法；PDF零基90–91页",
+  "read_language_level": "文言汉语原典指定段实读；现行电子排本，仪轨规范而非某场受戒实录",
+  "short_quote": "作白成否。",
+  "translation": "羯磨师宣白后询问作法是否成立，由七证师回应。",
+  "evidence_limit": "仪式角色与问答可证规范编排，不证每场均按文执行。",
+  "normalized_url": "https://suttaworld.com/Collection_of_Buddhist/Successive_Tripitaka/pdf/X60/X60n1128.pdf",
+  "source_id": "S-419f660ab48c",
+  "canonical_url_id": "U-7cee29a5d276",
+  "actual_reading_summary": "文言汉语原典指定段实读；现行电子排本，仪轨规范而非某场受戒实录"
+}
+
+U-b9d97ef45e9d｜https://www.chibs.edu.tw/ch_html/chbs/07/chbs0708.htm
+S-209579cc79ce｜明末清初之律学复兴——以见月律师为中心
+实际阅读摘要：中文现代研究正文；所引见月铭及自述属经此研究二手读取；中文现代研究正文；所引见月铭及自述属经此研究二手读取
+用于R06-Q05
+{
+  "author": "释果灯",
+  "title": "明末清初之律学复兴——以见月律师为中心",
+  "year": 2003,
+  "URL": "https://www.chibs.edu.tw/ch_html/chbs/07/chbs0708.htm",
+  "locator": "《中华佛学研究》7，225–283；本轮实读243–244、248–249、252–253页标段",
+  "read_language_level": "中文现代研究正文；所引见月铭及自述属经此研究二手读取",
+  "short_quote": "倉皇七日，便畢三壇",
+  "translation": "作者所引批评针对匆忙完成三坛的做法，反而表明当时存在传戒活动。",
+  "evidence_limit": "不采用其“失传六百年”等全域断言；亦不将戒期人数当本轮独立核定统计。",
+  "normalized_url": "https://www.chibs.edu.tw/ch_html/chbs/07/chbs0708.htm",
+  "source_id": "S-209579cc79ce",
+  "canonical_url_id": "U-b9d97ef45e9d",
+  "actual_reading_summary": "中文现代研究正文；所引见月铭及自述属经此研究二手读取"
+}
+
+U-4fc8acd41692｜https://www.chibs.edu.tw/ch_html/chbj/25/Christoph%20Anderl%207-50.pdf
+S-0e37d7c11eb3｜Some Reflections on the Mark-up and Analysis of Dūnhuáng Manuscripts: Exemplified by the Platform Sūtra
+实际阅读摘要：英语研究正文及中文摘要实读；文中写本图例及转录经研究者呈现，未独立逐页读原写本；英语研究正文及中文摘要实读；文中写本图例及转录经研究者呈现，未独立逐页读原写本
+用于R06-Q06
+{
+  "author": "Christoph Anderl、Kevin Dippner、Øystein Krogh Visted",
+  "title": "Some Reflections on the Mark-up and Analysis of Dūnhuáng Manuscripts: Exemplified by the Platform Sūtra",
+  "year": 2012,
+  "URL": "https://www.chibs.edu.tw/ch_html/chbj/25/Christoph%20Anderl%207-50.pdf",
+  "locator": "Chung-Hwa Buddhist Journal 25，7–50；实读9页导言、13–14页“scribal errors and conventions”及注15，15页文本生产方法说明；具体比较Stein与Dunbo版本",
+  "read_language_level": "英语研究正文及中文摘要实读；文中写本图例及转录经研究者呈现，未独立逐页读原写本",
+  "short_quote": "performance markers",
+  "translation": "表演或仪式执行标记：如提示戒文集体复诵次数的小字插入。",
+  "evidence_limit": "作者提出《坛经》题名早期可能指《金刚经》等是假说，不作为定论；不把所有敦煌写本统一定为7世纪。",
+  "normalized_url": "https://www.chibs.edu.tw/ch_html/chbj/25/Christoph%20Anderl%207-50.pdf",
+  "source_id": "S-0e37d7c11eb3",
+  "canonical_url_id": "U-4fc8acd41692",
+  "actual_reading_summary": "英语研究正文及中文摘要实读；文中写本图例及转录经研究者呈现，未独立逐页读原写本"
+}
+
+U-a6b30a2feac6｜https://www.gutenberg.org/files/30216/30216-h/30216-h.htm
+S-be1760134bb6｜The Buddhist Catechism，第四十四订正版
+实际阅读摘要：英文；实际读1915版的公开网络转录中上述前置文本；未核1881初版或僧伽罗文教材。2009为电子发布年，不作原书年。
+用于R06-Q07
+{
+  "author_institution": "Henry S. Olcott；所载H. Sumangala证明书",
+  "title": "The Buddhist Catechism，第四十四订正版",
+  "year": 1915,
+  "url": "https://www.gutenberg.org/files/30216/30216-h/30216-h.htm",
+  "locator": "扉页；Certificate to the First Edition（1881-07-07、1897-04-07）；Preface to the Thirty-Third Edition（1897-05-17），网页行37—47、65—92",
+  "actual_language": "英文",
+  "reading_level": "实际读1915版的公开网络转录中上述前置文本；未核1881初版或僧伽罗文教材。2009为电子发布年，不作原书年。",
+  "short_original": "with the help of interpreters",
+  "translation": "在口译者协助下",
+  "evidence": "1881证明书称Sumangala审阅僧伽罗文版并向佛教学校教师推荐；1897证明书称他在口译协助下审阅第三十三英文版。Olcott的1897序称初版与Sumangala及Hyeyantuduve Anunayaka逐字讨论，修订亦获建议，并称学校由僧伽罗人开办、神智会总体监督。序中百余学校及二十语出版是作者自述，本轮没有外部统计核验。",
+  "normalized_url": "https://www.gutenberg.org/files/30216/30216-h/30216-h.htm",
+  "source_id": "S-be1760134bb6",
+  "canonical_url_id": "U-a6b30a2feac6",
+  "actual_reading_summary": "英文；实际读1915版的公开网络转录中上述前置文本；未核1881初版或僧伽罗文教材。2009为电子发布年，不作原书年。"
+}
+
+U-203bf256be64｜https://www.tipitaka.org/chattha
+S-c81fd7b75c20｜Chaṭṭha Saṅgāyana: The Six Dhamma Councils
+实际阅读摘要：英文；实际读VRI机构历史说明；非结集当日记录，未直接读缅文会议录或初印本版权页。
+用于R06-Q08
+{
+  "author_institution": "Vipassana Research Institute",
+  "title": "Chaṭṭha Saṅgāyana: The Six Dhamma Councils",
+  "year": null,
+  "url": "https://www.tipitaka.org/chattha",
+  "locator": "The Sixth Council节，网页行79—87",
+  "actual_language": "英文",
+  "reading_level": "实际读VRI机构历史说明；非结集当日记录，未直接读缅文会议录或初印本版权页。",
+  "short_original": "digital reproduction",
+  "translation": "数字再现",
+  "evidence": "说明记1954-05-17仰光Kaba Aye开会，吴努政府赞助；跨国上座部僧人审诵、比较异读，1956年5月结束；说明后将经与注释书用缅文文字印行，并记VRI在1990年启动天城体经注复注印刷项目。须把这些作为该机构叙述，不据其权威措辞推出全球共同承认。",
+  "normalized_url": "https://www.tipitaka.org/chattha",
+  "source_id": "S-c81fd7b75c20",
+  "canonical_url_id": "U-203bf256be64",
+  "actual_reading_summary": "英文；实际读VRI机构历史说明；非结集当日记录，未直接读缅文会议录或初印本版权页。"
+}
+
+U-a3f7be94ff57｜https://www.tipitaka.org/
+S-4b09b42f0b91｜The Pāḷi Tipiṭaka，网站首页说明
+实际阅读摘要：英文；实际读出版机构对网站与CD关系的说明；未做字串校勘。
+用于R06-Q08
+{
+  "author_institution": "Vipassana Research Institute",
+  "title": "The Pāḷi Tipiṭaka，网站首页说明",
+  "year": null,
+  "url": "https://www.tipitaka.org/",
+  "locator": "网页行4、7、12",
+  "actual_language": "英文",
+  "reading_level": "实际读出版机构对网站与CD关系的说明；未做字串校勘。",
+  "short_original": null,
+  "translation": null,
+  "evidence": "网站自称再现VRI所发Chaṭṭha Saṅgāyana CD文本，提供多种文字Unicode呈现，并设错误反馈入口。多种文字不是多种语文翻译，也不证明与初印本逐字一致。",
+  "normalized_url": "https://www.tipitaka.org/",
+  "source_id": "S-4b09b42f0b91",
+  "canonical_url_id": "U-a3f7be94ff57",
+  "actual_reading_summary": "英文；实际读出版机构对网站与CD关系的说明；未做字串校勘。"
+}
+
+U-82e93aed34fa｜https://www.repository.cam.ac.uk/items/64bbceb9-d2e3-49bf-872c-446e5eb5107d
+S-06fb6becc780｜Formation of the State of Bhutan (’Brug gzhung) in the 17th Century and its Tibetan Antecedents
+实际阅读摘要：English scholarly article；实读PDF相关正文和注iv，非仅摘要；未通读其全部引书
+用于R06-Q09
+{
+  "author": "John A. Ardussi",
+  "title": "Formation of the State of Bhutan (’Brug gzhung) in the 17th Century and its Tibetan Antecedents",
+  "year": 2004,
+  "publication": "Journal of Bhutan Studies 11, pp.10–32；机构目录著录Winter 2004",
+  "publication_date_note": "ICIMOD明确著录2004与卷11 Winter 2004；PDF页10脚注却称reprinted from Cüppers编2005会议集，存在书目时序待复核。未使用网页版权2026或仓储创建年充当发表年。",
+  "url": "https://www.repository.cam.ac.uk/items/64bbceb9-d2e3-49bf-872c-446e5eb5107d",
+  "fulltext_url": "https://www.repository.cam.ac.uk/bitstreams/555a1294-f942-45d3-8337-250a90821ada/download",
+  "metadata_url": "https://lib.icimod.org/records/y4zt6-3yf39",
+  "institution": "Centre for Bhutan Studies期刊；Cambridge University Library Apollo全文存档及ICIMOD书目",
+  "language_actually_read": "English scholarly article",
+  "original_material_language": "涉及藏文传记LNDRR；本轮未独立读藏文原传",
+  "reading_level": "实读PDF相关正文和注iv，非仅摘要；未通读其全部引书",
+  "locator": "印刷页11：制度理念与不同实施；页15：行政委任、宗堡建设与传记政治用途；页17—18：地方支持与sDe-srid职位演变；页24：LNDRR版本说明；页27注iv：与Aris解释的分歧",
+  "pages": "11, 15, 17–18, 24, 27 n.iv",
+  "short_original": "evolved gradually out of precedents at hand",
+  "translation": "从既有先例中逐渐演变而成。",
+  "supports": "夏仲委任本地施主bsTan-’dzin ’Brug-rgyas承担民政；普那卡等宗堡建设经历一段过程。作者将政教理论与实际形成分开，指出后续sDe-srid地位变化。",
+  "limits": "为现代研究对传记等材料的分析，不将其叙述冒称同时代行政档案；不继承所有跨地区比较或人物性格判断。",
+  "normalized_url": "https://www.repository.cam.ac.uk/items/64bbceb9-d2e3-49bf-872c-446e5eb5107d",
+  "source_id": "S-06fb6becc780",
+  "canonical_url_id": "U-82e93aed34fa",
+  "actual_reading_summary": "English scholarly article；实读PDF相关正文和注iv，非仅摘要；未通读其全部引书"
+}
+
+U-a226c845d13c｜https://www.library-archives.pref.fukui.lg.jp/fukui/08/2005lec/2005b/2005blec01.html
+S-43a9c1dd9b95｜笹岡村利兵衛寺請判之義ニ付三国湊滝谷寺与問答仕候覚
+实际阅读摘要：ja，实读官方近世日文转录，未完成原件草书图像逐字校读；B-1至B-5已读；文书仍有后续页，未读完全文；一手文书的官方转录；非完整图像校勘
+用于R06-Q10
+{
+  "author": "次郎左卫门（前谷村大庄屋；身份依文书馆解说）",
+  "title": "笹岡村利兵衛寺請判之義ニ付三国湊滝谷寺与問答仕候覚",
+  "year": 1700,
+  "collection": "福井县文书馆 土屋豊孝家文書",
+  "archive_id": "C0044-00120",
+  "url": "https://www.library-archives.pref.fukui.lg.jp/fukui/08/2005lec/2005b/2005blec01.html",
+  "additional_urls": [
+    "https://www.library-archives.pref.fukui.lg.jp/fukui/08/2005lec/2005b/2005blec02.html",
+    "https://www.library-archives.pref.fukui.lg.jp/fukui/08/2005lec/2005b/2005blec03.html",
+    "https://www.library-archives.pref.fukui.lg.jp/fukui/08/2005lec/2005b/2005blec04.html",
+    "https://www.library-archives.pref.fukui.lg.jp/fukui/08/2005lec/2005b/2005blec05.html"
+  ],
+  "locator": "机构转录网页B-1正文首二条，B-2第一条，B-4第一条，B-5首二条；对应原件展示图(1)–(6)，不冒称纸本页码",
+  "language_read": "ja，实读官方近世日文转录，未完成原件草书图像逐字校读",
+  "read_scope": "B-1至B-5已读；文书仍有后续页，未读完全文",
+  "source_level": "一手文书的官方转录；非完整图像校勘",
+  "original_short": "利兵衛義改宗不仕候",
+  "translation_zh": "利兵卫并未改宗。",
+  "supports": "据大庄屋报告：滝谷寺核名盖寺请印后，要求去除已被断绝檀那关系的利兵卫名下印记；庄屋一方说其未改宗，应另说明剔除理由；后经中间人转述牵涉双亲牌位纠纷，账册先已上呈代官所。",
+  "caution": "转述含寺方言论，不等于已经核寺方独立记录；未读后续不宣称案件最后结果。",
+  "normalized_url": "https://www.library-archives.pref.fukui.lg.jp/fukui/08/2005lec/2005b/2005blec01.html",
+  "source_id": "S-43a9c1dd9b95",
+  "canonical_url_id": "U-a226c845d13c",
+  "actual_reading_summary": "ja，实读官方近世日文转录，未完成原件草书图像逐字校读；B-1至B-5已读；文书仍有后续页，未读完全文；一手文书的官方转录；非完整图像校勘"
+}
+S-041a90000589｜古文書読解講座（B）-1 HP版 2005年下半期：講座の概要
+实际阅读摘要：ja，实读日文档案解说；讲座概要全文；同一档案的现代官方解释，不算独立第二份历史见证
+用于R06-Q10
+{
+  "author": "福井县文书馆（机构作者）",
+  "title": "古文書読解講座（B）-1 HP版 2005年下半期：講座の概要",
+  "year": 2005,
+  "url": "https://www.library-archives.pref.fukui.lg.jp/fukui/08/2005lec/2005b/2005blec01.html",
+  "locator": "「講座の概要」介绍次郎左卫门、八月组头汇册及寺判的三段；无纸本页码",
+  "language_read": "ja，实读日文档案解说",
+  "read_scope": "讲座概要全文",
+  "source_level": "同一档案的现代官方解释，不算独立第二份历史见证",
+  "original_short": "帳面記載が間違いないことを証明する寺判",
+  "translation_zh": "证明账册记载无误的寺院印记。",
+  "supports": "概要说明前谷组15村大庄屋汇集宗门人别改帐上呈代官所，1700年由组头持册请各寺盖印，并把寺院与幕府领大庄屋关系解释为微妙的权力关系。",
+  "date_note": "2005来自讲座标题所列平成17年日期；不把网页©2018当发表年。",
+  "normalized_url": "https://www.library-archives.pref.fukui.lg.jp/fukui/08/2005lec/2005b/2005blec01.html",
+  "source_id": "S-041a90000589",
+  "canonical_url_id": "U-a226c845d13c",
+  "actual_reading_summary": "ja，实读日文档案解说；讲座概要全文；同一档案的现代官方解释，不算独立第二份历史见证"
+}
+
+U-881f0beb6859｜https://whc.unesco.org/en/list/1732/
+S-30c8417ded88｜Yen Tu-Vinh Nghiem-Con Son, Kiep Bac Complex of Monuments and Landscapes
+实际阅读摘要：英语正文及中文说明；未读越文原典；实际读所列网页正文；未读提名卷宗、碑铭、木版原件或考古报告
+用于R07-Q01
+{
+  "institution": "UNESCO World Heritage Centre",
+  "author": "机构署名",
+  "title": "Yen Tu-Vinh Nghiem-Con Son, Kiep Bac Complex of Monuments and Landscapes",
+  "date": "列入遗产2025；正文发布日期未知，不以网页©年份代替",
+  "url": "https://whc.unesco.org/en/list/1732/",
+  "locator": "遗产号1732；Outstanding Universal Value > Brief synthesis第1—3段、Criterion(iii)、Integrity及Authenticity关于重修段",
+  "read_language": "英语正文及中文说明；未读越文原典",
+  "read_level": "实际读所列网页正文；未读提名卷宗、碑铭、木版原件或考古报告",
+  "short_quote": "from its founding and institutionalisation to its revival",
+  "translation": "从创立和制度化直至复兴",
+  "evidence": "官方呈现12组成点的系列遗产，含寺院、碑、木版与朝圣路径，并明确不同发展阶段和近代重建。该材料是现代遗产阐释，不是13世纪原始建制文件。",
+  "normalized_url": "https://whc.unesco.org/en/list/1732/",
+  "source_id": "S-30c8417ded88",
+  "canonical_url_id": "U-881f0beb6859",
+  "actual_reading_summary": "英语正文及中文说明；未读越文原典；实际读所列网页正文；未读提名卷宗、碑铭、木版原件或考古报告"
+}
+
+U-eca7e2e58987｜https://plumvillage.org/about/thich-nhat-hanh/biography
+S-2d97f87a957f｜The Life Story of Thich Nhat Hanh: Thich Nhat Hanh’s life in photos
+实际阅读摘要：英语；实际读图片说明文字；未下载图像，未看完整影片；不是Extended Biography全文阅读或本人当时记录
+用于R07-Q02
+{
+  "institution": "Plum Village Community of Engaged Buddhism",
+  "author": "机构生平图片说明",
+  "title": "The Life Story of Thich Nhat Hanh: Thich Nhat Hanh’s life in photos",
+  "date": null,
+  "url": "https://plumvillage.org/about/thich-nhat-hanh/biography",
+  "locator": "1950s教学、early1960s识字教育、1966和平运动、31May1966芝加哥记者会、1976Roland救援、1982梅村等图片说明；1966赴美照标Original ID TimeLife_image_116934239",
+  "read_language": "英语",
+  "read_level": "实际读图片说明文字；未下载图像，未看完整影片；不是Extended Biography全文阅读或本人当时记录",
+  "short_quote": "School of Youth for Social Service",
+  "translation": "青年社会服务学校",
+  "evidence": "机构将农村识字与社会服务、出版、和平运动及海外中心连成生平；照片信息是馆藏/机构说明，未独立验证每项活动细节。",
+  "normalized_url": "https://plumvillage.org/about/thich-nhat-hanh/biography",
+  "source_id": "S-2d97f87a957f",
+  "canonical_url_id": "U-eca7e2e58987",
+  "actual_reading_summary": "英语；实际读图片说明文字；未下载图像，未看完整影片；不是Extended Biography全文阅读或本人当时记录"
+}
+
+U-e29208a27d66｜https://www.nanhuatemple.org/history
+S-718ce11fef91｜History
+实际阅读摘要：English；寺院官方历史自述直接读；不是地方政府契约或第三方调查
+用于R07-Q03
+{
+  "author": "Fo Guang Shan Nan Hua Temple",
+  "title": "History",
+  "year": null,
+  "url": "https://www.nanhuatemple.org/history",
+  "actual_location": "以In 1992开头的历史正文；1991交流、1992捐地与开工、2005主殿段",
+  "read_language": "English",
+  "read_level": "寺院官方历史自述直接读；不是地方政府契约或第三方调查",
+  "quote": "both Chinese and non-Chinese",
+  "translation": "华人与非华人皆有。",
+  "evidence": "记1991与市方交流、1992营建启动、2005主殿完成，涉及台湾、南非和中国材料；同页捐地面积6/14公顷互异。",
+  "normalized_url": "https://www.nanhuatemple.org/history",
+  "source_id": "S-718ce11fef91",
+  "canonical_url_id": "U-e29208a27d66",
+  "actual_reading_summary": "English；寺院官方历史自述直接读；不是地方政府契约或第三方调查"
+}
+
+U-0f231c703de2｜https://www.nanhuatemple.org/aboutus
+S-3c9561ff2933｜About Us
+实际阅读摘要：English；官方机构自我说明直接读；未逐地核验分支
+用于R07-Q03
+{
+  "author": "Fo Guang Shan Nan Hua Temple",
+  "title": "About Us",
+  "year": null,
+  "url": "https://www.nanhuatemple.org/aboutus",
+  "actual_location": "About Us段；前段outreach与donation说明",
+  "read_language": "English",
+  "read_level": "官方机构自我说明直接读；未逐地核验分支",
+  "quote": "Malawi, Tanzania and Congo",
+  "translation": "马拉维、坦桑尼亚及刚果。",
+  "evidence": "机构自称管理上述地区分支；未注明刚果具体国家与各分支日期。",
+  "normalized_url": "https://www.nanhuatemple.org/aboutus",
+  "source_id": "S-3c9561ff2933",
+  "canonical_url_id": "U-0f231c703de2",
+  "actual_reading_summary": "English；官方机构自我说明直接读；未逐地核验分支"
+}
+
+U-a4919c22f75d｜https://asian.fiu.edu/jsr/moreira-da-rocha-the-appropriation-of-japanese-zen-buddhism-in-brazil.pdf
+S-a617acf7677e｜The Appropriation of Japanese Zen Buddhism in Brazil
+实际阅读摘要：English；大学网站所托管论文PDF相关正文直接读；未直接读访谈录及所有参考文献
+用于R07-Q04
+{
+  "author": "Christina Moreira da Rocha（PDF题头拼写）",
+  "title": "The Appropriation of Japanese Zen Buddhism in Brazil",
+  "year": 2000,
+  "url": "https://asian.fiu.edu/jsr/moreira-da-rocha-the-appropriation-of-japanese-zen-buddhism-in-brazil.pdf",
+  "actual_location": "印刷页35–36，ethnic Buddhism区分及后裔语言选择、Porto Alegre案例；开篇亦定向阅读",
+  "read_language": "English",
+  "read_level": "大学网站所托管论文PDF相关正文直接读；未直接读访谈录及所有参考文献",
+  "quote": "their Zen activities are conducted in Portuguese",
+  "translation": "他们的禅修活动以葡萄牙语进行。",
+  "evidence": "作者指出部分日裔后裔因不懂日语而参加葡语活动，提醒族裔与实践不能分成封闭二元；另述Porto Alegre的跨宗派及曹洞团体。",
+  "date_note": "已核对FIU整期封面VOLUME FOUR 2000及目录页33；https://asian.fiu.edu/jsr/jsr-2000.pdf PDF第1页。",
+  "normalized_url": "https://asian.fiu.edu/jsr/moreira-da-rocha-the-appropriation-of-japanese-zen-buddhism-in-brazil.pdf",
+  "source_id": "S-a617acf7677e",
+  "canonical_url_id": "U-a4919c22f75d",
+  "actual_reading_summary": "English；大学网站所托管论文PDF相关正文直接读；未直接读访谈录及所有参考文献"
+}
+
+U-fe99fb979ac8｜https://templozulai.org.br/templo/historia/
+S-d718c4389d44｜História — As origens do Templo Zu Lai
+实际阅读摘要：Português（葡萄牙语）；官方葡文历史正文直接读；未读捐地契约或参与者访谈
+用于R07-Q04
+{
+  "author": "Templo Zu Lai",
+  "title": "História — As origens do Templo Zu Lai",
+  "year": null,
+  "url": "https://templozulai.org.br/templo/historia/",
+  "actual_location": "As origens do Templo Zu Lai标题下前3段",
+  "read_language": "Português（葡萄牙语）",
+  "read_level": "官方葡文历史正文直接读；未读捐地契约或参与者访谈",
+  "quote": "Em abril de 1992",
+  "translation": "在1992年4月。",
+  "evidence": "记星云赴São Paulo主持仪式、Chang夫妇捐家庭土地、觉诚留驻弘法及BLIA组织；并列禅净实践和文化教育社会宗教四支柱。",
+  "normalized_url": "https://templozulai.org.br/templo/historia/",
+  "source_id": "S-d718c4389d44",
+  "canonical_url_id": "U-fe99fb979ac8",
+  "actual_reading_summary": "Português（葡萄牙语）；官方葡文历史正文直接读；未读捐地契约或参与者访谈"
+}
+
+U-b699df4319df｜https://www.bsv.net.au/wp-content/uploads/2023/03/The-BSV-Story-1953.pdf
+S-13b06fab3216｜The BSV Story 1953–1998: Recollections of the Buddhist Society of Victoria
+实际阅读摘要：英语全文中的指定段实读；组织官网保存的成员回忆，部分据日记、通讯与转述；非所有内容均为亲历；英语全文中的指定段实读；组织官网保存的成员回忆，部分据日记、通讯与转述；非所有内容均为亲历
+用于R07-Q05
+{
+  "author": "Elizabeth Bell",
+  "title": "The BSV Story 1953–1998: Recollections of the Buddhist Society of Victoria",
+  "year": null,
+  "year_note": "叙事范围止于1998不自动等于刊年；URL上传2023亦非原作年",
+  "URL": "https://www.bsv.net.au/wp-content/uploads/2023/03/The-BSV-Story-1953.pdf",
+  "locator": "PDF第1–2页：前言与1963年加入回忆、1953建会、图书与Metta段；无独立印刷页码",
+  "read_language_level": "英语全文中的指定段实读；组织官网保存的成员回忆，部分据日记、通讯与转述；非所有内容均为亲历",
+  "short_quote": "The recollections were helped by news items",
+  "translation": "回忆得到新闻条目等材料辅助。",
+  "evidence_limit": "作者1963年才参与；1953建会及更早经历有转述，不把个人回忆当全国代表性抽样。",
+  "normalized_url": "https://www.bsv.net.au/wp-content/uploads/2023/03/The-BSV-Story-1953.pdf",
+  "source_id": "S-13b06fab3216",
+  "canonical_url_id": "U-b699df4319df",
+  "actual_reading_summary": "英语全文中的指定段实读；组织官网保存的成员回忆，部分据日记、通讯与转述；非所有内容均为亲历"
+}
+
+U-65f30d2ba97f｜https://bcv.org.au/history-of-buddhism-in-victoria/
+S-f6a9351311fd｜History of Buddhism in Victoria
+实际阅读摘要：英语机构综合历史实读；所引Croucher 1989和Vasi 2006为二手援引，未冒称本轮读原书；英语机构综合历史实读；所引Croucher 1989和Vasi 2006为二手援引，未冒称本轮读原书
+用于R07-Q05
+{
+  "author": "Buddhist Council of Victoria；网页未署个人作者",
+  "title": "History of Buddhism in Victoria",
+  "year": null,
+  "URL": "https://bcv.org.au/history-of-buddhism-in-victoria/",
+  "locator": "The Gold Rush Period；The Buddhist Society and Visiting Teachers；The Buddhist Boom中越南寺院与1995年BCV组建段；网页无页码",
+  "read_language_level": "英语机构综合历史实读；所引Croucher 1989和Vasi 2006为二手援引，未冒称本轮读原书",
+  "short_quote": "ethnic and Western Buddhist communities",
+  "translation": "不同族裔及西方佛教社群。",
+  "evidence_limit": "页面其他段有明显年份笔误，本轮不用这些异常年或“首寺”等排名断言；具体日期留待机构档案复核。",
+  "normalized_url": "https://bcv.org.au/history-of-buddhism-in-victoria/",
+  "source_id": "S-f6a9351311fd",
+  "canonical_url_id": "U-65f30d2ba97f",
+  "actual_reading_summary": "英语机构综合历史实读；所引Croucher 1989和Vasi 2006为二手援引，未冒称本轮读原书"
+}
+
+U-fed5220d8aea｜https://www.nikkeicentre.ca/kyowakai-society
+S-98d40a06ef05｜Kyowakai Society
+实际阅读摘要：英语博物馆解释与所引追忆实读；未读馆藏原日文档案或完整书；英语博物馆解释与所引追忆实读；未读馆藏原日文档案或完整书
+用于R07-Q06
+{
+  "author": "Nikkei Internment Memorial Centre；引Anne Champagne及社群回忆",
+  "title": "Kyowakai Society",
+  "year": null,
+  "URL": "https://www.nikkeicentre.ca/kyowakai-society",
+  "locator": "正文第1–6段：1943结社、Kyowakai Hall、Fujinkai及Obon；无纸本页码",
+  "read_language_level": "英语博物馆解释与所引追忆实读；未读馆藏原日文档案或完整书",
+  "short_quote": "all meetings were claimed to be for religious practice",
+  "translation": "会议均以宗教活动名义申称。",
+  "evidence_limit": "规避集会限制的具体机制是馆方引述社群记忆，尚未与营地命令逐项互校。",
+  "normalized_url": "https://www.nikkeicentre.ca/kyowakai-society",
+  "source_id": "S-98d40a06ef05",
+  "canonical_url_id": "U-fed5220d8aea",
+  "actual_reading_summary": "英语博物馆解释与所引追忆实读；未读馆藏原日文档案或完整书"
+}
+
+U-abc0fe9a980d｜https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?i=82201&id=11841
+S-476c7528154d｜Nikkei Internment Memorial Centre National Historic Site of Canada
+实际阅读摘要：英语官方遗产登记实读；遗存及价值综合说明，非营地同期档案；英语官方遗产登记实读；遗存及价值综合说明，非营地同期档案
+用于R07-Q06
+{
+  "author": "Parks Canada / Historic Sites and Monuments Board of Canada",
+  "title": "Nikkei Internment Memorial Centre National Historic Site of Canada",
+  "year": null,
+  "year_note": "2007是指定日期，不作为网页刊年",
+  "URL": "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?i=82201&id=11841",
+  "locator": "Designation Date；Plaque；Description of Historic Place；Heritage Value；研究报告号2006-039、2009-033",
+  "read_language_level": "英语官方遗产登记实读；遗存及价值综合说明，非营地同期档案",
+  "short_quote": "forced removal",
+  "translation": "强制迁离。",
+  "evidence_limit": "登记范围是New Denver具体遗址；不能代表所有营地宗教经验，也不能把所有被迁日裔都算佛教徒。",
+  "normalized_url": "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?i=82201&id=11841",
+  "source_id": "S-476c7528154d",
+  "canonical_url_id": "U-abc0fe9a980d",
+  "actual_reading_summary": "英语官方遗产登记实读；遗存及价值综合说明，非营地同期档案"
+}
+
+U-8c6c2d618b58｜https://encykorea.aks.ac.kr/Article/E0074912
+S-bcb5901ca40f｜불교정화운동（佛教净化运动）
+实际阅读摘要：韩文；实际读学者撰写百科条目正文，现代学术解释；未读总统谕示原件、宗宪或最高法院判决。
+用于R07-Q07
+{
+  "author_institution": "윤상현（尹相贤），韩国学中央研究院《韩国民族文化大百科事典》",
+  "title": "불교정화운동（佛教净化运动）",
+  "year": 2014,
+  "updated": "2023-02-07",
+  "url": "https://encykorea.aks.ac.kr/Article/E0074912",
+  "locator": "历史背景、经过、结果节；网页行129—143",
+  "actual_language": "韩文",
+  "reading_level": "实际读学者撰写百科条目正文，现代学术解释；未读总统谕示原件、宗宪或最高法院判决。",
+  "short_original": "종권과 사찰 경제권",
+  "translation": "宗团权力与寺院经济权",
+  "evidence": "条目将解放后改革与农地改革、坐禅僧生计相联；记1952年提出移交18寺、1953年再聚议，1954年5月20日总统谕示、1955年8月僧大会和1962年4月统合宗团。结果节记统合宗团初含双方代表，六个月后带妻僧一方退出，故1962不等于永久无争议统一。条目对殖民期强制结婚的概括本轮没有独立核实，不沿用作已证事实。",
+  "normalized_url": "https://encykorea.aks.ac.kr/Article/E0074912",
+  "source_id": "S-bcb5901ca40f",
+  "canonical_url_id": "U-8c6c2d618b58",
+  "actual_reading_summary": "韩文；实际读学者撰写百科条目正文，现代学术解释；未读总统谕示原件、宗宪或最高法院判决。"
+}
+
+U-7673084431b1｜https://www.thebuddhistsociety.org/page/history
+S-407c8491f8bc｜History
+实际阅读摘要：英文；实际读机构公开自述，是组织自我历史与身份的直接材料；并非1924原始会议记录，未独立核档案。
+用于R07-Q08
+{
+  "author_institution": "The Buddhist Society",
+  "title": "History",
+  "year": null,
+  "url": "https://www.thebuddhistsociety.org/page/history",
+  "locator": "正文第1—7段，网页行211—217",
+  "actual_language": "英文",
+  "reading_level": "实际读机构公开自述，是组织自我历史与身份的直接材料；并非1924原始会议记录，未独立核档案。",
+  "short_original": "A lay organisation",
+  "translation": "一个在家人组织",
+  "evidence": "自述1924年由Christmas Humphreys创立，承继1907—1926旧会工作，跨宗派在家组织；1956迁Eccleston Square，英语出版与1926起刊的Buddhism in England／The Middle Way构成活动节点。不能由创办人或英语出版推出全体会员都属皈依者。",
+  "normalized_url": "https://www.thebuddhistsociety.org/page/history",
+  "source_id": "S-407c8491f8bc",
+  "canonical_url_id": "U-7673084431b1",
+  "actual_reading_summary": "英文；实际读机构公开自述，是组织自我历史与身份的直接材料；并非1924原始会议记录，未独立核档案。"
+}
+
+U-b1d8cbfec80c｜https://www.londonbuddhistvihara.org/vihara-founder/
+S-5fa76313ccc1｜Our Founder
+实际阅读摘要：英文；实际读机构网页历史叙述；网页带1981旧文署记，但正文有1994事，故不把整页错误标1981；不是已核全部原信档案。
+用于R07-Q08
+{
+  "author_institution": "London Buddhist Vihara，网页载Andrew Scott署名旧文及后续材料",
+  "title": "Our Founder",
+  "year": null,
+  "url": "https://www.londonbuddhistvihara.org/vihara-founder/",
+  "locator": "历史叙述中Mary Foster及1926—1994迁址段，网页行39—43；另见Foster传段51—59",
+  "actual_language": "英文",
+  "reading_level": "实际读机构网页历史叙述；网页带1981旧文署记，但正文有1994事，故不把整页错误标1981；不是已核全部原信档案。",
+  "short_original": "with the help of many Sinhalese",
+  "translation": "得到许多僧伽罗人的帮助",
+  "evidence": "网页叙述Dharmapala希望驻锡僧向英国人传法，Mary Foster资助1926伦敦寺院，战时中断，1955在僧伽罗人帮助下重开，1964及1994迁址。此例把亚洲僧人、海外施主、本土听众和僧伽罗支持者联系起来；未给这些支持者的移民法律身份或人数。未沿用其亚洲以外第一寺院的未经比较断言。",
+  "normalized_url": "https://www.londonbuddhistvihara.org/vihara-founder/",
+  "source_id": "S-5fa76313ccc1",
+  "canonical_url_id": "U-b1d8cbfec80c",
+  "actual_reading_summary": "英文；实际读机构网页历史叙述；网页带1981旧文署记，但正文有1994事，故不把整页错误标1981；不是已核全部原信档案。"
+}
+
+U-b04539d658e1｜https://edspace.american.edu/silkroadjournal/wp-content/uploads/sites/984/2017/09/Buddhism-in-Mongolia-Today.pdf
+S-e28dd9679dbd｜Buddhism in Mongolia Today: Introduction
+实际阅读摘要：English；实读该单页英文导言全文；不是独立档案原件，亦未据此宣称读过其介绍的两篇后续论文
+用于R07-Q09
+{
+  "author": "Zsuzsa Majer and Krisztina Teleki",
+  "title": "Buddhism in Mongolia Today: Introduction",
+  "year": 2009,
+  "publication": "The Silk Road 7 (2009), p.51",
+  "url": "https://edspace.american.edu/silkroadjournal/wp-content/uploads/sites/984/2017/09/Buddhism-in-Mongolia-Today.pdf",
+  "language": "English",
+  "locator": "印刷页51，首段（1937—1938、1944、1990）；第二段（地方差异）；末段研究方法说明",
+  "pages": "51",
+  "reading_level": "实读该单页英文导言全文；不是独立档案原件，亦未据此宣称读过其介绍的两篇后续论文",
+  "short_original": "partly reopened in 1944",
+  "translation": "1944年部分重新开放。",
+  "supports": "甘丹寺的有限存续与后来重建可分时观察；作者据1999—2009田野经验指出老僧传承、地方资助及城乡差异。",
+  "limits": "现状判断属于2009年观察；不得作2026现状。全国毁寺数量未逐件核对，本轮不把概述数字当精确总数。",
+  "normalized_url": "https://edspace.american.edu/silkroadjournal/wp-content/uploads/sites/984/2017/09/Buddhism-in-Mongolia-Today.pdf",
+  "source_id": "S-e28dd9679dbd",
+  "canonical_url_id": "U-b04539d658e1",
+  "actual_reading_summary": "English；实读该单页英文导言全文；不是独立档案原件，亦未据此宣称读过其介绍的两篇后续论文"
+}
+
+U-63cc1dc4b49c｜https://www.globalbuddhism.org/article/download/1110/945/2154
+S-1a75fab18526｜Buddhism in Mongolia After 1990
+实际阅读摘要：English；实读PDF指定段落，未亲读其所据蒙古语档案或访谈原记录；2003时点学术分析
+用于R07-Q09
+{
+  "author": "Karénina Kollmar-Paulenz",
+  "title": "Buddhism in Mongolia After 1990",
+  "year": 2003,
+  "publication": "Journal of Global Buddhism 4 (2003), pp.18–34",
+  "url": "https://www.globalbuddhism.org/article/download/1110/945/2154",
+  "language": "English",
+  "locator": "印刷页19：甘丹寺与教育限制；页20 The Revival of Buddhism：隐秘实践、1990后重建、1998甘丹寺状况；页22—23：僧团规范争议与资金来源",
+  "pages": "19–20, 22–23",
+  "reading_level": "实读PDF指定段落，未亲读其所据蒙古语档案或访谈原记录；2003时点学术分析",
+  "short_original": "Religion never ceased to exist in Mongolia",
+  "translation": "宗教在蒙古从未完全停止存在。",
+  "supports": "反对把公开机构受压制等同宗教实践完全消失；1990后甘丹寺恢复教育与仪礼，但僧团模式与资源问题仍需分开。",
+  "limits": "作者对于国家操控等描述含评价性措辞；本轮不把这些用语当档案原文。其全国性数量和早期传播概括未经本轮独立复核。",
+  "normalized_url": "https://www.globalbuddhism.org/article/download/1110/945/2154",
+  "source_id": "S-1a75fab18526",
+  "canonical_url_id": "U-63cc1dc4b49c",
+  "actual_reading_summary": "English；实读PDF指定段落，未亲读其所据蒙古语档案或访谈原记录；2003时点学术分析"
+}
+
+U-3ba2b1e4fd33｜https://www.city.nakatsugawa.lg.jp/museum/t/archives/materials/1631.html
+S-87bc638703f1｜資料紹介7 苗木藩と廃仏毀釈
+实际阅读摘要：ja，实读日文馆方解说全文；地方史料馆现代解说；原展品仅网页图和说明，未逐件释读
+用于R07-Q10
+{
+  "author": "中津川市苗木远山史料馆（机构作者）",
+  "title": "資料紹介7 苗木藩と廃仏毀釈",
+  "year": 2002,
+  "web_published": "2012-02-26",
+  "web_revision_dates": [
+    "2017-06-02",
+    "2021-06-06"
+  ],
+  "url": "https://www.city.nakatsugawa.lg.jp/museum/t/archives/materials/1631.html",
+  "locator": "「展示室紹介」全文；原载《恵那山》2002年1月号，纸本页码未示",
+  "language_read": "ja，实读日文馆方解说全文",
+  "source_level": "地方史料馆现代解说；原展品仅网页图和说明，未逐件释读",
+  "original_short": "領外に持ち出された仏像",
+  "translation_zh": "被带出藩境的佛像。",
+  "supports": "记1870年苗木藩毁弃寺院和佛具、牌位，并介绍损毁石像、据称曾隐藏佛像的穴观音及被转出藩境的佛像佛具，说明毁损与物件存续路径并存。",
+  "caution": "该条把青山直道作为中心执行者，并说多数藩民改宗；这两点须与后出75号及个人实践材料区分，不把行政改宗等同内心信仰。",
+  "normalized_url": "https://www.city.nakatsugawa.lg.jp/museum/t/archives/materials/1631.html",
+  "source_id": "S-87bc638703f1",
+  "canonical_url_id": "U-3ba2b1e4fd33",
+  "actual_reading_summary": "ja，实读日文馆方解说全文；地方史料馆现代解说；原展品仅网页图和说明，未逐件释读"
+}
+
+U-09cd67f354d4｜https://www.city.nakatsugawa.lg.jp/museum/t/archives/materials/4809.html
+S-e3faa8ec1e97｜資料紹介75 排仏廃寺の強行に、青山は不在！
+实际阅读摘要：ja，实读日文机构解释及所节引日记、书信；现代机构解释附一手材料节引；未独立读取完整《政庁日誌》《次官日記》或平田书信原件
+用于R07-Q10
+{
+  "author": "千早（网页署名；中津川市苗木远山史料馆）",
+  "title": "資料紹介75 排仏廃寺の強行に、青山は不在！",
+  "year": 2010,
+  "web_published": "2012-04-20",
+  "web_revision_dates": [
+    "2017-06-02",
+    "2021-06-06"
+  ],
+  "url": "https://www.city.nakatsugawa.lg.jp/museum/t/archives/materials/4809.html",
+  "locator": "「展示品紹介」政庁日誌相关条目及结尾7—9月政策摘要；原载《恵那山》2010年7月号，纸本页码未示",
+  "language_read": "ja，实读日文机构解释及所节引日记、书信",
+  "source_level": "现代机构解释附一手材料节引；未独立读取完整《政庁日誌》《次官日記》或平田书信原件",
+  "original_short": "その現場に青山直道はいなかった",
+  "translation_zh": "青山直道当时并不在那个现场。",
+  "supports": "据日誌记青山5月17出发往东京、10月8返藩，并引1870年6月24日平田延胤书信；作者将7月神葬祭、8月废佛具埋石像、9月废寺还俗与其离藩对照，质疑把全部责任归于青山本人。",
+  "caution": "不在现场不等于不参与决策；文章写其可能出席集议院是解释。本轮仅采用其对单人现场执行叙事的质疑，不据此免除责任。",
+  "normalized_url": "https://www.city.nakatsugawa.lg.jp/museum/t/archives/materials/4809.html",
+  "source_id": "S-e3faa8ec1e97",
+  "canonical_url_id": "U-09cd67f354d4",
+  "actual_reading_summary": "ja，实读日文机构解释及所节引日记、书信；现代机构解释附一手材料节引；未独立读取完整《政庁日誌》《次官日記》或平田书信原件"
+}
+
+U-38d28df03ddb｜https://tzuchi.us/zh/our-philosophy/bamboo-bank
+S-dbc50a48e20b｜竹筒岁月
+实际阅读摘要：中文繁体；实际读网页正文；未核1966账簿、会员册、医院或访视档案
+用于R08-Q01
+{
+  "institution": "慈济美国中文网",
+  "author": "机构理念/起源叙事",
+  "title": "竹筒岁月",
+  "date": null,
+  "url": "https://tzuchi.us/zh/our-philosophy/bamboo-bank",
+  "locator": "“一分一毫累积慈济世界”第1—2段；“慈济功德会”的发源段",
+  "read_language": "中文繁体",
+  "read_level": "实际读网页正文；未核1966账簿、会员册、医院或访视档案",
+  "short_quote": "每人每天增產一雙嬰兒鞋",
+  "translation": "每个人每天多制作一双婴儿鞋",
+  "evidence": "自述六位常住增产婴儿鞋、三十位在家信徒每日存五毛、市场传播与初期送饭清洁照顾；机构称1966-05-14成立。不是本轮独立会计核验。",
+  "normalized_url": "https://tzuchi.us/zh/our-philosophy/bamboo-bank",
+  "source_id": "S-dbc50a48e20b",
+  "canonical_url_id": "U-38d28df03ddb",
+  "actual_reading_summary": "中文繁体；实际读网页正文；未核1966账簿、会员册、医院或访视档案"
+}
+
+U-dfb1136848f7｜https://zh.wikisource.org/wiki/臨終三大要
+S-4f91199ecdc1｜临终三大要
+实际阅读摘要：近代汉文；实际读所列正文；未读纸本影印或版本源流；规范性宗教文字，不是现场记录
+用于R08-Q02
+{
+  "institution": "维基文库原文转录",
+  "author": "释印光",
+  "title": "临终三大要",
+  "date": "中华民国时期；具体写作/初刊年本轮未核",
+  "url": "https://zh.wikisource.org/wiki/臨終三大要",
+  "locator": "导言及第二“大家换班念佛，以助净念”、第三“切戒搬动哭泣，以防误事”",
+  "read_language": "近代汉文",
+  "read_level": "实际读所列正文；未读纸本影印或版本源流；规范性宗教文字，不是现场记录",
+  "short_quote": "大家換班念佛",
+  "translation": "众人轮班念佛",
+  "evidence": "规定三班轮换、饮食与接续、亲属及善友角色，并重新解释孝与哭泣；可研究家庭仪式劳动与改革诉求。",
+  "normalized_url": "https://zh.wikisource.org/wiki/臨終三大要",
+  "source_id": "S-4f91199ecdc1",
+  "canonical_url_id": "U-dfb1136848f7",
+  "actual_reading_summary": "近代汉文；实际读所列正文；未读纸本影印或版本源流；规范性宗教文字，不是现场记录"
+}
+
+U-c91b5e041a80｜https://schina-publication.hkust.edu.hk/sites/default/files/pubs/Jour-02.1.A05.pdf
+S-32f9d61895a5｜一个历史学者对中国人丧葬仪式的研究方法
+实际阅读摘要：中文译文；实际读上述全文页段；未通读全篇或核作者所引田野原著；不将其冒充佛教专项田野
+用于R08-Q02
+{
+  "institution": "香港科技大学华南研究资料托管《历史人类学学刊》",
+  "author": "罗友枝 Evelyn S. Rawski；本刊授权中译",
+  "title": "一个历史学者对中国人丧葬仪式的研究方法",
+  "date": "中文2004-04，卷2期1，135—150；原英文章1988",
+  "url": "https://schina-publication.hkust.edu.hk/sites/default/files/pubs/Jour-02.1.A05.pdf",
+  "locator": "135编者按；142—144信仰与动作/孝道、家庭秩序讨论（PDF物理页1、8—10）",
+  "read_language": "中文译文",
+  "read_level": "实际读上述全文页段；未通读全篇或核作者所引田野原著；不将其冒充佛教专项田野",
+  "short_quote": "透過動作來教導信仰",
+  "translation": "通过仪式行动教导信仰",
+  "evidence": "与Watson重动作的解释对话，强调信仰、孝道与仪式相互影响；该讨论涵盖中国丧葬，不能据此把地方礼俗全部归佛教。",
+  "normalized_url": "https://schina-publication.hkust.edu.hk/sites/default/files/pubs/Jour-02.1.A05.pdf",
+  "source_id": "S-32f9d61895a5",
+  "canonical_url_id": "U-c91b5e041a80",
+  "actual_reading_summary": "中文译文；实际读上述全文页段；未通读全篇或核作者所引田野原著；不将其冒充佛教专项田野"
+}
+
+U-fbce3cfce9f4｜https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/validity.pdf
+S-327819b55af2｜The Validity of bhikkhunī Ordination by bhikkhus Only, According to the Pāli Vinaya
+实际阅读摘要：English；大学托管学术论文相关正文直接读；文内巴利论证通过作者释读，未独立核巴利律原版
+用于R08-Q03
+{
+  "author": "Bhikkhu Anālayo",
+  "title": "The Validity of bhikkhunī Ordination by bhikkhus Only, According to the Pāli Vinaya",
+  "year": 2017,
+  "url": "https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/validity.pdf",
+  "actual_location": "JOCBS12印刷页9–10、20–23；PDF页1–2、12–15；结论及脚注22",
+  "read_language": "English",
+  "read_level": "大学托管学术论文相关正文直接读；文内巴利论证通过作者释读，未独立核巴利律原版",
+  "quote": "a legally valid option",
+  "translation": "一种在律学上有效的选择。",
+  "evidence": "作者认为无比丘尼僧团时比丘单授仍可行；并讨论法藏部与南传程序、界场及语言差异，以及Ṭhānissaro的相反解释。",
+  "normalized_url": "https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/validity.pdf",
+  "source_id": "S-327819b55af2",
+  "canonical_url_id": "U-fbce3cfce9f4",
+  "actual_reading_summary": "English；大学托管学术论文相关正文直接读；文内巴利论证通过作者释读，未独立核巴利律原版"
+}
+
+U-80510411f141｜https://sujato.wordpress.com/2009/11/07/ajahn-brahm-on-why-he-was-excommunicated/
+S-0786c78d54d2｜Ajahn Brahm on why he was excommunicated
+实际阅读摘要：English；参与者公开声明直接读；未核Wat Pah Pong会议原始记录
+用于R08-Q03
+{
+  "author": "Ajahn Brahm；Bhikkhu Sujato转载",
+  "title": "Ajahn Brahm on why he was excommunicated",
+  "year": 2009,
+  "url": "https://sujato.wordpress.com/2009/11/07/ajahn-brahm-on-why-he-was-excommunicated/",
+  "actual_location": "2009年11月7日正文开头至署名；不采评论区作共识",
+  "read_language": "English",
+  "read_level": "参与者公开声明直接读；未核Wat Pah Pong会议原始记录",
+  "quote": "a double sanghakamma",
+  "translation": "由两部分僧团羯磨组成。",
+  "evidence": "自述10月22日Perth授戒、11月1日会议及Bodhinyana被移出分院名单，解释比丘尼先行、比丘随后确认。",
+  "normalized_url": "https://sujato.wordpress.com/2009/11/07/ajahn-brahm-on-why-he-was-excommunicated/",
+  "source_id": "S-0786c78d54d2",
+  "canonical_url_id": "U-80510411f141",
+  "actual_reading_summary": "English；参与者公开声明直接读；未核Wat Pah Pong会议原始记录"
+}
+
+U-658cc970cefe｜https://www.refworld.org/reference/countryrep/icg/2017/118209
+S-f68b1072b01b｜Buddhism and State Power in Myanmar
+实际阅读摘要：English；Refworld托管报告PDF摘要正文实际阅读；未读缅文版或独立复核访谈
+用于R08-Q04
+{
+  "author": "International Crisis Group",
+  "title": "Buddhism and State Power in Myanmar",
+  "year": 2017,
+  "url": "https://www.refworld.org/reference/countryrep/icg/2017/118209",
+  "fulltext_url": "https://www.refworld.org/sites/default/files/legacy-pdf/en/2017-9/59ae8e1f4.pdf",
+  "actual_location": "Asia Report290，5 September2017，Executive Summary印刷页i–ii",
+  "read_language": "English",
+  "read_level": "Refworld托管报告PDF摘要正文实际阅读；未读缅文版或独立复核访谈",
+  "quote": "incite or condone violence",
+  "translation": "煽动或纵容暴力。",
+  "evidence": "分析2011后MaBaTha及反穆斯林动员，亦解释学校、救灾、法律援助等社会工作如何吸引不赞同仇恨言论者。",
+  "normalized_url": "https://www.refworld.org/reference/countryrep/icg/2017/118209",
+  "source_id": "S-f68b1072b01b",
+  "canonical_url_id": "U-658cc970cefe",
+  "actual_reading_summary": "English；Refworld托管报告PDF摘要正文实际阅读；未读缅文版或独立复核访谈"
+}
+
+U-82c20d7125aa｜https://www.umassmed.edu/news/articles/archives/2014/12/anderson-cooper-turns-to-umms-for-60-minutes-report-on-mindfulness/
+S-230f825a0c5d｜Anderson Cooper turns to UMMS for 60 Minutes report on mindfulness
+实际阅读摘要：英语大学机构新闻实读；机构自述及报道信息，不作为疗效证据；英语大学机构新闻实读；机构自述及报道信息，不作为疗效证据
+用于R08-Q05
+{
+  "author": "Sandra Gray",
+  "title": "Anderson Cooper turns to UMMS for 60 Minutes report on mindfulness",
+  "year": 2014,
+  "URL": "https://www.umassmed.edu/news/articles/archives/2014/12/anderson-cooper-turns-to-umms-for-60-minutes-report-on-mindfulness/",
+  "locator": "2014-12-15，正文首段与末段CBS报道链接；无纸本页码",
+  "read_language_level": "英语大学机构新闻实读；机构自述及报道信息，不作为疗效证据",
+  "short_quote": "established the Stress Reduction Clinic",
+  "translation": "建立减压门诊。",
+  "evidence_limit": "只用于1979机构史与2014媒体传播，不引用文中疗效宣传。",
+  "normalized_url": "https://www.umassmed.edu/news/articles/archives/2014/12/anderson-cooper-turns-to-umms-for-60-minutes-report-on-mindfulness/",
+  "source_id": "S-230f825a0c5d",
+  "canonical_url_id": "U-82c20d7125aa",
+  "actual_reading_summary": "英语大学机构新闻实读；机构自述及报道信息，不作为疗效证据"
+}
+
+U-5f9842c0b625｜https://link.springer.com/content/pdf/10.1007/978-3-319-45264-7_9.pdf
+S-ea71e0ce346e｜From Therapeutic Relaxation to Mindfulness in the Twentieth Century
+实际阅读摘要：英语现代历史研究实读；关于寺院传统至医疗的转用与世俗放松课程的解释；英语现代历史研究实读；关于寺院传统至医疗的转用与世俗放松课程的解释
+用于R08-Q05
+{
+  "author": "Ayesha Nathoo",
+  "title": "From Therapeutic Relaxation to Mindfulness in the Twentieth Century",
+  "year": 2016,
+  "URL": "https://link.springer.com/content/pdf/10.1007/978-3-319-45264-7_9.pdf",
+  "locator": "《The Restless Compendium》第9章，印刷页71–72、76–77；已读相应正文，非仅读摘要",
+  "read_language_level": "英语现代历史研究实读；关于寺院传统至医疗的转用与世俗放松课程的解释",
+  "short_quote": "weekly sessions guided by an “expert” teacher",
+  "translation": "由专业教师指导的每周课程。",
+  "evidence_limit": "作者提出结构与文化关联，不等于每个正念项目都有同一直接传承或用途。",
+  "normalized_url": "https://link.springer.com/content/pdf/10.1007/978-3-319-45264-7_9.pdf",
+  "source_id": "S-ea71e0ce346e",
+  "canonical_url_id": "U-5f9842c0b625",
+  "actual_reading_summary": "英语现代历史研究实读；关于寺院传统至医疗的转用与世俗放松课程的解释"
+}
+
+U-ff3ebbf77981｜https://accesstoinsight.org/tipitaka/vin/sv/bhikkhu-pati.html
+S-99cab2d07f6f｜Bhikkhu Pāṭimokkha: The Bhikkhus' Code of Discipline
+实际阅读摘要：英文译文；实际读巴利比丘戒本的现代英译所列规则；未直接校巴利、律分别解释及其他部派律。
+用于R08-Q07
+{
+  "author_institution": "Ṭhānissaro Bhikkhu英译；Access to Insight",
+  "title": "Bhikkhu Pāṭimokkha: The Bhikkhus' Code of Discipline",
+  "year": null,
+  "dating_note": "页面仅见译文©2007，未据此充当发表年；古代律文形成时间另核。",
+  "url": "https://accesstoinsight.org/tipitaka/vin/sv/bhikkhu-pati.html",
+  "locator": "Nissaggiya Pācittiya第10、18—20条；Pācittiya第10条；网页行120—127、139—143、177",
+  "actual_language": "英文译文",
+  "reading_level": "实际读巴利比丘戒本的现代英译所列规则；未直接校巴利、律分别解释及其他部派律。",
+  "short_original": "either a monastery attendant or a lay follower",
+  "translation": "寺院侍者或在家信众均可",
+  "evidence": "舍堕10条规定王、官或居士为僧人送衣资时，比丘不收衣资，可指出寺院侍者或在家信众为经手者，求衣提醒有次数上限，未获衣应通知施主避免资财损失。18—20条分别规范金银受纳、货币交换与贸易；波逸提10条涉及自己掘土或使人掘土。",
+  "normalized_url": "https://accesstoinsight.org/tipitaka/vin/sv/bhikkhu-pati.html",
+  "source_id": "S-99cab2d07f6f",
+  "canonical_url_id": "U-ff3ebbf77981",
+  "actual_reading_summary": "英文译文；实际读巴利比丘戒本的现代英译所列规则；未直接校巴利、律分别解释及其他部派律。"
+}
+
+U-e949c012eade｜https://www.pewresearch.org/religion/2024/06/17/religion-and-spirituality-in-east-asian-societies/
+S-2a781261c3e8｜Religion and Spirituality in East Asian Societies
+实际阅读摘要：英文；实际读调查机构原始报告正文；未下载微观数据或重新计算。
+用于R08-Q08
+{
+  "author_institution": "Jonathan Evans、Alan Cooperman、Kelsey Jo Starr、Manolo Corichi、William Miner、Kirsten Lesage；Pew Research Center",
+  "title": "Religion and Spirituality in East Asian Societies",
+  "year": 2024,
+  "date": "2024-06-17",
+  "url": "https://www.pewresearch.org/religion/2024/06/17/religion-and-spirituality-in-east-asian-societies/",
+  "locator": "How we did this；How former Buddhists…；Other key findings；网页行122—129、228—240",
+  "actual_language": "英文",
+  "reading_level": "实际读调查机构原始报告正文；未下载微观数据或重新计算。",
+  "short_original": "personal connection",
+  "translation": "个人亲近感",
+  "evidence": "台湾从小至今认同佛教者91%、成长为佛教徒现无宗教者61%、从小至今无宗教者45%称通常到寺庙或佛塔。韩国基督徒34%称亲近佛教生活方式；亲近感不等于另有佛教正式身份，问答可与主身份并存。",
+  "normalized_url": "https://www.pewresearch.org/religion/2024/06/17/religion-and-spirituality-in-east-asian-societies/",
+  "source_id": "S-2a781261c3e8",
+  "canonical_url_id": "U-e949c012eade",
+  "actual_reading_summary": "英文；实际读调查机构原始报告正文；未下载微观数据或重新计算。"
+}
+
+U-ea76e38f235d｜https://www.pewresearch.org/religion/2024/06/17/religion-in-east-asia-methodology/
+S-a05b326e61c6｜Methodology（Religion and Spirituality in East Asian Societies）
+实际阅读摘要：英文；实际读原始调查方法说明；未读取全部各语问卷或重做抽样权重。
+用于R08-Q08
+{
+  "author_institution": "同上；Pew Research Center",
+  "title": "Methodology（Religion and Spirituality in East Asian Societies）",
+  "year": 2024,
+  "date": "2024-06-17",
+  "url": "https://www.pewresearch.org/religion/2024/06/17/religion-in-east-asia-methodology/",
+  "locator": "正文前11段，网页行120—130",
+  "actual_language": "英文",
+  "reading_level": "实际读原始调查方法说明；未读取全部各语问卷或重做抽样权重。",
+  "short_original": null,
+  "translation": null,
+  "evidence": "2023-06-02至09-17访问五地18岁及以上成人10390人；港日台固定与手机RDD，韩国手机RDD，越南多阶段住户面对面抽样。按选择概率及年龄性别教育地域等加权；越南估11%人口因安全、语言、偏远或官方限制无法覆盖。",
+  "normalized_url": "https://www.pewresearch.org/religion/2024/06/17/religion-in-east-asia-methodology/",
+  "source_id": "S-a05b326e61c6",
+  "canonical_url_id": "U-ea76e38f235d",
+  "actual_reading_summary": "英文；实际读原始调查方法说明；未读取全部各语问卷或重做抽样权重。"
+}
+
+U-28b9588f2ef8｜https://whc.unesco.org/en/list/208/
+S-6a48ffbf9b51｜Cultural Landscape and Archaeological Remains of the Bamiyan Valley
+实际阅读摘要：English；实读英文Description、Outstanding Universal Value的Brief synthesis、Integrity、Authenticity、Protection and management requirements；未读发掘日志或检测报告
+用于R08-Q09
+{
+  "author": "UNESCO World Heritage Centre",
+  "title": "Cultural Landscape and Archaeological Remains of the Bamiyan Valley",
+  "year": null,
+  "url": "https://whc.unesco.org/en/list/208/",
+  "language": "English",
+  "reading_level": "实读英文Description、Outstanding Universal Value的Brief synthesis、Integrity、Authenticity、Protection and management requirements；未读发掘日志或检测报告",
+  "locator": "遗产编号208；Brief synthesis第1—5段（web lines44—48）；Integrity与Authenticity（lines58—62）；保护段（lines63—70）",
+  "pages": null,
+  "object_or_site_id": "World Heritage property 208，八组成点系列遗产",
+  "short_original": "eight separate sites",
+  "translation": "八处各别遗址。",
+  "supports": "将卡克拉克6—13世纪洞窟、祖哈克早期遗存及10—13世纪伊斯兰时期叠加分层；2001破坏两巨像并非全部遗存消失。",
+  "limits": "网页正文未署发表年，部分管理语句涉及2011年的计划；不将其全部作2026现场状态，也不从洞窟总述年代推出两尊巨像的精确造年。",
+  "normalized_url": "https://whc.unesco.org/en/list/208/",
+  "source_id": "S-6a48ffbf9b51",
+  "canonical_url_id": "U-28b9588f2ef8",
+  "actual_reading_summary": "English；实读英文Description、Outstanding Universal Value的Brief synthesis、Integrity、Authenticity、Protection and management requirements；未读发掘日志或检测报告"
+}
+
+U-bb9431e0c510｜https://whc.unesco.org/en/news/2253/
+S-ac127b31a5a9｜Commemorating 20 years since the destruction of two Buddhas of Bamiyan, Afghanistan
+实际阅读摘要：English；实读署名纪念文章主体；属于2021官方保护工作陈述与价值解释，非考古原报告或当地居民意见调查
+用于R08-Q09
+{
+  "author": "Ernesto Ottone R., UNESCO Assistant Director-General for Culture",
+  "title": "Commemorating 20 years since the destruction of two Buddhas of Bamiyan, Afghanistan",
+  "year": 2021,
+  "published_on": "2021-03-11",
+  "url": "https://whc.unesco.org/en/news/2253/",
+  "language": "English",
+  "reading_level": "实读署名纪念文章主体；属于2021官方保护工作陈述与价值解释，非考古原报告或当地居民意见调查",
+  "locator": "正文第1—3段（web lines41—44）；2003列入及保护工程段（lines46—51）；结尾署名（lines56—59）",
+  "pages": null,
+  "short_original": "perpetual reminder",
+  "translation": "长久的警示。",
+  "supports": "把空龛作为保护责任与损失记忆的象征；2021文章分别报告东龛加固已完成、西龛仍有紧急工作，并将可能重建列为仍需研究的问题。",
+  "limits": "2021报告与纪念性语言不证明2026工程状态，也不代表地方社群对重建已一致同意。",
+  "normalized_url": "https://whc.unesco.org/en/news/2253/",
+  "source_id": "S-ac127b31a5a9",
+  "canonical_url_id": "U-bb9431e0c510",
+  "actual_reading_summary": "English；实读署名纪念文章主体；属于2021官方保护工作陈述与价值解释，非考古原报告或当地居民意见调查"
+}
+
+U-971325f3ec1a｜https://zenken.agu.ac.jp/zen/meeting/h11_01.html
+S-b87a33a8776f｜曹洞禅に生きる―宗祖の教えと現代の尼僧生活―
+实际阅读摘要：ja，实读大学所载日文研究会报告正文全文；不是英文专著全文；网页研究会报告；未读对应博士论文、英文专著、宗制修订原案或会议记录；研究者田野回忆与学术解释的机构报告，网页未另示日文记录/翻译者，不能断言为逐字讲稿
+用于R08-Q10
+{
+  "author": "荒井ポーラ（Paula Arai；大学网页列讲者）",
+  "title": "曹洞禅に生きる―宗祖の教えと現代の尼僧生活―",
+  "year": 1999,
+  "url": "https://zenken.agu.ac.jp/zen/meeting/h11_01.html",
+  "publication": "爱知学院大学禅研究所「研究会レポート 平成11年度」",
+  "locator": "报告正文第3段（1989年田野调查）、第4段（小岛贤道）、第5–6段（1989规则及传统/革新）；无纸本页码",
+  "language_read": "ja，实读大学所载日文研究会报告正文全文；不是英文专著全文",
+  "read_scope": "网页研究会报告；未读对应博士论文、英文专著、宗制修订原案或会议记录",
+  "source_level": "研究者田野回忆与学术解释的机构报告，网页未另示日文记录/翻译者，不能断言为逐字讲稿",
+  "original_short": "規則の上では",
+  "translation_zh": "在规则层面上。",
+  "supports": "Arai记1989年在爱知尼僧堂生活四个月、另在附近调查九个月，叙小岛贤道争取规则平等，认为1989年宗规修订后尼僧在规则上与男僧平等；同时对删去姓名后尼字能否消除歧视持批判，解释尼众为维护出家传统而推动制度革新。",
+  "caution": "1989年修订事实本轮依据Arai报告，具体条文未查；不得扩大为从此不存在性别不平等。",
+  "normalized_url": "https://zenken.agu.ac.jp/zen/meeting/h11_01.html",
+  "source_id": "S-b87a33a8776f",
+  "canonical_url_id": "U-971325f3ec1a",
+  "actual_reading_summary": "ja，实读大学所载日文研究会报告正文全文；不是英文专著全文；网页研究会报告；未读对应博士论文、英文专著、宗制修订原案或会议记录；研究者田野回忆与学术解释的机构报告，网页未另示日文记录/翻译者，不能断言为逐字讲稿"
+}
+
+U-ea7a419a57af｜https://www.sotozen-net.or.jp/organization/sodo-list
+S-8d876f0ec87a｜僧堂｜曹洞宗 SOTOZEN-NET 组织概要
+实际阅读摘要：ja，实读日文官方组织目录；僧堂概要与相关机构条目；当代宗派官方现况目录，非历史规则修订原档案
+用于R08-Q10
+{
+  "author": "曹洞宗宗务厅（机构作者）",
+  "title": "僧堂｜曹洞宗 SOTOZEN-NET 组织概要",
+  "year": null,
+  "accessed": "2026-10-18",
+  "url": "https://www.sotozen-net.or.jp/organization/sodo-list",
+  "locator": "「僧堂」概要首段及「愛知専門尼僧堂（正法寺内）」目录条目；无纸本页码",
+  "language_read": "ja，实读日文官方组织目录",
+  "read_scope": "僧堂概要与相关机构条目",
+  "source_level": "当代宗派官方现况目录，非历史规则修订原档案",
+  "original_short": "愛知専門尼僧堂",
+  "translation_zh": "爱知专门尼僧堂。",
+  "supports": "曹洞宗官方将专门僧堂、专门尼僧堂列为修行实践机构，列出名古屋正法寺内爱知专门尼僧堂，提供具体机构载体。",
+  "caution": "当前目录不能证明某个历史时期机构数量、课程或1989宗规内容；不把检索时间作发表年。",
+  "normalized_url": "https://www.sotozen-net.or.jp/organization/sodo-list",
+  "source_id": "S-8d876f0ec87a",
+  "canonical_url_id": "U-ea7a419a57af",
+  "actual_reading_summary": "ja，实读日文官方组织目录；僧堂概要与相关机构条目；当代宗派官方现况目录，非历史规则修订原档案"
+}
+
+U-0899f9a272ed｜https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra19/T45n1881.pdf
+S-476106bfe575｜《华严经金师子章注》T1881
+实际阅读摘要：汉文原典与注释；实际读相关电子PDF正文；底本含注，分别标章文与解释；未作异本校勘
+用于R09-Q01
+{
+  "author": "法藏述；承迁注（按卷首题署）",
+  "institution": "台湾大学佛学数字图书馆托管CBETA电子PDF",
+  "title": "《华严经金师子章注》T1881",
+  "date": "法藏唐代；注本具体年代本轮未核",
+  "url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra19/T45n1881.pdf",
+  "locator": "卷一，电子PDF页脚5—6（物理页5—6）题署与“第一明缘起”“第二辨色空”；页码为电子编排，非大正藏页栏",
+  "read_language": "汉文原典与注释",
+  "read_level": "实际读相关电子PDF正文；底本含注，分别标章文与解释；未作异本校勘",
+  "short_quote": "金無自性",
+  "translation": "金没有自性",
+  "evidence": "金与狮子形相的缘起譬喻；注释将色空联系悲智与不滞涅槃。不得将整页承迁注全部称法藏原话。",
+  "normalized_url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra19/T45n1881.pdf",
+  "source_id": "S-476106bfe575",
+  "canonical_url_id": "U-0899f9a272ed",
+  "actual_reading_summary": "汉文原典与注释；实际读相关电子PDF正文；底本含注，分别标章文与解释；未作异本校勘"
+}
+
+U-646362e41773｜https://plato.stanford.edu/entries/buddhism-huayan/
+S-cfd40a4c0efa｜Huayan Buddhism
+实际阅读摘要：英语；实际读相关节正文及作者页；未核所引唐代传记或碑铭
+用于R09-Q01
+{
+  "author": "Bryan Van Norden、Nicholaos Jones",
+  "institution": "Stanford Encyclopedia of Philosophy",
+  "title": "Huayan Buddhism",
+  "date": "2019初刊；2024-09-17修订",
+  "url": "https://plato.stanford.edu/entries/buddhism-huayan/",
+  "locator": "§1.3金狮子与缘起解释；§2杜顺生平及身后祖师地位；作者信息页",
+  "read_language": "英语",
+  "read_level": "实际读相关节正文及作者页；未核所引唐代传记或碑铭",
+  "short_quote": "posthumous honor",
+  "translation": "身后追尊",
+  "evidence": "将杜顺第一祖地位写为身后尊号，并叙其与至相寺的关系；哲学譬喻解释不等于制度归属证据。",
+  "normalized_url": "https://plato.stanford.edu/entries/buddhism-huayan/",
+  "source_id": "S-cfd40a4c0efa",
+  "canonical_url_id": "U-646362e41773",
+  "actual_reading_summary": "英语；实际读相关节正文及作者页；未核所引唐代传记或碑铭"
+}
+
+U-1a256ac287d0｜https://zh.wikisource.org/wiki/出三藏記集/卷二
+S-d51f172060a2｜《出三藏记集》卷二，新集撰出经律论录第一
+实际阅读摘要：汉译文言；实际读条目与总记；未核藏经影印、现存各经身份
+用于R09-Q02
+{
+  "author": "僧祐编；保留所引道安意见",
+  "institution": "维基文库原典转录",
+  "title": "《出三藏记集》卷二，新集撰出经律论录第一",
+  "date": "梁代汇编；所述汉代译事及道安意见是更早层",
+  "url": "https://zh.wikisource.org/wiki/出三藏記集/卷二",
+  "locator": "《安般守意经》至安世高三十四部四十卷总记；《普法义经》《阿含中解》条及其安公注",
+  "read_language": "汉译文言",
+  "read_level": "实际读条目与总记；未核藏经影印、现存各经身份",
+  "short_quote": "凡有四名，同一本",
+  "translation": "共有四个名称，实为同一本",
+  "evidence": "记录安录异题、同本多名、今阙与似世高撰等不确定意见，不能只取译者字段。",
+  "normalized_url": "https://zh.wikisource.org/wiki/出三藏記集/卷二",
+  "source_id": "S-d51f172060a2",
+  "canonical_url_id": "U-1a256ac287d0",
+  "actual_reading_summary": "汉译文言；实际读条目与总记；未核藏经影印、现存各经身份"
+}
+
+U-365dc8d17cb3｜https://zh.wikisource.org/wiki/出三藏記集/卷四
+S-da80cec11d0a｜《出三藏记集》卷四，新集续撰失译杂经录第一
+实际阅读摘要：汉译文言；实际读卷首方法段和开头条目；未读全卷或校勘现存T156同一性
+用于R09-Q02
+{
+  "author": "僧祐",
+  "institution": "维基文库原典转录",
+  "title": "《出三藏记集》卷四，新集续撰失译杂经录第一",
+  "date": "梁代汇编；具体编定年本轮未核",
+  "url": "https://zh.wikisource.org/wiki/出三藏記集/卷四",
+  "locator": "卷首“佑总集众经”著录原则段；《大方便报恩经》七卷等开头条目",
+  "read_language": "汉译文言",
+  "read_level": "实际读卷首方法段和开头条目；未读全卷或校勘现存T156同一性",
+  "short_quote": "或一本數名；或一名數本",
+  "translation": "有的一本有几个名称，有的一个名称对应几本",
+  "evidence": "讨论全典与抄略、失译缘由，并请求补缺；本轮不重复盂兰经例，采用卷首与大方便报恩经条。",
+  "normalized_url": "https://zh.wikisource.org/wiki/出三藏記集/卷四",
+  "source_id": "S-da80cec11d0a",
+  "canonical_url_id": "U-365dc8d17cb3",
+  "actual_reading_summary": "汉译文言；实际读卷首方法段和开头条目；未读全卷或校勘现存T156同一性"
+}
+
+U-f9343c187d5c｜https://www.dhammathai.org/thailand-eng/contemporary.php
+S-ee39e2316d30｜Buddhism in Contemporary Thailand
+实际阅读摘要：English；公开会议发言直接读；属僧团领导者制度说明，非独立实施调查
+用于R09-Q03
+{
+  "author": "Phra Thepsophon（网页末署大学校长及会议发言身份）",
+  "title": "Buddhism in Contemporary Thailand",
+  "year": 2003,
+  "url": "https://www.dhammathai.org/thailand-eng/contemporary.php",
+  "actual_location": "Sangha Organization节，1833起源、1902/1941/1962法律及中央组织段；发言日期2003年1月15日",
+  "read_language": "English",
+  "read_level": "公开会议发言直接读；属僧团领导者制度说明，非独立实施调查",
+  "quote": "a more strict observance of the Vinaya",
+  "translation": "更严格地遵守律。",
+  "evidence": "将法宗起点置于1833年Mongkut改革，并分列后来国家僧团法律。",
+  "normalized_url": "https://www.dhammathai.org/thailand-eng/contemporary.php",
+  "source_id": "S-ee39e2316d30",
+  "canonical_url_id": "U-f9343c187d5c",
+  "actual_reading_summary": "English；公开会议发言直接读；属僧团领导者制度说明，非独立实施调查"
+}
+
+U-8e5aa80d6c95｜https://www.dhammatalks.org/Archive/Writings/CrossIndexed/Uncollected/MiscEssays/TheTraditionsOfTheNobleOnes.pdf
+S-284245b788de｜The Traditions of the Noble Ones
+实际阅读摘要：English；具立场的研究批评论文直接读；通信经Taylor转引，未读泰文原信
+用于R09-Q03
+{
+  "author": "Ṭhānissaro Bhikkhu",
+  "title": "The Traditions of the Noble Ones",
+  "year": null,
+  "url": "https://www.dhammatalks.org/Archive/Writings/CrossIndexed/Uncollected/MiscEssays/TheTraditionsOfTheNobleOnes.pdf",
+  "actual_location": "印刷页6–7，Tolerance小节，1912年Tisso Uan与Vajirañāṇa通信的转述",
+  "read_language": "English",
+  "read_level": "具立场的研究批评论文直接读；通信经Taylor转引，未读泰文原信",
+  "quote": "Attitudes within the hierarchy varied",
+  "translation": "教阶内部的态度并不一致。",
+  "evidence": "以1912通信转述说明中央对东北地区实践的治理有容忍考量，反驳一概不容忍或森林僧一概宽容的二元说。",
+  "normalized_url": "https://www.dhammatalks.org/Archive/Writings/CrossIndexed/Uncollected/MiscEssays/TheTraditionsOfTheNobleOnes.pdf",
+  "source_id": "S-284245b788de",
+  "canonical_url_id": "U-8e5aa80d6c95",
+  "actual_reading_summary": "English；具立场的研究批评论文直接读；通信经Taylor转引，未读泰文原信"
+}
+
+U-92483a2326bf｜https://blogs.dickinson.edu/buddhistethics/files/2015/11/Braun-Ober-15.pdf
+S-26cd9348bb06｜Review of The Birth of Insight: Meditation, Modern Buddhism, and the Burmese Monk Ledi Sayadaw
+实际阅读摘要：English；学术书评相关全文段直接读；Braun2013原书、缅文著作和访谈未直接读
+用于R09-Q04
+{
+  "author": "Douglas Ober",
+  "title": "Review of The Birth of Insight: Meditation, Modern Buddhism, and the Burmese Monk Ledi Sayadaw",
+  "year": 2015,
+  "url": "https://blogs.dickinson.edu/buddhistethics/files/2015/11/Braun-Ober-15.pdf",
+  "actual_location": "Journal of Buddhist Ethics22，印刷页476–479，重点478–479；题头及年卷核读",
+  "read_language": "English",
+  "read_level": "学术书评相关全文段直接读；Braun2013原书、缅文著作和访谈未直接读",
+  "quote": "inexpensive and accessible formats",
+  "translation": "廉价且易于接近的出版形式。",
+  "evidence": "书评归纳Braun关于殖民焦虑、印刷、地方语言、读书小组、女性与青年受众、阿毗达磨学习及内观可携带化的论证。",
+  "normalized_url": "https://blogs.dickinson.edu/buddhistethics/files/2015/11/Braun-Ober-15.pdf",
+  "source_id": "S-26cd9348bb06",
+  "canonical_url_id": "U-92483a2326bf",
+  "actual_reading_summary": "English；学术书评相关全文段直接读；Braun2013原书、缅文著作和访谈未直接读"
+}
+
+U-331e78659d79｜https://tripitaka.zensoul.org/T/T0262/1
+S-410adcde918a｜妙法莲华经
+实际阅读摘要：文言汉语传本指定段实读；电子校注载本，未核底本影印；文言汉语传本指定段实读；电子校注载本，未核底本影印
+用于R09-Q05
+{
+  "author": "传统题鸠摩罗什译；本轮不重做译师专题",
+  "title": "妙法莲华经",
+  "year": "古汉译；本轮不以数字页更新年定译年",
+  "URL": "https://tripitaka.zensoul.org/T/T0262/1",
+  "locator": "卷一〈方便品第二〉，散文“如来但以一佛乘故”至“于一佛乘分别说三”；重颂“十方佛土中”段；网页小节可定位，未补造页栏",
+  "read_language_level": "文言汉语传本指定段实读；电子校注载本，未核底本影印",
+  "short_quote": "於一佛乘分別說三",
+  "translation": "在一佛乘上方便区分而说三乘。",
+  "evidence_limit": "文本的终极归向主张，不是历史上同时代组织状况的直接记录。",
+  "normalized_url": "https://tripitaka.zensoul.org/T/T0262/1",
+  "source_id": "S-410adcde918a",
+  "canonical_url_id": "U-331e78659d79",
+  "actual_reading_summary": "文言汉语传本指定段实读；电子校注载本，未核底本影印"
+}
+
+U-e127cb0a8413｜https://sacred-texts.com/bud/lotus/lot02.htm
+S-351632288eee｜Saddharma-Puṇḍarīka or the Lotus of the True Law
+实际阅读摘要：英语译文实读；未独立读梵语或梵文写本；数字转录有明显拼写瑕疵；英语译文实读；未独立读梵语或梵文写本；数字转录有明显拼写瑕疵
+用于R09-Q05
+{
+  "author": "H. Kern英译",
+  "title": "Saddharma-Puṇḍarīka or the Lotus of the True Law",
+  "year": 1884,
+  "URL": "https://sacred-texts.com/bud/lotus/lot02.htm",
+  "locator": "Chapter II “Skilfulness”：散文By means of one sole vehicle段；偈21、53；网络转录保留偈号，本轮不据网页重排编页码",
+  "read_language_level": "英语译文实读；未独立读梵语或梵文写本；数字转录有明显拼写瑕疵",
+  "short_quote": "there is no second vehicle, nor a third",
+  "translation": "没有第二乘，也没有第三乘。",
+  "evidence_limit": "比较止于英译与汉译表述；不据此把差别全归译者或判定梵本底本异文。",
+  "normalized_url": "https://sacred-texts.com/bud/lotus/lot02.htm",
+  "source_id": "S-351632288eee",
+  "canonical_url_id": "U-e127cb0a8413",
+  "actual_reading_summary": "英语译文实读；未独立读梵语或梵文写本；数字转录有明显拼写瑕疵"
+}
+
+U-f774189d6b63｜https://www.lamayeshe.com/article/three-principal-aspects-path
+S-f217618a2017｜The Three Principal Aspects of the Path
+实际阅读摘要：英语宗喀巴短篇译文与译者、出版者跋实读；未读藏文，不冒称读《菩提道次第广论》全文；英语宗喀巴短篇译文与译者、出版者跋实读；未读藏文，不冒称读《菩提道次第广论》全文
+用于R09-Q06
+{
+  "author": "宗喀巴原著；Lama Zopa Rinpoche英译，Jonathan Landaw协编",
+  "title": "The Three Principal Aspects of the Path",
+  "year": "英译2006；页面说明2006、2019修订及2020转写处理，原作年月本轮未核",
+  "URL": "https://www.lamayeshe.com/article/three-principal-aspects-path",
+  "locator": "How to Generate Renunciation；Purpose/How to Generate Mind of Enlightenment；Reason to Meditate on Right View；Original/Translator/Publisher Colophons及注1",
+  "read_language_level": "英语宗喀巴短篇译文与译者、出版者跋实读；未读藏文，不冒称读《菩提道次第广论》全文",
+  "short_quote": "Therefore, at the very beginning seek renunciation.",
+  "translation": "所以最初应求出离心。",
+  "evidence_limit": "此为三主要道短篇，不能等同整部广论；“已生菩提心定义”一偈注称后依帕绷喀纲目增加，非原文。",
+  "normalized_url": "https://www.lamayeshe.com/article/three-principal-aspects-path",
+  "source_id": "S-f217618a2017",
+  "canonical_url_id": "U-f774189d6b63",
+  "actual_reading_summary": "英语宗喀巴短篇译文与译者、出版者跋实读；未读藏文，不冒称读《菩提道次第广论》全文"
+}
+
+U-8488ff3d36ac｜https://eap.bl.uk/project/EAP177
+S-f4beff148705｜Buddhist archive of photography in Luang Prabang, Laos – major project phase I（EAP177）
+实际阅读摘要：英文；实际读档案项目机构说明及馆藏分组；未逐张读照片或原始老挝语题记，项目访谈亦非本轮亲访。
+用于R09-Q07
+{
+  "author_institution": "British Library Endangered Archives Programme；项目负责人Hans Berger",
+  "title": "Buddhist archive of photography in Luang Prabang, Laos – major project phase I（EAP177）",
+  "year": null,
+  "dating_note": "2007为资助年，24个月为项目期，不作网页发表年。",
+  "url": "https://eap.bl.uk/project/EAP177",
+  "locator": "Aims and objectives；Outcomes；目录EAP177/1—10，网页行13—30、33—42",
+  "actual_language": "英文",
+  "reading_level": "实际读档案项目机构说明及馆藏分组；未逐张读照片或原始老挝语题记，项目访谈亦非本轮亲访。",
+  "short_original": "a view from inside",
+  "translation": "来自内部的观看",
+  "evidence": "项目将Vat Saen Sukharam住持Phra Khamchan Virachitta（亦拼Virachitto）的个人收集作为起点，扩及其他寺院；成果说明僧人、沙弥及前僧人受训参与保存，原件多存Vat Khili的Sala Thammaviharn，副本存英国图书馆及老挝国家图书馆。EAP177/1目录标Vat Saen Sukharam照片1876—2008，EAP177/3标Vat Suvanna Khili1910—1987，范围不是每张精确断代。",
+  "normalized_url": "https://eap.bl.uk/project/EAP177",
+  "source_id": "S-f4beff148705",
+  "canonical_url_id": "U-8488ff3d36ac",
+  "actual_reading_summary": "英文；实际读档案项目机构说明及馆藏分组；未逐张读照片或原始老挝语题记，项目访谈亦非本轮亲访。"
+}
+
+U-e78fe00eb484｜https://digital.crossasia.org/digital-library-of-lao-manuscripts/?lang=en
+S-bcb754ff41e0｜Digital Library of Lao Manuscripts
+实际阅读摘要：英文；实际读保存机构目录说明，不是已读老挝语写本正文。
+用于R09-Q07
+{
+  "author_institution": "老挝国家图书馆、帕绍大学、柏林国家图书馆；CrossAsia",
+  "title": "Digital Library of Lao Manuscripts",
+  "year": null,
+  "url": "https://digital.crossasia.org/digital-library-of-lao-manuscripts/?lang=en",
+  "locator": "英文项目介绍第1—6段，网页行3—13",
+  "actual_language": "英文",
+  "reading_level": "实际读保存机构目录说明，不是已读老挝语写本正文。",
+  "short_original": null,
+  "translation": null,
+  "evidence": "目录区分Lao、Lan Na、Tai Lue等传统及文字、语言、地点、年代、材料和编号，指出灰度影像来自微卷、彩色来自原件直摄，2009年9月上线、2012年1月启动国家图书馆藏原件直接数字化。页面所列可检索数不是本轮逐件枚举总量。",
+  "normalized_url": "https://digital.crossasia.org/digital-library-of-lao-manuscripts/?lang=en",
+  "source_id": "S-bcb754ff41e0",
+  "canonical_url_id": "U-e78fe00eb484",
+  "actual_reading_summary": "英文；实际读保存机构目录说明，不是已读老挝语写本正文。"
+}
+
+U-9e2ef682c747｜https://www.culturalsurvival.org/publications/cultural-survival-quarterly/buddhism-and-revolution-cambodia
+S-cd45fb15a722｜Buddhism and Revolution in Cambodia
+实际阅读摘要：英文；实际读学者全文网页；Chea Tong经历是作者转述新闻报道（二手见证），1988／1989见寺院及僧人为作者自述亲访（原观察的后出记述）；未读当事人口述原带或政府原令。
+用于R09-Q08
+{
+  "author_institution": "Charles F. Keyes；Cultural Survival Quarterly",
+  "title": "Buddhism and Revolution in Cambodia",
+  "year": null,
+  "web_date": "2010-03-02",
+  "dating_note": "网页标2010-03-02，归入14-3 Cambodia，正文观察止1989前后；未核纸本原刊年月，不能称2010年现场调查。",
+  "url": "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/buddhism-and-revolution-cambodia",
+  "locator": "Destruction…中Chea Tong段，网页行24—26；After 1979节行41、44—45、48—56；作者亲见行50、53",
+  "actual_language": "英文",
+  "reading_level": "实际读学者全文网页；Chea Tong经历是作者转述新闻报道（二手见证），1988／1989见寺院及僧人为作者自述亲访（原观察的后出记述）；未读当事人口述原带或政府原令。",
+  "short_original": "forced to disrobe",
+  "translation": "被迫脱去僧衣还俗",
+  "evidence": "Chea Tong案例含离开金边寺院、被迫还俗、劳作以及寺院转仓库和佛像受损；恢复节记越南僧人赴柬再授戒、寺院修复，同时叙1981后年龄限制与1988政策改变。作者1988、1989亲见修复寺院及年轻僧人，不能以所见推全国人数。文中死亡和恢复人数估计本轮不采用。",
+  "normalized_url": "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/buddhism-and-revolution-cambodia",
+  "source_id": "S-cd45fb15a722",
+  "canonical_url_id": "U-9e2ef682c747",
+  "actual_reading_summary": "英文；实际读学者全文网页；Chea Tong经历是作者转述新闻报道（二手见证），1988／1989见寺院及僧人为作者自述亲访（原观察的后出记述）；未读当事人口述原带或政府原令。"
+}
+
+U-aa5882b35c9f｜https://college.holycross.edu/faculty/tlewis/Gray%20volume%2C%20Newar%20chapter%20.pdf
+S-c8fc8f6ec96f｜Vajrayāna Traditions in Nepal
+实际阅读摘要：English scholarly chapter; 含梵语／尼瓦尔语术语的罗马转写；实读作者校样页118—119及153—154相关段落，含本土合作者的实践描述；未通读整章，未独立校勘其引原典或访谈记录
+用于R09-Q09
+{
+  "author": "Todd Lewis and Naresh Man Bajracarya",
+  "title": "Vajrayāna Traditions in Nepal",
+  "year": 2016,
+  "publication": "拟收入David B. Gray与Ryan Richard Overbey编，Tantric Traditions in Transmission and Translation, Oxford University Press, pp.87–198",
+  "url": "https://college.holycross.edu/faculty/tlewis/Gray%20volume%2C%20Newar%20chapter%20.pdf",
+  "version": "大学作者存档PDF明确标OUP UNCORRECTED PROOF – FIRSTPROOFS, 7 December 2015；首页注拟出版2016。本轮引用校样页码，不冒充核对过正式版。",
+  "language_actually_read": "English scholarly chapter; 含梵语／尼瓦尔语术语的罗马转写",
+  "reading_level": "实读作者校样页118—119及153—154相关段落，含本土合作者的实践描述；未通读整章，未独立校勘其引原典或访谈记录",
+  "locator": "校样印刷页118—119，已婚家户僧团与社会制度讨论；页153—154，Puruścaraṇa Cvanegu节及Fig.3.26",
+  "pages": "校样118–119, 153–154",
+  "short_original": "private, personal practice",
+  "translation": "私下的个人修习。",
+  "supports": "区分历史僧团的家户化与实际修学；Puruścaraṇa Cvanegu节把闭关用于造像修复仪礼、教师传授资格的准备及个人修习，并说明由师指导。",
+  "limits": "作者对马拉末期家户／种姓身份的历史概括不是每个现存家庭的直接材料；校样有未改讹误，正式版页文待核。不得将本章中男性限定、传承资格或修法规范推广为全体纽瓦尔佛教共同规则。",
+  "normalized_url": "https://college.holycross.edu/faculty/tlewis/Gray%20volume%2C%20Newar%20chapter%20.pdf",
+  "source_id": "S-c8fc8f6ec96f",
+  "canonical_url_id": "U-aa5882b35c9f",
+  "actual_reading_summary": "English scholarly chapter; 含梵语／尼瓦尔语术语的罗马转写；实读作者校样页118—119及153—154相关段落，含本土合作者的实践描述；未通读整章，未独立校勘其引原典或访谈记录"
+}
+
+U-852fd2ca2716｜https://shinshuseiten.higashihonganji.or.jp/contents.html?id=1&page=398
+S-24d6b4f0ab7d｜顕浄土真実教行証文類・化身土巻末（后序）
+实际阅读摘要：日文训读、汉文原文；直接实读该两页网站校录文本；未读全书，未检亲笔本影像；第一手著作的官方电子校录本；不是1207年处分法令原件
+用于R09-Q10
+{
+  "author": "亲鸾；东本愿寺圣教编纂室维护电子文本",
+  "title": "顕浄土真実教行証文類・化身土巻末（后序）",
+  "year": null,
+  "original_period": "13世纪；本次未核具体成书及修改年代",
+  "edition": "真宗聖典・初版（网页标示）",
+  "url": "https://shinshuseiten.higashihonganji.or.jp/contents.html?id=1&page=398",
+  "additional_url": "https://shinshuseiten.higashihonganji.or.jp/contents.html?id=1&page=399",
+  "locator": "初版398–399页，化末；398页承元丁卯迫害与远流叙述、399页首汉文及继后建仁辛酉归本愿叙述",
+  "language_read": "日文训读、汉文原文",
+  "read_scope": "直接实读该两页网站校录文本；未读全书，未检亲笔本影像",
+  "source_level": "第一手著作的官方电子校录本；不是1207年处分法令原件",
+  "original_short": "爾者已非僧非俗",
+  "translation_zh": "因此已非僧非俗。",
+  "supports": "自述先说僧仪被改、赐姓名并远流，自己是其中一人，继而以非僧非俗和秃字自称；同页记其归本愿及受法然允许抄写选择集。",
+  "caution": "这是亲鸾带有宗教论争立场的追述，不能单凭该段独立还原官方法律程序，也不能由它推出结婚年月或后世寺院世袭制度。",
+  "normalized_url": "https://shinshuseiten.higashihonganji.or.jp/contents.html?id=1&page=398",
+  "source_id": "S-24d6b4f0ab7d",
+  "canonical_url_id": "U-852fd2ca2716",
+  "actual_reading_summary": "日文训读、汉文原文；直接实读该两页网站校录文本；未读全书，未检亲笔本影像；第一手著作的官方电子校录本；不是1207年处分法令原件"
+}
+
+U-7dd34c11d02c｜https://serai.jp/hobby/1082851
+S-20f482740092｜親鸞が「非僧非俗」と名乗った真意と妻・恵信尼の影響【日本仏教の名僧・名著「親鸞」編（１）】
+实际阅读摘要：日文原语；直接实读上述问答及相邻上下文；没有把访谈当作专著全文；大学伦理学研究者的公开学术普及访谈；非同行评审论文
+用于R09-Q10
+{
+  "author": "赖住光子讲述；川上达史采访",
+  "title": "親鸞が「非僧非俗」と名乗った真意と妻・恵信尼の影響【日本仏教の名僧・名著「親鸞」編（１）】",
+  "year": 2022,
+  "date": "2022-08-21",
+  "publisher": "小学馆 サライ.jp；テンミニッツTV提供",
+  "url": "https://serai.jp/hobby/1082851",
+  "locator": "小标题「親鸞の『浄土真宗』とは『法然の教え』のこと」「越後に流され、『非僧非俗』として妻帯した親鸞」各问答；网页无纸本页码",
+  "language_read": "日文原语",
+  "read_scope": "直接实读上述问答及相邻上下文；没有把访谈当作专著全文",
+  "source_level": "大学伦理学研究者的公开学术普及访谈；非同行评审论文",
+  "original_short": "宗派名ではなくて",
+  "translation_zh": "并非宗派名称。",
+  "supports": "解释非僧的身份剥夺背景及非俗的宗教自觉；指出亲鸾所称浄土真宗应先在真实净土教、法然教说的语境理解，不能直接等同现代教团名称。",
+  "caution": "访谈的婚姻叙事未由本轮所读惠信尼书信或其他原证独立核实；不将其简述作为结婚时间的定论。",
+  "normalized_url": "https://serai.jp/hobby/1082851",
+  "source_id": "S-20f482740092",
+  "canonical_url_id": "U-7dd34c11d02c",
+  "actual_reading_summary": "日文原语；直接实读上述问答及相邻上下文；没有把访谈当作专著全文；大学伦理学研究者的公开学术普及访谈；非同行评审论文"
+}
+
+U-5fa3a027edac｜https://www.e-dunhuang.com/cave/10.0001/0001.0001.0061
+S-969c0dce05be｜The Mogao Grottoes Cave 061
+实际阅读摘要：英文官方说明；实际读目录/分壁说明；未逐字释读供养榜题原图；不称已完成题记校勘
+用于R10-Q01
+{
+  "institution": "敦煌研究院／数字敦煌",
+  "author": "机构洞窟及分壁说明",
+  "title": "The Mogao Grottoes Cave 061",
+  "date": "洞窟五代，约十世纪；网页发表日未署；页面Construction time2011不采用为古代年代",
+  "url": "https://www.e-dunhuang.com/cave/10.0001/0001.0001.0061",
+  "locator": "61窟 Main Chamber South Wall第2段：南壁下部、由东起第4位翟氏；East Wall供养人说明；洞窟概述",
+  "read_language": "英文官方说明",
+  "read_level": "实际读目录/分壁说明；未逐字释读供养榜题原图；不称已完成题记校勘",
+  "short_quote": "Lady Zhai according to the inscription",
+  "translation": "据题记为翟氏夫人",
+  "evidence": "官方说明南壁有17位女性供养人、东起第4位为翟氏；总述曹元忠夫妇功德窟和部分宋代重绘。具体女性参与的可定位证据为官方据榜题的认定，非本轮原图释文。",
+  "normalized_url": "https://www.e-dunhuang.com/cave/10.0001/0001.0001.0061",
+  "source_id": "S-969c0dce05be",
+  "canonical_url_id": "U-5fa3a027edac",
+  "actual_reading_summary": "英文官方说明；实际读目录/分壁说明；未逐字释读供养榜题原图；不称已完成题记校勘"
+}
+
+U-3a93d91577a4｜https://idp.bl.uk/collection/51FDAEAFB4A24E2E9981692A98130BC8/
+S-4dd34f84fbee｜Or.8210/P.2，868年木刻《金刚般若波罗蜜经》
+实际阅读摘要：官方英文目录；直接观察汉文卷末原图；实际读物件目录并观察图像核读卷末图；未通读全卷，未核其他影印版本或人物履历
+用于R10-Q02
+{
+  "institution": "British Library / International Dunhuang Programme",
+  "author": "馆藏目录；原物卷末王玠施印题记",
+  "title": "Or.8210/P.2，868年木刻《金刚般若波罗蜜经》",
+  "date": "印本868；题记咸通九年四月十五日；网页更新时间未知",
+  "url": "https://idp.bl.uk/collection/51FDAEAFB4A24E2E9981692A98130BC8/",
+  "manifest_url": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8",
+  "image_url": "https://data.idp.bl.uk/image/iiif/3/6F413126697C4E129DF81AE57EC64372/full/max/0/default.jpg",
+  "locator": "物号Or.8210/P.2；IIIF manifest canvas items/20（label20），卷末经题、咒及最后题记，题记为最左两行",
+  "read_language": "官方英文目录；直接观察汉文卷末原图",
+  "read_level": "实际读物件目录并观察图像核读卷末图；未通读全卷，未核其他影印版本或人物履历",
+  "short_quote": "王玠為二親敬造普施",
+  "translation": "王玠为双亲恭敬制作，普遍施送",
+  "transcription": "咸通九年四月十五日王玠為／二親敬造普施（依图按行；未补现代标点为原文）",
+  "evidence": "木刻纸上印本，非手写经；目录标汉语汉字、发现地敦煌莫高、868及Stein1906—8来源。目录现代Sponsors1999与唐代施印者不同，绝不合并。",
+  "normalized_url": "https://idp.bl.uk/collection/51FDAEAFB4A24E2E9981692A98130BC8/",
+  "source_id": "S-4dd34f84fbee",
+  "canonical_url_id": "U-3a93d91577a4",
+  "actual_reading_summary": "官方英文目录；直接观察汉文卷末原图；实际读物件目录并观察图像核读卷末图；未通读全卷，未核其他影印版本或人物履历"
+}
+
+U-b0ffa3b62406｜https://archive.org/details/bhilsatopesorbu00cunngoog
+S-a2f67a4086bf｜The Bhilsa Topes
+实际阅读摘要：English；仅见书中转写，未独立作语言释读；历史考古著作数字OCR中铭文转写、英译及相邻校释直接读；未核扫描图版与原石，OCR页码不稳定故不用其页码
+用于R10-Q04
+{
+  "author": "Alexander Cunningham",
+  "title": "The Bhilsa Topes",
+  "year": 1854,
+  "url": "https://archive.org/details/bhilsatopesorbu00cunngoog",
+  "actual_access_url": "https://archive.org/download/bhilsatopesorbu00cunngoog/bhilsatopesorbu00cunngoog_djvu.txt",
+  "actual_location": "Chapter XVI, Inscriptions—No.1 Tope—Sanchi，编号2、4、7、12、14；使用本书编号，非后出Lüders或Marshall编号",
+  "read_language": "English；仅见书中转写，未独立作语言释读",
+  "read_level": "历史考古著作数字OCR中铭文转写、英译及相邻校释直接读；未核扫描图版与原石，OCR页码不稳定故不用其页码",
+  "quote": "Gift of Achalā",
+  "translation": "阿遮罗的赠施。",
+  "evidence": "编号14译为Nadinagara比丘尼Achalā之赠施；编号4为Dharmagirika母亲，编号12为Ujain的Gopala Viswakarma（作者释为建筑师）；早期识读须后出语料校正。",
+  "normalized_url": "https://archive.org/details/bhilsatopesorbu00cunngoog",
+  "source_id": "S-a2f67a4086bf",
+  "canonical_url_id": "U-b0ffa3b62406",
+  "actual_reading_summary": "English；仅见书中转写，未独立作语言释读；历史考古著作数字OCR中铭文转写、英译及相邻校释直接读；未核扫描图版与原石，OCR页码不稳定故不用其页码"
+}
+
+U-e8cdb3ac3354｜https://www.iranicaonline.org/articles/book-of-zambasta-poem/
+S-1284d892acb8｜Book of Zambasta
+实际阅读摘要：英语学术条目正文实读；于阗语内容经作者释述及章节号取得，未独立读于阗语原文或1968校本；英语学术条目正文实读；于阗语内容经作者释述及章节号取得，未独立读于阗语原文或1968校本
+用于R10-Q05
+{
+  "author": "Ronald E. Emmerick",
+  "title": "Book of Zambasta",
+  "year": 1989,
+  "URL": "https://www.iranicaonline.org/articles/book-of-zambasta-poem/",
+  "locator": "Encyclopaedia Iranica IV/4，361–363；本轮读主写本形制段、内容章节表、翻译活动段（2.189、23.4–6）及古/晚于阗语段；网页无分配至各印刷页的边界",
+  "read_language_level": "英语学术条目正文实读；于阗语内容经作者释述及章节号取得，未独立读于阗语原文或1968校本",
+  "short_quote": "prefer the Indian originals",
+  "translation": "偏爱印度原本。",
+  "evidence_limit": "对作者抱怨的译述，不是现代调查；1968版页码只作为该条目引用未实读，不假称已核。",
+  "normalized_url": "https://www.iranicaonline.org/articles/book-of-zambasta-poem/",
+  "source_id": "S-1284d892acb8",
+  "canonical_url_id": "U-e8cdb3ac3354",
+  "actual_reading_summary": "英语学术条目正文实读；于阗语内容经作者释述及章节号取得，未独立读于阗语原文或1968校本"
+}
+
+U-67ce29b34686｜https://guides.library.stanford.edu/c.php?g=1006948&p=9627982
+S-08d714dcf363｜Buddhism and Asian religions: Indo-Tibetan canonical collections
+实际阅读摘要：英语大学图书馆版本及藏品说明实读；非藏文原题记；英语大学图书馆版本及藏品说明实读；非藏文原题记
+用于R10-Q06
+{
+  "author": "Stanford University Libraries",
+  "title": "Buddhism and Asian religions: Indo-Tibetan canonical collections",
+  "year": null,
+  "year_note": "页面更新2025-01-21不等于藏品制造年",
+  "URL": "https://guides.library.stanford.edu/c.php?g=1006948&p=9627982",
+  "locator": "Kanjur部分Comparative Kanjur、Dege Kanjur - CD-ROM及Dege Kanjur & Tanjur - print条目；所链馆藏SearchWorks 5709999本轮打开失败，所读止于指南原文",
+  "read_language_level": "英语大学图书馆版本及藏品说明实读；非藏文原题记",
+  "short_quote": "probably printed in the early 20th century",
+  "translation": "可能在20世纪初刷印。",
+  "evidence_limit": "指南对该馆存印本的推断，不是1733初印实物证据；同列丹珠尔的概括年代不可自动套用于其所有版片。",
+  "normalized_url": "https://guides.library.stanford.edu/c.php?g=1006948&p=9627982",
+  "source_id": "S-08d714dcf363",
+  "canonical_url_id": "U-67ce29b34686",
+  "actual_reading_summary": "英语大学图书馆版本及藏品说明实读；非藏文原题记"
+}
+
+U-beedf6a94c0c｜https://rubinmuseum.org/derge-parkhang-the-auspicious-treasury-of-tibetan-woodcut-printing/
+S-4816ef3dc9a0｜Derge Parkhang: The Auspicious Treasury of Tibetan Woodcut Printing
+实际阅读摘要：英语博物馆学者文章实读；历史综合及田野观察，不是原始刻经目录的藏文校勘；英语博物馆学者文章实读；历史综合及田野观察，不是原始刻经目录的藏文校勘
+用于R10-Q06
+{
+  "author": "Patrick Dowdey",
+  "title": "Derge Parkhang: The Auspicious Treasury of Tibetan Woodcut Printing",
+  "year": 2025,
+  "URL": "https://rubinmuseum.org/derge-parkhang-the-auspicious-treasury-of-tibetan-woodcut-printing/",
+  "locator": "2025-11-21；开篇生产流程段、Book Production at the Derge Parkhang节；作者研究背景段",
+  "read_language_level": "英语博物馆学者文章实读；历史综合及田野观察，不是原始刻经目录的藏文校勘",
+  "short_quote": "checked again before cutting",
+  "translation": "刻版前再次检查。",
+  "evidence_limit": "采用生产链和1729–1733刻版区间；不采用文中122卷等与其他目录不合的总数，不把“无瑕”赞词或金粉付酬故事当统计事实。",
+  "normalized_url": "https://rubinmuseum.org/derge-parkhang-the-auspicious-treasury-of-tibetan-woodcut-printing/",
+  "source_id": "S-4816ef3dc9a0",
+  "canonical_url_id": "U-beedf6a94c0c",
+  "actual_reading_summary": "英语博物馆学者文章实读；历史综合及田野观察，不是原始刻经目录的藏文校勘"
+}
+
+U-d4ff2cb00f0c｜https://hts.org.za/index.php/hts/article/view/7054/21526
+S-79650f128de8｜Theological debate among Buddhist sects in Indonesia
+实际阅读摘要：英文；实际读期刊HTML正文相关各节；现代人类学研究，结合Jakarta/Bogor参与观察及Bandung访谈。其引1965旧文、1975政令和旧书之处是本轮二手层，未核印尼语政令或原访谈录。
+用于R10-Q07
+{
+  "author_institution": "Abdul Syukur，Universitas Islam Negeri Sunan Gunung Djati",
+  "title": "Theological debate among Buddhist sects in Indonesia",
+  "year": 2022,
+  "date": "2022-01-24",
+  "journal": "HTS Teologiese Studies/Theological Studies 78(4), a7054",
+  "url": "https://hts.org.za/index.php/hts/article/view/7054/21526",
+  "locator": "Introduction，网页行109—112；Buddhist sects in Indonesia行128—140；Theological debate行154—176",
+  "actual_language": "英文",
+  "reading_level": "实际读期刊HTML正文相关各节；现代人类学研究，结合Jakarta/Bogor参与观察及Bandung访谈。其引1965旧文、1975政令和旧书之处是本轮二手层，未核印尼语政令或原访谈录。",
+  "short_original": "inclusive ethnic politics",
+  "translation": "包容性的族群策略",
+  "evidence": "作者区分Kwee Tek Hoay／Sam Kauw Hwe、Tri Dharma对华人三教传统的维护，与Jinarakkhita跨传统Buddhayana整合；叙SAGIN及上座部另组过程，并列NSI创办者Senosoenoto为爪哇人。神学讨论联系Pancasila框架与Sang Hyang Adi Buddha解释，同时呈现上座部受访者对典据的反对；不能当所有群体共识。",
+  "normalized_url": "https://hts.org.za/index.php/hts/article/view/7054/21526",
+  "source_id": "S-79650f128de8",
+  "canonical_url_id": "U-d4ff2cb00f0c",
+  "actual_reading_summary": "英文；实际读期刊HTML正文相关各节；现代人类学研究，结合Jakarta/Bogor参与观察及Bandung访谈。其引1965旧文、1975政令和旧书之处是本轮二手层，未核印尼语政令或原访谈录。"
+}
+
+U-0a4166d3162a｜https://ugandabuddhistcenter.org/ubc-history/
+S-8e970a22b1e8｜UBC History
+实际阅读摘要：英文；实际读机构历史自述及网页照片说明文字；不是本轮独立实地调查，未核地契、受戒证、照片原始元数据或会员名册。
+用于R10-Q08
+{
+  "author_institution": "Uganda Buddhist Centre",
+  "title": "UBC History",
+  "year": null,
+  "url": "https://ugandabuddhistcenter.org/ubc-history/",
+  "locator": "Introduction及图片说明，网页行98—122；How UBC began及Present，行125—139",
+  "actual_language": "英文",
+  "reading_level": "实际读机构历史自述及网页照片说明文字；不是本轮独立实地调查，未核地契、受戒证、照片原始元数据或会员名册。",
+  "short_original": "Afro-Dhamma",
+  "translation": "以非洲文化语境表达佛法",
+  "evidence": "机构自述2005-04-10由乌干达人Buddharakkhita创立，记其印度接触佛教、美国修学后返乡。照片说明列流动帐篷、Kawempe租地家人参与，2006年2月Bulega新址仪式和简易寺院、2009风损；另叙母亲、姐妹、朋友三皈五戒及国际志愿者帮助。Present节的Mirembe佛像将Luganda和平名、泰国施主和非洲面部形象联系。本轮不沿用其非洲第一僧／乌干达唯一寺等未经比较宣称。",
+  "normalized_url": "https://ugandabuddhistcenter.org/ubc-history/",
+  "source_id": "S-8e970a22b1e8",
+  "canonical_url_id": "U-0a4166d3162a",
+  "actual_reading_summary": "英文；实际读机构历史自述及网页照片说明文字；不是本轮独立实地调查，未核地契、受戒证、照片原始元数据或会员名册。"
+}
+
+U-6708163855de｜https://cyberleninka.ru/article/n/dialog-vlastey-i-veruyuschih-predystoriya-osnovaniya-ivolginskogo-datsana
+S-f759f83c0661｜Диалог властей и верующих: предыстория основания Иволгинского дацана / Dialogue Between Authorities and Believers: Prehistory of Ivolginsky Datsan Foundation
+实际阅读摘要：Russian full-text relevant paragraphs; English abstract also displayed, but findings taken from Russian正文；实读俄文正文1944年呼吁、1945年申请和地方／中央批准诸段及档案脚注；未亲阅档案扫描件或全部访谈记录
+用于R10-Q09
+{
+  "author": "Соелма Ринчиновна Батомункуева / Soelma R. Batomunkueva",
+  "title": "Диалог властей и верующих: предыстория основания Иволгинского дацана / Dialogue Between Authorities and Believers: Prehistory of Ivolginsky Datsan Foundation",
+  "year": 2023,
+  "publication": "Гуманитарный вектор / Humanitarian Vector, 18(1):64–73",
+  "doi": "10.21209/1996-7853-2023-18-1-64-73",
+  "institution": "Institute for Mongolian, Buddhist and Tibetan Studies, Siberian Branch, Russian Academy of Sciences, Ulan-Ude",
+  "url": "https://cyberleninka.ru/article/n/dialog-vlastey-i-veruyuschih-predystoriya-osnovaniya-ivolginskogo-datsana",
+  "language_actually_read": "Russian full-text relevant paragraphs; English abstract also displayed, but findings taken from Russian正文",
+  "reading_level": "实读俄文正文1944年呼吁、1945年申请和地方／中央批准诸段及档案脚注；未亲阅档案扫描件或全部访谈记录",
+  "locator": "正文以В одном из своих информационных отчетов起首的1944年段（web114—121）；以В одном из документов от 19 февраля 1945起首的实践段（126—136）；以Таким образом, после относительно непродолжительных起首的地方批准段及随后中央审批段（161—170）",
+  "pages": "文章总页64–73；本轮按可见俄文段首与档案号精确定位，不虚构HTML段落的逐页映射",
+  "archive_identifiers_as_cited": "ГАРБ, Ф. Р-248с, Оп.4, Д.68, Л.1（1944年实践报告）；Д.74, Л.22（地方开寺决议，均据论文脚注，未独立核原档）",
+  "short_original": "диалога между властями и буддистами",
+  "translation": "当局与佛教徒之间的对话。",
+  "supports": "信众及僧侣的活动与申请、地方准许与中央最终审批可区分；论文把机构重建放在国家控制与信徒行动的互动中。",
+  "limits": "官员报告是行政观察，不能自动当成全体信徒自述；论文所引批文日期尚与寺方网页不同。",
+  "normalized_url": "https://cyberleninka.ru/article/n/dialog-vlastey-i-veruyuschih-predystoriya-osnovaniya-ivolginskogo-datsana",
+  "source_id": "S-f759f83c0661",
+  "canonical_url_id": "U-6708163855de",
+  "actual_reading_summary": "Russian full-text relevant paragraphs; English abstract also displayed, but findings taken from Russian正文；实读俄文正文1944年呼吁、1945年申请和地方／中央批准诸段及档案脚注；未亲阅档案扫描件或全部访谈记录"
+}
+
+U-92c2e90b8c9f｜https://ivolgdatsan.ru/about/history/
+S-b2528cd48e1f｜История — О храме
+实际阅读摘要：Russian；实读寺方历史页1945—1951年段；属机构历史自述，非独立档案影印
+用于R10-Q09
+{
+  "author": "Иволгинский дацан «Хамбын Хурээ»（寺方机构署名）",
+  "title": "История — О храме",
+  "year": null,
+  "url": "https://ivolgdatsan.ru/about/history/",
+  "language_actually_read": "Russian",
+  "reading_level": "实读寺方历史页1945—1951年段；属机构历史自述，非独立档案影印",
+  "locator": "История节，段首Дацан находится в Республике Бурятия及下一段В феврале 1946 года（web85—87）",
+  "pages": null,
+  "short_original": "первый открытый молебен",
+  "translation": "首次公开祈祷法会。",
+  "supports": "寺方记1945年5月2日第186-ж号决议及1945年12月12日首次公开法会；可与行政论文的时间线分层比较。",
+  "limits": "与论文5月3日有一日差异，未核原件；寺方的首次和最大等机构评价不能扩大为全国佛教唯一或全部恢复的证明。",
+  "normalized_url": "https://ivolgdatsan.ru/about/history/",
+  "source_id": "S-b2528cd48e1f",
+  "canonical_url_id": "U-92c2e90b8c9f",
+  "actual_reading_summary": "Russian；实读寺方历史页1945—1951年段；属机构历史自述，非独立档案影印"
+}
+
+U-8d27e4fcdfd9｜https://shoryobu.kunaicho.go.jp/Publication/PDF/000/kiyo009a018.pdf
+S-e67cbd8235c8｜日本仏教公伝年代の問題―欽明天皇御世戊午年伝来の説について
+实际阅读摘要：日文原语论文扫描；内引汉文原典；实际逐页查看18–20页扫描图；没有宣称通读18–47页全文；新增实读学术论文扫描；其中元兴寺缘起原文属于论文转引，非本轮独立查验原写本或校勘本
+用于R10-Q10
+{
+  "author": "北条文彦",
+  "title": "日本仏教公伝年代の問題―欽明天皇御世戊午年伝来の説について",
+  "year": 1958,
+  "publication": "書陵部紀要 第9号，18–47页",
+  "url": "https://shoryobu.kunaicho.go.jp/Publication/PDF/000/kiyo009a018.pdf",
+  "catalogue_url": "https://shoryobu.kunaicho.go.jp/Publication/000/000000900000/a0dab575c9584e04a7d0ceacbf251822",
+  "locator": "印刷18–20页，即PDF第1–3页；18页下半元兴寺缘起引文，19–20页纪年与皇统问题的研究史及作者问题设置",
+  "language_read": "日文原语论文扫描；内引汉文原典",
+  "read_scope": "实际逐页查看18–20页扫描图；没有宣称通读18–47页全文",
+  "source_level": "新增实读学术论文扫描；其中元兴寺缘起原文属于论文转引，非本轮独立查验原写本或校勘本",
+  "original_short": "治天下七年歳次戊午年十二月度来",
+  "translation_zh": "治天下七年、岁次戊午年十二月传来。",
+  "supports": "18页引文明确同时记七年与戊午，且与日本书纪十三年壬申等异传对举；19–20页讨论分歧不能脱离皇位继承和皇统纪年问题处理。",
+  "caution": "此为1958年研究，不能代称当前学界一致；本轮仅用实读页面核实文本要素与纪年问题，不采用未读后文的最终结论。",
+  "normalized_url": "https://shoryobu.kunaicho.go.jp/Publication/PDF/000/kiyo009a018.pdf",
+  "source_id": "S-e67cbd8235c8",
+  "canonical_url_id": "U-8d27e4fcdfd9",
+  "actual_reading_summary": "日文原语论文扫描；内引汉文原典；实际逐页查看18–20页扫描图；没有宣称通读18–47页全文；新增实读学术论文扫描；其中元兴寺缘起原文属于论文转引，非本轮独立查验原写本或校勘本"
+}

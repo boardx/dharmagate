@@ -1,0 +1,29 @@
+{
+  "batch": "B02",
+  "retrieved_date": "2026-10-18",
+  "persons": 10,
+  "catalogue_records": 645,
+  "media_catalogue_records": 114,
+  "saved_audio_files": 18,
+  "saved_text_files": 1,
+  "media_fully_listened_or_transcript_matched": 0,
+  "unavailable_media_leads": 3,
+  "unavailable_catalogue_leads": 16,
+  "other_readable_text_records": 2,
+  "counts_are": "645条出版/篇目/版本/关联著录和114条影音目录，均非独立原创作品数或已验证可播放数；未收全生涯数量未知",
+  "completeness": "Only bounded named official indexes enumerated; no lifetime-completeness claim",
+  "edition": "B02-C1 首批目录收尾版",
+  "new_catalogue_records": 0,
+  "new_media_records": 0,
+  "new_downloads": 0,
+  "duplicate_downloads": 0,
+  "record_update_events": 57,
+  "version_relationships": 3,
+  "stable_global_outline": "R10 / E01保持完成状态，本次不改写总纲研究轮数或正文",
+  "_publication": {
+    "prepared": "2026-10-19",
+    "original_hash_scope": "原交付清单内哈希指恢复原件，不是隐私清理后公开文件；当前文件哈希见仓库manifest.json。",
+    "rights_scope": "早期权利评估保留其原日期；本次可分发附件及条件以rights/为准。",
+    "research_status": "未增加研究范围、未听校录音；来源元数据不代表已下载或通读。"
+  }
+}

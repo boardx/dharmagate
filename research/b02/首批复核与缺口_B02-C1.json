@@ -1,0 +1,3763 @@
+{
+  "summary": {
+    "batch": "B02",
+    "retrieved_date": "2026-10-18",
+    "persons": 10,
+    "catalogue_records": 645,
+    "media_catalogue_records": 114,
+    "saved_audio_files": 18,
+    "saved_text_files": 1,
+    "media_fully_listened_or_transcript_matched": 0,
+    "unavailable_media_leads": 3,
+    "unavailable_catalogue_leads": 16,
+    "other_readable_text_records": 2,
+    "counts_are": "645条出版/篇目/版本/关联著录和114条影音目录，均非独立原创作品数或已验证可播放数；未收全生涯数量未知",
+    "completeness": "Only bounded named official indexes enumerated; no lifetime-completeness claim",
+    "edition": "B02-C1 首批目录收尾版",
+    "new_catalogue_records": 0,
+    "new_media_records": 0,
+    "new_downloads": 0,
+    "duplicate_downloads": 0,
+    "record_update_events": 57,
+    "version_relationships": 3,
+    "stable_global_outline": "R10 / E01保持完成状态，本次不改写总纲研究轮数或正文"
+  },
+  "people": [
+    {
+      "person_id": "P-B02-01",
+      "name_zh": "圣严",
+      "original_name": "聖嚴",
+      "aliases": [
+        "圣严",
+        "釋聖嚴",
+        "Sheng Yen",
+        "Sheng-yen"
+      ],
+      "region_tradition": "汉传禅／台湾及国际传播",
+      "selection_reason": "汉传禅／台湾及国际传播的跨地区传播和现存资料案例；不是宗教地位或修证排名。",
+      "scope": {
+        "status": "partial",
+        "official_catalog": "https://ddc.shengyen.org/",
+        "edition": "法鼓全集2020紀念版",
+        "structure": "九輯及相關著作",
+        "page_stated_total": null,
+        "enumerated_count": 110,
+        "completeness": "完整枚舉本次HTML具b編號的110條目：九輯109條，相關著作年譜1條；非個人全部著作聲明",
+        "gaps": [
+          "未逐本取得出版年、獨立永久URL及版本沿革",
+          "年譜列為相關著作，不能算作作者獨著",
+          "影音總數動態欄位未顯示"
+        ]
+      },
+      "scope_summary_zh": "《法鼓全集2020纪念版》九辑及相关年谱；影音仅本批三条官方关联页面。",
+      "gaps_summary_zh": "逐本出版年、版本沿革、独立深链接，全集之外的外语作品及全部影音仍未核完；年谱须排除出独著数。",
+      "coverage_status": "partial",
+      "catalogue_record_count": 110,
+      "media_record_count": 3,
+      "all_lifetime_works_complete": false,
+      "all_media_complete": false,
+      "source_pages": [],
+      "closeout_scope": "仅复核既有3条影音及其官方关联文字；不扩展全集、不新增媒体。",
+      "closeout_gaps": [
+        "均未实听实看，字幕、原讲语、译语及文字与音讯的逐句对应未知。",
+        "原始讲说/录制日未核；网页日期与上传日分别处理。",
+        "未查得逐条下载或再发布授权，未下载媒体或版权全文。",
+        "第三条YouTube详情访问失败，旧索引日期降为待核；403不等于证实影片删除。"
+      ],
+      "completion_status": "首批有界目录已收尾；全生涯及全部语种材料仍未完成",
+      "lifetime_missing_count": "未建立全生涯分母，无法计算未收总条数",
+      "known_lifetime_missing_count": null,
+      "missing_count_explanation": "既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。",
+      "date_known_catalogue_count": 0,
+      "event_date_known_media_count": 0,
+      "file_saved_count": 0,
+      "unavailable_media_leads_count": 0,
+      "unavailable_catalogue_leads_count": 0
+    },
+    {
+      "person_id": "P-B02-02",
+      "name_zh": "星云",
+      "original_name": "星雲",
+      "aliases": [
+        "星云",
+        "釋星雲",
+        "Hsing Yun",
+        "Hsing-yun"
+      ],
+      "region_tradition": "汉传人间佛教／台湾及全球机构",
+      "selection_reason": "汉传人间佛教／台湾及全球机构的跨地区传播和现存资料案例；不是宗教地位或修证排名。",
+      "scope": {
+        "status": "partial",
+        "official_catalog": "https://books.masterhsingyun.org/article/articlelist",
+        "scope_statement_url": "https://books.masterhsingyun.org/intro/intro",
+        "edition": "官方線上全集現行目錄",
+        "structure": "十二大類",
+        "page_stated_total": 395,
+        "total_unit": "冊；非作品數",
+        "enumerated_count": 105,
+        "completeness": "完整枚舉本次目錄HTML的listTitle按鈕，套書合列；含他人撰述及附錄，不能等同作者獨著數",
+        "gaps": [
+          "未拆分套書冊次及篇章",
+          "官網介紹僅收中文著作，外語翻譯未收",
+          "未逐項鑑定作者性質；年譜研究等非星雲本人著作須排除後另計",
+          "目錄有同冊號多題名，不能直接累加成冊數"
+        ]
+      },
+      "scope_summary_zh": "现行官方中文全集12类目录，套书合列；外语译本与套书内部册篇未展开。",
+      "gaps_summary_zh": "套书册篇拆分、本人及他人著述辨析、全部外语版本、影音录制日期和播放尚待核验。",
+      "coverage_status": "partial",
+      "catalogue_record_count": 105,
+      "media_record_count": 3,
+      "all_lifetime_works_complete": false,
+      "all_media_complete": false,
+      "source_pages": [],
+      "closeout_scope": "仅复核既有3条影音及其官方关联文字；不扩展全集、不新增媒体。",
+      "closeout_gaps": [
+        "均未实听实看，字幕、原讲语、译语及文字与音讯的逐句对应未知。",
+        "原始讲说/录制日未核；网页日期与上传日分别处理。",
+        "未查得逐条下载或再发布授权，未下载媒体或版权全文。",
+        "三条均为5分钟 metadata，未按实际音档测量。"
+      ],
+      "completion_status": "首批有界目录已收尾；全生涯及全部语种材料仍未完成",
+      "lifetime_missing_count": "未建立全生涯分母，无法计算未收总条数",
+      "known_lifetime_missing_count": null,
+      "missing_count_explanation": "既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。",
+      "date_known_catalogue_count": 0,
+      "event_date_known_media_count": 0,
+      "file_saved_count": 0,
+      "unavailable_media_leads_count": 0,
+      "unavailable_catalogue_leads_count": 0
+    },
+    {
+      "person_id": "P-B02-03",
+      "name_zh": "一行",
+      "original_name": "Thích Nhất Hạnh",
+      "aliases": [
+        "Thich Nhat Hanh",
+        "一行禅师",
+        "釋一行",
+        "Thầy"
+      ],
+      "region_tradition": "越南禅与入世佛教／跨国社群",
+      "selection_reason": "越南禅与入世佛教／跨国社群的跨地区传播和现存资料案例；不是宗教地位或修证排名。",
+      "scope": {
+        "enumerated_catalog_language": [
+          "en"
+        ],
+        "media_spoken_languages_observed": [
+          "en"
+        ],
+        "media_interpretation_languages_observed": [
+          "it",
+          "nl",
+          "de"
+        ],
+        "sources": [
+          "https://plumvillage.org/about/thich-nhat-hanh/key-books",
+          "https://plumvillage.org/library/dharma-talks?people=thich-nhat-hanh"
+        ],
+        "person_filter": "people=thich-nhat-hanh; each included detail page names Thich Nhat Hanh",
+        "period_note": "This batch samples current official catalog, not all works or all years",
+        "key_books_index_enumeration": {
+          "url": "https://plumvillage.org/about/thich-nhat-hanh/key-books",
+          "unique_book_urls_observed": 47,
+          "unique_book_urls_collected": 47,
+          "complete_within_current_index": true,
+          "detail_pages_opened": 12,
+          "index_only": 35,
+          "deduplication": "canonical /books/ URL; repeated Awakening of the Heart retained once"
+        }
+      },
+      "scope_summary_zh": "官方英文重点书目key-books当前47个唯一标题链接；另取7场本人英语讲授及部分口译场次。",
+      "gaps_summary_zh": "越文与法文原著、其他出版社和Living Gems完整目录未枚举；35项书目未读详情，影音时长、许可及逐字稿待核。",
+      "coverage_status": "current_key_books_index_complete_at_URL_level: 47/47; overall bibliography and media partial",
+      "catalogue_record_count": 47,
+      "media_record_count": 7,
+      "all_lifetime_works_complete": false,
+      "all_media_complete": false,
+      "source_pages": [],
+      "closeout_scope": "复核现有3场影音、2部书及梅村现行条款；不扩全站，不新增作品或媒体；只读公开英语页面。",
+      "closeout_gaps": [
+        "其余4场媒体及45部书本次未作新复核。",
+        "三场录音未播放，字幕、逐字稿、准确时长和时码均未验证；页面全站播放器不作本条文字稿。",
+        "许可仅核现行梅村网站条款，不推定YouTube或其他版权方额外授权；复制/分享/商业利用许可未取得。",
+        "Peace Is Every Step目录ISBN疑缺前导位，未据推测修复；其版次和初版日期未独立核定。",
+        "未枚举越文、法文及其他语种全集；47+7仍属既定有界目录。"
+      ],
+      "completion_status": "首批有界目录已收尾；全生涯及全部语种材料仍未完成",
+      "lifetime_missing_count": "未建立全生涯分母，无法计算未收总条数",
+      "known_lifetime_missing_count": null,
+      "missing_count_explanation": "既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。",
+      "date_known_catalogue_count": 11,
+      "event_date_known_media_count": 7,
+      "file_saved_count": 0,
+      "unavailable_media_leads_count": 0,
+      "unavailable_catalogue_leads_count": 0
+    },
+    {
+      "person_id": "P-B02-04",
+      "name_zh": "第十四世达赖喇嘛",
+      "original_name": "第十四世达赖喇嘛",
+      "aliases": [
+        "14th Dalai Lama",
+        "Tenzin Gyatso",
+        "丹增嘉措"
+      ],
+      "region_tradition": "藏传格鲁背景／流亡与全球传播",
+      "selection_reason": "藏传格鲁背景／流亡与全球传播的跨地区传播和现存资料案例；不是宗教地位或修证排名。",
+      "scope": {
+        "works": "All 142 entries on official English Books catalogue, pages 1–5 as displayed 2026-10-18; catalogue entries, not an authorial collected works; includes related books and audio album",
+        "media": "Three selected official event/clip pages; full media archive not enumerated"
+      },
+      "scope_summary_zh": "官网英文书目五页142项全部枚举；仅另取三条官方影音页面。",
+      "gaps_summary_zh": "合著与相关作品辨析、跨语言版本、ISBN及初版年尚未逐项核完；全部影音目录未枚举。",
+      "coverage_status": "official English book catalogue enumerated completely within stated boundary; lifetime works and media partial",
+      "catalogue_record_count": 142,
+      "media_record_count": 3,
+      "all_lifetime_works_complete": false,
+      "all_media_complete": false,
+      "source_pages": [
+        "https://www.dalailama.com/books",
+        "https://www.dalailama.com/books/p2",
+        "https://www.dalailama.com/books/p3",
+        "https://www.dalailama.com/books/p4",
+        "https://www.dalailama.com/books/p5",
+        "https://www.dalailama.com/videos"
+      ],
+      "closeout_scope": "仅复核现有3条官方媒体详情及所嵌结构化元数据；不重采书目、不扩充媒体分母",
+      "closeout_gaps": [
+        "2021及2018片段原讲/译语角色未明示，未以English字段推断。",
+        "原3条仍无确配字幕、全文及逐场播放验证；2012译者姓名未知。",
+        "2018/2026日期冲突分层保留；页面Date不是已证首发或YouTube上传时间。"
+      ],
+      "completion_status": "首批有界目录已收尾；全生涯及全部语种材料仍未完成",
+      "lifetime_missing_count": "未建立全生涯分母，无法计算未收总条数",
+      "known_lifetime_missing_count": null,
+      "missing_count_explanation": "既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。",
+      "date_known_catalogue_count": 142,
+      "event_date_known_media_count": 3,
+      "file_saved_count": 0,
+      "unavailable_media_leads_count": 0,
+      "unavailable_catalogue_leads_count": 0
+    },
+    {
+      "person_id": "P-B02-05",
+      "name_zh": "杰尊玛丹津葩默",
+      "original_name": "杰尊玛丹津葩默",
+      "aliases": [
+        "Jetsunma Tenzin Palmo",
+        "Tenzin Palmo",
+        "Diane Perry"
+      ],
+      "region_tradition": "藏传竹巴噶举／英国与喜马拉雅尼众",
+      "selection_reason": "藏传竹巴噶举／英国与喜马拉雅尼众的跨地区传播和现存资料案例；不是宗教地位或修证排名。",
+      "scope": {
+        "works": "All six titles displayed on official Publications page; five credited to her, one biography credited to Vicki Mackenzie",
+        "media": "All 53 unique entries displayed on official User Videos index; per-item metadata pages opened except one timeout; curated inclusion does not imply sole speaker"
+      },
+      "scope_summary_zh": "官网六个出版题名、53项视频索引全部枚举；52个视频详情页成功，一项超时。",
+      "gaps_summary_zh": "一项影音详情超时；群体场次的讲者和全部时长未核；书籍版本年、活动日期冲突保留，全部终身材料未收齐。",
+      "coverage_status": "complete enumeration of displayed official Publications and 53-item User Videos index; lifetime corpus and content verification partial",
+      "catalogue_record_count": 6,
+      "media_record_count": 53,
+      "all_lifetime_works_complete": false,
+      "all_media_complete": false,
+      "source_pages": [
+        "https://tenzinpalmo.com/publications/",
+        "https://tenzinpalmo.com/user-videos/",
+        "https://www.shambhala.com/change-your-mind-change-your-life.html",
+        "https://www.shambhala.com/tibetan-buddhist-books-2022/",
+        "https://bodhicitta.tsadra.org/index.php/Books/The_Heroic_Heart"
+      ],
+      "closeout_scope": "仅复核现有3条官方媒体详情及所嵌结构化元数据；不重采书目、不扩充媒体分母",
+      "closeout_gaps": [
+        "3条原讲语言与译语均仍未知，未以网站英文或主持者身份推断。",
+        "Days of Miracles活动日期、两条时长仍缺；对谈名单仅确认两位。",
+        "圣诞场次标题2025与活动尾注2024冲突未解除。",
+        "YouTube公开详情请求节流/失败，未重试绕过；未核字幕、文字稿匹配及录制版权。"
+      ],
+      "completion_status": "首批有界目录已收尾；全生涯及全部语种材料仍未完成",
+      "lifetime_missing_count": "未建立全生涯分母，无法计算未收总条数",
+      "known_lifetime_missing_count": null,
+      "missing_count_explanation": "既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。",
+      "date_known_catalogue_count": 5,
+      "event_date_known_media_count": 29,
+      "file_saved_count": 0,
+      "unavailable_media_leads_count": 0,
+      "unavailable_catalogue_leads_count": 0
+    },
+    {
+      "person_id": "P-B02-06",
+      "name_zh": "阿姜查",
+      "original_name": "阿姜查 Ajahn Chah",
+      "aliases": [
+        "หลวงพ่อชา",
+        "หลวงปู่ชา สุภัทโท",
+        "พระโพธิญาณเถร"
+      ],
+      "region_tradition": "泰国森林传统／国际僧团",
+      "selection_reason": "泰国森林传统／国际僧团的跨地区传播和现存资料案例；不是宗教地位或修证排名。",
+      "scope": {
+        "languages_checked": [
+          "en",
+          "th search only"
+        ],
+        "work_catalogue": "4个英文集合，逐项展开38个目录子项；不等于38本独立书。",
+        "media_catalogue": "明确界定的英文译音频目录20条已全部枚举；仅前3条读取独立页；所有录音未播放",
+        "source_authority": "网站版权页明确 © Wat Nong Pah Pong；寺院传承网站"
+      },
+      "scope_summary_zh": "寺院传承站四个英文文集内38篇目、20项英语译介录音索引；仅三项录音详情页已核读。",
+      "gaps_summary_zh": "泰文及依善/老挝语资料未系统枚举；17项录音仅索引层，全部录音日期、时长、字幕及权利待核。",
+      "coverage_status": "limited_catalogue_complete: one 20-entry audio index and four selected collections with 38 child entries; no claim of complete person corpus",
+      "catalogue_record_count": 38,
+      "media_record_count": 20,
+      "all_lifetime_works_complete": false,
+      "all_media_complete": false,
+      "source_pages": [],
+      "closeout_scope": "仅复核现有Fragments of a Teaching正文、Hampstead(1)录音条目及其链接的文字版版权说明。38项是四集合内篇目，不是38独立书；未增加录音或书目。",
+      "closeout_gaps": [
+        "未为其余37篇补造原讲日期；各篇原讲语、译者与译本初版年仍须逐篇核证。",
+        "20录音未听辨、播放、时长核验或转录对齐；文字电脑版许可不可外推录音。",
+        "泰文及依善／老挝语完整目录未核，原讲语未知保留null。"
+      ],
+      "completion_status": "首批有界目录已收尾；全生涯及全部语种材料仍未完成",
+      "lifetime_missing_count": "未建立全生涯分母，无法计算未收总条数",
+      "known_lifetime_missing_count": null,
+      "missing_count_explanation": "既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。",
+      "date_known_catalogue_count": 1,
+      "event_date_known_media_count": 0,
+      "file_saved_count": 0,
+      "unavailable_media_leads_count": 0,
+      "unavailable_catalogue_leads_count": 0
+    },
+    {
+      "person_id": "P-B02-07",
+      "name_zh": "佛使",
+      "original_name": "佛使 Buddhadasa Bhikkhu",
+      "aliases": [
+        "พุทธทาส",
+        "พุทธทาสภิกขุ",
+        "พุทธทาส อินทปัญโญ"
+      ],
+      "region_tradition": "泰国上座部／教理改革与社会思想",
+      "selection_reason": "泰国上座部／教理改革与社会思想的跨地区传播和现存资料案例；不是宗教地位或修证排名。",
+      "scope": {
+        "languages_checked": [
+          "en",
+          "th search only"
+        ],
+        "work_catalogue": "寺院1982年Idappaccayata 8篇英译目录已枚举；1出版商书目及1可读19页寺院PDF；另存旧书目首页16条缓存，不能代替57项",
+        "media_catalogue": "BIA官方泰文独立页1条嵌入视频，正文可读，播放未验证；旧站3条停放索引独立列unavailable_media",
+        "source_authority": "Suan Mokkh International Dharma Hermitage官网可读取并推荐BIA及Suanmokkh资料；Kevala译者机构确认SoundCloud及YouTube入口"
+      },
+      "scope_summary_zh": "1982年八篇英译系列及另外两项出版记录；一条BIA泰文嵌入视频页、两篇泰文正文；失效旧站线索另列。",
+      "gaps_summary_zh": "未完成旧站57题书目；16条缓存书目和3条失效音频仅作线索；原语目录、系列缺集、播放与权利仍待核。",
+      "coverage_status": "partial: 10 work records (8 series texts, 1 commercial edition, 1 readable anthology); 1 official embedded media entry, 2 readable Thai text records; 3 unavailable media and 16 unavailable catalogue records excluded from accessible counts",
+      "catalogue_record_count": 10,
+      "media_record_count": 1,
+      "all_lifetime_works_complete": false,
+      "all_media_complete": false,
+      "source_pages": [],
+      "closeout_scope": "仅复核现有1982年八讲下载目录、BIA《佛教核心》第一讲页和旧站144失效入口；没有打开下载包、PDF全文或影音，不增加记录。",
+      "closeout_gaps": [
+        "另两条旧站失效影音及16条失效书目本轮未逐项重开，保留既有失效层，不称已恢复。",
+        "1982八篇原讲语、精确日及英译出版日期未能由所读目录确定。",
+        "BIA录音日期、时长、音轨语种与影音转录对齐未核；2条泰文正文未升级为影音。",
+        "现有10作品／1媒体是有限目录记录，不代表佛使全部著作、言论或影音。"
+      ],
+      "completion_status": "首批有界目录已收尾；全生涯及全部语种材料仍未完成",
+      "lifetime_missing_count": "未建立全生涯分母，无法计算未收总条数",
+      "known_lifetime_missing_count": null,
+      "missing_count_explanation": "既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。",
+      "date_known_catalogue_count": 8,
+      "event_date_known_media_count": 0,
+      "file_saved_count": 0,
+      "unavailable_media_leads_count": 3,
+      "unavailable_catalogue_leads_count": 16
+    },
+    {
+      "person_id": "P-B02-08",
+      "name_zh": "坦尼沙罗",
+      "original_name": "Ṭhānissaro Bhikkhu",
+      "aliases": [
+        "Thanissaro Bhikkhu",
+        "Ajaan Geoff",
+        "坦尼沙罗"
+      ],
+      "region_tradition": "泰国森林传统／美国寺院与英语译传",
+      "selection_reason": "泰国森林传统／美国寺院与英语译传的跨地区传播和现存资料案例；不是宗教地位或修证排名。",
+      "scope": "官方英文 Books 索引全部 title 类标题链接（按URL去重、聚合入口分开），以及2025年1月晚间开示索引全部18条；不等于毕生全部著作或全站影音。",
+      "scope_summary_zh": "官网Books标题类链接按角色拆分；2025年1月晚间开示18条索引及详情全部登记。",
+      "gaps_summary_zh": "单篇文章及集合入口未展开；其他月份、晨间讲座和其他语种未取全；逐本初版、修订与权利未核完。",
+      "coverage_status": {
+        "books": "all title-class anchors extracted; not guaranteed every Books link; 103 catalogue title entries split by role plus 4 aggregate entrypoints; no claim of complete bibliography",
+        "media": "all_listed_January_2025_evening_talks; not_all_talks_ever_given"
+      },
+      "catalogue_record_count": 103,
+      "media_record_count": 18,
+      "all_lifetime_works_complete": false,
+      "all_media_complete": false,
+      "source_pages": [],
+      "closeout_scope": "103 official Books relationship records plus 4 separately excluded aggregate entrypoints; all 18 entries in January 2025 official evening-talk index; local files audit and two official detail-page rechecks only; not lifetime bibliography or all media",
+      "closeout_gaps": [
+        "18份MP3均已解析，仍未听核或与转录逐句匹配。",
+        "本次仅重核两条媒体详情，其余16条沿用先前详情证据。",
+        "103条是按著作、译编及关联角色划分的目录记录，不是103部本人独著。",
+        "其他月份、晨间及其他语种未采齐；作品首版日期、原始录制背景及录音再发布许可仍待核。",
+        "PDF许可沿用既有版权页核验，本次仅重验文件；未全文阅读。"
+      ],
+      "completion_status": "首批有界目录已收尾；全生涯及全部语种材料仍未完成",
+      "lifetime_missing_count": "未建立全生涯分母，无法计算未收总条数",
+      "closeout_file_status": {
+        "person_metadata_refresh": {
+          "saved_audio_files": 18,
+          "saved_text_files": 1,
+          "media_fully_listened_or_transcript_matched": 0
+        },
+        "standalone_count_refresh": {
+          "media_downloads": 18,
+          "pdf_files_present": 1
+        },
+        "coverage_status": "January 2025 bounded index: 18 catalogued and existing MP3 files technically audited; two details rechecked online; zero listened"
+      },
+      "known_lifetime_missing_count": null,
+      "missing_count_explanation": "既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。",
+      "date_known_catalogue_count": 15,
+      "event_date_known_media_count": 18,
+      "file_saved_count": 18,
+      "unavailable_media_leads_count": 0,
+      "unavailable_catalogue_leads_count": 0
+    },
+    {
+      "person_id": "P-B02-09",
+      "name_zh": "铃木俊隆",
+      "original_name": "铃木俊隆",
+      "aliases": [
+        "Shunryu Suzuki",
+        "Shunryū Suzuki",
+        "鈴木俊隆",
+        "Suzuki Roshi",
+        "祥岳俊隆"
+      ],
+      "region_tradition": "日本曹洞禅／美国移民与禅修社群",
+      "selection_reason": "日本曹洞禅／美国移民与禅修社群的跨地区传播和现存资料案例；不是宗教地位或修证排名。",
+      "scope": {
+        "works_catalogue": "https://www.cuke.com/bibliography/bibliog.html",
+        "media_catalogue": "https://suzukiroshi.engagewisdom.com/sr",
+        "catalogue_counts": {
+          "sfzc_records": 440,
+          "cuke_partial_and_complete_lectures": 448,
+          "cuke_with_audio": 306
+        },
+        "count_caveat": "档案口径不同，440包括他人主持葬礼，均非本人独立讲座净数。"
+      },
+      "scope_summary_zh": "Cuke个人书目区12项标题，加一项日译本；SFZC关联档案三项录音。",
+      "gaps_summary_zh": "个人书目含传记与回忆录，需进一步区分作者与版本；日文全部版本及数百条档案录音尚未枚举、听核。",
+      "coverage_status": "partial",
+      "catalogue_record_count": 13,
+      "media_record_count": 3,
+      "all_lifetime_works_complete": false,
+      "all_media_complete": false,
+      "source_pages": [],
+      "closeout_scope": "复核已有三条机构影音的公开网页/HTML元数据；不播放、不下载媒体或全文，不扩大档案枚举；大行另核已有英文目录的三组版本关系。",
+      "closeout_gaps": [
+        "时长、实际音轨/字幕语言及逐字稿与媒体对应仍未听核；未知为null。",
+        "Cuke的类别许可与Engage Wisdom具体文件版本未逐文件对勘。",
+        "现有出版记录数包含译本、版本、传记或混合目录项，不等于独立本人著作数。"
+      ],
+      "completion_status": "首批有界目录已收尾；全生涯及全部语种材料仍未完成",
+      "lifetime_missing_count": "未建立全生涯分母，无法计算未收总条数",
+      "known_lifetime_missing_count": null,
+      "missing_count_explanation": "既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。",
+      "date_known_catalogue_count": 3,
+      "event_date_known_media_count": 3,
+      "file_saved_count": 0,
+      "unavailable_media_leads_count": 0,
+      "unavailable_catalogue_leads_count": 0
+    },
+    {
+      "person_id": "P-B02-10",
+      "name_zh": "大行",
+      "original_name": "大行",
+      "aliases": [
+        "Daehaeng",
+        "대행",
+        "大行",
+        "Daehaeng Kun Sunim",
+        "대행선사"
+      ],
+      "region_tradition": "韩国禅／尼众与在家修行",
+      "selection_reason": "韩国禅／尼众与在家修行的跨地区传播和现存资料案例；不是宗教地位或修证排名。",
+      "scope": {
+        "works_catalogue": "https://hanmaum.org/hanmaum_library?me_code=4080000000",
+        "english_catalogue": "https://hanmaumbooks.org/",
+        "media_catalogue": "https://hanmaum.org/hanmaum_05?me_code=4060101000",
+        "catalogue_counts": {
+          "works_and_media_mixed": 54,
+          "theme_talks": 227
+        },
+        "count_caveat": "54为书籍与媒体混合介绍，227为主题法谈条目，不能相加作著作数。"
+      },
+      "scope_summary_zh": "韩文官方五页54个混合目录项与英文页17命名项；另三项韩文主题法谈。",
+      "gaps_summary_zh": "韩英目录之间仍需实体及版本去重；含他人材料，不全是本人作品；全部主题法谈与时长、字幕、许可待核。",
+      "coverage_status": "partial",
+      "catalogue_record_count": 71,
+      "media_record_count": 3,
+      "all_lifetime_works_complete": false,
+      "all_media_complete": false,
+      "source_pages": [],
+      "closeout_scope": "复核已有三条机构影音的公开网页/HTML元数据；不播放、不下载媒体或全文，不扩大档案枚举；大行另核已有英文目录的三组版本关系。",
+      "closeout_gaps": [
+        "时长、实际音轨/字幕语言及逐字稿与媒体对应仍未听核；未知为null。",
+        "未为韩文影音找到经核对应的英文翻译版；不能由书目语言推定视频译语。",
+        "现有出版记录数包含译本、版本、传记或混合目录项，不等于独立本人著作数。"
+      ],
+      "completion_status": "首批有界目录已收尾；全生涯及全部语种材料仍未完成",
+      "lifetime_missing_count": "未建立全生涯分母，无法计算未收总条数",
+      "known_lifetime_missing_count": null,
+      "missing_count_explanation": "既定有界目录可说明已收范围；尚无可核全生涯分母，未收总条数不能计算。",
+      "date_known_catalogue_count": 0,
+      "event_date_known_media_count": 3,
+      "file_saved_count": 0,
+      "unavailable_media_leads_count": 0,
+      "unavailable_catalogue_leads_count": 0
+    }
+  ],
+  "changes": [
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-279e447070f1",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250102-meaningful-freedom.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-02_250102_Meaningful_Freedom.mp3",
+        "sha256": "7608e10084f2ed601adf863708d0761ef68f5fdaac5efb5bff65f5ec7c45ac57",
+        "bytes": null,
+        "duration_seconds_file": 970.997551,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "event_date_as_source": "2025-01-02",
+        "date_basis": null,
+        "publication_date_as_source": null,
+        "transcript_status": "official_index_marks_transcribed",
+        "transcript_url": null,
+        "language": "en",
+        "language_basis": null,
+        "rights": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "detail_metadata_reverified_on": null
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-02_250102_Meaningful_Freedom.mp3",
+        "sha256": "7608e10084f2ed601adf863708d0761ef68f5fdaac5efb5bff65f5ec7c45ac57",
+        "bytes": 8603648,
+        "duration_seconds_file": 970.997551,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false,
+        "event_date_as_source": "2025-01-02",
+        "date_basis": "official detail page displayed date; separate publication date unknown",
+        "publication_date_as_source": null,
+        "transcript_status": "official detail page English transcript present; opening inspected; not fully critically read or audio-matched",
+        "transcript_url": "https://www.dhammatalks.org/audio/evening/2025/250102-meaningful-freedom.html",
+        "language": "en",
+        "language_basis": "official English transcript; spoken audio not verified",
+        "rights": {
+          "permission": "official page explicitly offers MP3 download",
+          "scope": "download availability verified; independent redistribution/adaptation licence not established",
+          "evidence_url": "https://www.dhammatalks.org/audio/evening/2025/250102-meaningful-freedom.html"
+        },
+        "detail_metadata_reverified_on": "2026-10-18"
+      },
+      "evidence_url": "https://www.dhammatalks.org/audio/evening/2025/250102-meaningful-freedom.html",
+      "locator": "title/date/download at web lines28–32; transcript starts33; official MP3 href checked from HTML when retrieval succeeds"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-abe37131419e",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250103-desire-is-part-of-the-path.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-03_250103_Desire_Is_Part_of_the_Path.mp3",
+        "sha256": "4959018b6e7af1b54ac28f25f1646345b2130bbae340701acfa46b542a2520be",
+        "bytes": null,
+        "duration_seconds_file": 1077.394286,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-03_250103_Desire_Is_Part_of_the_Path.mp3",
+        "sha256": "4959018b6e7af1b54ac28f25f1646345b2130bbae340701acfa46b542a2520be",
+        "bytes": 9560064,
+        "duration_seconds_file": 1077.394286,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-03_250103_Desire_Is_Part_of_the_Path.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-95a1679f5f7f",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250104-awaken-to-your-potentials.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-04_250104_Awaken_to_Your_Potentials.mp3",
+        "sha256": "c64aab05dfff5837e4b3df27ab93e79dc025f7059cac989b4d2704feb968380b",
+        "bytes": null,
+        "duration_seconds_file": 664.346122,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-04_250104_Awaken_to_Your_Potentials.mp3",
+        "sha256": "c64aab05dfff5837e4b3df27ab93e79dc025f7059cac989b4d2704feb968380b",
+        "bytes": 6109184,
+        "duration_seconds_file": 664.346122,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-04_250104_Awaken_to_Your_Potentials.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-305548c95791",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250105-bless-yourself.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-05_250105_Bless_Yourself.mp3",
+        "sha256": "2591800715464066738e027417030ca63e15875bb2ace85f9d40b8d67d1a90ac",
+        "bytes": null,
+        "duration_seconds_file": 943.777959,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-05_250105_Bless_Yourself.mp3",
+        "sha256": "2591800715464066738e027417030ca63e15875bb2ace85f9d40b8d67d1a90ac",
+        "bytes": 7307264,
+        "duration_seconds_file": 943.777959,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-05_250105_Bless_Yourself.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-c5ccac845711",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250106-keeping-the-buddha-in-mind.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-06_250106_Keeping_the_Buddha_in_Mind.mp3",
+        "sha256": "df270618582d72a6544b7bdea9b90383350fbc42c8319939fc3af52a114485b1",
+        "bytes": null,
+        "duration_seconds_file": 760.607347,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-06_250106_Keeping_the_Buddha_in_Mind.mp3",
+        "sha256": "df270618582d72a6544b7bdea9b90383350fbc42c8319939fc3af52a114485b1",
+        "bytes": 6629376,
+        "duration_seconds_file": 760.607347,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-06_250106_Keeping_the_Buddha_in_Mind.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-df41dc004d42",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250111-admirable-friendship-inside-out.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-11_250111_Admirable_Friendship,_Inside_&_Out.mp3",
+        "sha256": "9b688f9cbd67eadbbf0603f02073980fac520bd498a027ac168f2e75b9b1204a",
+        "bytes": null,
+        "duration_seconds_file": 864.757551,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-11_250111_Admirable_Friendship,_Inside_&_Out.mp3",
+        "sha256": "9b688f9cbd67eadbbf0603f02073980fac520bd498a027ac168f2e75b9b1204a",
+        "bytes": 7927808,
+        "duration_seconds_file": 864.757551,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-11_250111_Admirable_Friendship,_Inside_&_Out.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-67d45c576e93",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250112-work-on-your-mind.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-12_250112_Work_on_Your_Mind.mp3",
+        "sha256": "e6eec09fe7b2b6841a0fd27f36287e96b787e45452531419e1158da46ddc492d",
+        "bytes": null,
+        "duration_seconds_file": 799.582041,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-12_250112_Work_on_Your_Mind.mp3",
+        "sha256": "e6eec09fe7b2b6841a0fd27f36287e96b787e45452531419e1158da46ddc492d",
+        "bytes": 6539264,
+        "duration_seconds_file": 799.582041,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-12_250112_Work_on_Your_Mind.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-ef573262a2dc",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250113-when-the-mind-is-still.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-13_250113_When_the_Mind_Is_Still.mp3",
+        "sha256": "cd3f0c6f31700f8d14aa63c51cdaf4e76a20a498a6436e58396edfbb65991e03",
+        "bytes": null,
+        "duration_seconds_file": 837.642449,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-13_250113_When_the_Mind_Is_Still.mp3",
+        "sha256": "cd3f0c6f31700f8d14aa63c51cdaf4e76a20a498a6436e58396edfbb65991e03",
+        "bytes": 7563264,
+        "duration_seconds_file": 837.642449,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-13_250113_When_the_Mind_Is_Still.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-a0cdc1694b6b",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250114-a-good-path-to-be-on.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-14_250114_A_Good_Path_to_Be_On.mp3",
+        "sha256": "6b87c4cd4064137da183879112d1a209a21356b71a7a80a3d96d135e2b77a475",
+        "bytes": null,
+        "duration_seconds_file": 817.319184,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-14_250114_A_Good_Path_to_Be_On.mp3",
+        "sha256": "6b87c4cd4064137da183879112d1a209a21356b71a7a80a3d96d135e2b77a475",
+        "bytes": 7266304,
+        "duration_seconds_file": 817.319184,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-14_250114_A_Good_Path_to_Be_On.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-b0da23a043e0",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250115-up-for-the-challenge.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-15_250115_Up_for_the_Challenge.mp3",
+        "sha256": "93714319b28772f22848228f7000eccf5a8cab30be375cb8aac77b3f31ee2ea6",
+        "bytes": null,
+        "duration_seconds_file": 910.367347,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-15_250115_Up_for_the_Challenge.mp3",
+        "sha256": "93714319b28772f22848228f7000eccf5a8cab30be375cb8aac77b3f31ee2ea6",
+        "bytes": 8040448,
+        "duration_seconds_file": 910.367347,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-15_250115_Up_for_the_Challenge.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-3975d54de3e4",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250117-positive-capability.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-17_250117_Positive_Capability.mp3",
+        "sha256": "551ee22161df44c3996411d54e55af0dc73793f6ad2b0704dc55e2ebddf5ad07",
+        "bytes": null,
+        "duration_seconds_file": 653.792653,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-17_250117_Positive_Capability.mp3",
+        "sha256": "551ee22161df44c3996411d54e55af0dc73793f6ad2b0704dc55e2ebddf5ad07",
+        "bytes": 5896192,
+        "duration_seconds_file": 653.792653,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-17_250117_Positive_Capability.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-546a9c4c3452",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250118-inner-authorities.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-18_250118_Inner_Authorities.mp3",
+        "sha256": "11ad8774589c013affdeb9ef908e6a33d254a5f5c82b4ef2ff5ecf00ca2e2c06",
+        "bytes": null,
+        "duration_seconds_file": 800.20898,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-18_250118_Inner_Authorities.mp3",
+        "sha256": "11ad8774589c013affdeb9ef908e6a33d254a5f5c82b4ef2ff5ecf00ca2e2c06",
+        "bytes": 7344128,
+        "duration_seconds_file": 800.20898,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-18_250118_Inner_Authorities.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-0188015ed9f3",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250119-people-of-integrity.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-19_250119_People_of_Integrity.mp3",
+        "sha256": "2800fdbe31aac3827c4078fa2504bf669bf4410fe57a60580e610a1a287a1d1e",
+        "bytes": null,
+        "duration_seconds_file": 529.371429,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-19_250119_People_of_Integrity.mp3",
+        "sha256": "2800fdbe31aac3827c4078fa2504bf669bf4410fe57a60580e610a1a287a1d1e",
+        "bytes": 4937728,
+        "duration_seconds_file": 529.371429,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-19_250119_People_of_Integrity.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-7685bf5e438c",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250120-a-happy-tradition.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-20_250120_A_Happy_Tradition.mp3",
+        "sha256": "e28eac9aa41eb0b1de890b9b2df302a4fe8a61cbe1e5eac3de860bb4b56a3db0",
+        "bytes": null,
+        "duration_seconds_file": 701.857959,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-20_250120_A_Happy_Tradition.mp3",
+        "sha256": "e28eac9aa41eb0b1de890b9b2df302a4fe8a61cbe1e5eac3de860bb4b56a3db0",
+        "bytes": 6299648,
+        "duration_seconds_file": 701.857959,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-20_250120_A_Happy_Tradition.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-db1f8deca2ed",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250121-help-others-help-yourself.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-21_250121_Help_Others,_Help_Yourself.mp3",
+        "sha256": "ccff567cdf8867511ca901c95bebb14b1fa2b92cd070fb283eef87abcfe1c1b8",
+        "bytes": null,
+        "duration_seconds_file": 743.183673,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-21_250121_Help_Others,_Help_Yourself.mp3",
+        "sha256": "ccff567cdf8867511ca901c95bebb14b1fa2b92cd070fb283eef87abcfe1c1b8",
+        "bytes": 6883328,
+        "duration_seconds_file": 743.183673,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-21_250121_Help_Others,_Help_Yourself.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-d50a3124f62c",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250122-break-things-down.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-22_250122_Break_Things_Down.mp3",
+        "sha256": "823679659c518ec350c589c5686323349358488d3512dcfd695572a0b49309dc",
+        "bytes": null,
+        "duration_seconds_file": 845.740408,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-22_250122_Break_Things_Down.mp3",
+        "sha256": "823679659c518ec350c589c5686323349358488d3512dcfd695572a0b49309dc",
+        "bytes": 7481344,
+        "duration_seconds_file": 845.740408,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-22_250122_Break_Things_Down.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-9487de31e64d",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250124-feeding-off-of-others.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-24_250124_Feeding_Off_of_Others.mp3",
+        "sha256": "defd96c7693379105ada0ba7bd031549a6fd48dd5c7f2d54f847272bdd962a52",
+        "bytes": null,
+        "duration_seconds_file": 553.299592,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-24_250124_Feeding_Off_of_Others.mp3",
+        "sha256": "defd96c7693379105ada0ba7bd031549a6fd48dd5c7f2d54f847272bdd962a52",
+        "bytes": 5085184,
+        "duration_seconds_file": 553.299592,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false
+      },
+      "evidence_url": "授权文件/Thanissaro_2025-01-24_250124_Feeding_Off_of_Others.mp3",
+      "locator": "AUDIO_DOWNLOAD_MANIFEST.json record by catalogue_url; actual SHA-256 and 文件容器解析 format/stream parse"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "M-e9c91ed6bd24",
+      "record_group": "media",
+      "source_url": "https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html",
+      "previous_fields": {
+        "access_status": "individual_page_fetched_and_metadata_checked; audio_not_downloaded_or_listened",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-31_Do_Maintain_Use.mp3",
+        "sha256": "fd38617344e7f078246b92a17a9009a7d5951d07adc3ede7208cc41955f81e63",
+        "bytes": null,
+        "duration_seconds_file": 1016.946939,
+        "duration_basis": null,
+        "format_as_source": null,
+        "local_format": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "event_date_as_source": "2025-01-31",
+        "date_basis": null,
+        "publication_date_as_source": null,
+        "transcript_status": "official_index_marks_transcribed",
+        "transcript_url": null,
+        "language": "en",
+        "language_basis": null,
+        "rights": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "detail_metadata_reverified_on": null
+      },
+      "revised_fields": {
+        "access_status": "official_page_previously_checked; local_mp3_present_and_reparsed; not_listened_or_transcript_matched",
+        "download_status": "official_explicit_download_saved_private_copy",
+        "local_filename": "Thanissaro_2025-01-31_Do_Maintain_Use.mp3",
+        "sha256": "fd38617344e7f078246b92a17a9009a7d5951d07adc3ede7208cc41955f81e63",
+        "bytes": 9505255,
+        "duration_seconds_file": 1016.946939,
+        "duration_basis": "local 文件容器解析 container parsing, not webpage duration or content verification",
+        "format_as_source": null,
+        "local_format": "MP3",
+        "playback_verified": false,
+        "transcript_matched": false,
+        "event_date_as_source": "2025-01-31",
+        "date_basis": "official detail page displayed date; separate publication date unknown",
+        "publication_date_as_source": null,
+        "transcript_status": "official detail page English transcript present; opening inspected; not fully critically read or audio-matched",
+        "transcript_url": "https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html",
+        "language": "en",
+        "language_basis": "official English transcript; spoken audio not verified",
+        "rights": {
+          "permission": "official page explicitly offers MP3 download",
+          "scope": "download availability verified; independent redistribution/adaptation licence not established",
+          "evidence_url": "https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html"
+        },
+        "detail_metadata_reverified_on": "2026-10-18"
+      },
+      "evidence_url": "https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html",
+      "locator": "title/date/download at web lines22–26; transcript starts28; official MP3 href checked from HTML when retrieval succeeds"
+    },
+    {
+      "person_id": "P-B02-08",
+      "record_id": "C-37a21fd9fe5d",
+      "record_group": "catalogue",
+      "source_url": "https://www.dhammatalks.org/books/BuddhasTeachings/",
+      "previous_fields": {
+        "access_status": "official_index_read; individual_book_not_read",
+        "download_status": "授权PDF已保存；版权页及一短句已核验",
+        "local_filename": null,
+        "sha256": null,
+        "bytes": null,
+        "rights": null,
+        "reading_status": "仅读目录或已注明局部正文；未逐本通读"
+      },
+      "revised_fields": {
+        "access_status": "official_index_and_copyright_page_previously_checked; local_pdf_present_and_metadata_reparsed",
+        "download_status": "authorized_pdf_saved",
+        "local_filename": "Thanissaro_The_Buddhas_Teachings_251113.pdf",
+        "sha256": "874a313246339efcae76310c468309604ecf765eea007a34ffdd5d8963570cd5",
+        "bytes": 472409,
+        "rights": {
+          "license": "CC BY-NC 4.0 (book says Unported; linked deed is International)",
+          "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "rights_holder": "Ṭhānissaro Bhikkhu, copyright 2016",
+          "verification_status": "existing copyright-page verification carried forward, not independently repeated in closeout"
+        },
+        "reading_status": "copyright page previously checked; full book not read"
+      },
+      "evidence_url": "授权文件/LICENSE_AND_PROVENANCE.json",
+      "locator": {
+        "pdf_page_1based": 4,
+        "printed_page": "unpaginated front matter"
+      }
+    },
+    {
+      "person_id": "P-B02-01",
+      "record_id": "M-b4ae13901219",
+      "record_group": "media",
+      "source_url": "https://dbs.ddm.org.tw/default-ddmtw/xmnews/cont?sid=0Q090332601658462452&xsmsid=0L099307587339841184",
+      "previous_fields": {
+        "language": "中文；未實聽核對",
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_languages": null,
+        "language_basis": null,
+        "event_date_as_source": null,
+        "recording_date": null,
+        "duration_seconds_file": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "verified_timecodes": null,
+        "listened_or_watched": null,
+        "download_status": "not_downloaded",
+        "checked_at": null,
+        "publication_date_as_source": "2026-03-31",
+        "date_basis": "官方頁刊登日或YouTube上傳日；非錄製日",
+        "page_modified_date": null,
+        "series": "聖嚴法師大法鼓",
+        "episode_number": null,
+        "locator": null,
+        "duration_as_source": null,
+        "transcript_status": "官方頁有節錄文字，未確認逐字稿",
+        "transcript_url": null,
+        "transcript_has_timecodes": null,
+        "access_status": "前兩筆官方HTML已讀，第三筆官方頻道搜尋索引；播放器請求受節流，未播放",
+        "rights": "保留版權；公開瀏覽不等於可下載再利用"
+      },
+      "revised_fields": {
+        "language": null,
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_languages": null,
+        "language_basis": "网页文字、中文DC.Language或中英标题不证明原讲/口译语；未实听，未见明确音轨语言声明。",
+        "event_date_as_source": null,
+        "recording_date": null,
+        "duration_seconds_file": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "verified_timecodes": [],
+        "listened_or_watched": false,
+        "download_status": "not_downloaded",
+        "checked_at": "2026-10-18",
+        "publication_date_as_source": "2026-03-31",
+        "date_basis": "官方网页标题下刊登/展示日期；非原讲、拍摄或YouTube上传日期",
+        "page_modified_date": "2026-04-03",
+        "series": "聖嚴法師大法鼓",
+        "episode_number": "0630",
+        "locator": "大法鼓 0630",
+        "duration_as_source": null,
+        "transcript_status": "官方页面有节录文字，未标逐字且未与音讯匹配",
+        "transcript_url": "https://dbs.ddm.org.tw/default-ddmtw/xmnews/cont?sid=0Q090332601658462452&xsmsid=0L099307587339841184",
+        "transcript_has_timecodes": false,
+        "access_status": "官方详情HTML可读，嵌入YouTube关联已核；无播放核验",
+        "rights": {
+          "copyright_notice": "法鼓山版權所有 All Rights Reserved",
+          "permission_to_download": null,
+          "permission_to_redistribute": null,
+          "basis": "本页页脚；未见本条明确下载/再利用授权；©2026不是录制年"
+        }
+      },
+      "evidence_url": "https://dbs.ddm.org.tw/default-ddmtw/xmnews/cont?sid=0Q090332601658462452&xsmsid=0L099307587339841184",
+      "locator": "页面标题、日期行、影片名称/说明、更新日期、版权页脚；HTML iframe/YouTube链接"
+    },
+    {
+      "person_id": "P-B02-01",
+      "record_id": "M-fedc5a8892bd",
+      "record_group": "media",
+      "source_url": "https://ddm.org.tw/default-mwcs/xmnews/cont?sid=0L175409938379432765&xsmsid=0L174612598625785226",
+      "previous_fields": {
+        "language": "中文；未實聽核對",
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_languages": null,
+        "language_basis": null,
+        "event_date_as_source": null,
+        "recording_date": null,
+        "duration_seconds_file": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "verified_timecodes": null,
+        "listened_or_watched": null,
+        "download_status": "not_downloaded",
+        "checked_at": null,
+        "publication_date_as_source": "2021-06-24",
+        "date_basis": "官方頁刊登日或YouTube上傳日；非錄製日",
+        "page_modified_date": null,
+        "series": "聖嚴法師大法鼓",
+        "episode_number": null,
+        "locator": null,
+        "duration_as_source": null,
+        "transcript_status": "頁面有影片說明，非完整逐字稿",
+        "transcript_url": null,
+        "transcript_has_timecodes": null,
+        "access_status": "前兩筆官方HTML已讀，第三筆官方頻道搜尋索引；播放器請求受節流，未播放",
+        "rights": "保留版權；公開瀏覽不等於可下載再利用"
+      },
+      "revised_fields": {
+        "language": null,
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_languages": null,
+        "language_basis": "网页文字、中文DC.Language或中英标题不证明原讲/口译语；未实听，未见明确音轨语言声明。",
+        "event_date_as_source": null,
+        "recording_date": null,
+        "duration_seconds_file": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "verified_timecodes": [],
+        "listened_or_watched": false,
+        "download_status": "not_downloaded",
+        "checked_at": "2026-10-18",
+        "publication_date_as_source": "2021-06-24",
+        "date_basis": "官方网页标题下刊登/展示日期；非原讲、拍摄或YouTube上传日期",
+        "page_modified_date": "2021-06-24",
+        "series": "聖嚴法師大法鼓",
+        "episode_number": "0496",
+        "locator": "大法鼓 0496",
+        "duration_as_source": null,
+        "transcript_status": "官方影片说明/问题导语，非逐字稿",
+        "transcript_url": "https://ddm.org.tw/default-mwcs/xmnews/cont?sid=0L175409938379432765&xsmsid=0L174612598625785226",
+        "transcript_has_timecodes": false,
+        "access_status": "官方详情HTML可读，嵌入YouTube关联已核；无播放核验",
+        "rights": {
+          "copyright_notice": "法鼓山版權所有 All Rights Reserved",
+          "permission_to_download": null,
+          "permission_to_redistribute": null,
+          "basis": "本页页脚；未见本条明确下载/再利用授权；©2026不是录制年"
+        }
+      },
+      "evidence_url": "https://ddm.org.tw/default-mwcs/xmnews/cont?sid=0L175409938379432765&xsmsid=0L174612598625785226",
+      "locator": "页面标题、日期行、影片名称/说明、更新日期、版权页脚；HTML iframe/YouTube链接"
+    },
+    {
+      "person_id": "P-B02-01",
+      "record_id": "M-72ae6cd7ab5b",
+      "record_group": "media",
+      "source_url": "https://www.youtube.com/watch?v=fSdiKe0wCVk",
+      "previous_fields": {
+        "language": "中文；未實聽核對",
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_languages": null,
+        "language_basis": null,
+        "event_date_as_source": null,
+        "recording_date": null,
+        "duration_seconds_file": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "verified_timecodes": null,
+        "listened_or_watched": null,
+        "download_status": "not_downloaded",
+        "checked_at": null,
+        "publication_date_as_source": "2012-02-21",
+        "date_basis": "官方頁刊登日或YouTube上傳日；非錄製日",
+        "historical_unverified_date": null,
+        "series": "聖嚴法師大法鼓",
+        "episode_number": null,
+        "transcript_status": "搜尋索引有說明，字幕未核",
+        "access_status": "前兩筆官方HTML已讀，第三筆官方頻道搜尋索引；播放器請求受節流，未播放",
+        "rights": "保留版權；公開瀏覽不等於可下載再利用"
+      },
+      "revised_fields": {
+        "language": null,
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_languages": null,
+        "language_basis": "网页文字、中文DC.Language或中英标题不证明原讲/口译语；未实听，未见明确音轨语言声明。",
+        "event_date_as_source": null,
+        "recording_date": null,
+        "duration_seconds_file": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "verified_timecodes": [],
+        "listened_or_watched": false,
+        "download_status": "not_downloaded",
+        "checked_at": "2026-10-18",
+        "publication_date_as_source": null,
+        "date_basis": "原目录2012-02-21仅旧搜索索引，本次详情无法访问；转存historical_unverified_date，不继续当已核日期",
+        "historical_unverified_date": "2012-02-21",
+        "series": "聖嚴法師大法鼓（原记录，集号本次未核）",
+        "episode_number": null,
+        "transcript_status": "未取得字幕或详情文字",
+        "access_status": "YouTube详情公开详情访问失败；普通HTTP网页请求返回Tunnel connection failed:403 Forbidden；未绕过限制",
+        "rights": {
+          "copyright_notice": null,
+          "permission_to_download": null,
+          "permission_to_redistribute": null,
+          "basis": "本次未取得权利条款；保留待核，不根据公开链接推许可"
+        }
+      },
+      "evidence_url": "https://www.youtube.com/watch?v=fSdiKe0wCVk",
+      "locator": "本次访问结果：web无法读取；HTTP隧道403；非证明影片已下架"
+    },
+    {
+      "person_id": "P-B02-02",
+      "record_id": "M-012ff8eefcae",
+      "record_group": "media",
+      "source_url": "https://www.fgs.video/detail/videos/佛法滿人間/video/5849742857001/佛法滿人間-第90則-心能轉境-the-mind-can-transform-an-external-state",
+      "previous_fields": {
+        "language": "中文；未實聽核對",
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_languages": null,
+        "language_basis": null,
+        "event_date_as_source": null,
+        "recording_date": null,
+        "duration_seconds_file": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "verified_timecodes": null,
+        "listened_or_watched": null,
+        "download_status": "not_downloaded",
+        "checked_at": null,
+        "publication_date_as_source": null,
+        "date_basis": null,
+        "series": "佛法滿人間 第90則／大師如是說",
+        "episode_number": null,
+        "provider_video_id": null,
+        "provider": null,
+        "locator": null,
+        "duration_as_source": null,
+        "duration_iso8601_as_source": null,
+        "duration_seconds_metadata": null,
+        "transcript_status": "官方全集頁提供講述文字；未比對音訊，不能確定逐字一致",
+        "transcript_url": "https://books.masterhsingyun.org/ArticleDetail/artcle16059",
+        "transcript_locator": null,
+        "transcript_has_timecodes": null,
+        "access_status": "官方全集明確連至此影片；直接播放器開啟超時，未實播",
+        "rights": "保留版權；公開瀏覽不等於可下載再利用"
+      },
+      "revised_fields": {
+        "language": null,
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_languages": null,
+        "language_basis": "网页文字、中文DC.Language或中英标题不证明原讲/口译语；未实听，未见明确音轨语言声明。",
+        "event_date_as_source": null,
+        "recording_date": null,
+        "duration_seconds_file": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "verified_timecodes": [],
+        "listened_or_watched": false,
+        "download_status": "not_downloaded",
+        "checked_at": "2026-10-18",
+        "publication_date_as_source": "2018-10-17T05:37:09.233Z",
+        "date_basis": "官方fgs.video HTML meta[itemprop=uploadDate]，UTC上传时间；不是原讲/录制日",
+        "series": "佛法滿人間／大師如是說",
+        "episode_number": "090",
+        "provider_video_id": "5849742857001",
+        "provider": "佛光山人間衛視／iBuddha；官方全集标明讲述者为星云大师",
+        "locator": "佛法滿人間 第90則；p390 090；video/5849742857001",
+        "duration_as_source": "5:00",
+        "duration_iso8601_as_source": "PT5M0.033S",
+        "duration_seconds_metadata": 300.033,
+        "transcript_status": "官方全集有独立讲述文章并明确链接此影片；音文一致性与逐字程度未核",
+        "transcript_url": "https://books.masterhsingyun.org/ArticleDetail/artcle16059",
+        "transcript_locator": "p390 090 心能轉境",
+        "transcript_has_timecodes": false,
+        "access_status": "fgs.video详情HTML本次HTTP200；全集文章和影片关联核实；播放器未播放",
+        "rights": {
+          "copyright_notice": "全集及影视网站为官方版权内容；本条明确许可未查得",
+          "permission_to_download": null,
+          "permission_to_redistribute": null,
+          "basis": "本次只读详情与关联文字；不将HTTP200视为下载或再发布授权"
+        }
+      },
+      "evidence_url": "https://www.fgs.video/detail/videos/佛法滿人間/video/5849742857001/佛法滿人間-第90則-心能轉境-the-mind-can-transform-an-external-state",
+      "locator": "HTML meta itemprop=uploadDate/duration；data-video-id=5849742857001；页面时长5:00；iframe Brightcove account5241932513001"
+    },
+    {
+      "person_id": "P-B02-02",
+      "record_id": "M-111a80107e02",
+      "record_group": "media",
+      "source_url": "https://www.fgs.video/detail/videos/佛法滿人間/video/5849739101001/佛法滿人間-第94則-心生萬法-the-mind-engenders-myriad-dharmas",
+      "previous_fields": {
+        "language": "中文；未實聽核對",
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_languages": null,
+        "language_basis": null,
+        "event_date_as_source": null,
+        "recording_date": null,
+        "duration_seconds_file": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "verified_timecodes": null,
+        "listened_or_watched": null,
+        "download_status": "not_downloaded",
+        "checked_at": null,
+        "publication_date_as_source": null,
+        "date_basis": null,
+        "series": "佛法滿人間 第94則／大師如是說",
+        "episode_number": null,
+        "provider_video_id": null,
+        "provider": null,
+        "locator": null,
+        "duration_as_source": null,
+        "duration_iso8601_as_source": null,
+        "duration_seconds_metadata": null,
+        "transcript_status": "官方全集頁提供講述文字；未比對音訊，不能確定逐字一致",
+        "transcript_url": "https://books.masterhsingyun.org/ArticleDetail/artcle16063",
+        "transcript_locator": null,
+        "transcript_has_timecodes": null,
+        "access_status": "官方全集明確連至此影片；直接播放器開啟超時，未實播",
+        "rights": "保留版權；公開瀏覽不等於可下載再利用"
+      },
+      "revised_fields": {
+        "language": null,
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_languages": null,
+        "language_basis": "网页文字、中文DC.Language或中英标题不证明原讲/口译语；未实听，未见明确音轨语言声明。",
+        "event_date_as_source": null,
+        "recording_date": null,
+        "duration_seconds_file": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "verified_timecodes": [],
+        "listened_or_watched": false,
+        "download_status": "not_downloaded",
+        "checked_at": "2026-10-18",
+        "publication_date_as_source": "2018-10-17T05:37:16.856Z",
+        "date_basis": "官方fgs.video HTML meta[itemprop=uploadDate]，UTC上传时间；不是原讲/录制日",
+        "series": "佛法滿人間／大師如是說",
+        "episode_number": "094",
+        "provider_video_id": "5849739101001",
+        "provider": "佛光山人間衛視／iBuddha；官方全集标明讲述者为星云大师",
+        "locator": "佛法滿人間 第94則；p406 094；video/5849739101001",
+        "duration_as_source": "5:00",
+        "duration_iso8601_as_source": "PT5M0.033S",
+        "duration_seconds_metadata": 300.033,
+        "transcript_status": "官方全集有独立讲述文章并明确链接此影片；音文一致性与逐字程度未核",
+        "transcript_url": "https://books.masterhsingyun.org/ArticleDetail/artcle16063",
+        "transcript_locator": "p406 094 心生萬法",
+        "transcript_has_timecodes": false,
+        "access_status": "fgs.video详情HTML本次HTTP200；全集文章和影片关联核实；播放器未播放",
+        "rights": {
+          "copyright_notice": "全集及影视网站为官方版权内容；本条明确许可未查得",
+          "permission_to_download": null,
+          "permission_to_redistribute": null,
+          "basis": "本次只读详情与关联文字；不将HTTP200视为下载或再发布授权"
+        }
+      },
+      "evidence_url": "https://www.fgs.video/detail/videos/佛法滿人間/video/5849739101001/佛法滿人間-第94則-心生萬法-the-mind-engenders-myriad-dharmas",
+      "locator": "HTML meta itemprop=uploadDate/duration；data-video-id=5849739101001；页面时长5:00；iframe Brightcove account5241932513001"
+    },
+    {
+      "person_id": "P-B02-02",
+      "record_id": "M-6342a4e14ca8",
+      "record_group": "media",
+      "source_url": "https://www.fgs.video/detail/videos/佛法滿人間/video/5849672493001/佛法滿人間-第53則-觀自在-the-observer-of-no-impediments",
+      "previous_fields": {
+        "language": "中文；未實聽核對",
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_languages": null,
+        "language_basis": null,
+        "event_date_as_source": null,
+        "recording_date": null,
+        "duration_seconds_file": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "verified_timecodes": null,
+        "listened_or_watched": null,
+        "download_status": "not_downloaded",
+        "checked_at": null,
+        "publication_date_as_source": null,
+        "date_basis": null,
+        "series": "佛法滿人間 第53則／大師如是說",
+        "episode_number": null,
+        "provider_video_id": null,
+        "provider": null,
+        "locator": null,
+        "duration_as_source": null,
+        "duration_iso8601_as_source": null,
+        "duration_seconds_metadata": null,
+        "transcript_status": "官方全集頁提供講述文字；未比對音訊，不能確定逐字一致",
+        "transcript_url": "https://books.masterhsingyun.org/ArticleDetail/artcle16022",
+        "transcript_locator": null,
+        "transcript_has_timecodes": null,
+        "access_status": "官方全集明確連至此影片；直接播放器開啟超時，未實播",
+        "rights": "保留版權；公開瀏覽不等於可下載再利用"
+      },
+      "revised_fields": {
+        "language": null,
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_languages": null,
+        "language_basis": "网页文字、中文DC.Language或中英标题不证明原讲/口译语；未实听，未见明确音轨语言声明。",
+        "event_date_as_source": null,
+        "recording_date": null,
+        "duration_seconds_file": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "verified_timecodes": [],
+        "listened_or_watched": false,
+        "download_status": "not_downloaded",
+        "checked_at": "2026-10-18",
+        "publication_date_as_source": "2018-10-17T01:12:40.999Z",
+        "date_basis": "官方fgs.video HTML meta[itemprop=uploadDate]，UTC上传时间；不是原讲/录制日",
+        "series": "佛法滿人間／大師如是說",
+        "episode_number": "053",
+        "provider_video_id": "5849672493001",
+        "provider": "佛光山人間衛視／iBuddha；官方全集标明讲述者为星云大师",
+        "locator": "佛法滿人間 第53則；p240 053；video/5849672493001",
+        "duration_as_source": "5:00",
+        "duration_iso8601_as_source": "PT5M0.033S",
+        "duration_seconds_metadata": 300.033,
+        "transcript_status": "官方全集有独立讲述文章并明确链接此影片；音文一致性与逐字程度未核",
+        "transcript_url": "https://books.masterhsingyun.org/ArticleDetail/artcle16022",
+        "transcript_locator": "p240 053 觀自在",
+        "transcript_has_timecodes": false,
+        "access_status": "fgs.video详情HTML本次HTTP200；全集文章和影片关联核实；播放器未播放",
+        "rights": {
+          "copyright_notice": "全集及影视网站为官方版权内容；本条明确许可未查得",
+          "permission_to_download": null,
+          "permission_to_redistribute": null,
+          "basis": "本次只读详情与关联文字；不将HTTP200视为下载或再发布授权"
+        }
+      },
+      "evidence_url": "https://www.fgs.video/detail/videos/佛法滿人間/video/5849672493001/佛法滿人間-第53則-觀自在-the-observer-of-no-impediments",
+      "locator": "HTML meta itemprop=uploadDate/duration；data-video-id=5849672493001；页面时长5:00；iframe Brightcove account5241932513001"
+    },
+    {
+      "person_id": "P-B02-09",
+      "record_id": "M-87b1338d9781",
+      "record_group": "media",
+      "source_url": "https://suzukiroshi.engagewisdom.com/talks/talking-his-disciples-about-his-illness",
+      "previous_fields": {
+        "event_date_as_source": "1971-10-09",
+        "date_type": null,
+        "publication_date_as_source": null,
+        "duration_as_source": null,
+        "timecode_status": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "translation_language": null,
+        "original_speech_language": null,
+        "archive_id": null,
+        "transcript_url": null,
+        "transcript_status": "页面有人工校录逐字稿；未复核录音",
+        "transcript_provenance": null,
+        "rights": "SFZC许可分享；Cuke档案声明佛法讲座CC BY-NC-SA 3.0 US，具体版本依来源",
+        "rights_evidence": null,
+        "rights_url": null,
+        "duration_caution": null,
+        "date_caution": null
+      },
+      "revised_fields": {
+        "event_date_as_source": "1971-10-09",
+        "date_type": "原讲日期；非网页上传日期",
+        "publication_date_as_source": null,
+        "duration_as_source": null,
+        "timecode_status": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "translation_language": null,
+        "original_speech_language": "en，夹日文词语或对话（依据现有英文校录稿，未听核）",
+        "archive_id": "SR-00186",
+        "transcript_url": "https://suzukiroshi.engagewisdom.com/talks/talking-his-disciples-about-his-illness",
+        "transcript_status": "网页列逐字稿；Notes记人工据带校订，未逐字听核；与AI Summary分开",
+        "transcript_provenance": "Barry Eisenberg；Jose Escobar录入1997；Bill Redican据带校订2001-02-09",
+        "rights": "本条Engage Wisdom页面页脚说明经San Francisco Zen Center许可分享；不是向读者授予通用转载许可。Cuke关联档案首页另称Shunryu Suzuki Dharma Talks由SFZC按CC BY-NC-SA 3.0 US授权；此声明范围为该类讲座，不自动涵盖照片、书籍、AI摘要或本站页面的所有内容；本条具体托管文件是否同一授权版本未独立确认。",
+        "rights_evidence": [
+          {
+            "url": "https://suzukiroshi.engagewisdom.com/talks/talking-his-disciples-about-his-illness",
+            "locator": "页脚 These talks are shared with the permission of San Francisco Zen Center"
+          },
+          {
+            "url": "https://www.shunryusuzuki.com/suzuki/base.htm",
+            "locator": "首页Shunryu Suzuki Dharma Talks许可段"
+          },
+          {
+            "url": "https://suzukiroshi.engagewisdom.com/sr/about",
+            "locator": "About：SFZC呈现档案；Engage Wisdom为托管平台"
+          }
+        ],
+        "rights_url": "https://suzukiroshi.engagewisdom.com/talks/talking-his-disciples-about-his-illness",
+        "duration_caution": "播放器00:00是初始显示；AI Vision Notes中的磁带盒数字不当作已核播放器总时长。",
+        "date_caution": "描述另写Sunday, October 9, 1971；1971-10-09为周六，保留网页日期，星期与日期矛盾未由原带解决。"
+      },
+      "evidence_url": "https://suzukiroshi.engagewisdom.com/talks/talking-his-disciples-about-his-illness",
+      "locator": "标题Given by日期、Serial、Notes、Transcript及页脚许可句；网页HTML文字实读，未播放或下载音频"
+    },
+    {
+      "person_id": "P-B02-09",
+      "record_id": "M-e1b986362d17",
+      "record_group": "media",
+      "source_url": "https://suzukiroshi.engagewisdom.com/talks/wherever-you-are-we-have-zen-way-practice",
+      "previous_fields": {
+        "event_date_as_source": "1971-08-21",
+        "date_type": null,
+        "publication_date_as_source": null,
+        "duration_as_source": null,
+        "timecode_status": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "translation_language": null,
+        "original_speech_language": null,
+        "archive_id": null,
+        "transcript_url": null,
+        "transcript_status": "页面有人工校录逐字稿；未复核录音",
+        "transcript_provenance": null,
+        "rights": "SFZC许可分享；Cuke档案声明佛法讲座CC BY-NC-SA 3.0 US，具体版本依来源",
+        "rights_evidence": null,
+        "rights_url": null,
+        "duration_caution": null
+      },
+      "revised_fields": {
+        "event_date_as_source": "1971-08-21",
+        "date_type": "原讲日期；非网页上传日期",
+        "publication_date_as_source": null,
+        "duration_as_source": null,
+        "timecode_status": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "translation_language": null,
+        "original_speech_language": "en，夹日文词语或对话（依据现有英文校录稿，未听核）",
+        "archive_id": "SR-00101",
+        "transcript_url": "https://suzukiroshi.engagewisdom.com/talks/wherever-you-are-we-have-zen-way-practice",
+        "transcript_status": "网页列逐字稿；Notes记人工据带校订，未逐字听核；与AI Summary分开",
+        "transcript_provenance": "Barry Eisenberg及B. Fikes；Jose Escobar录入1997；Bill Redican据带校订2000-11-15",
+        "rights": "本条Engage Wisdom页面页脚说明经San Francisco Zen Center许可分享；不是向读者授予通用转载许可。Cuke关联档案首页另称Shunryu Suzuki Dharma Talks由SFZC按CC BY-NC-SA 3.0 US授权；此声明范围为该类讲座，不自动涵盖照片、书籍、AI摘要或本站页面的所有内容；本条具体托管文件是否同一授权版本未独立确认。",
+        "rights_evidence": [
+          {
+            "url": "https://suzukiroshi.engagewisdom.com/talks/wherever-you-are-we-have-zen-way-practice",
+            "locator": "页脚 These talks are shared with the permission of San Francisco Zen Center"
+          },
+          {
+            "url": "https://www.shunryusuzuki.com/suzuki/base.htm",
+            "locator": "首页Shunryu Suzuki Dharma Talks许可段"
+          },
+          {
+            "url": "https://suzukiroshi.engagewisdom.com/sr/about",
+            "locator": "About：SFZC呈现档案；Engage Wisdom为托管平台"
+          }
+        ],
+        "rights_url": "https://suzukiroshi.engagewisdom.com/talks/wherever-you-are-we-have-zen-way-practice",
+        "duration_caution": "播放器00:00是初始显示；AI Vision Notes中的磁带盒数字不当作已核播放器总时长。"
+      },
+      "evidence_url": "https://suzukiroshi.engagewisdom.com/talks/wherever-you-are-we-have-zen-way-practice",
+      "locator": "标题Given by日期、Serial、Notes、Transcript及页脚许可句；网页HTML文字实读，未播放或下载音频"
+    },
+    {
+      "person_id": "P-B02-09",
+      "record_id": "M-ffb60cbfd305",
+      "record_group": "media",
+      "source_url": "https://suzukiroshi.engagewisdom.com/talks/why-we-must-have-rules",
+      "previous_fields": {
+        "event_date_as_source": "1971-08-17",
+        "date_type": null,
+        "publication_date_as_source": null,
+        "duration_as_source": null,
+        "timecode_status": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "translation_language": null,
+        "original_speech_language": null,
+        "archive_id": null,
+        "transcript_url": null,
+        "transcript_status": "页面有人工校录逐字稿；未复核录音",
+        "transcript_provenance": null,
+        "rights": "SFZC许可分享；Cuke档案声明佛法讲座CC BY-NC-SA 3.0 US，具体版本依来源",
+        "rights_evidence": null,
+        "rights_url": null,
+        "duration_caution": null
+      },
+      "revised_fields": {
+        "event_date_as_source": "1971-08-17",
+        "date_type": "原讲日期；非网页上传日期",
+        "publication_date_as_source": null,
+        "duration_as_source": null,
+        "timecode_status": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "translation_language": null,
+        "original_speech_language": "en，夹日文词语或对话（依据现有英文校录稿，未听核）",
+        "archive_id": "SR-00177",
+        "transcript_url": "https://suzukiroshi.engagewisdom.com/talks/why-we-must-have-rules",
+        "transcript_status": "网页列逐字稿；Notes记人工据带校订，未逐字听核；与AI Summary分开",
+        "transcript_provenance": "Barry Eisenberg；Jose Escobar录入1997；Bill Redican据带校订2000-09-26；日语术语译释有Miyagawa Keishi协助",
+        "rights": "本条Engage Wisdom页面页脚说明经San Francisco Zen Center许可分享；不是向读者授予通用转载许可。Cuke关联档案首页另称Shunryu Suzuki Dharma Talks由SFZC按CC BY-NC-SA 3.0 US授权；此声明范围为该类讲座，不自动涵盖照片、书籍、AI摘要或本站页面的所有内容；本条具体托管文件是否同一授权版本未独立确认。",
+        "rights_evidence": [
+          {
+            "url": "https://suzukiroshi.engagewisdom.com/talks/why-we-must-have-rules",
+            "locator": "页脚 These talks are shared with the permission of San Francisco Zen Center"
+          },
+          {
+            "url": "https://www.shunryusuzuki.com/suzuki/base.htm",
+            "locator": "首页Shunryu Suzuki Dharma Talks许可段"
+          },
+          {
+            "url": "https://suzukiroshi.engagewisdom.com/sr/about",
+            "locator": "About：SFZC呈现档案；Engage Wisdom为托管平台"
+          }
+        ],
+        "rights_url": "https://suzukiroshi.engagewisdom.com/talks/why-we-must-have-rules",
+        "duration_caution": "播放器00:00是初始显示；AI Vision Notes中的磁带盒数字不当作已核播放器总时长。"
+      },
+      "evidence_url": "https://suzukiroshi.engagewisdom.com/talks/why-we-must-have-rules",
+      "locator": "标题Given by日期、Serial、Notes、Transcript及页脚许可句；网页HTML文字实读，未播放或下载音频"
+    },
+    {
+      "person_id": "P-B02-10",
+      "record_id": "M-239e4427c644",
+      "record_group": "media",
+      "source_url": "https://hanmaum.org/hanmaum_05/232",
+      "previous_fields": {
+        "event_date_as_source": "1998-03-01",
+        "date_type": null,
+        "publication_date_as_source": null,
+        "duration_as_source": null,
+        "timecode_status": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "translation_language": null,
+        "original_speech_language": null,
+        "series_number": null,
+        "archive_id": null,
+        "page_item_id": null,
+        "media_url": "https://www.youtube.com/embed/O0Br36P--3I",
+        "youtube_video_id": null,
+        "transcript_url": null,
+        "transcript_status": "韩文网页有问答文字；是否完整及与视频逐字对应未核验",
+        "rights": "HANMAUM SEONWON All Rights Reserved；禁止未经许可复制分发及上线",
+        "rights_url": null,
+        "rights_locator": null,
+        "access_status": "官方页面与嵌入播放器公开；播放可用性未实测",
+        "publication_date_type": null,
+        "publication_date_evidence_url": null
+      },
+      "revised_fields": {
+        "event_date_as_source": "1998-03-01",
+        "date_type": "原讲日期；非网页上传日期",
+        "publication_date_as_source": "2026-10-12",
+        "duration_as_source": null,
+        "timecode_status": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "translation_language": null,
+        "original_speech_language": "ko（官方韩文问答及标题；未听核音轨）",
+        "series_number": "227",
+        "archive_id": null,
+        "page_item_id": "232",
+        "media_url": "https://www.youtube.com/embed/O0Br36P--3I",
+        "youtube_video_id": "O0Br36P--3I",
+        "transcript_url": "https://hanmaum.org/hanmaum_05/232",
+        "transcript_status": "官方网页有韩文提问/大行答复正文，无可见逐段时码；未核是否与嵌入视频完整逐字对应",
+        "rights": "官网页脚声明本站提供的所有内容受版权保护，并禁止未经许可复制、分发及在线发布；范围是本站所供内容，不据此判定所有第三方作品权属。保留元数据与链接，未发现开放许可；分享按钮不视为媒体转载授权。",
+        "rights_url": "https://hanmaum.org/hanmaum_05/232",
+        "rights_locator": "HTML页脚：한마음선원 홈페이지에서 제공하는 모든 콘텐츠；무단 복제, 배포, 온라인 게시；Copyright (c)2021为站点版权标记，非讲座日期",
+        "access_status": "官方网页及YouTube嵌入链接可读取；播放、字幕轨与地区可用性未实测",
+        "publication_date_type": "官网通知列明该主题视频上传日期，非1998原讲日期",
+        "publication_date_evidence_url": "https://hanmaum.org/"
+      },
+      "evidence_url": "https://hanmaum.org/hanmaum_05/232",
+      "locator": "主标题주제법문_集数-原讲年月日、본문问答、iframe src及HTML页脚版权段；231浏览工具报错，但标准HTTP读取官方HTML成功"
+    },
+    {
+      "person_id": "P-B02-10",
+      "record_id": "M-f993b31e6c2e",
+      "record_group": "media",
+      "source_url": "https://hanmaum.org/hanmaum_05/231",
+      "previous_fields": {
+        "event_date_as_source": "1994-10-02",
+        "date_type": null,
+        "publication_date_as_source": null,
+        "duration_as_source": null,
+        "timecode_status": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "translation_language": null,
+        "original_speech_language": null,
+        "series_number": null,
+        "archive_id": null,
+        "page_item_id": null,
+        "media_url": "https://www.youtube.com/embed/genf6iEZcLQ",
+        "youtube_video_id": null,
+        "transcript_url": null,
+        "transcript_status": "韩文网页有问答文字；是否完整及与视频逐字对应未核验",
+        "rights": "HANMAUM SEONWON All Rights Reserved；禁止未经许可复制分发及上线",
+        "rights_url": null,
+        "rights_locator": null,
+        "access_status": "官方页面与嵌入播放器公开；播放可用性未实测"
+      },
+      "revised_fields": {
+        "event_date_as_source": "1994-10-02",
+        "date_type": "原讲日期；非网页上传日期",
+        "publication_date_as_source": null,
+        "duration_as_source": null,
+        "timecode_status": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "translation_language": null,
+        "original_speech_language": "ko（官方韩文问答及标题；未听核音轨）",
+        "series_number": "226",
+        "archive_id": null,
+        "page_item_id": "231",
+        "media_url": "https://www.youtube.com/embed/genf6iEZcLQ",
+        "youtube_video_id": "genf6iEZcLQ",
+        "transcript_url": "https://hanmaum.org/hanmaum_05/231",
+        "transcript_status": "官方网页有韩文提问/大行答复正文，无可见逐段时码；未核是否与嵌入视频完整逐字对应",
+        "rights": "官网页脚声明本站提供的所有内容受版权保护，并禁止未经许可复制、分发及在线发布；范围是本站所供内容，不据此判定所有第三方作品权属。保留元数据与链接，未发现开放许可；分享按钮不视为媒体转载授权。",
+        "rights_url": "https://hanmaum.org/hanmaum_05/231",
+        "rights_locator": "HTML页脚：한마음선원 홈페이지에서 제공하는 모든 콘텐츠；무단 복제, 배포, 온라인 게시；Copyright (c)2021为站点版权标记，非讲座日期",
+        "access_status": "官方网页及YouTube嵌入链接可读取；播放、字幕轨与地区可用性未实测"
+      },
+      "evidence_url": "https://hanmaum.org/hanmaum_05/231",
+      "locator": "主标题주제법문_集数-原讲年月日、본문问答、iframe src及HTML页脚版权段；231浏览工具报错，但标准HTTP读取官方HTML成功"
+    },
+    {
+      "person_id": "P-B02-10",
+      "record_id": "M-3563691bc300",
+      "record_group": "media",
+      "source_url": "https://hanmaum.org/hanmaum_05/230",
+      "previous_fields": {
+        "event_date_as_source": "1998-02-15",
+        "date_type": null,
+        "publication_date_as_source": null,
+        "duration_as_source": null,
+        "timecode_status": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "translation_language": null,
+        "original_speech_language": null,
+        "series_number": null,
+        "archive_id": null,
+        "page_item_id": null,
+        "media_url": "https://www.youtube.com/embed/ibRgmSwTwUQ",
+        "youtube_video_id": null,
+        "transcript_url": null,
+        "transcript_status": "韩文网页有问答文字；是否完整及与视频逐字对应未核验",
+        "rights": "HANMAUM SEONWON All Rights Reserved；禁止未经许可复制分发及上线",
+        "rights_url": null,
+        "rights_locator": null,
+        "access_status": "官方页面与嵌入播放器公开；播放可用性未实测"
+      },
+      "revised_fields": {
+        "event_date_as_source": "1998-02-15",
+        "date_type": "原讲日期；非网页上传日期",
+        "publication_date_as_source": null,
+        "duration_as_source": null,
+        "timecode_status": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "translation_language": null,
+        "original_speech_language": "ko（官方韩文问答及标题；未听核音轨）",
+        "series_number": "225",
+        "archive_id": null,
+        "page_item_id": "230",
+        "media_url": "https://www.youtube.com/embed/ibRgmSwTwUQ",
+        "youtube_video_id": "ibRgmSwTwUQ",
+        "transcript_url": "https://hanmaum.org/hanmaum_05/230",
+        "transcript_status": "官方网页有韩文提问/大行答复正文，无可见逐段时码；未核是否与嵌入视频完整逐字对应",
+        "rights": "官网页脚声明本站提供的所有内容受版权保护，并禁止未经许可复制、分发及在线发布；范围是本站所供内容，不据此判定所有第三方作品权属。保留元数据与链接，未发现开放许可；分享按钮不视为媒体转载授权。",
+        "rights_url": "https://hanmaum.org/hanmaum_05/230",
+        "rights_locator": "HTML页脚：한마음선원 홈페이지에서 제공하는 모든 콘텐츠；무단 복제, 배포, 온라인 게시；Copyright (c)2021为站点版权标记，非讲座日期",
+        "access_status": "官方网页及YouTube嵌入链接可读取；播放、字幕轨与地区可用性未实测"
+      },
+      "evidence_url": "https://hanmaum.org/hanmaum_05/230",
+      "locator": "主标题주제법문_集数-原讲年月日、본문问答、iframe src及HTML页脚版权段；231浏览工具报错，但标准HTTP读取官方HTML成功"
+    },
+    {
+      "person_id": "P-B02-10",
+      "record_id": "C-e2248323a753",
+      "record_group": "catalogue",
+      "source_url": "https://hanmaumbooks.org/",
+      "previous_fields": {
+        "related_titles": null,
+        "relationship_note": null,
+        "independent_original_work": null
+      },
+      "revised_fields": {
+        "related_titles": [
+          "Turning Dirt into Gold",
+          "Dancing on the Whirlwind"
+        ],
+        "relationship_note": "英语合集汇集此前两部韩英双语法谈版本，保留版本关联而非三部独立原著",
+        "independent_original_work": false
+      },
+      "evidence_url": "https://hanmaumbooks.org/",
+      "locator": "相应书名小节的previously published in Korean-English editions或ebook includes original Korean text说明"
+    },
+    {
+      "person_id": "P-B02-10",
+      "record_id": "C-57e2b29ba05d",
+      "record_group": "catalogue",
+      "source_url": "https://hanmaumbooks.org/",
+      "previous_fields": {
+        "related_titles": null,
+        "relationship_note": null,
+        "independent_original_work": null
+      },
+      "revised_fields": {
+        "related_titles": [
+          "The Doctor is In",
+          "The Healing Power of Our Inner Light"
+        ],
+        "relationship_note": "英语合集汇集此前分别出版的两部韩英双语法谈译本",
+        "independent_original_work": false
+      },
+      "evidence_url": "https://hanmaumbooks.org/",
+      "locator": "相应书名小节的previously published in Korean-English editions或ebook includes original Korean text说明"
+    },
+    {
+      "person_id": "P-B02-10",
+      "record_id": "C-e9b96c1f54ef",
+      "record_group": "catalogue",
+      "source_url": "https://hanmaumbooks.org/",
+      "previous_fields": {
+        "related_titles": null,
+        "relationship_note": null,
+        "independent_original_work": null
+      },
+      "revised_fields": {
+        "related_titles": [
+          "뜻으로 푼 금강경",
+          "The Diamond Sutra: The Great Unfolding"
+        ],
+        "relationship_note": "电子版同时含大行韩文释译；与相关英文印本建立版本关系，未由本轮核定内容完全相同",
+        "independent_original_work": false
+      },
+      "evidence_url": "https://hanmaumbooks.org/",
+      "locator": "相应书名小节的previously published in Korean-English editions或ebook includes original Korean text说明"
+    },
+    {
+      "person_id": "P-B02-06",
+      "record_id": "C-272d7c2c1acb",
+      "record_group": "catalogue",
+      "source_url": "https://www.ajahnchah.org/book/Fragments_Teaching1.php",
+      "previous_fields": {
+        "date": null,
+        "date_type": null,
+        "date_precision": null,
+        "original_talk_language": null,
+        "text_language": null,
+        "translation_publication_date": null,
+        "series": "Bodhinyana",
+        "series_position": null,
+        "transcript_status": null,
+        "web_last_update": null,
+        "web_last_update_type": null,
+        "access_status": "独立正文可读"
+      },
+      "revised_fields": {
+        "date": "1972",
+        "date_type": "讲述年份；页末脚注明向Wat Pah Pong在家社群讲授；非译本初版年",
+        "date_precision": "year",
+        "original_talk_language": null,
+        "text_language": "en",
+        "translation_publication_date": null,
+        "series": "Bodhinyana",
+        "series_position": 1,
+        "transcript_status": "英文讲述正文可读；未证明逐字转录、未与录音对齐",
+        "web_last_update": "2008-03",
+        "web_last_update_type": "页脚网页更新标记，不是讲述日期",
+        "access_status": "正文与页末脚注可读"
+      },
+      "evidence_url": "https://www.ajahnchah.org/book/Fragments_Teaching1.php",
+      "locator": "Footnotes，行67—73；脚注记1972年及Wat Pah Pong在家社群"
+    },
+    {
+      "person_id": "P-B02-06",
+      "record_id": "M-dcda3368885a",
+      "record_group": "media",
+      "source_url": "https://www.ajahnchah.org/mp3-dhammatalk/mp3-1.php",
+      "previous_fields": {
+        "date": null,
+        "date_type": null,
+        "original_talk_language": null,
+        "interpretation_audio_language": null,
+        "language_status": null,
+        "series": "MP3 Dhamma talks by Ajahn Chah",
+        "series_position": null,
+        "transcript": null,
+        "duration": null,
+        "access_status": "独立条目页与题名已读取；目录标为MP3，未播放、未下载，播放器可用性未核验",
+        "playback_verified": false,
+        "rights_license": null
+      },
+      "revised_fields": {
+        "date": null,
+        "date_type": null,
+        "original_talk_language": null,
+        "interpretation_audio_language": null,
+        "language_status": "既有目录标th/en仅保留为目录标签；本条极简详情页未提供语种说明，未听辨，不据此认定音轨组成或原讲方言",
+        "series": "MP3 Dhamma talks by Ajahn Chah",
+        "series_position": 1,
+        "transcript": null,
+        "duration": null,
+        "access_status": "独立页题名及回目录链接可读；本次web解析未显示可核的音频播放控件或文件地址；未播放、未下载",
+        "playback_verified": false,
+        "rights_license": null
+      },
+      "evidence_url": "https://www.ajahnchah.org/mp3-dhammatalk/mp3-1.php",
+      "locator": "页面行0—3：标题MP3 Dhamma talk by Ajahn Chah 1. at the Hampstead Vihara (1)"
+    },
+    {
+      "person_id": "P-B02-07",
+      "record_id": "C-81022c607a52",
+      "record_group": "catalogue",
+      "source_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "previous_fields": {
+        "date": null,
+        "date_type": null,
+        "date_precision": null,
+        "translator": null,
+        "text_language": null,
+        "original_talk_language": null,
+        "original_talk_language_note": null,
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": null,
+        "edition_date": null,
+        "transcript_status": null,
+        "rights_license": null,
+        "access_status": "寺院目录全文已读，列PDF篇名及A4页数；ZIP未下载，正文未读"
+      },
+      "revised_fields": {
+        "date": "1982",
+        "date_type": "雨安居期间原讲述年份；非英译发表年、PDF版本年或网页上传日",
+        "date_precision": "year",
+        "translator": "Tan Dhammavidu",
+        "text_language": "en",
+        "original_talk_language": null,
+        "original_talk_language_note": "所读英文目录未明说原讲语，不能只由译者存在判定为泰语",
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": 8,
+        "edition_date": null,
+        "transcript_status": "目录列8篇PDF及A4页数，未打开ZIP或各PDF；不称已读转录正文",
+        "rights_license": null,
+        "access_status": "官方目录与下载链接可读；下载包和全文未核"
+      },
+      "evidence_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "locator": "Talks and Articles A，行37—50；eight talks／rains retreat 1982／translated by Tan Dhammavidu；01—08题名表"
+    },
+    {
+      "person_id": "P-B02-07",
+      "record_id": "C-ad85ecabebe9",
+      "record_group": "catalogue",
+      "source_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "previous_fields": {
+        "date": null,
+        "date_type": null,
+        "date_precision": null,
+        "translator": null,
+        "text_language": null,
+        "original_talk_language": null,
+        "original_talk_language_note": null,
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": null,
+        "edition_date": null,
+        "transcript_status": null,
+        "rights_license": null,
+        "access_status": "寺院目录全文已读，列PDF篇名及A4页数；ZIP未下载，正文未读"
+      },
+      "revised_fields": {
+        "date": "1982",
+        "date_type": "雨安居期间原讲述年份；非英译发表年、PDF版本年或网页上传日",
+        "date_precision": "year",
+        "translator": "Tan Dhammavidu",
+        "text_language": "en",
+        "original_talk_language": null,
+        "original_talk_language_note": "所读英文目录未明说原讲语，不能只由译者存在判定为泰语",
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": 8,
+        "edition_date": null,
+        "transcript_status": "目录列8篇PDF及A4页数，未打开ZIP或各PDF；不称已读转录正文",
+        "rights_license": null,
+        "access_status": "官方目录与下载链接可读；下载包和全文未核"
+      },
+      "evidence_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "locator": "Talks and Articles A，行37—50；eight talks／rains retreat 1982／translated by Tan Dhammavidu；01—08题名表"
+    },
+    {
+      "person_id": "P-B02-07",
+      "record_id": "C-878eb9fdf57e",
+      "record_group": "catalogue",
+      "source_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "previous_fields": {
+        "date": null,
+        "date_type": null,
+        "date_precision": null,
+        "translator": null,
+        "text_language": null,
+        "original_talk_language": null,
+        "original_talk_language_note": null,
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": null,
+        "edition_date": null,
+        "transcript_status": null,
+        "rights_license": null,
+        "access_status": "寺院目录全文已读，列PDF篇名及A4页数；ZIP未下载，正文未读"
+      },
+      "revised_fields": {
+        "date": "1982",
+        "date_type": "雨安居期间原讲述年份；非英译发表年、PDF版本年或网页上传日",
+        "date_precision": "year",
+        "translator": "Tan Dhammavidu",
+        "text_language": "en",
+        "original_talk_language": null,
+        "original_talk_language_note": "所读英文目录未明说原讲语，不能只由译者存在判定为泰语",
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": 8,
+        "edition_date": null,
+        "transcript_status": "目录列8篇PDF及A4页数，未打开ZIP或各PDF；不称已读转录正文",
+        "rights_license": null,
+        "access_status": "官方目录与下载链接可读；下载包和全文未核"
+      },
+      "evidence_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "locator": "Talks and Articles A，行37—50；eight talks／rains retreat 1982／translated by Tan Dhammavidu；01—08题名表"
+    },
+    {
+      "person_id": "P-B02-07",
+      "record_id": "C-258af60fe9c5",
+      "record_group": "catalogue",
+      "source_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "previous_fields": {
+        "date": null,
+        "date_type": null,
+        "date_precision": null,
+        "translator": null,
+        "text_language": null,
+        "original_talk_language": null,
+        "original_talk_language_note": null,
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": null,
+        "edition_date": null,
+        "transcript_status": null,
+        "rights_license": null,
+        "access_status": "寺院目录全文已读，列PDF篇名及A4页数；ZIP未下载，正文未读"
+      },
+      "revised_fields": {
+        "date": "1982",
+        "date_type": "雨安居期间原讲述年份；非英译发表年、PDF版本年或网页上传日",
+        "date_precision": "year",
+        "translator": "Tan Dhammavidu",
+        "text_language": "en",
+        "original_talk_language": null,
+        "original_talk_language_note": "所读英文目录未明说原讲语，不能只由译者存在判定为泰语",
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": 8,
+        "edition_date": null,
+        "transcript_status": "目录列8篇PDF及A4页数，未打开ZIP或各PDF；不称已读转录正文",
+        "rights_license": null,
+        "access_status": "官方目录与下载链接可读；下载包和全文未核"
+      },
+      "evidence_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "locator": "Talks and Articles A，行37—50；eight talks／rains retreat 1982／translated by Tan Dhammavidu；01—08题名表"
+    },
+    {
+      "person_id": "P-B02-07",
+      "record_id": "C-e422efb89598",
+      "record_group": "catalogue",
+      "source_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "previous_fields": {
+        "date": null,
+        "date_type": null,
+        "date_precision": null,
+        "translator": null,
+        "text_language": null,
+        "original_talk_language": null,
+        "original_talk_language_note": null,
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": null,
+        "edition_date": null,
+        "transcript_status": null,
+        "rights_license": null,
+        "access_status": "寺院目录全文已读，列PDF篇名及A4页数；ZIP未下载，正文未读"
+      },
+      "revised_fields": {
+        "date": "1982",
+        "date_type": "雨安居期间原讲述年份；非英译发表年、PDF版本年或网页上传日",
+        "date_precision": "year",
+        "translator": "Tan Dhammavidu",
+        "text_language": "en",
+        "original_talk_language": null,
+        "original_talk_language_note": "所读英文目录未明说原讲语，不能只由译者存在判定为泰语",
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": 8,
+        "edition_date": null,
+        "transcript_status": "目录列8篇PDF及A4页数，未打开ZIP或各PDF；不称已读转录正文",
+        "rights_license": null,
+        "access_status": "官方目录与下载链接可读；下载包和全文未核"
+      },
+      "evidence_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "locator": "Talks and Articles A，行37—50；eight talks／rains retreat 1982／translated by Tan Dhammavidu；01—08题名表"
+    },
+    {
+      "person_id": "P-B02-07",
+      "record_id": "C-f3088641f0ef",
+      "record_group": "catalogue",
+      "source_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "previous_fields": {
+        "date": null,
+        "date_type": null,
+        "date_precision": null,
+        "translator": null,
+        "text_language": null,
+        "original_talk_language": null,
+        "original_talk_language_note": null,
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": null,
+        "edition_date": null,
+        "transcript_status": null,
+        "rights_license": null,
+        "access_status": "寺院目录全文已读，列PDF篇名及A4页数；ZIP未下载，正文未读"
+      },
+      "revised_fields": {
+        "date": "1982",
+        "date_type": "雨安居期间原讲述年份；非英译发表年、PDF版本年或网页上传日",
+        "date_precision": "year",
+        "translator": "Tan Dhammavidu",
+        "text_language": "en",
+        "original_talk_language": null,
+        "original_talk_language_note": "所读英文目录未明说原讲语，不能只由译者存在判定为泰语",
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": 8,
+        "edition_date": null,
+        "transcript_status": "目录列8篇PDF及A4页数，未打开ZIP或各PDF；不称已读转录正文",
+        "rights_license": null,
+        "access_status": "官方目录与下载链接可读；下载包和全文未核"
+      },
+      "evidence_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "locator": "Talks and Articles A，行37—50；eight talks／rains retreat 1982／translated by Tan Dhammavidu；01—08题名表"
+    },
+    {
+      "person_id": "P-B02-07",
+      "record_id": "C-7d630cb002de",
+      "record_group": "catalogue",
+      "source_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "previous_fields": {
+        "date": null,
+        "date_type": null,
+        "date_precision": null,
+        "translator": null,
+        "text_language": null,
+        "original_talk_language": null,
+        "original_talk_language_note": null,
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": null,
+        "edition_date": null,
+        "transcript_status": null,
+        "rights_license": null,
+        "access_status": "寺院目录全文已读，列PDF篇名及A4页数；ZIP未下载，正文未读"
+      },
+      "revised_fields": {
+        "date": "1982",
+        "date_type": "雨安居期间原讲述年份；非英译发表年、PDF版本年或网页上传日",
+        "date_precision": "year",
+        "translator": "Tan Dhammavidu",
+        "text_language": "en",
+        "original_talk_language": null,
+        "original_talk_language_note": "所读英文目录未明说原讲语，不能只由译者存在判定为泰语",
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": 8,
+        "edition_date": null,
+        "transcript_status": "目录列8篇PDF及A4页数，未打开ZIP或各PDF；不称已读转录正文",
+        "rights_license": null,
+        "access_status": "官方目录与下载链接可读；下载包和全文未核"
+      },
+      "evidence_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "locator": "Talks and Articles A，行37—50；eight talks／rains retreat 1982／translated by Tan Dhammavidu；01—08题名表"
+    },
+    {
+      "person_id": "P-B02-07",
+      "record_id": "C-b277f514266e",
+      "record_group": "catalogue",
+      "source_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "previous_fields": {
+        "date": null,
+        "date_type": null,
+        "date_precision": null,
+        "translator": null,
+        "text_language": null,
+        "original_talk_language": null,
+        "original_talk_language_note": null,
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": null,
+        "edition_date": null,
+        "transcript_status": null,
+        "rights_license": null,
+        "access_status": "寺院目录全文已读，列PDF篇名及A4页数；ZIP未下载，正文未读"
+      },
+      "revised_fields": {
+        "date": "1982",
+        "date_type": "雨安居期间原讲述年份；非英译发表年、PDF版本年或网页上传日",
+        "date_precision": "year",
+        "translator": "Tan Dhammavidu",
+        "text_language": "en",
+        "original_talk_language": null,
+        "original_talk_language_note": "所读英文目录未明说原讲语，不能只由译者存在判定为泰语",
+        "series": "Idappaccayata (The law of conditionality)",
+        "series_size": 8,
+        "edition_date": null,
+        "transcript_status": "目录列8篇PDF及A4页数，未打开ZIP或各PDF；不称已读转录正文",
+        "rights_license": null,
+        "access_status": "官方目录与下载链接可读；下载包和全文未核"
+      },
+      "evidence_url": "https://www.suanmokkh-idh.org/idh-downloads.html",
+      "locator": "Talks and Articles A，行37—50；eight talks／rains retreat 1982／translated by Tan Dhammavidu；01—08题名表"
+    },
+    {
+      "person_id": "P-B02-07",
+      "record_id": "M-5e9de8dd776c",
+      "record_group": "media",
+      "source_url": "https://main.bia.or.th/200220-2/",
+      "previous_fields": {
+        "date": null,
+        "date_type": null,
+        "recording_date": null,
+        "upload_date": null,
+        "original_talk_language": null,
+        "text_language": null,
+        "interpretation_audio_language": null,
+        "language_note": null,
+        "series": "BIA Legacy Records",
+        "series_position": null,
+        "archive_tag": null,
+        "transcript_status": "泰文正文可读取；机构摘要与讲述正文在页面上区分，未逐字对齐影音",
+        "duration": null,
+        "playback_verified": false,
+        "access_status": "官方独立页可读且含YouTube播放器链接；播放器工具节流，未验证播放",
+        "rights_license": null,
+        "rights_note": null
+      },
+      "revised_fields": {
+        "date": null,
+        "date_type": null,
+        "recording_date": null,
+        "upload_date": null,
+        "original_talk_language": null,
+        "text_language": "th",
+        "interpretation_audio_language": null,
+        "language_note": "网页标题、机构摘要和讲述正文为泰文；未听辨嵌入影音，音轨语种及是否有译音未独立确认",
+        "series": "คำบรรยายชุดแก่นพุทธศาสน์",
+        "series_position": 1,
+        "archive_tag": "Legacy Records",
+        "transcript_status": "机构摘要บทคัดย่อ与后续讲述正文分栏；泰文正文可读，未与音视频逐字或按时码对齐",
+        "duration": null,
+        "playback_verified": false,
+        "access_status": "BIA独立页正文可读；既有嵌入链接保留为先前所见，本次未播放，不升级为可播放影音",
+        "rights_license": null,
+        "rights_note": "未见本条明确复用许可；网页版权不可充当原讲日期或上传日期"
+      },
+      "evidence_url": "https://main.bia.or.th/200220-2/",
+      "locator": "标题行91、Legacy Records标签99、บทคัดย่อ100—105及后续分节讲述正文，如152以下"
+    },
+    {
+      "person_id": "P-B02-07",
+      "record_group": "unavailable_media",
+      "source_url": "https://www.suanmokkh.org/retreat_talks/144",
+      "previous_fields": {
+        "date": "1990-09-05",
+        "language": [
+          "th",
+          "en"
+        ],
+        "series": "Suan Mokkh international retreat talks",
+        "duration": null,
+        "transcript": null,
+        "rights": null,
+        "missing": [
+          "current_playable_media_url",
+          "duration",
+          "transcript_availability",
+          "rights_license",
+          "upload_date"
+        ],
+        "access_status": "仅官方站搜索缓存的题名/日期/系列/语言信息；打开原页返回域名停放页，媒体及文字稿未读取，不能标为可播放",
+        "title": "The Way to Buddhist Art",
+        "series_position": "2/3",
+        "url": "https://www.suanmokkh.org/retreat_talks/144",
+        "medium": "audio index record",
+        "speaker": "Buddhadasa Bhikkhu",
+        "interpreter": "Santikaro Bhikkhu; live English interpretation per indexed description",
+        "verification_level": "official_domain_search_cache_only"
+      },
+      "revised_fields": {
+        "match": {
+          "title": "The Way to Buddhist Art",
+          "url": "https://www.suanmokkh.org/retreat_talks/144"
+        },
+        "record_category": "unavailable_media",
+        "date": "1990-09-05",
+        "date_type": "先前搜索缓存所示讲述日期；本次原页无法复核，非当前上传日期",
+        "original_talk_language": null,
+        "interpretation_audio_language": null,
+        "language_note": "先前缓存的泰文及Santikaro英文口译描述仅作未重核线索，非本轮音轨核验",
+        "series": "Suan Mokkh international retreat talks",
+        "series_position": "2/3",
+        "transcript": null,
+        "duration": null,
+        "access_status": "2026-10-18重开仅返回图片与Do Not Sell or Share My Personal Information链接，未出现原讲题、音频或文字稿；继续排除出可访问影音数",
+        "verification_level": "unavailable_source_rechecked",
+        "playback_verified": false,
+        "rights_license": null
+      },
+      "evidence_url": "https://www.suanmokkh.org/retreat_talks/144",
+      "locator": "本次页面仅3行，行0图片、行2隐私链接"
+    },
+    {
+      "person_id": "P-B02-04",
+      "record_id": "M-15017f7ee41b",
+      "record_group": "media",
+      "source_url": "https://www.dalailama.com/videos/introduction-to-buddhism",
+      "previous_fields": {
+        "subtitle_status": null,
+        "transcript_status": "not verified",
+        "rights": "Copyright The Office of His Holiness the Dalai Lama; no licence established",
+        "event_date_as_source": "2021-08-11",
+        "publication_date_as_source": null,
+        "date_basis": null,
+        "original_spoken_language": null,
+        "available_language_tracks": null,
+        "language_basis": null,
+        "duration_as_source": "1 hour 15 minutes (page prints I hour)",
+        "duration_normalized_seconds_from_metadata": null,
+        "duration_basis": null,
+        "speaker_scope": null,
+        "series": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "verification_status": null
+      },
+      "revised_fields": {
+        "subtitle_status": "网页未明确列字幕轨，未打开播放器核验",
+        "transcript_status": "当前详情未关联可确配全文；导航中的Articles, Transcripts and Interviews不作为本场文字稿",
+        "rights": "页面明示All Content Copyright The Office of His Holiness the Dalai Lama；有Download Video/Audio选项，但本次未下载，未据此认定再发布或改编许可",
+        "event_date_as_source": "2021-08-11",
+        "publication_date_as_source": null,
+        "date_basis": "Description与Date一致明确活动日；独立网页发布/YouTube上传日未载",
+        "original_spoken_language": null,
+        "available_language_tracks": [
+          "English"
+        ],
+        "language_basis": "正文Languages字段列English；未明说是原讲还是翻译，不等同网页界面English选项",
+        "duration_as_source": "I hour and 15 minutes",
+        "duration_normalized_seconds_from_metadata": 4500,
+        "duration_basis": "网页文字数值规范化，未测量文件",
+        "speaker_scope": "第14世达赖喇嘛讲授并答印尼学生及佛教青年问；不能把全程均算连续单人演讲",
+        "series": "Introduction；所属印尼Kadam Choeling访校项目；未据此编造系列集数",
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "verification_status": "官方网页及元数据复核；未听看"
+      },
+      "evidence_url": "https://www.dalailama.com/videos/introduction-to-buddhism",
+      "locator": "Description及Venue/Date/Duration/Languages，页面正文行93–99"
+    },
+    {
+      "person_id": "P-B02-04",
+      "record_id": "M-72813ba4de05",
+      "record_group": "media",
+      "source_url": "https://www.dalailama.com/videos/introductory-buddhist-teachings",
+      "previous_fields": {
+        "subtitle_status": null,
+        "transcript_status": "not verified",
+        "rights": "Copyright The Office of His Holiness the Dalai Lama; no licence established",
+        "event_date_as_source": "2012-06-07/2012-06-09",
+        "publication_date_as_source": null,
+        "date_basis": null,
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "language_basis": null,
+        "duration_as_source": "5 sessions each approximately 2 hours",
+        "series": "five sessions: Day 1 morning/afternoon; Day 2 morning/afternoon; Day 3 morning",
+        "speaker_scope": null,
+        "counting_unit": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "verification_status": null
+      },
+      "revised_fields": {
+        "subtitle_status": "网页未明确列字幕轨，未打开播放器核验",
+        "transcript_status": "当前详情未关联可确配全文；导航中的Articles, Transcripts and Interviews不作为本场文字稿",
+        "rights": "页面明示All Content Copyright The Office of His Holiness the Dalai Lama；有Download Video/Audio选项，但本次未下载，未据此认定再发布或改编许可",
+        "event_date_as_source": "2012-06-07/2012-06-09",
+        "publication_date_as_source": null,
+        "date_basis": "官方Date为活动日期区间；未载单独上传日",
+        "original_spoken_language": "Tibetan",
+        "translation_languages": [
+          "English",
+          "Hindi"
+        ],
+        "language_basis": "Description明确His Holiness speaks in Tibetan followed by English and Hindi translations；印地文含于Tibetan video",
+        "duration_as_source": "5 sessions each approximately 2 hours",
+        "series": "Day 1 Morning/Afternoon；Day 2 Morning/Afternoon；Day 3 Morning",
+        "speaker_scope": "主讲第14世达赖喇嘛，含英文及印地文译者；译者姓名本页未载",
+        "counting_unit": "1个活动记录关联5场，不增为5个已逐场核验记录",
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "verification_status": "官方网页及元数据复核；未听看"
+      },
+      "evidence_url": "https://www.dalailama.com/videos/introductory-buddhist-teachings",
+      "locator": "Options行97–106；Description与Date/Duration/Languages行109–115"
+    },
+    {
+      "person_id": "P-B02-04",
+      "record_id": "M-afd7729d92a7",
+      "record_group": "media",
+      "source_url": "https://www.dalailama.com/videos/education-with-warm-heartedness",
+      "previous_fields": {
+        "subtitle_status": null,
+        "transcript_status": "not verified",
+        "rights": "Copyright The Office of His Holiness the Dalai Lama; no licence established",
+        "event_date_as_source": "2018-12-07",
+        "page_date_as_source": null,
+        "publication_date_as_source": null,
+        "publication_date_qualification": null,
+        "date_conflict_preserved": null,
+        "original_spoken_language": null,
+        "available_language_tracks": null,
+        "translation_languages": null,
+        "language_basis": null,
+        "duration_as_source": "00:01:21",
+        "duration_normalized_seconds_from_metadata": null,
+        "speaker_scope": null,
+        "series": "Short Clips",
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "verification_status": null
+      },
+      "revised_fields": {
+        "subtitle_status": "网页未明确列字幕轨，未打开播放器核验",
+        "transcript_status": "当前详情未关联可确配全文；导航中的Articles, Transcripts and Interviews不作为本场文字稿",
+        "rights": "页面明示All Content Copyright The Office of His Holiness the Dalai Lama；有Download Video/Audio选项，但本次未下载，未据此认定再发布或改编许可",
+        "event_date_as_source": "2018-12-07",
+        "page_date_as_source": "2026-08-28",
+        "publication_date_as_source": "2026-08-28",
+        "publication_date_qualification": "原目录此值保留；官网仅标签Date，不能证明YouTube上传日或首次发表日",
+        "date_conflict_preserved": "Description称原录2018-12-07，Date显示2026-08-28；分别保存而不择一覆盖",
+        "original_spoken_language": null,
+        "available_language_tracks": [
+          "English"
+        ],
+        "translation_languages": null,
+        "language_basis": "正文Languages列English，未听看且未明示原讲/译语",
+        "duration_as_source": "1 minute and 21 seconds",
+        "duration_normalized_seconds_from_metadata": 81,
+        "speaker_scope": "第14世达赖喇嘛短片；不把81秒剪辑等同原场全程",
+        "series": "Short Clips（沿用现有分类；本次核清片段时长）",
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "verification_status": "官方网页及元数据复核；未听看"
+      },
+      "evidence_url": "https://www.dalailama.com/videos/education-with-warm-heartedness",
+      "locator": "Description行93；Venue/Date/Duration/Languages行95–100"
+    },
+    {
+      "person_id": "P-B02-05",
+      "record_id": "M-88126a5894ad",
+      "record_group": "media",
+      "source_url": "https://tenzinpalmo.com/video/days-of-miracles-tushita-meditation-centre/",
+      "previous_fields": {
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_status": null,
+        "language_basis": null,
+        "transcript_status": "not matched or verified",
+        "transcript_index_url": null,
+        "rights": "official page © Jetsunma Tenzin Palmo; embedded recording rights/licence not established; no media downloaded",
+        "event_date_as_source": null,
+        "publication_date_as_source": "Mar 23, 2026",
+        "structured_uploadDate": null,
+        "date_basis": null,
+        "duration_as_source": null,
+        "series": "JTP Archive",
+        "speaker_scope": null,
+        "media_url": null,
+        "media_url_basis": null,
+        "official_embed_url": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "verification_status": null
+      },
+      "revised_fields": {
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_status": "官方详情及VideoObject未列字幕；YouTube公开详情请求受限，未核播放器",
+        "language_basis": "页面为英文及英文标题均不足证明原讲语言，保留未知",
+        "transcript_status": "已读官方Transcripts索引，其明示所收文字经可读性编辑；未找到可确配本条的文本，不视为逐字稿",
+        "transcript_index_url": "https://tenzinpalmo.com/archive/transcripts/",
+        "rights": "站页Copyright © 2022 Jetsunma Tenzin Palmo；这是网站版权行而非活动年；所嵌录音录像具体授权未载，公开嵌入不等于可复制再发布",
+        "event_date_as_source": null,
+        "publication_date_as_source": "2026-03-23",
+        "structured_uploadDate": "2026-03-23T09:15:09+00:00",
+        "date_basis": "by Administrator页面时间与本条VideoObject uploadDate；仅证明本站元数据日期，不是活动/YouTube上传日",
+        "duration_as_source": null,
+        "series": "JTP Archive",
+        "speaker_scope": "官方个人典藏收录；本条说明未列完整讲者或问答参与者，未认定纯单人场次",
+        "media_url": "https://www.youtube.com/watch?v=Pq4kXDoI88E",
+        "media_url_basis": "本条VideoObject thumbnailUrl的YouTube视频ID；非已播放验证",
+        "official_embed_url": "https://tenzinpalmo.com/player-embed/id/704/",
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "verification_status": "官方网页及元数据复核；未听看"
+      },
+      "evidence_url": "https://tenzinpalmo.com/video/days-of-miracles-tushita-meditation-centre/",
+      "locator": "标题/byline行12–14；对应名称VideoObject @id /video/704，uploadDate及thumbnailUrl；勿采相关推荐VideoObject"
+    },
+    {
+      "person_id": "P-B02-05",
+      "record_id": "M-748faab5432e",
+      "record_group": "media",
+      "source_url": "https://tenzinpalmo.com/video/in-conversation-palga-rinpoche-jetsunma-tenzin-palmo-march-1st-2025/",
+      "previous_fields": {
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_status": null,
+        "language_basis": null,
+        "transcript_status": "not matched or verified",
+        "transcript_index_url": null,
+        "rights": "official page © Jetsunma Tenzin Palmo; embedded recording rights/licence not established; no media downloaded",
+        "event_date_as_source": "2025-03-01",
+        "publication_date_as_source": "Mar 23, 2026",
+        "structured_uploadDate": null,
+        "date_basis": null,
+        "duration_as_source": null,
+        "series": "JTP Archive",
+        "speaker_scope": null,
+        "identified_speakers": null,
+        "venue_as_source": null,
+        "media_url": null,
+        "media_url_basis": null,
+        "official_embed_url": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "verification_status": null
+      },
+      "revised_fields": {
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_status": "官方详情及VideoObject未列字幕；YouTube公开详情请求受限，未核播放器",
+        "language_basis": "页面为英文及英文标题均不足证明原讲语言，保留未知",
+        "transcript_status": "已读官方Transcripts索引，其明示所收文字经可读性编辑；未找到可确配本条的文本，不视为逐字稿",
+        "transcript_index_url": "https://tenzinpalmo.com/archive/transcripts/",
+        "rights": "站页Copyright © 2022 Jetsunma Tenzin Palmo；这是网站版权行而非活动年；所嵌录音录像具体授权未载，公开嵌入不等于可复制再发布",
+        "event_date_as_source": "2025-03-01",
+        "publication_date_as_source": "2026-03-23",
+        "structured_uploadDate": "2026-03-23T09:03:29+00:00",
+        "date_basis": "标题活动日与byline/本条VideoObject发布字段分列",
+        "duration_as_source": null,
+        "series": "JTP Archive；DGL Nunnery Losar Picnic对谈",
+        "speaker_scope": "明确为Palga Rinpoche与Jetsunma Tenzin Palmo两人对谈；不可归整场全部言论为丹津葩默",
+        "identified_speakers": [
+          "Palga Rinpoche",
+          "Jetsunma Tenzin Palmo"
+        ],
+        "venue_as_source": "DGL Nunnery；Losar Picnic说明",
+        "media_url": "https://www.youtube.com/watch?v=8fdUUdkBSCs",
+        "media_url_basis": "本条VideoObject thumbnailUrl所列ID，未播放",
+        "official_embed_url": "https://tenzinpalmo.com/player-embed/id/701/",
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "verification_status": "官方网页及元数据复核；未听看"
+      },
+      "evidence_url": "https://tenzinpalmo.com/video/in-conversation-palga-rinpoche-jetsunma-tenzin-palmo-march-1st-2025/",
+      "locator": "标题/byline行11–13；Description行17；本条VideoObject @id /video/701"
+    },
+    {
+      "person_id": "P-B02-05",
+      "record_id": "M-fe51ed0755b9",
+      "record_group": "media",
+      "source_url": "https://tenzinpalmo.com/video/christmas-symposium-2025-sivananda-ashram-bahamas-december-24th-2024/",
+      "previous_fields": {
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_status": null,
+        "language_basis": null,
+        "transcript_status": "not matched or verified",
+        "transcript_index_url": null,
+        "rights": "official page © Jetsunma Tenzin Palmo; embedded recording rights/licence not established; no media downloaded",
+        "event_date_as_source": "2024-12-24",
+        "publication_date_as_source": "Feb 4, 2025",
+        "structured_uploadDate": null,
+        "date_basis": null,
+        "date_conflict_preserved": null,
+        "duration_as_source": "00:56:39",
+        "structured_duration": null,
+        "duration_normalized_seconds_from_metadata": null,
+        "duration_basis": null,
+        "series": "JTP Archive",
+        "speaker_scope": null,
+        "media_url": null,
+        "media_url_basis": null,
+        "official_embed_url": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "verification_status": null
+      },
+      "revised_fields": {
+        "original_spoken_language": null,
+        "translation_languages": null,
+        "subtitle_status": "官方详情及VideoObject未列字幕；YouTube公开详情请求受限，未核播放器",
+        "language_basis": "页面为英文及英文标题均不足证明原讲语言，保留未知",
+        "transcript_status": "已读官方Transcripts索引，其明示所收文字经可读性编辑；未找到可确配本条的文本，不视为逐字稿",
+        "transcript_index_url": "https://tenzinpalmo.com/archive/transcripts/",
+        "rights": "站页Copyright © 2022 Jetsunma Tenzin Palmo；这是网站版权行而非活动年；所嵌录音录像具体授权未载，公开嵌入不等于可复制再发布",
+        "event_date_as_source": "2024-12-24",
+        "publication_date_as_source": "2025-02-04",
+        "structured_uploadDate": "2025-02-04T03:10:24+00:00",
+        "date_basis": "标题尾部日期、网页byline及VideoObject uploadDate分列",
+        "date_conflict_preserved": "标题前部Christmas Symposium 2025与尾部December 24th, 2024不一致，保留两者；不擅改活动年",
+        "duration_as_source": "00:56:39",
+        "structured_duration": "PT56M39S",
+        "duration_normalized_seconds_from_metadata": 3399,
+        "duration_basis": "官方VideoObject /video/607，不是相邻推荐条目；未测量文件",
+        "series": "JTP Archive；Christmas Symposium（标题保留2025）",
+        "speaker_scope": "收录丹津葩默相关场次；标题含Symposium不能单凭其词推定全部参与者或整场单讲，名单仍未知",
+        "media_url": "https://www.youtube.com/watch?v=iPSi-x7cAj8",
+        "media_url_basis": "本条VideoObject thumbnailUrl所列ID，未播放",
+        "official_embed_url": "https://tenzinpalmo.com/player-embed/id/607/",
+        "playback_verified": false,
+        "transcript_matched": false,
+        "download_status": "not_downloaded",
+        "verification_status": "官方网页及元数据复核；未听看"
+      },
+      "evidence_url": "https://tenzinpalmo.com/video/christmas-symposium-2025-sivananda-ashram-bahamas-december-24th-2024/",
+      "locator": "标题行12与byline14；本条VideoObject @id /video/607：uploadDate/duration/thumbnailUrl"
+    },
+    {
+      "person_id": "P-B02-03",
+      "record_id": "M-2d4f8c7cdf38",
+      "record_group": "media",
+      "source_url": "https://plumvillage.org/library/dharma-talks/the-practice-of-true-presence",
+      "previous_fields": {
+        "event_date_as_source": "2014-08-29",
+        "publication_date_as_source": null,
+        "date_basis": "talk/event date stated by official page",
+        "speaker": null,
+        "original_spoken_language": null,
+        "consecutive_interpretation_language": null,
+        "interpreter_name": null,
+        "series": "2014 The Mind of Love Transforms All Difficulties Retreat",
+        "series_sequence": null,
+        "event_location": null,
+        "transcript_status": null,
+        "transcript_url": null,
+        "timecode_status": null,
+        "locator": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "duration_as_source": null,
+        "duration_note": null,
+        "duration_seconds_file": null,
+        "rights": null,
+        "read_status": null,
+        "accessed": null
+      },
+      "revised_fields": {
+        "record_type": "media",
+        "event_date_as_source": "2014-08-29",
+        "publication_date_as_source": null,
+        "date_basis": "页面日期及正文明确指讲授活动日期；不作网站上传日期或视频首发日期",
+        "speaker": "Thich Nhat Hanh",
+        "original_spoken_language": "en",
+        "consecutive_interpretation_language": "it",
+        "interpreter_name": null,
+        "series": "2014 The Mind of Love Transforms All Difficulties Retreat",
+        "series_sequence": 2,
+        "event_location": "New Hamlet, Plum Village France",
+        "transcript_status": "not_verified; page has editorial summary/topics, not an identified verbatim transcript",
+        "transcript_url": null,
+        "timecode_status": "none verified; no quote-to-recording matching performed",
+        "locator": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "duration_as_source": null,
+        "duration_note": "unknown; file not inspected",
+        "duration_seconds_file": null,
+        "rights": {
+          "status": "personal_noncommercial_access_only; copying/sharing/commercial use requires written permission under inspected site terms",
+          "owner_as_site_terms": "PVCEB (U.S.) and CBZ (E.U.)",
+          "license": null,
+          "reuse_permission_obtained": false,
+          "terms_url": "https://plumvillage.org/terms-and-conditions",
+          "terms_locator": "Copyright & Content Use，正文294–298行；Last updated:2026",
+          "download_link_note": "detail page audio-download link does not establish unrestricted reuse permission",
+          "action_taken": "metadata browsing only; no media download or playback"
+        },
+        "read_status": "official English metadata and description read; audio/video not played",
+        "accessed": "2026-10-18"
+      },
+      "evidence_url": "https://plumvillage.org/library/dharma-talks/the-practice-of-true-presence",
+      "locator": "Dharma Talks题名、讲者、日期/系列栏及紧接正文首段（约187–198行）；摘要与嵌入视频链接；排除全站What is Mindfulness默认播放器"
+    },
+    {
+      "person_id": "P-B02-03",
+      "record_id": "M-08f31a4a3927",
+      "record_group": "media",
+      "source_url": "https://plumvillage.org/library/dharma-talks/this-is-a-legendary-moment",
+      "previous_fields": {
+        "event_date_as_source": "2014-08-28",
+        "publication_date_as_source": null,
+        "date_basis": "talk/event date stated by official page",
+        "speaker": null,
+        "original_spoken_language": null,
+        "consecutive_interpretation_language": null,
+        "interpreter_name": null,
+        "series": "2014 The Mind of Love Transforms All Difficulties Retreat",
+        "series_sequence": null,
+        "event_location": null,
+        "transcript_status": null,
+        "transcript_url": null,
+        "timecode_status": null,
+        "locator": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "duration_as_source": 30,
+        "duration_note": null,
+        "duration_seconds_file": null,
+        "rights": null,
+        "read_status": null,
+        "accessed": null
+      },
+      "revised_fields": {
+        "record_type": "media",
+        "event_date_as_source": "2014-08-28",
+        "publication_date_as_source": null,
+        "date_basis": "页面日期及正文明确指讲授活动日期；不作网站上传日期或视频首发日期",
+        "speaker": "Thich Nhat Hanh",
+        "original_spoken_language": "en",
+        "consecutive_interpretation_language": "it",
+        "interpreter_name": null,
+        "series": "2014 The Mind of Love Transforms All Difficulties Retreat",
+        "series_sequence": 1,
+        "event_location": "Upper Hamlet, Plum Village France",
+        "transcript_status": "not_verified; page has editorial summary/topics, not an identified verbatim transcript",
+        "transcript_url": null,
+        "timecode_status": "none verified; no quote-to-recording matching performed",
+        "locator": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "duration_as_source": 30,
+        "duration_note": "30 minutes is prose approximation, not measured file duration",
+        "duration_seconds_file": null,
+        "rights": {
+          "status": "personal_noncommercial_access_only; copying/sharing/commercial use requires written permission under inspected site terms",
+          "owner_as_site_terms": "PVCEB (U.S.) and CBZ (E.U.)",
+          "license": null,
+          "reuse_permission_obtained": false,
+          "terms_url": "https://plumvillage.org/terms-and-conditions",
+          "terms_locator": "Copyright & Content Use，正文294–298行；Last updated:2026",
+          "download_link_note": "detail page audio-download link does not establish unrestricted reuse permission",
+          "action_taken": "metadata browsing only; no media download or playback"
+        },
+        "read_status": "official English metadata and description read; audio/video not played",
+        "accessed": "2026-10-18"
+      },
+      "evidence_url": "https://plumvillage.org/library/dharma-talks/this-is-a-legendary-moment",
+      "locator": "Dharma Talks题名、讲者、日期/系列栏及紧接正文首段（约187–198行）；摘要与嵌入视频链接；排除全站What is Mindfulness默认播放器"
+    },
+    {
+      "person_id": "P-B02-03",
+      "record_id": "M-1b61a0c425a0",
+      "record_group": "media",
+      "source_url": "https://plumvillage.org/library/dharma-talks/our-cosmic-body",
+      "previous_fields": {
+        "event_date_as_source": "2014-08-24",
+        "publication_date_as_source": null,
+        "date_basis": "talk/event date stated by official page",
+        "speaker": null,
+        "original_spoken_language": null,
+        "consecutive_interpretation_language": null,
+        "interpreter_name": null,
+        "series": "2014 Understanding Is Love Retreat",
+        "series_sequence": null,
+        "event_location": null,
+        "transcript_status": null,
+        "transcript_url": null,
+        "timecode_status": null,
+        "locator": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "duration_as_source": null,
+        "duration_note": null,
+        "duration_seconds_file": null,
+        "rights": null,
+        "read_status": null,
+        "accessed": null
+      },
+      "revised_fields": {
+        "record_type": "media",
+        "event_date_as_source": "2014-08-24",
+        "publication_date_as_source": null,
+        "date_basis": "页面日期及正文明确指讲授活动日期；不作网站上传日期或视频首发日期",
+        "speaker": "Thich Nhat Hanh",
+        "original_spoken_language": "en",
+        "consecutive_interpretation_language": "nl",
+        "interpreter_name": null,
+        "series": "2014 Understanding Is Love Retreat",
+        "series_sequence": 4,
+        "event_location": "European Institute of Applied Buddhism, Waldbrol, Germany",
+        "transcript_status": "not_verified; page has editorial summary/topics, not an identified verbatim transcript",
+        "transcript_url": null,
+        "timecode_status": "none verified; no quote-to-recording matching performed",
+        "locator": null,
+        "playback_verified": false,
+        "transcript_matched": false,
+        "duration_as_source": null,
+        "duration_note": "unknown; file not inspected",
+        "duration_seconds_file": null,
+        "rights": {
+          "status": "personal_noncommercial_access_only; copying/sharing/commercial use requires written permission under inspected site terms",
+          "owner_as_site_terms": "PVCEB (U.S.) and CBZ (E.U.)",
+          "license": null,
+          "reuse_permission_obtained": false,
+          "terms_url": "https://plumvillage.org/terms-and-conditions",
+          "terms_locator": "Copyright & Content Use，正文294–298行；Last updated:2026",
+          "download_link_note": "detail page audio-download link does not establish unrestricted reuse permission",
+          "action_taken": "metadata browsing only; no media download or playback"
+        },
+        "read_status": "official English metadata and description read; audio/video not played",
+        "accessed": "2026-10-18"
+      },
+      "evidence_url": "https://plumvillage.org/library/dharma-talks/our-cosmic-body",
+      "locator": "Dharma Talks题名、讲者、日期/系列栏及紧接正文首段（约187–198行）；摘要与嵌入视频链接；排除全站What is Mindfulness默认播放器"
+    },
+    {
+      "person_id": "P-B02-03",
+      "record_id": "C-00770a8118b8",
+      "record_group": "catalogue",
+      "source_url": "https://plumvillage.org/books/the-miracle-of-mindfulness",
+      "previous_fields": {
+        "date": null,
+        "publication_date_as_source": null,
+        "date_basis": "official catalog listed edition publication date; not asserted first publication",
+        "isbn": null,
+        "format_as_source": null,
+        "edition_statement": null,
+        "first_publication_date": null,
+        "pages_as_publisher": null,
+        "publisher": null,
+        "edition_note": null,
+        "rights": null,
+        "read_status": null
+      },
+      "revised_fields": {
+        "record_type": "catalogue",
+        "date": "1999-05-01",
+        "publication_date_as_source": "1999-05-01",
+        "date_basis": "与ISBN9780807012390匹配的Beacon Press平装版本出版日期；未作为作品初版或写作日期",
+        "isbn": "9780807012390",
+        "format_as_source": "Paperback",
+        "edition_statement": null,
+        "first_publication_date": null,
+        "pages_as_publisher": 160,
+        "publisher": "Beacon Press",
+        "edition_note": "官网未标第几版；梅村另述1974年书信写作背景，两种日期分层。出版社同页另列1996年电子版，未新增作品条目。",
+        "rights": {
+          "status": "copyrighted book; no full-text reuse permission established",
+          "license": null
+        },
+        "read_status": "publisher product metadata and Plum Village catalogue only; book full text not read"
+      },
+      "evidence_url": "https://www.penguinrandomhouse.com/books/204352/the-miracle-of-mindfulness-by-thich-nhat-hanh/",
+      "locator": "Paperback / Published on May01,1999及Product Details ISBN、Beacon Press、160 pages；梅村Publication Date与1974写作说明"
+    },
+    {
+      "person_id": "P-B02-03",
+      "record_id": "C-c19017a1c37d",
+      "record_group": "catalogue",
+      "source_url": "https://plumvillage.org/books/peace-is-every-step",
+      "previous_fields": {
+        "date": null,
+        "publication_date_as_source": null,
+        "date_basis": "official catalog listed edition publication date; not asserted first publication",
+        "isbn_as_printed": null,
+        "edition_statement": null,
+        "first_publication_date": null,
+        "publisher": null,
+        "metadata_note": null,
+        "rights": null,
+        "read_status": null
+      },
+      "revised_fields": {
+        "record_type": "catalogue",
+        "date": "1992-03-01",
+        "publication_date_as_source": "1992-03-01",
+        "date_basis": "梅村现有Bantam版本目录所列日期，非已核作品首版；未取得明确版次声明",
+        "isbn_as_printed": "553351397",
+        "edition_statement": null,
+        "first_publication_date": null,
+        "publisher": "Bantam Books",
+        "metadata_note": "保留梅村原样9位ISBN，不静默补前导0或伪装独立核验；Parallax对应产品页确认为Bantam售书条目，未据当前店铺信息证明首版。",
+        "rights": {
+          "status": "copyrighted book; no full-text reuse permission established",
+          "license": null
+        },
+        "read_status": "official catalogue and Parallax product description only; full text not read"
+      },
+      "evidence_url": "https://plumvillage.org/books/peace-is-every-step",
+      "locator": "Publication Date/Publisher/ISBN栏，约198–203行"
+    }
+  ],
+  "rights_reference_pages": [
+    {
+      "person_id": "P-B02-06",
+      "person": "阿姜查",
+      "source_url": "https://www.ajahnchah.org/book/copyright.php",
+      "metadata": {
+        "match": {
+          "record_type": "work",
+          "scope": "现有38篇及4集合所用The Teachings of Ajahn Chah computer edition；按所处版本匹配"
+        },
+        "rights_holder": "The Sangha, Wat Nong Pah Pong",
+        "rights": "此电脑版允许内容连同许可保持原样、向接收者免费提供的电子复制及再分发；个人可打印使用，进一步纸本分发须获版权人许可；禁止为销售、利润或物质收益复制。此说明不自动适用20条录音。",
+        "rights_license_status": "存在明确的附条件电脑文字版许可；非公版、非任意改编许可",
+        "edition": "4.3",
+        "edition_date": "2007-06",
+        "edition_date_type": "版权说明明确标This edition，非只按©推定",
+        "permission_scope_excludes": "本轮未核录音复用许可"
+      },
+      "evidence_url": "https://www.ajahnchah.org/book/copyright.php",
+      "locator": "行3、12—13、21；This edition: 4.3, june 2007",
+      "application_limit": "电脑版许可说明单列；未逐篇确认38篇与4.3版对应，不把许可外推录音。"
+    }
+  ],
+  "version_relationships": [
+    {
+      "person_id": "P-B02-10",
+      "record_id": "C-e2248323a753",
+      "title": "Like Lions Learning to Roar",
+      "related_titles": [
+        "Turning Dirt into Gold",
+        "Dancing on the Whirlwind"
+      ],
+      "relationship_note": "英语合集汇集此前两部韩英双语法谈版本，保留版本关联而非三部独立原著",
+      "source_url": "https://hanmaumbooks.org/",
+      "locator": "相应书名小节的previously published in Korean-English editions或ebook includes original Korean text说明"
+    },
+    {
+      "person_id": "P-B02-10",
+      "record_id": "C-57e2b29ba05d",
+      "title": "Standing Again",
+      "related_titles": [
+        "The Doctor is In",
+        "The Healing Power of Our Inner Light"
+      ],
+      "relationship_note": "英语合集汇集此前分别出版的两部韩英双语法谈译本",
+      "source_url": "https://hanmaumbooks.org/",
+      "locator": "相应书名小节的previously published in Korean-English editions或ebook includes original Korean text说明"
+    },
+    {
+      "person_id": "P-B02-10",
+      "record_id": "C-e9b96c1f54ef",
+      "title": "The Great Unfolding: Seon Master Daehaeng’s vision of the Diamond Sutra [Ebook edition]",
+      "related_titles": [
+        "뜻으로 푼 금강경",
+        "The Diamond Sutra: The Great Unfolding"
+      ],
+      "relationship_note": "电子版同时含大行韩文释译；与相关英文印本建立版本关系，未由本轮核定内容完全相同",
+      "source_url": "https://hanmaumbooks.org/",
+      "locator": "相应书名小节的previously published in Korean-English editions或ebook includes original Korean text说明"
+    }
+  ],
+  "asset_audit": {
+    "scope": "Existing authorized_files only; no media download performed",
+    "expected_mp3": 18,
+    "actual_mp3": 18,
+    "expected_pdf": 1,
+    "actual_pdf": 1,
+    "audio_records": [
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250102-meaningful-freedom.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250102_Meaningful_Freedom.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-02_250102_Meaningful_Freedom.mp3",
+        "bytes_actual": 8603648,
+        "sha256_actual": "7608e10084f2ed601adf863708d0761ef68f5fdaac5efb5bff65f5ec7c45ac57",
+        "duration_seconds_ffprobe": 970.997551,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-279e447070f1"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250103-desire-is-part-of-the-path.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250103_Desire_Is_Part_of_the_Path.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-03_250103_Desire_Is_Part_of_the_Path.mp3",
+        "bytes_actual": 9560064,
+        "sha256_actual": "4959018b6e7af1b54ac28f25f1646345b2130bbae340701acfa46b542a2520be",
+        "duration_seconds_ffprobe": 1077.394286,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-abe37131419e"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250104-awaken-to-your-potentials.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250104_Awaken_to_Your_Potentials.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-04_250104_Awaken_to_Your_Potentials.mp3",
+        "bytes_actual": 6109184,
+        "sha256_actual": "c64aab05dfff5837e4b3df27ab93e79dc025f7059cac989b4d2704feb968380b",
+        "duration_seconds_ffprobe": 664.346122,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-95a1679f5f7f"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250105-bless-yourself.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250105_Bless_Yourself.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-05_250105_Bless_Yourself.mp3",
+        "bytes_actual": 7307264,
+        "sha256_actual": "2591800715464066738e027417030ca63e15875bb2ace85f9d40b8d67d1a90ac",
+        "duration_seconds_ffprobe": 943.777959,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-305548c95791"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250106-keeping-the-buddha-in-mind.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250106_Keeping_the_Buddha_in_Mind.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-06_250106_Keeping_the_Buddha_in_Mind.mp3",
+        "bytes_actual": 6629376,
+        "sha256_actual": "df270618582d72a6544b7bdea9b90383350fbc42c8319939fc3af52a114485b1",
+        "duration_seconds_ffprobe": 760.607347,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-c5ccac845711"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250111-admirable-friendship-inside-out.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250111_Admirable_Friendship,_Inside_&_Out.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-11_250111_Admirable_Friendship,_Inside_&_Out.mp3",
+        "bytes_actual": 7927808,
+        "sha256_actual": "9b688f9cbd67eadbbf0603f02073980fac520bd498a027ac168f2e75b9b1204a",
+        "duration_seconds_ffprobe": 864.757551,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-df41dc004d42"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250112-work-on-your-mind.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250112_Work_on_Your_Mind.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-12_250112_Work_on_Your_Mind.mp3",
+        "bytes_actual": 6539264,
+        "sha256_actual": "e6eec09fe7b2b6841a0fd27f36287e96b787e45452531419e1158da46ddc492d",
+        "duration_seconds_ffprobe": 799.582041,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-67d45c576e93"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250113-when-the-mind-is-still.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250113_When_the_Mind_Is_Still.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-13_250113_When_the_Mind_Is_Still.mp3",
+        "bytes_actual": 7563264,
+        "sha256_actual": "cd3f0c6f31700f8d14aa63c51cdaf4e76a20a498a6436e58396edfbb65991e03",
+        "duration_seconds_ffprobe": 837.642449,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-ef573262a2dc"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250114-a-good-path-to-be-on.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250114_A_Good_Path_to_Be_On.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-14_250114_A_Good_Path_to_Be_On.mp3",
+        "bytes_actual": 7266304,
+        "sha256_actual": "6b87c4cd4064137da183879112d1a209a21356b71a7a80a3d96d135e2b77a475",
+        "duration_seconds_ffprobe": 817.319184,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-a0cdc1694b6b"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250115-up-for-the-challenge.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250115_Up_for_the_Challenge.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-15_250115_Up_for_the_Challenge.mp3",
+        "bytes_actual": 8040448,
+        "sha256_actual": "93714319b28772f22848228f7000eccf5a8cab30be375cb8aac77b3f31ee2ea6",
+        "duration_seconds_ffprobe": 910.367347,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-b0da23a043e0"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250117-positive-capability.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250117_Positive_Capability.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-17_250117_Positive_Capability.mp3",
+        "bytes_actual": 5896192,
+        "sha256_actual": "551ee22161df44c3996411d54e55af0dc73793f6ad2b0704dc55e2ebddf5ad07",
+        "duration_seconds_ffprobe": 653.792653,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-3975d54de3e4"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250118-inner-authorities.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250118_Inner_Authorities.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-18_250118_Inner_Authorities.mp3",
+        "bytes_actual": 7344128,
+        "sha256_actual": "11ad8774589c013affdeb9ef908e6a33d254a5f5c82b4ef2ff5ecf00ca2e2c06",
+        "duration_seconds_ffprobe": 800.20898,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-546a9c4c3452"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250119-people-of-integrity.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250119_People_of_Integrity.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-19_250119_People_of_Integrity.mp3",
+        "bytes_actual": 4937728,
+        "sha256_actual": "2800fdbe31aac3827c4078fa2504bf669bf4410fe57a60580e610a1a287a1d1e",
+        "duration_seconds_ffprobe": 529.371429,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-0188015ed9f3"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250120-a-happy-tradition.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250120_A_Happy_Tradition.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-20_250120_A_Happy_Tradition.mp3",
+        "bytes_actual": 6299648,
+        "sha256_actual": "e28eac9aa41eb0b1de890b9b2df302a4fe8a61cbe1e5eac3de860bb4b56a3db0",
+        "duration_seconds_ffprobe": 701.857959,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-7685bf5e438c"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250121-help-others-help-yourself.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250121_Help_Others,_Help_Yourself.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-21_250121_Help_Others,_Help_Yourself.mp3",
+        "bytes_actual": 6883328,
+        "sha256_actual": "ccff567cdf8867511ca901c95bebb14b1fa2b92cd070fb283eef87abcfe1c1b8",
+        "duration_seconds_ffprobe": 743.183673,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-db1f8deca2ed"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250122-break-things-down.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250122_Break_Things_Down.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-22_250122_Break_Things_Down.mp3",
+        "bytes_actual": 7481344,
+        "sha256_actual": "823679659c518ec350c589c5686323349358488d3512dcfd695572a0b49309dc",
+        "duration_seconds_ffprobe": 845.740408,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-d50a3124f62c"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250124-feeding-off-of-others.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250124_Feeding_Off_of_Others.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-24_250124_Feeding_Off_of_Others.mp3",
+        "bytes_actual": 5085184,
+        "sha256_actual": "defd96c7693379105ada0ba7bd031549a6fd48dd5c7f2d54f847272bdd962a52",
+        "duration_seconds_ffprobe": 553.299592,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-9487de31e64d"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      },
+      {
+        "catalogue_url": "https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html",
+        "media_url": "https://www.dhammatalks.org/Archive/y2025/250131_Do,_Maintain,_Use.mp3",
+        "local_path": "授权文件/Thanissaro_2025-01-31_Do_Maintain_Use.mp3",
+        "bytes_actual": 9505255,
+        "sha256_actual": "fd38617344e7f078246b92a17a9009a7d5951d07adc3ede7208cc41955f81e63",
+        "duration_seconds_ffprobe": 1016.946939,
+        "format": "mp3",
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "png",
+            "codec_type": "video"
+          }
+        ],
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "manifest_duration_match": true,
+        "merged_record_ids": [
+          "M-e9c91ed6bd24"
+        ],
+        "discrepancies": [],
+        "content_verification": "file parsed only; not listened; transcript not matched"
+      }
+    ],
+    "pdf_records": [
+      {
+        "catalogue_url": "https://www.dhammatalks.org/books/BuddhasTeachings/",
+        "source_url": "https://www.dhammatalks.org/Archive/Writings/Ebooks/BuddhasTeachings_251113.pdf",
+        "local_path": "授权文件/Thanissaro_The_Buddhas_Teachings_251113.pdf",
+        "bytes_actual": 472409,
+        "sha256_actual": "874a313246339efcae76310c468309604ecf765eea007a34ffdd5d8963570cd5",
+        "manifest_bytes_match": true,
+        "manifest_sha256_match": true,
+        "parse_status": "Title:           The Buddha’s Teachings: An Introduction\nKeywords:        Buddha, Buddhism, Dhamma, Dharma, Pali Canon, Meditation, Sangha, Jhana\nAuthor:          Ṭhānissaro Bhikkhu\nCreator:         calibre 8.7.0\nProducer:        calibre 8.7.0\nCreationDate:    Thu Nov 13 20:04:42 2025 UTC\nModDate:         Thu Nov 13 20:04:42 2025 UTC\nCustom Metadata: no\nMetadata Stream: yes\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           39\nEncrypted:       no\nPage size:       612 x 792 pts (letter)\nPage rot:        0\nFile size:       472409 bytes\nOptimized:       no\nPDF version:     1.4\n",
+        "permission_status": "carried forward from existing LICENSE_AND_PROVENANCE.json; copyright page not reread in this audit",
+        "content_read_status": "file metadata parsed; full book not read",
+        "merged_record_ids": [
+          "C-37a21fd9fe5d"
+        ],
+        "merged_record_metadata_gaps": [
+          "Existing catalogue record confirms saved PDF but lacks local filename, hash and licence fields; supplied work patch adds them."
+        ]
+      }
+    ],
+    "discrepancies": [],
+    "detail_page_rechecks": [
+      {
+        "url": "https://www.dhammatalks.org/audio/evening/2025/250102-meaningful-freedom.html",
+        "official_mp3_links": [
+          "/Archive/y2025/250102_Meaningful_Freedom.mp3",
+          "/Archive/y2025/250102_Meaningful_Freedom.mp3"
+        ],
+        "html_retrieval": "successful; HTML only; no media redownloaded",
+        "mp3_href_matches_saved_manifest": true
+      },
+      {
+        "url": "https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html",
+        "official_mp3_links": [
+          "/Archive/y2025/250131_Do,_Maintain,_Use.mp3",
+          "/Archive/y2025/250131_Do,_Maintain,_Use.mp3"
+        ],
+        "html_retrieval": "successful; HTML only; no media redownloaded",
+        "mp3_href_matches_saved_manifest": true
+      }
+    ],
+    "all_audio_manifest_hashes_match": true,
+    "all_audio_manifest_durations_match": true,
+    "all_audio_catalogue_links_unique": true,
+    "listened_count": 0,
+    "transcript_matched_count": 0,
+    "new_download_count": 0,
+    "audio_manifest_record_count": 18,
+    "byte_validation_pass_count": 18,
+    "total_audio_duration_seconds": 14491.19347,
+    "audio_min_duration_seconds": 529.371429,
+    "audio_max_duration_seconds": 1077.394286
+  },
+  "_publication": {
+    "prepared": "2026-10-19",
+    "original_hash_scope": "原交付清单内哈希指恢复原件，不是隐私清理后公开文件；当前文件哈希见仓库manifest.json。",
+    "rights_scope": "早期权利评估保留其原日期；本次可分发附件及条件以rights/为准。",
+    "research_status": "未增加研究范围、未听校录音；来源元数据不代表已下载或通读。"
+  }
+}

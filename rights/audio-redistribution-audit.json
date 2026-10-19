@@ -1,0 +1,1194 @@
+{
+  "audit_date": "2026-10-19",
+  "scope": "仅现有P-B02-08已保存的18条2025年1月音频；逐条读取官方详情HTML和MP3链接，不新增音频，不下载媒体，不读取工程仓库。",
+  "summary": {
+    "files_audited": 18,
+    "conditionally_redistributable": 18,
+    "link_only": 0,
+    "uploads": 0
+  },
+  "shared_evidence": [
+    {
+      "evidence_id": "SITE-COPYRIGHT",
+      "source_url": "https://www.dhammatalks.org/",
+      "locator": "More … > Copyright首段（浏览行396）；后段行397；许可链接行399",
+      "short_original": "All of the content on this site is meant to be released under the Creative Commons Attribution-NonCommercial 4.0 Unported License.",
+      "translation_zh": "本站所有内容拟按知识共享署名—非商业4.0许可发布。",
+      "read_scope": "实际读取英文Copyright完整两段、Audio下载FAQ与开头默认讲者声明。第二段另规定任何销售均属商业；为守短引额度只释义。",
+      "applicability": "明确用All of the content而非books，直接覆盖本批官方站内音频；未将图书版权页作为音频许可证据。"
+    },
+    {
+      "evidence_id": "CC-SHARE",
+      "source_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "locator": "Deed > You are free to: Share；Under the following terms: Attribution/NonCommercial/No additional restrictions",
+      "short_original": "Share — copy and redistribute the material in any medium or format",
+      "translation_zh": "分享——以任何媒介或格式复制和再分发材料。",
+      "read_scope": "实际读取CC官方英文概要分享条款、署名/非商业/不得附加限制和通知说明；概要本身非法律正文。"
+    }
+  ],
+  "attempts": [
+    {
+      "url": "https://www.dhammatalks.org/copyright.html",
+      "result": "工具不可访问；未作为证据，改读实际首页Copyright栏目"
+    },
+    {
+      "target": "18条已存音频详情HTML",
+      "result": "18/18读取成功；标题及MP3 href逐项匹配；未请求音频文件"
+    }
+  ],
+  "package_guidance": "可准备上述条件下的再分发文件清单与ATTRIBUTION，尚不上传。若后续用途或个别文件出现与许可相矛盾证据，再降为link_only；link_only表示证据不足时的处理，不是宣判禁止。",
+  "files": [
+    {
+      "record_id": "M-e9c91ed6bd24",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-31_Do_Maintain_Use.mp3",
+      "title": "Do, Maintain, Use",
+      "event_date": "2025-01-31",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250131_Do,_Maintain,_Use.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "official page explicitly offers MP3 download",
+          "scope": "download availability verified; independent redistribution/adaptation licence not established",
+          "evidence_url": "https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — Do, Maintain, Use (2025-01-31). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250131-do-maintain-use.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250131_Do,_Maintain,_Use.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "fd38617344e7f078246b92a17a9009a7d5951d07adc3ede7208cc41955f81e63",
+      "verified_local_bytes": 9505255,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-9487de31e64d",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-24_250124_Feeding_Off_of_Others.mp3",
+      "title": "Feeding Off of Others",
+      "event_date": "2025-01-24",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250124-feeding-off-of-others.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250124_Feeding_Off_of_Others.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250124-feeding-off-of-others.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — Feeding Off of Others (2025-01-24). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250124-feeding-off-of-others.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250124_Feeding_Off_of_Others.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "defd96c7693379105ada0ba7bd031549a6fd48dd5c7f2d54f847272bdd962a52",
+      "verified_local_bytes": 5085184,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-d50a3124f62c",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-22_250122_Break_Things_Down.mp3",
+      "title": "Break Things Down",
+      "event_date": "2025-01-22",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250122-break-things-down.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250122_Break_Things_Down.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250122-break-things-down.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — Break Things Down (2025-01-22). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250122-break-things-down.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250122_Break_Things_Down.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "823679659c518ec350c589c5686323349358488d3512dcfd695572a0b49309dc",
+      "verified_local_bytes": 7481344,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-db1f8deca2ed",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-21_250121_Help_Others,_Help_Yourself.mp3",
+      "title": "Help Others, Help Yourself",
+      "event_date": "2025-01-21",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250121-help-others-help-yourself.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250121_Help_Others,_Help_Yourself.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250121-help-others-help-yourself.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — Help Others, Help Yourself (2025-01-21). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250121-help-others-help-yourself.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250121_Help_Others,_Help_Yourself.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "ccff567cdf8867511ca901c95bebb14b1fa2b92cd070fb283eef87abcfe1c1b8",
+      "verified_local_bytes": 6883328,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-7685bf5e438c",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-20_250120_A_Happy_Tradition.mp3",
+      "title": "A Happy Tradition",
+      "event_date": "2025-01-20",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250120-a-happy-tradition.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250120_A_Happy_Tradition.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250120-a-happy-tradition.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — A Happy Tradition (2025-01-20). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250120-a-happy-tradition.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250120_A_Happy_Tradition.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "e28eac9aa41eb0b1de890b9b2df302a4fe8a61cbe1e5eac3de860bb4b56a3db0",
+      "verified_local_bytes": 6299648,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-0188015ed9f3",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-19_250119_People_of_Integrity.mp3",
+      "title": "People of Integrity",
+      "event_date": "2025-01-19",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250119-people-of-integrity.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250119_People_of_Integrity.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250119-people-of-integrity.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — People of Integrity (2025-01-19). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250119-people-of-integrity.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250119_People_of_Integrity.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "2800fdbe31aac3827c4078fa2504bf669bf4410fe57a60580e610a1a287a1d1e",
+      "verified_local_bytes": 4937728,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-546a9c4c3452",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-18_250118_Inner_Authorities.mp3",
+      "title": "Inner Authorities",
+      "event_date": "2025-01-18",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250118-inner-authorities.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250118_Inner_Authorities.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250118-inner-authorities.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — Inner Authorities (2025-01-18). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250118-inner-authorities.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250118_Inner_Authorities.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "11ad8774589c013affdeb9ef908e6a33d254a5f5c82b4ef2ff5ecf00ca2e2c06",
+      "verified_local_bytes": 7344128,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-3975d54de3e4",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-17_250117_Positive_Capability.mp3",
+      "title": "Positive Capability",
+      "event_date": "2025-01-17",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250117-positive-capability.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250117_Positive_Capability.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250117-positive-capability.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — Positive Capability (2025-01-17). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250117-positive-capability.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250117_Positive_Capability.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "551ee22161df44c3996411d54e55af0dc73793f6ad2b0704dc55e2ebddf5ad07",
+      "verified_local_bytes": 5896192,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-b0da23a043e0",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-15_250115_Up_for_the_Challenge.mp3",
+      "title": "Up for the Challenge",
+      "event_date": "2025-01-15",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250115-up-for-the-challenge.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250115_Up_for_the_Challenge.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250115-up-for-the-challenge.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — Up for the Challenge (2025-01-15). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250115-up-for-the-challenge.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250115_Up_for_the_Challenge.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "93714319b28772f22848228f7000eccf5a8cab30be375cb8aac77b3f31ee2ea6",
+      "verified_local_bytes": 8040448,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-a0cdc1694b6b",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-14_250114_A_Good_Path_to_Be_On.mp3",
+      "title": "A Good Path to Be On",
+      "event_date": "2025-01-14",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250114-a-good-path-to-be-on.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250114_A_Good_Path_to_Be_On.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250114-a-good-path-to-be-on.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — A Good Path to Be On (2025-01-14). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250114-a-good-path-to-be-on.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250114_A_Good_Path_to_Be_On.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "6b87c4cd4064137da183879112d1a209a21356b71a7a80a3d96d135e2b77a475",
+      "verified_local_bytes": 7266304,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-ef573262a2dc",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-13_250113_When_the_Mind_Is_Still.mp3",
+      "title": "When the Mind Is Still",
+      "event_date": "2025-01-13",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250113-when-the-mind-is-still.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250113_When_the_Mind_Is_Still.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250113-when-the-mind-is-still.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — When the Mind Is Still (2025-01-13). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250113-when-the-mind-is-still.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250113_When_the_Mind_Is_Still.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "cd3f0c6f31700f8d14aa63c51cdaf4e76a20a498a6436e58396edfbb65991e03",
+      "verified_local_bytes": 7563264,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-67d45c576e93",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-12_250112_Work_on_Your_Mind.mp3",
+      "title": "Work on Your Mind",
+      "event_date": "2025-01-12",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250112-work-on-your-mind.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250112_Work_on_Your_Mind.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250112-work-on-your-mind.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — Work on Your Mind (2025-01-12). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250112-work-on-your-mind.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250112_Work_on_Your_Mind.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "e6eec09fe7b2b6841a0fd27f36287e96b787e45452531419e1158da46ddc492d",
+      "verified_local_bytes": 6539264,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-df41dc004d42",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-11_250111_Admirable_Friendship,_Inside_&_Out.mp3",
+      "title": "Admirable Friendship, Inside & Out",
+      "event_date": "2025-01-11",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250111-admirable-friendship-inside-out.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250111_Admirable_Friendship,_Inside_&_Out.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250111-admirable-friendship-inside-out.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — Admirable Friendship, Inside & Out (2025-01-11). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250111-admirable-friendship-inside-out.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250111_Admirable_Friendship,_Inside_&_Out.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "9b688f9cbd67eadbbf0603f02073980fac520bd498a027ac168f2e75b9b1204a",
+      "verified_local_bytes": 7927808,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-c5ccac845711",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-06_250106_Keeping_the_Buddha_in_Mind.mp3",
+      "title": "Keeping the Buddha in Mind",
+      "event_date": "2025-01-06",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250106-keeping-the-buddha-in-mind.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250106_Keeping_the_Buddha_in_Mind.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250106-keeping-the-buddha-in-mind.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — Keeping the Buddha in Mind (2025-01-06). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250106-keeping-the-buddha-in-mind.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250106_Keeping_the_Buddha_in_Mind.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "df270618582d72a6544b7bdea9b90383350fbc42c8319939fc3af52a114485b1",
+      "verified_local_bytes": 6629376,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-305548c95791",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-05_250105_Bless_Yourself.mp3",
+      "title": "Bless Yourself",
+      "event_date": "2025-01-05",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250105-bless-yourself.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250105_Bless_Yourself.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250105-bless-yourself.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — Bless Yourself (2025-01-05). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250105-bless-yourself.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250105_Bless_Yourself.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "2591800715464066738e027417030ca63e15875bb2ace85f9d40b8d67d1a90ac",
+      "verified_local_bytes": 7307264,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-95a1679f5f7f",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-04_250104_Awaken_to_Your_Potentials.mp3",
+      "title": "Awaken to Your Potentials",
+      "event_date": "2025-01-04",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250104-awaken-to-your-potentials.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250104_Awaken_to_Your_Potentials.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250104-awaken-to-your-potentials.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — Awaken to Your Potentials (2025-01-04). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250104-awaken-to-your-potentials.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250104_Awaken_to_Your_Potentials.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "c64aab05dfff5837e4b3df27ab93e79dc025f7059cac989b4d2704feb968380b",
+      "verified_local_bytes": 6109184,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-abe37131419e",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-03_250103_Desire_Is_Part_of_the_Path.mp3",
+      "title": "Desire Is Part of the Path",
+      "event_date": "2025-01-03",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250103-desire-is-part-of-the-path.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250103_Desire_Is_Part_of_the_Path.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "All files are freely downloadable.",
+          "source_url": "https://www.dhammatalks.org/audio/evening/2025/",
+          "scope": "download permission; redistribution/modification rights not established"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250103-desire-is-part-of-the-path.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — Desire Is Part of the Path (2025-01-03). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250103-desire-is-part-of-the-path.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250103_Desire_Is_Part_of_the_Path.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "4959018b6e7af1b54ac28f25f1646345b2130bbae340701acfa46b542a2520be",
+      "verified_local_bytes": 9560064,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    },
+    {
+      "record_id": "M-279e447070f1",
+      "person_id": "P-B02-08",
+      "local_filename": "Thanissaro_2025-01-02_250102_Meaningful_Freedom.mp3",
+      "title": "Meaningful Freedom",
+      "event_date": "2025-01-02",
+      "original_page_url": "https://www.dhammatalks.org/audio/evening/2025/250102-meaningful-freedom.html",
+      "original_audio_url": "https://www.dhammatalks.org/Archive/y2025/250102_Meaningful_Freedom.mp3",
+      "known_download_permission": {
+        "status": "explicit_official_download_link_rechecked",
+        "prior_record": {
+          "permission": "official page explicitly offers MP3 download",
+          "scope": "download availability verified; independent redistribution/adaptation licence not established",
+          "evidence_url": "https://www.dhammatalks.org/audio/evening/2025/250102-meaningful-freedom.html"
+        },
+        "current_basis": "音频详情HTML提供同一MP3的下载href；只读取HTML，未请求MP3"
+      },
+      "github_redistribution": {
+        "decision": "permitted_conditionally",
+        "can_redistribute": true,
+        "scope": "仅非商业、满足署名与许可条件的公开GitHub再分发；不是上传动作或整站授权推定",
+        "basis": "官网全站内容许可声明直接覆盖站内内容，已确认本条官方详情指向该MP3；不是由同站图书CC外推",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "upload_performed": false
+      },
+      "short_evidence_refs": [
+        "SITE-COPYRIGHT",
+        "CC-SHARE"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dhammatalks.org/audio/evening/2025/250102-meaningful-freedom.html",
+          "locator": "标题、下载MP3 href；未见局部版权例外",
+          "evidence_type": "individual_official_audio_detail_html",
+          "read_status": "read",
+          "title_matches": true,
+          "audio_href_matches_saved_original_url": true
+        },
+        {
+          "url": "https://www.dhammatalks.org/",
+          "locator": "More … > Copyright，两段及其许可链接",
+          "evidence_type": "explicit_sitewide_content_license"
+        }
+      ],
+      "required_conditions": [
+        "保留讲者Thanissaro Bhikkhu/Ṭhānissaro Bhikkhu、原题、讲说日期及dhammatalks.org来源和原音频链接。",
+        "随每个文件或关联清单提供CC BY-NC4.0许可链接，并保留来源已有的版权、许可及免责声明；不得把第三方录音纳入仓库代码的宽松许可证。",
+        "用途必须非商业；官方特别说明任何销售，包括非营利实体销售，均属商业。不得收费出售音频或收费捆绑。",
+        "注明修改；本包若仅重命名须写明文件仅重命名、音频未编辑（该状态须由实际文件校验支持）。",
+        "不得暗示讲者或原站认可darmagate，不加DRM或法律限制剥夺许可证已有权利。"
+      ],
+      "attribution_template": "Thanissaro Bhikkhu — Meaningful Freedom (2025-01-02). dhammatalks.org. Original: https://www.dhammatalks.org/audio/evening/2025/250102-meaningful-freedom.html ; Audio: https://www.dhammatalks.org/Archive/y2025/250102_Meaningful_Freedom.mp3 . Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . No endorsement implied. Audio modifications: [state actual status].",
+      "uncertainty": [
+        "详情页自身没有单条CC文字；许可依据是首页明确全站内容声明。",
+        "官网措辞为meant to be released，且把4.0称Unported；实际链接为CC BY-NC4.0 International，保留此命名差异。",
+        "本次只核公开许可与HTML对应关系，未读取音频ID3、播放或重新计算本地音频哈希；已有sha256仅沿用目录。",
+        "darmagate实际使用须非商业；公开GitHub这一平台本身不替代对具体用途的判断。"
+      ],
+      "audio_downloaded_this_audit": false,
+      "verified_local_sha256": "7608e10084f2ed601adf863708d0761ef68f5fdaac5efb5bff65f5ec7c45ac57",
+      "verified_local_bytes": 8603648,
+      "file_modifications": "audio bytes unchanged; filename retained"
+    }
+  ]
+}
