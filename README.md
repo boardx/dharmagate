@@ -9,7 +9,7 @@
 - [逐文件清单与SHA-256](manifest.json)；[覆盖与缺失](sources/coverage-and-missing.json)
 
 ## 媒体和附件
-- [18份音频及完整署名／许可说明：下载Release附件](https://github.com/boardx/dharmagate/releases/download/research-archive-2026-10-19/dharmagate-audio-2025-01.zip)
+- 18份音频包已完成本地校验，但尚未发布：GitHub 附件上传接口返回 401 Bad credentials。完整[署名／许可说明](rights/AUDIO_ATTRIBUTION.md)与[包大小及 SHA-256](release-assets.json)已入库；当前没有可用的 Release 下载附件。
 - [授权第三方PDF](third_party/books/Thanissaro_The_Buddhas_Teachings_251113.pdf)
 - [音频许可与来源核验](rights/audio-redistribution-audit.json)；[图片仅链接清单](sources/image-links.json)
 
@@ -27,4 +27,4 @@
 仓库原有根目录 `LICENSE`（GPL-3.0）原样保留；该文件不改变本次研究档案、引文及第三方附件的逐项权利说明，本次资料不统一授予 GPL 或其他开源许可。19个已下载第三方文件（18音频及1PDF）有逐项附条件再分发依据；须免费、非商业、保留作者/来源/许可/更改说明，不得暗示背书。其他第三方书籍、图片或音源仅留链接、元数据及原创摘要。详见[COPYRIGHT](COPYRIGHT.md)、[发表清理说明](PUBLICATION_CHANGES.md)。
 
 ## 存储及发布状态
-大音频ZIP作为Release附件，不进入Git历史；无需购买LFS。见[存储方案](STORAGE_PLAN.md)。README中的Release地址以实际发布核验结果为准；部署及验证收据单独保存，不把准备状态冒充上传成功。
+大音频ZIP作为Release附件，不进入Git历史；无需购买LFS。见[存储方案](STORAGE_PLAN.md)。2026-10-19：已上传99份档案文件并保留用户原有LICENSE，共100文件；研究源文件及PACKAGE_INDEX已通过远端取回校验。音频附件上传被拒绝，尚未发布。manifest.json和release-assets.json的发布字段保留准备阶段快照，当前实际状态以本节为准。

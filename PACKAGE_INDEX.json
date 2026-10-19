@@ -27,8 +27,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2987,
-      "sha256": "2d5b2686b8656ae5dc7f1f1a05fee8ca388460bf45919fbefdd496878e10a785"
+      "bytes": 3248,
+      "sha256": "0c63260e9e4685e80e8063c3e4ac6a91b70d3697dc807d2ad2c2d0ae29fa2b74"
     },
     {
       "path": "STORAGE_PLAN.md",
@@ -497,6 +497,6 @@
     }
   ],
   "count_excluding_self": 99,
-  "bytes_excluding_self": 20478446,
+  "bytes_excluding_self": 20478707,
   "self_hash_note": "PACKAGE_INDEX.json不自含哈希；外部发布收据校验它的字节和提交。"
 }
