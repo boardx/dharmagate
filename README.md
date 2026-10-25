@@ -1,6 +1,12 @@
 # dharmagate
 佛教研究成果与可核来源档案。当前包含鸠摩罗什多语研究、全球佛教总纲十轮清理版本、近现代20人两批目录及责任／版权页复核。
 
+## 新网站统一项目方案
+- [产品定义、架构定义与 UI/UX 三份文档](docs/project/README.md)（含 Word/PDF）
+- [45 项开发 backlog](docs/project/backlog.md)（含 CSV/JSON）
+
+以上为无 Cloudflare Stream 的设计提案，先对账既有成果；不表示已部署、已全量下载或已验收。原有研究档案与权利说明保留如下。
+
 ## 从这里开始
 - [鸠摩罗什最终报告](research/kumarajiva/current/鸠摩罗什深度研究_多语种证据版.md)
 - [全球佛教总纲现行文本](research/global_outline/current/全球佛教研究总纲_现行版.txt)

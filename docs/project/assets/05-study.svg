@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" fill="white"/>
+<text x="20" y="37" font-family="Noto Sans CJK SC" font-size="30" font-weight="700" text-anchor="start" fill="#161616">05  修学与书房：轻量练习，默认私密</text>
+<text x="860" y="36" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="start" fill="#161616">移动端 · 关键状态</text>
+<rect x="20" y="64" width="820" height="550" rx="10" fill="white" stroke="#343434" stroke-width="1.6"/>
+<rect x="860" y="64" width="320" height="550" rx="20" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="20" y="657" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="start" fill="#161616">低保真设计提案  非现网截图</text>
+<text x="1180" y="657" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="end" fill="#161616">D H A R M A G A T E</text>
+<text x="42" y="104" font-family="Noto Sans CJK SC" font-size="26" font-weight="700" text-anchor="start" fill="#161616">个人修学 / 我的书房</text>
+<text x="810" y="104" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="end" fill="#161616">学习者</text>
+<path d="M20,126 L840,126" fill="none" stroke="#666" stroke-width="1.6"/>
+<rect x="44" y="148" width="772" height="72" rx="8" fill="#f4f4f4" stroke="#343434" stroke-width="1.6"/>
+<text x="64" y="194" font-family="Noto Sans CJK SC" font-size="28" font-weight="700" text-anchor="start" fill="#161616">理解   →   练习   →   生活反思</text>
+<rect x="44" y="242" width="372" height="219" rx="8" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="64" y="285" font-family="Noto Sans CJK SC" font-size="28" font-weight="700" text-anchor="start" fill="#161616">今天 10 分钟</text>
+<text x="64" y="328" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="start" fill="#161616">按自己的节奏进行</text>
+<rect x="64" y="362" width="196" height="44" rx="6" fill="#333333" stroke="#343434" stroke-width="1.6"/>
+<text x="162.0" y="393" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="middle" fill="white">开始练习</text>
+<text x="64" y="439" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">可跳过   ·   可暂停</text>
+<rect x="438" y="242" width="378" height="219" rx="8" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="458" y="285" font-family="Noto Sans CJK SC" font-size="28" font-weight="700" text-anchor="start" fill="#161616">继续阅读</text>
+<text x="458" y="328" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="start" fill="#161616">示例作品 A · P12</text>
+<rect x="458" y="362" width="338" height="44" rx="6" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="627.0" y="393" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="middle" fill="#161616">回到阅读位置</text>
+<text x="458" y="439" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">不是排行榜，不比较进度</text>
+<rect x="44" y="483" width="772" height="103" rx="8" fill="#fafafa" stroke="#343434" stroke-width="1.6"/>
+<text x="64" y="524" font-family="Noto Sans CJK SC" font-size="26" font-weight="700" text-anchor="start" fill="#161616">私人笔记 · 仅本人可见</text>
+<text x="64" y="563" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">分享须逐条主动选择；无觉悟分数 / 业力分数</text>
+<text x="880" y="104" font-family="Noto Sans CJK SC" font-size="26" font-weight="700" text-anchor="start" fill="#161616">我的修学</text>
+<path d="M860,126 L1180,126" fill="none" stroke="#666" stroke-width="1.6"/>
+<text x="880" y="165" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">理解 → 练习 → 反思</text>
+<rect x="880" y="190" width="280" height="170" rx="8" fill="#f5f5f5" stroke="#343434" stroke-width="1.6"/>
+<text x="898" y="234" font-family="Noto Sans CJK SC" font-size="26" font-weight="700" text-anchor="start" fill="#161616">今天 10 分钟</text>
+<rect x="898" y="254" width="244" height="44" rx="6" fill="#333333" stroke="#343434" stroke-width="1.6"/>
+<text x="1020.0" y="285" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="middle" fill="white">开始练习</text>
+<text x="898" y="338" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">跳过     暂停</text>
+<text x="880" y="406" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="start" fill="#161616">继续阅读 · P12 →</text>
+<path d="M880,427 L1160,427" fill="none" stroke="#666" stroke-width="1.6"/>
+<text x="880" y="470" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="start" fill="#161616">私人笔记 · 仅本人</text>
+<text x="880" y="511" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">逐条笔记「分享…」</text>
+<path d="M860,562 L1180,562" fill="none" stroke="#666" stroke-width="1.6"/>
+<text x="880" y="596" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">探索   搜索   修学   书房</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" fill="white"/>
+<text x="20" y="37" font-family="Noto Sans CJK SC" font-size="30" font-weight="700" text-anchor="start" fill="#161616">02  检索：证据先行，AI 导读可回查</text>
+<text x="860" y="36" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="start" fill="#161616">移动端 · 关键状态</text>
+<rect x="20" y="64" width="820" height="550" rx="10" fill="white" stroke="#343434" stroke-width="1.6"/>
+<rect x="860" y="64" width="320" height="550" rx="20" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="20" y="657" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="start" fill="#161616">低保真设计提案  非现网截图</text>
+<text x="1180" y="657" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="end" fill="#161616">D H A R M A G A T E</text>
+<text x="42" y="104" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="start" fill="#161616">‹ 返回结果</text>
+<rect x="224" y="78" width="592" height="40" rx="5" fill="#f7f7f7" stroke="#343434" stroke-width="1.6"/>
+<text x="240" y="107" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="start" fill="#161616">查询：示例问题</text>
+<path d="M20,126 L840,126" fill="none" stroke="#666" stroke-width="1.6"/>
+<rect x="44" y="146" width="90" height="32" rx="6" fill="#eeeeee" stroke="#343434" stroke-width="1.6"/>
+<text x="89.0" y="169" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="middle" fill="#161616">筛选</text>
+<rect x="148" y="146" width="90" height="32" rx="6" fill="#eeeeee" stroke="#343434" stroke-width="1.6"/>
+<text x="193.0" y="169" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="middle" fill="#161616">原典</text>
+<rect x="252" y="146" width="90" height="32" rx="6" fill="#eeeeee" stroke="#343434" stroke-width="1.6"/>
+<text x="297.0" y="169" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="middle" fill="#161616">讲解</text>
+<rect x="356" y="146" width="90" height="32" rx="6" fill="#eeeeee" stroke="#343434" stroke-width="1.6"/>
+<text x="401.0" y="169" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="middle" fill="#161616">研究</text>
+<rect x="44" y="198" width="352" height="388" rx="8" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="64" y="238" font-family="Noto Sans CJK SC" font-size="26" font-weight="700" text-anchor="start" fill="#161616">检索结果</text>
+<text x="64" y="286" font-family="Noto Sans CJK SC" font-size="26" font-weight="400" text-anchor="start" fill="#161616">示例作品 A</text>
+<text x="64" y="323" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">版本 A · 段落 P12</text>
+<text x="64" y="363" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="start" fill="#161616">只展示许可范围内摘录</text>
+<path d="M64,385 L376,385" fill="none" stroke="#666" stroke-width="1.6"/>
+<text x="64" y="422" font-family="Noto Sans CJK SC" font-size="24" font-weight="700" text-anchor="start" fill="#161616">资料不足</text>
+<text x="64" y="459" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">暂无足够证据回答。</text>
+<text x="64" y="493" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">建议调整检索范围。</text>
+<text x="64" y="558" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="start" fill="#161616">更多结果 ↓</text>
+<rect x="414" y="198" width="402" height="388" rx="8" fill="#fafafa" stroke="#343434" stroke-width="1.6"/>
+<text x="434" y="238" font-family="Noto Sans CJK SC" font-size="26" font-weight="700" text-anchor="start" fill="#161616">AI 导读 · 非原典</text>
+<text x="434" y="280" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="start" fill="#161616">示例结论后标注出处。[1]</text>
+<rect x="434" y="302" width="362" height="260" rx="8" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="452" y="339" font-family="Noto Sans CJK SC" font-size="24" font-weight="700" text-anchor="start" fill="#161616">[1] 引用抽屉</text>
+<text x="452" y="378" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">示例作品 A · 版本 A</text>
+<text x="452" y="412" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">段落 P12 · 可定位出处</text>
+<rect x="452" y="434" width="136" height="32" rx="6" fill="#eeeeee" stroke="#343434" stroke-width="1.6"/>
+<text x="520.0" y="457" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="middle" fill="#161616">仅链接</text>
+<rect x="452" y="484" width="326" height="44" rx="6" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="615.0" y="515" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="middle" fill="#161616">前往原站 ↗</text>
+<text x="880" y="104" font-family="Noto Sans CJK SC" font-size="26" font-weight="700" text-anchor="start" fill="#161616">检索与导读</text>
+<path d="M860,126 L1180,126" fill="none" stroke="#666" stroke-width="1.6"/>
+<text x="880" y="161" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">查询：示例问题</text>
+<rect x="880" y="180" width="130" height="32" rx="6" fill="#eeeeee" stroke="#343434" stroke-width="1.6"/>
+<text x="945.0" y="203" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="middle" fill="#161616">结果</text>
+<rect x="1024" y="180" width="136" height="32" rx="6" fill="#d9d9d9" stroke="#343434" stroke-width="1.6"/>
+<text x="1092.0" y="203" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="middle" fill="#161616">AI 导读</text>
+<text x="880" y="251" font-family="Noto Sans CJK SC" font-size="24" font-weight="700" text-anchor="start" fill="#161616">AI 导读 · 非原典</text>
+<text x="880" y="291" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">示例结论。[1]</text>
+<text x="880" y="325" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">资料不足时不补写。</text>
+<rect x="872" y="350" width="296" height="252" rx="14" fill="#f0f0f0" stroke="#343434" stroke-width="1.6"/>
+<path d="M990,366 L1050,366" fill="none" stroke="#666" stroke-width="1.6"/>
+<text x="892" y="402" font-family="Noto Sans CJK SC" font-size="24" font-weight="700" text-anchor="start" fill="#161616">[1] 证据</text>
+<text x="892" y="440" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">版本 A · 段落 P12</text>
+<text x="892" y="474" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">仅链接 · 权利受限</text>
+<rect x="892" y="519" width="256" height="44" rx="6" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="1020.0" y="550" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="middle" fill="#161616">前往原站 ↗</text>
+</svg>

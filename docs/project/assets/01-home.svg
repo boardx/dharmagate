@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" fill="white"/>
+<text x="20" y="37" font-family="Noto Sans CJK SC" font-size="30" font-weight="700" text-anchor="start" fill="#161616">01  首页：从问题进入，不以功能堆叠</text>
+<text x="860" y="36" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="start" fill="#161616">移动端 · 关键状态</text>
+<rect x="20" y="64" width="820" height="550" rx="10" fill="white" stroke="#343434" stroke-width="1.6"/>
+<rect x="860" y="64" width="320" height="550" rx="20" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="20" y="657" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="start" fill="#161616">低保真设计提案  非现网截图</text>
+<text x="1180" y="657" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="end" fill="#161616">D H A R M A G A T E</text>
+<text x="42" y="104" font-family="Noto Sans CJK SC" font-size="26" font-weight="700" text-anchor="start" fill="#161616">Dharmagate</text>
+<text x="265" y="104" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="start" fill="#161616">资料馆   修学   书房</text>
+<text x="717" y="104" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="start" fill="#161616">更多 ▾</text>
+<path d="M20,126 L840,126" fill="none" stroke="#666" stroke-width="1.6"/>
+<text x="44" y="165" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="start" fill="#161616">学习者 · 师者 · 研究者 · 教师 · 机构</text>
+<text x="807" y="165" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="end" fill="#161616">更多内：旧版应用 ↗</text>
+<rect x="44" y="186" width="772" height="66" rx="8" fill="#f5f5f5" stroke="#343434" stroke-width="1.6"/>
+<text x="64" y="229" font-family="Noto Sans CJK SC" font-size="28" font-weight="400" text-anchor="start" fill="#161616">输入问题或关键词…</text>
+<text x="788" y="229" font-family="Noto Sans CJK SC" font-size="32" font-weight="400" text-anchor="end" fill="#161616">⌕</text>
+<rect x="44" y="278" width="248" height="130" rx="8" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="62" y="322" font-family="Noto Sans CJK SC" font-size="28" font-weight="700" text-anchor="start" fill="#161616">探索资料</text>
+<text x="62" y="362" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="start" fill="#161616">原典 · 讲解 · 研究</text>
+<rect x="306" y="278" width="248" height="130" rx="8" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="324" y="322" font-family="Noto Sans CJK SC" font-size="28" font-weight="700" text-anchor="start" fill="#161616">开始修学</text>
+<text x="324" y="362" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="start" fill="#161616">理解 → 练习 → 反思</text>
+<rect x="568" y="278" width="248" height="130" rx="8" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="586" y="322" font-family="Noto Sans CJK SC" font-size="28" font-weight="700" text-anchor="start" fill="#161616">继续学习</text>
+<text x="586" y="362" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="start" fill="#161616">回到上次阅读位置</text>
+<rect x="44" y="434" width="772" height="152" rx="8" fill="#fafafa" stroke="#343434" stroke-width="1.6"/>
+<text x="64" y="475" font-family="Noto Sans CJK SC" font-size="26" font-weight="700" text-anchor="start" fill="#161616">示例作品 A</text>
+<text x="64" y="514" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="start" fill="#161616">先看出处与版本，再进入阅读</text>
+<rect x="64" y="535" width="160" height="32" rx="6" fill="#eeeeee" stroke="#343434" stroke-width="1.6"/>
+<text x="144.0" y="558" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="middle" fill="#161616">原典 · 版本 A</text>
+<rect x="242" y="535" width="160" height="32" rx="6" fill="#eeeeee" stroke="#343434" stroke-width="1.6"/>
+<text x="322.0" y="558" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="middle" fill="#161616">出处可追溯</text>
+<rect x="420" y="535" width="188" height="32" rx="6" fill="#eeeeee" stroke="#343434" stroke-width="1.6"/>
+<text x="514.0" y="558" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" text-anchor="middle" fill="#161616">仅链接 · 权利受限</text>
+<text x="880" y="104" font-family="Noto Sans CJK SC" font-size="26" font-weight="700" text-anchor="start" fill="#161616">Dharmagate</text>
+<path d="M860,126 L1180,126" fill="none" stroke="#666" stroke-width="1.6"/>
+<rect x="880" y="147" width="280" height="58" rx="6" fill="#f5f5f5" stroke="#343434" stroke-width="1.6"/>
+<text x="895" y="184" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="start" fill="#161616">问题 / 关键词…</text>
+<rect x="880" y="228" width="280" height="44" rx="6" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="1020.0" y="259" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="middle" fill="#161616">探索资料</text>
+<rect x="880" y="286" width="280" height="44" rx="6" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="1020.0" y="317" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="middle" fill="#161616">开始修学</text>
+<rect x="880" y="344" width="280" height="44" rx="6" fill="white" stroke="#343434" stroke-width="1.6"/>
+<text x="1020.0" y="375" font-family="Noto Sans CJK SC" font-size="24" font-weight="400" text-anchor="middle" fill="#161616">继续学习</text>
+<text x="880" y="437" font-family="Noto Sans CJK SC" font-size="24" font-weight="700" text-anchor="start" fill="#161616">示例作品 A</text>
+<text x="880" y="474" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">原典 · 版本 A</text>
+<text x="880" y="510" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">出处可追溯 · 仅链接</text>
+<path d="M860,562 L1180,562" fill="none" stroke="#666" stroke-width="1.6"/>
+<text x="880" y="596" font-family="Noto Sans CJK SC" font-size="22" font-weight="400" text-anchor="start" fill="#161616">探索   搜索   修学   书房</text>
+</svg>

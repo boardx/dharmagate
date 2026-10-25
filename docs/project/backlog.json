@@ -1,0 +1,780 @@
+{
+  "version": "draft-2026-10-25",
+  "constraints": [
+    "禁止 Cloudflare Stream",
+    "影音采用 R2 + 播放器；必要转码/OCR/ASR由适配器调用已核准计算资源",
+    "不创建外部 issues，不新增服务或权限",
+    "P0 是首个可信文本闭环，不是全球全集",
+    "所有条目为建议计划，不代表已开工或通过验收"
+  ],
+  "items": [
+    {
+      "id": "DG-001",
+      "priority": "P0",
+      "area": "旧站保护",
+      "title": "核对旧站生产基线",
+      "owner_role": "发布工程师",
+      "dependencies": [],
+      "deliverable": "绑定、路由、资源、版本和功能基线清单；敏感值不入文档",
+      "acceptance_criteria": "只读记录当前实际版本、全部绑定标识和迁移标签；逐项区分已验、未知；不存在由历史健康检查推断新版本部署",
+      "effort_person_days_min": 1,
+      "effort_person_days_max": 2,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-002",
+      "priority": "P0",
+      "area": "旧站保护",
+      "title": "建立新旧路由兼容测试",
+      "owner_role": "全栈工程师",
+      "dependencies": [
+        "DG-001"
+      ],
+      "deliverable": "新首页、旧应用入口及API路由契约测试",
+      "acceptance_criteria": "原有已登记路由逐一有测试；新首页不被旧静态资源覆盖；旧登录回调及资源路径不因新导航改变",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 4,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-003",
+      "priority": "P0",
+      "area": "旧站保护",
+      "title": "准备安全发布与回退方案",
+      "owner_role": "发布工程师",
+      "dependencies": [
+        "DG-001",
+        "DG-002"
+      ],
+      "deliverable": "代码差异、备份哈希、发布步骤和非破坏性回退演练",
+      "acceptance_criteria": "先在隔离环境演练；排除本地空库和推断SQL；迁移和DO生命周期不变；明确版本回退不恢复业务数据",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 4,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-004",
+      "priority": "P0",
+      "area": "旧站保护",
+      "title": "阻止候选配置污染生产",
+      "owner_role": "发布工程师",
+      "dependencies": [
+        "DG-003"
+      ],
+      "deliverable": "发布包检查器及禁止字段清单",
+      "acceptance_criteria": "带本地数据库、迁移脚本、秘密、未知绑定变化的测试包被拒绝；生产写入仍需适用授权",
+      "effort_person_days_min": 1,
+      "effort_person_days_max": 3,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-005",
+      "priority": "P0",
+      "area": "底座",
+      "title": "建立环境隔离与配置模板",
+      "owner_role": "平台工程师",
+      "dependencies": [
+        "DG-001"
+      ],
+      "deliverable": "开发/测试/生产资源命名、配置模板、密钥引用和部署流水线",
+      "acceptance_criteria": "测试任务无法写生产数据；配置不包含秘密明文；通过最小权限与回滚检查；不自动开通付费服务",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 5,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-006",
+      "priority": "P0",
+      "area": "底座",
+      "title": "实现身份与租户边界",
+      "owner_role": "后端工程师",
+      "dependencies": [
+        "DG-005"
+      ],
+      "deliverable": "匿名公开阅读、个人账户、编辑及审核角色",
+      "acceptance_criteria": "未登录仅读公开资料；两账户互访私有数据失败；编辑不得自行绕过资料发布审核；复用旧身份或明确迁移方案",
+      "effort_person_days_min": 3,
+      "effort_person_days_max": 6,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-007",
+      "priority": "P0",
+      "area": "底座",
+      "title": "定义作品版本证据数据模型",
+      "owner_role": "数据工程师",
+      "dependencies": [
+        "DG-005"
+      ],
+      "deliverable": "作品、版本、译本、来源、资源、片段、权利和版本关系schema",
+      "acceptance_criteria": "同一作品的两个译本可独立定位引用；每片段关联资源哈希、版本、页段或时间码；未知年代/作者不强行填充",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 4,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-008",
+      "priority": "P0",
+      "area": "底座",
+      "title": "建立R2原件与衍生物存储规范",
+      "owner_role": "平台工程师",
+      "dependencies": [
+        "DG-005",
+        "DG-007"
+      ],
+      "deliverable": "R2路径、校验和、公开/私有分区及衍生物清单",
+      "acceptance_criteria": "原件与OCR/转写/缩略图分开；上传后哈希校验；私有资源不能经公共URL获取；重复文件不覆盖历史证据",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 4,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-009",
+      "priority": "P0",
+      "area": "许可",
+      "title": "建立逐来源权利登记",
+      "owner_role": "内容与许可负责人",
+      "dependencies": [
+        "DG-007"
+      ],
+      "deliverable": "来源许可登记、条款快照、联系人和使用动作矩阵",
+      "acceptance_criteria": "分别记录下载、保存、公开、衍生、RAG、训练权限；未知默认禁止对应动作；可访问不等于可再分发",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 5,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-010",
+      "priority": "P0",
+      "area": "许可",
+      "title": "选定首批有限授权语料",
+      "owner_role": "内容编辑",
+      "dependencies": [
+        "DG-009"
+      ],
+      "deliverable": "一条明确授权来源和10至30部代表性资料的试点清单",
+      "acceptance_criteria": "每项具备可验证许可与版本定位；权利不明资料不进入全文采集；公开MVP范围清楚且不宣称全球全集",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 5,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-011",
+      "priority": "P0",
+      "area": "许可",
+      "title": "实现发布前权利闸门",
+      "owner_role": "后端工程师",
+      "dependencies": [
+        "DG-009",
+        "DG-010",
+        "DG-006"
+      ],
+      "deliverable": "按资源和动作判定的许可规则、发布审批及最小撤权闸门",
+      "acceptance_criteria": "禁止下载、禁止再分发、禁止训练、未知许可四类负样本均阻断；权威许可状态提交为撤回后，新请求立即拒绝公开读取；旧链接、索引和答案缓存不得绕过当前权利状态；至少一个已撤回样本验证旧链接及缓存命中均被阻断",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 4,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-012",
+      "priority": "P0",
+      "area": "采集",
+      "title": "实现首个合规来源适配器",
+      "owner_role": "数据工程师",
+      "dependencies": [
+        "DG-010",
+        "DG-011",
+        "DG-008"
+      ],
+      "deliverable": "限定域名/接口的适配器、限速和可恢复游标",
+      "acceptance_criteria": "仅请求许可清单内资源；遵守来源规则；模拟429/超时后退避续传；不规避认证或付费墙",
+      "effort_person_days_min": 3,
+      "effort_person_days_max": 6,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-013",
+      "priority": "P0",
+      "area": "采集",
+      "title": "建立幂等采集与处理队列",
+      "owner_role": "平台工程师",
+      "dependencies": [
+        "DG-012"
+      ],
+      "deliverable": "Queues/Workflows任务状态、重试、死信和人工重放入口",
+      "acceptance_criteria": "同一任务重复投递不产生重复公开版本；失败保留错误原因；成功状态要求实际文件/数据库回执；重放仍经过权利闸门",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 4,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-014",
+      "priority": "P0",
+      "area": "采集",
+      "title": "规范化文本并保留原貌",
+      "owner_role": "数据工程师",
+      "dependencies": [
+        "DG-007",
+        "DG-013"
+      ],
+      "deliverable": "编码、段落、语言和字符规范化流程",
+      "acceptance_criteria": "原始文件不变；规范化文本可追溯变换规则；不静默改写佛学术语；测试含繁简异体、脚注和混合语言",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 5,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-015",
+      "priority": "P0",
+      "area": "采集",
+      "title": "建立去重与版本更新机制",
+      "owner_role": "数据工程师",
+      "dependencies": [
+        "DG-014"
+      ],
+      "deliverable": "文件哈希去重、近似重复候选和版本历史",
+      "acceptance_criteria": "相同字节只存一份逻辑实体可复用；异译不得因相似自动合并；新版本不破坏旧引用；人工可撤销误合并",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 4,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-016",
+      "priority": "P0",
+      "area": "搜索",
+      "title": "建立带权利过滤的检索索引",
+      "owner_role": "检索工程师",
+      "dependencies": [
+        "DG-015",
+        "DG-011"
+      ],
+      "deliverable": "关键词索引和向量索引，带来源/版本/语言/权限元数据",
+      "acceptance_criteria": "未授权片段不进入公共索引；检索前后均验证当前权威权限，撤回资料即使尚存于旧索引也不得返回内容或用于生成；答案缓存命中仍须检查依赖资料的当前权利状态；至少一个撤回样本通过旧索引及缓存命中负向测试；索引版本可重建并回退，向量模型变更需重建标识",
+      "effort_person_days_min": 3,
+      "effort_person_days_max": 6,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-017",
+      "priority": "P0",
+      "area": "搜索",
+      "title": "实现混合检索与可解释过滤",
+      "owner_role": "检索工程师",
+      "dependencies": [
+        "DG-016"
+      ],
+      "deliverable": "关键词+语义检索API和语言/作品/来源过滤",
+      "acceptance_criteria": "固定查询集报告Recall@k与失败样例；经名、人名和原句查询可命中；零结果明确反馈，不以生成答案冒充搜索结果",
+      "effort_person_days_min": 3,
+      "effort_person_days_max": 6,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-018",
+      "priority": "P0",
+      "area": "搜索",
+      "title": "实现稳定引用定位",
+      "owner_role": "后端工程师",
+      "dependencies": [
+        "DG-007",
+        "DG-017"
+      ],
+      "deliverable": "片段永久标识、原文页段定位和来源卡",
+      "acceptance_criteria": "每个展示引用能定位正确版本片段；资源更新后旧标识可追踪；被撤回资源显示撤回说明而不是伪装有效",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 4,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-019",
+      "priority": "P0",
+      "area": "AI",
+      "title": "实现证据约束问答流程",
+      "owner_role": "AI工程师",
+      "dependencies": [
+        "DG-017",
+        "DG-018"
+      ],
+      "deliverable": "检索→证据筛选→回答→引用核查工作流",
+      "acceptance_criteria": "回答区分引用、解释与建议；没有足够证据时拒答或缩小结论；不能生成不存在的经文/页码；记录模型与索引版本",
+      "effort_person_days_min": 3,
+      "effort_person_days_max": 7,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-020",
+      "priority": "P0",
+      "area": "AI",
+      "title": "实现跨传统与安全回答边界",
+      "owner_role": "AI工程师与内容顾问",
+      "dependencies": [
+        "DG-019"
+      ],
+      "deliverable": "回答策略、传统语境标签、风险情境测试",
+      "acceptance_criteria": "不把单一传统当全球共识；不冒充法师或判断证悟；危险修习与精神困扰样例遵守安全策略；无觉悟分数或业力画像",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 5,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-021",
+      "priority": "P0",
+      "area": "评测",
+      "title": "建立预发布质量与权限测试集",
+      "owner_role": "评测负责人",
+      "dependencies": [
+        "DG-010",
+        "DG-019",
+        "DG-020"
+      ],
+      "deliverable": "固定问题集、人工复核标注和自动回归",
+      "acceptance_criteria": "建议首版至少100题覆盖事实/比较/无证据/诱导/隐私；虚构出处和跨账户泄漏为阻塞项；人工报告引用支持性，不仅给模型自评分",
+      "effort_person_days_min": 3,
+      "effort_person_days_max": 6,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-022",
+      "priority": "P0",
+      "area": "UX",
+      "title": "实现统一搜索与资料结果页",
+      "owner_role": "前端工程师与设计师",
+      "dependencies": [
+        "DG-017",
+        "DG-018"
+      ],
+      "deliverable": "新首页搜索、资料类型标签和旧应用入口",
+      "acceptance_criteria": "移动端和键盘能完成搜索→过滤→打开资料；经典/讲解/研究/AI导读明确区分；旧应用入口无死链",
+      "effort_person_days_min": 3,
+      "effort_person_days_max": 6,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-023",
+      "priority": "P0",
+      "area": "UX",
+      "title": "实现有出处的阅读与问答界面",
+      "owner_role": "前端工程师",
+      "dependencies": [
+        "DG-018",
+        "DG-019",
+        "DG-022"
+      ],
+      "deliverable": "阅读器、引用展开、原文跳转和AI解释标记",
+      "acceptance_criteria": "AI解释不伪装成原文；点击引用定位实际片段；机器译文单独标记；低证据回答和无结果状态可理解",
+      "effort_person_days_min": 3,
+      "effort_person_days_max": 6,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-024",
+      "priority": "P0",
+      "area": "UX",
+      "title": "实现最小私人书房",
+      "owner_role": "全栈工程师",
+      "dependencies": [
+        "DG-006",
+        "DG-023"
+      ],
+      "deliverable": "私人书签、阅读位置和简短笔记",
+      "acceptance_criteria": "跨设备恢复阅读位置；笔记默认仅本人可见；不进入共享RAG和模型训练；取消登录不丢已保存内容",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 5,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-025",
+      "priority": "P0",
+      "area": "UX",
+      "title": "建立资料纠错与反馈闭环",
+      "owner_role": "全栈工程师与内容编辑",
+      "dependencies": [
+        "DG-018",
+        "DG-006"
+      ],
+      "deliverable": "按片段提交错误、审核与变更记录",
+      "acceptance_criteria": "用户可报告误引/错字/许可问题；状态可追踪；修正保留旧版本与处理人；投诉原文不自动公开",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 4,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-026",
+      "priority": "P0",
+      "area": "安全",
+      "title": "落实隐私最小化与数据访问审计",
+      "owner_role": "安全与后端工程师",
+      "dependencies": [
+        "DG-006",
+        "DG-008",
+        "DG-024"
+      ],
+      "deliverable": "隐私数据分级、日志脱敏、导出删除入口和访问审计",
+      "acceptance_criteria": "日志不含秘密或完整私人日记；用户可导出/删除私人笔记；权限负向测试通过；外部模型调用披露和最小传输可验证",
+      "effort_person_days_min": 3,
+      "effort_person_days_max": 6,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-027",
+      "priority": "P0",
+      "area": "底座",
+      "title": "建立成本可观测与故障保护",
+      "owner_role": "平台工程师",
+      "dependencies": [
+        "DG-013",
+        "DG-019"
+      ],
+      "deliverable": "采集/问答/存储指标、错误报警、预算闸门和请求限额",
+      "acceptance_criteria": "可按任务计算用量；预算阈值只限制新任务不损坏已存资料；超时/模型故障展示可重试状态；无无限重试或无边界并发",
+      "effort_person_days_min": 2,
+      "effort_person_days_max": 4,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-028",
+      "priority": "P0",
+      "area": "评测",
+      "title": "验收首个上线闭环",
+      "owner_role": "产品与发布负责人",
+      "dependencies": [
+        "DG-004",
+        "DG-021",
+        "DG-023",
+        "DG-024",
+        "DG-025",
+        "DG-026",
+        "DG-027"
+      ],
+      "deliverable": "限定资料范围的发布验收报告和回退回执",
+      "acceptance_criteria": "完成合法采集→校验→检索→带引用回答→阅读/书签→纠错；最小撤权闭环必须通过：权威许可更新后公开读取被拒，至少一个已撤回样本的旧链接、旧索引和答案缓存命中均不可返回受限内容；新旧站兼容；记录实际版本/命令/测试；未验业务明确列出，批准后才上线",
+      "effort_person_days_min": 3,
+      "effort_person_days_max": 6,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-029",
+      "priority": "P1",
+      "area": "采集",
+      "title": "增加扫描资料OCR及人工抽检",
+      "owner_role": "数据工程师与编辑",
+      "dependencies": [
+        "DG-028",
+        "DG-009"
+      ],
+      "deliverable": "按授权启用的OCR处理和页面-文本映射",
+      "acceptance_criteria": "低质量页进入复核队列；页码不丢失；术语错误单独抽样；OCR不能改变原扫描；成本和错误率按语言统计",
+      "effort_person_days_min": 4,
+      "effort_person_days_max": 9,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-030",
+      "priority": "P1",
+      "area": "采集",
+      "title": "增加影音转写与术语校正",
+      "owner_role": "音频AI工程师与编辑",
+      "dependencies": [
+        "DG-028",
+        "DG-009"
+      ],
+      "deliverable": "授权影音ASR、时间码和低置信度标签",
+      "acceptance_criteria": "仅处理允许衍生的媒体；原文件保留；片段能定位原始音轨；人名/术语抽检；说话人识别不推断身份；外部算力单独核准",
+      "effort_person_days_min": 4,
+      "effort_person_days_max": 9,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-031",
+      "priority": "P1",
+      "area": "UX",
+      "title": "建设R2影音播放器",
+      "owner_role": "媒体与前端工程师",
+      "dependencies": [
+        "DG-008",
+        "DG-028"
+      ],
+      "deliverable": "R2媒体访问、音视频播放、字幕和恢复播放",
+      "acceptance_criteria": "完全不依赖Cloudflare Stream；验证Range请求、授权访问、跨域、移动端播放；私有媒体不可分享裸公共URL；转码如需外部执行单独列依赖",
+      "effort_person_days_min": 4,
+      "effort_person_days_max": 8,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-032",
+      "priority": "P1",
+      "area": "搜索",
+      "title": "实现影音时间码检索",
+      "owner_role": "检索与前端工程师",
+      "dependencies": [
+        "DG-030",
+        "DG-031",
+        "DG-018"
+      ],
+      "deliverable": "字幕片段索引、播放器跳转与摘录",
+      "acceptance_criteria": "检索结果跳到相应内容并显示时间码；摘要句可追溯字幕及原媒体；无字幕媒体不得标完整内容可搜索",
+      "effort_person_days_min": 3,
+      "effort_person_days_max": 6,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-033",
+      "priority": "P1",
+      "area": "UX",
+      "title": "增加原文与异译对照",
+      "owner_role": "前端工程师与内容编辑",
+      "dependencies": [
+        "DG-028",
+        "DG-015"
+      ],
+      "deliverable": "人工确认的对照关系与并排阅读",
+      "acceptance_criteria": "作品关系和段落对应可人工纠正；不同译本不串接；缺失段落明确标注；机器对齐不得标作校勘定论",
+      "effort_person_days_min": 4,
+      "effort_person_days_max": 8,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-034",
+      "priority": "P1",
+      "area": "UX",
+      "title": "建立法师教师审核工作台",
+      "owner_role": "全栈工程师与教研负责人",
+      "dependencies": [
+        "DG-028",
+        "DG-006"
+      ],
+      "deliverable": "课程资料包、AI草稿、人工审核版本和学员授权",
+      "acceptance_criteria": "AI草稿/人工审核标记可见；老师不默认读私人日记；课程修改产生新版本；未核身份不能冒充认证法师",
+      "effort_person_days_min": 4,
+      "effort_person_days_max": 9,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-035",
+      "priority": "P1",
+      "area": "UX",
+      "title": "试点三条人本学习路径",
+      "owner_role": "教研与设计负责人",
+      "dependencies": [
+        "DG-034",
+        "DG-020"
+      ],
+      "deliverable": "理解→练习→生活反思的人工审核路径",
+      "acceptance_criteria": "用户可跳过/退出；不生成觉悟排名；每项建议有适用边界；实践反馈由用户自评，严重困扰不归因于业障或证悟",
+      "effort_person_days_min": 4,
+      "effort_person_days_max": 8,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-036",
+      "priority": "P1",
+      "area": "许可",
+      "title": "建立机构资料接入工作流",
+      "owner_role": "合作与后端负责人",
+      "dependencies": [
+        "DG-028",
+        "DG-009",
+        "DG-025"
+      ],
+      "deliverable": "资料提交、权利证明、审核和更新协议记录",
+      "acceptance_criteria": "支持仅元数据/链接/全文三种方式；机构不自动获得用户隐私；权利变更可追溯并触发重审；不自动联系或签约",
+      "effort_person_days_min": 4,
+      "effort_person_days_max": 8,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-037",
+      "priority": "P1",
+      "area": "搜索",
+      "title": "扩展多语言检索评测",
+      "owner_role": "检索工程师与语言编辑",
+      "dependencies": [
+        "DG-028",
+        "DG-021"
+      ],
+      "deliverable": "逐语种基准、跨语言查询和可解释回退",
+      "acceptance_criteria": "逐个新增语种验收而非宣称全语种；译文/原文区分；报告每语种质量和成本；无可靠对照时不伪造等价",
+      "effort_person_days_min": 5,
+      "effort_person_days_max": 10,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-038",
+      "priority": "P1",
+      "area": "安全",
+      "title": "扩展多来源影音权利清退",
+      "owner_role": "后端与数据工程师",
+      "dependencies": [
+        "DG-028",
+        "DG-011",
+        "DG-016"
+      ],
+      "deliverable": "在P0即时访问阻断基础上，扩展多来源影音的索引、缓存和衍生物规模化清退流水线",
+      "acceptance_criteria": "不得延后P0的即时撤权底线；多来源影音的索引/缓存/转写/缩略图等清退具有任务回执、重试和完成时限；清退期间仍由权威权限闸门拒绝读取；永久删除遵循确认规则；合法审计记录分离",
+      "effort_person_days_min": 3,
+      "effort_person_days_max": 6,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-039",
+      "priority": "P1",
+      "area": "评测",
+      "title": "开展真实试点与成本优化",
+      "owner_role": "产品与评测负责人",
+      "dependencies": [
+        "DG-028",
+        "DG-027"
+      ],
+      "deliverable": "用户任务测试、问题修复和容量成本报告",
+      "acceptance_criteria": "建议30至50人试点但不冒充已招募；记录任务成功率/理解反馈；成本按真实账单与用量验证；优化不得牺牲权利或证据",
+      "effort_person_days_min": 4,
+      "effort_person_days_max": 8,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-040",
+      "priority": "P2",
+      "area": "搜索",
+      "title": "建设人工可审校知识关系图",
+      "owner_role": "知识工程师与研究编辑",
+      "dependencies": [
+        "DG-033",
+        "DG-037",
+        "DG-036"
+      ],
+      "deliverable": "作品/人物/地点/传承关系及证据边",
+      "acceptance_criteria": "每条事实边可溯源并带争议状态；不同传统不被强行统一；删除证据触发边复核；图不代替原典",
+      "effort_person_days_min": 8,
+      "effort_person_days_max": 18,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-041",
+      "priority": "P2",
+      "area": "采集",
+      "title": "扩展跨馆藏版本对齐",
+      "owner_role": "数据工程师与文献专家",
+      "dependencies": [
+        "DG-040",
+        "DG-015"
+      ],
+      "deliverable": "跨机构作品识别、译本和版本匹配",
+      "acceptance_criteria": "人工抽检误合并与漏合并；保持各馆藏原标识；未知关系不自动确证；覆盖率分作品/版本/媒介计算",
+      "effort_person_days_min": 6,
+      "effort_person_days_max": 15,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-042",
+      "priority": "P2",
+      "area": "AI",
+      "title": "增加用户可控个性化建议",
+      "owner_role": "AI与隐私负责人",
+      "dependencies": [
+        "DG-035",
+        "DG-026",
+        "DG-039"
+      ],
+      "deliverable": "解释推荐原因、偏好控制和重置",
+      "acceptance_criteria": "不推断宗教身份用于营销；用户可关闭和重置；不使用私人日记训练共享模型；无觉悟/业力分数",
+      "effort_person_days_min": 5,
+      "effort_person_days_max": 12,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-043",
+      "priority": "P2",
+      "area": "底座",
+      "title": "按实测瓶颈扩容与灾备",
+      "owner_role": "平台工程师",
+      "dependencies": [
+        "DG-039",
+        "DG-038"
+      ],
+      "deliverable": "容量测试、分区/缓存策略及恢复演练",
+      "acceptance_criteria": "基于真实负载再选数据库/索引路径；备份恢复验证权限与引用一致性；明确RPO/RTO目标后实测；不为用全产品而加架构",
+      "effort_person_days_min": 6,
+      "effort_person_days_max": 15,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-044",
+      "priority": "P2",
+      "area": "AI",
+      "title": "评估专用模型而非默认训练",
+      "owner_role": "AI研究与许可负责人",
+      "dependencies": [
+        "DG-039",
+        "DG-037",
+        "DG-011"
+      ],
+      "deliverable": "训练许可审计、RAG对照和可撤回模型方案",
+      "acceptance_criteria": "只有明确训练许可资料可入训练集；在同一评测集证明相对RAG收益才进入开发；不以公开可读替代授权；训练不是MVP前置",
+      "effort_person_days_min": 5,
+      "effort_person_days_max": 12,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    },
+    {
+      "id": "DG-045",
+      "priority": "P2",
+      "area": "UX",
+      "title": "探索受治理的人类互助空间",
+      "owner_role": "产品与社区负责人",
+      "dependencies": [
+        "DG-034",
+        "DG-026",
+        "DG-039"
+      ],
+      "deliverable": "有限试点的讨论/提问与人工审核机制",
+      "acceptance_criteria": "先有滥用处置和未成年人保护；不允许AI冒充真人老师；不公开修学日记；捐赠/支付/直播另立范围不搭便车上线",
+      "effort_person_days_min": 5,
+      "effort_person_days_max": 12,
+      "estimate_basis": "粗略主动工程/编辑人日；先对账并复用既有成果；不含授权谈判、采购、外部审核等待及既有站点未知修复；拆分后重估",
+      "status": "proposed_pending_baseline"
+    }
+  ]
+}

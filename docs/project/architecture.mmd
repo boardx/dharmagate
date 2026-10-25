@@ -1,0 +1,22 @@
+flowchart TB
+  U[使用者 研究者 师者] --> E[DNS TLS CDN WAF]
+  E --> W[Workers 前端 API 鉴权与权利闸门]
+  W --> C[D1 或外部关系库 目录与权利事实]
+  W --> R[R2 合法原件与派生物]
+  W --> S[词法搜索 与 Vectorize 或 AI Search]
+  S --> G[AI Gateway]
+  G --> M[Workers AI 或经批准外部模型]
+  M --> V[证据 权限 引用校验]
+  V --> W
+  R --> P[自有网页播放器 MP4 Range 或预生成 HLS]
+  A[经批准官方 API 数据包 合作来源] --> Q[Queues 与 Workflows]
+  Q --> X[单独部署的获准 CPU 处理器 OCR ASR FFmpeg]
+  X --> R
+  X --> H[人工审阅]
+  H --> C
+  H --> S
+  R --> B[独立备份与导出]
+  C --> B
+  N[隐私 权利 审计 撤回与预算控制] -.-> W
+  N -.-> Q
+  N -.-> S
