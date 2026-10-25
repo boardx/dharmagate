@@ -1,0 +1,78 @@
+{
+  "recorded_at": "2026-10-25T16:48:17.447500+00:00",
+  "status": "R02_CODE_PREPARATION_ONLY; R01_UNRELEASED",
+  "issues": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "tests": {
+    "command": "npm test --prefix apps/web",
+    "node_version": "v22.23.1",
+    "total_passed": 18,
+    "new_r02_groups": 9,
+    "failed": 0,
+    "data": "Synthetic sessions, memberships, grants and catalog only",
+    "network_calls": 0,
+    "production_database_or_do_calls": 0
+  },
+  "source_manifest": [
+    {
+      "path": "apps/web/src/catalog-model.mjs",
+      "bytes": 3297,
+      "sha256": "fc5ff81eb205461615e96d3be2b9e3b3c9099bd9263e21e584071fc0b401b41b"
+    },
+    {
+      "path": "apps/web/src/identity-boundary.mjs",
+      "bytes": 1867,
+      "sha256": "6ddce7686682bce72d94ea97b161d5ffdb3df4ea14eaf800b4011614df195026"
+    },
+    {
+      "path": "apps/web/src/rights-policy.mjs",
+      "bytes": 2964,
+      "sha256": "8c67079207c42de5971a385c6ab9a844d8309436d80b64961c9e668ac0301b28"
+    },
+    {
+      "path": "apps/web/test/round-02-boundaries.test.mjs",
+      "bytes": 8188,
+      "sha256": "7135d6b7054b2ed309a0e56a84a45c2c229f503862818406c549f9043fe32638"
+    },
+    {
+      "path": "apps/web/ROUND-02-CONTRACTS.md",
+      "bytes": 4939,
+      "sha256": "5bdfbbee638ea9ea8a575139154ea4329151b6cbeae073d9af7d6e2675256e3c"
+    },
+    {
+      "path": "apps/web/pilot-manifest.example.json",
+      "bytes": 277,
+      "sha256": "f60fb982432df423e0a0a2aa892cd6d2db9a4fafca96fcbb9a4eeabb76703536"
+    },
+    {
+      "path": "docs/project/releases/round-02-engineering.md",
+      "bytes": 3041,
+      "sha256": "8de80f3eece20f406c35c03ebefd0ec70b5ecb571e89775b8e9a57bc45cae421"
+    }
+  ],
+  "publication_review": {
+    "scope": "Only seven explicitly listed original-code/test/document files plus this receipt",
+    "sensitive_pattern_findings": 0,
+    "third_party_full_text_included": false,
+    "production_data_included": false,
+    "old_bundle_included": false,
+    "real_rights_or_identity_acceptance_claimed": false
+  },
+  "real_pilot_corpus_items": 0,
+  "production_deployment": null,
+  "release_rounds_completed": 0,
+  "issues_closed": [],
+  "known_blockers": [
+    "R01 final production acceptance incomplete",
+    "Existing session adapter not wired to verified legacy server resolver",
+    "Durable authoritative rights ledger not implemented",
+    "Real R2 checksum/access isolation not tested",
+    "Real bounded corpus rights not cleared"
+  ]
+}
