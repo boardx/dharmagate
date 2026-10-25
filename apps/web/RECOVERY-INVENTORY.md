@@ -5,7 +5,7 @@ This public inventory describes categories only. Full operational receipts, inte
 | Material | Actual recovery state | Public GitHub state | Important limitation |
 | --- | --- | --- | --- |
 | Original TypeScript/React source project | Not recovered | Not uploaded | A deployed bundle is not the original project; no claim of full original-source reconstruction. |
-| Deployed backend Worker | Raw multipart export and extracted executable module backed up locally with integrity checks | Excluded | Contains bundled dependencies; redistribution clearance is incomplete. Restore only through separately authorized official access and private verification. |
+| Deployed backend Worker | Raw multipart export and extracted executable module backed up locally with integrity checks | Excluded | Treat as security-sensitive recovered runtime material; bundled-dependency redistribution clearance is incomplete. Restore only through separately authorized official access and private verification. |
 | Original source maps | Referenced by bundle, not present in recovered exports | Not available | No embedded original sources were established. Do not claim reverse compilation recovered the original project. |
 | Known public frontend JavaScript and CSS | Downloaded and locally formatted/analyzed; known paths and hashes recorded privately | Old compiled files excluded | Recovered output can inform compatibility work, but is not the original frontend source tree. |
 | Known public icon and SVG resources | Backed up locally with integrity checks | Old assets excluded | This is a known subset, not a complete remote static-asset export. |

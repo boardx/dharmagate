@@ -22,4 +22,4 @@ No production schema/user-data writes, identity replacement, migrations, new res
 
 ## Separate access diagnosis
 
-An existing logged-in console session could display the target security analytics UI. Its date input did not retain the requested second-level start time; no widened search was submitted, and no relevant event was obtained. The remote 403 cause remains unknown. The denied public-home GET was not retried or bypassed, and no security settings changed. This UI limitation is not proof of a WAF rule or Worker failure.
+The first exact-second query was not submitted because the UI did not retain seconds. A later separately authorized, host-filtered minimum-minute query returned one potentially matching security event. Detailed event/correlation evidence remains in protected operational records; original request-level correlation is incomplete. The denied public-home GET was not retried or bypassed, and no security settings, identities, IPs or credentials changed. This does not establish a Worker failure. See [minimum release gaps](minimum-release-gaps.md) for the current readiness assessment.
