@@ -1,0 +1,11 @@
+# Ten-round execution and evidence protocol
+
+The single repository is boardx/dharmagate. All 45 DG backlog entries are mapped to GitHub Issues and ten iterations by the parent-maintained planning files. Engineering must use those exact links once supplied, not create duplicate Issues or a competing iteration allocation. An iteration may contain multiple implementation steps and may remain blocked by rights, access, compute, migration or budget prerequisites; this is not a commitment to complete all items today or within an arbitrary period.
+
+Every round must have: user value; exact linked Issues/DG IDs and scoped acceptance criteria; dependencies and unverified prerequisites; reviewed source commit SHA; package hash; actual test command/environment/time/result; undeployed candidate evidence where available; deployment version/receipt; anonymous production checks; explicit untested business operations; preserved original-resource proof; rollback target and actual outcome (or "not exercised"). Never copy credentials, private notes, production binding values or unlicensed full text into public records.
+
+State sequence: planned → implementing → locally_verified → blocked or candidate_verified → deployed_pending_acceptance → released_verified. A failed release followed by rollback is rolled_back, not released_verified. Only released_verified counts toward 10. Ten commits, documentation updates, synthetic tests or preview pages do not count as ten releases. A code SHA is the deployed source commit, not the later evidence-record commit.
+
+Round 01 resolves the retain-assets routing blocker and preserves old applications. Later implementation follows the authoritative mapping and its dependencies; permitted independent local development may continue during a block, but cannot waive round-one safety gates. Do not declare entire DG items complete when only one subcriterion was tested. Missing human rights review and cross-account tests cannot be substituted with mocks.
+
+No Cloudflare Stream. No automatic resource provisioning, paid services, database migrations, lifecycle changes, credential renewal or broader security permissions. Private data remains outside shared search/model training. Unknown usage permissions deny the relevant action. Source rights are file-specific under COPYRIGHT.md.

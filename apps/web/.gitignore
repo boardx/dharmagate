@@ -1,0 +1,9 @@
+recovered/
+.wrangler/
+.env*
+!.env.example
+*.raw
+*.multipart
+node_modules/
+dist/
+local-data/

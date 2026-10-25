@@ -1,0 +1,63 @@
+{
+  "checked_at": "2026-10-25T16:29:46.209636+00:00",
+  "scope": "Explicit new apps/web and docs/project/releases files only",
+  "rights_review": "Original integration code, synthetic tests and redacted engineering documents. No old bundle, third-party full text, production identifiers, binding values, credentials or user data.",
+  "secret_pattern_findings": 0,
+  "file_manifest": [
+    {
+      "path": "apps/web/.gitignore",
+      "bytes": 92,
+      "sha256": "b2afdc8f2fd117721f69ff19dc1f4794b5d0421cbb9a0cdb814994c8e0fa782c"
+    },
+    {
+      "path": "apps/web/README.md",
+      "bytes": 2933,
+      "sha256": "1a1bf20e3d0f2af4f9f33cd5c522ab3fbc29d21761a4eb901657a49b7726356c"
+    },
+    {
+      "path": "apps/web/ops/release-gate.mjs",
+      "bytes": 2044,
+      "sha256": "fe098f9e2ff71bd1129de280890a0947891d509634005e703f89c8ddcdab574f"
+    },
+    {
+      "path": "apps/web/package.json",
+      "bytes": 159,
+      "sha256": "a0c3ec396ddac763c8e5cff77b590a2c6eb710e8a5f30181ce9aec932da46bd7"
+    },
+    {
+      "path": "apps/web/src/create-router.mjs",
+      "bytes": 935,
+      "sha256": "4dc7b7c39871264caf893a670e14ad53e49c4520170b8f7f4238b279b50130d2"
+    },
+    {
+      "path": "apps/web/test/release-gate.test.mjs",
+      "bytes": 2211,
+      "sha256": "caca911050213a51d508d41b0afdc9156cce3bed4d0ad92efe885f82e91cba1c"
+    },
+    {
+      "path": "apps/web/test/router.test.mjs",
+      "bytes": 2102,
+      "sha256": "059f1192553c65933bcbc5edac32bca2cde8c4633de44e9cedd4548903ec2194"
+    },
+    {
+      "path": "docs/project/releases/execution-protocol.md",
+      "bytes": 2332,
+      "sha256": "758de8028ad775d92cff261e3e16f15942dc136fc326d185d5b001b504db3af2"
+    },
+    {
+      "path": "docs/project/releases/round-01-engineering.md",
+      "bytes": 5983,
+      "sha256": "468fbd4f449f0c40ba3497179410fff088337bdb1a09e4b420cc753eac44f9d2"
+    }
+  ],
+  "tests": {
+    "command": "npm test",
+    "environment": "Node v22.23.1; offline; no database or Durable Objects",
+    "groups_passed": 7,
+    "groups_failed": 0,
+    "production_validation": false
+  },
+  "deployment_rounds_completed": 0,
+  "deployment_version": null,
+  "status": "LOCAL_TESTS_PASSED; R1_RELEASE_BLOCKED"
+}
