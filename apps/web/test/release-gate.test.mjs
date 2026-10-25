@@ -1,14 +1,14 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { assessRelease, landingPaths } from '../ops/release-gate.mjs';
+import { assessRelease, inspectReportedRouting, landingPaths } from '../ops/release-gate.mjs';
 function fixture() {
   const baseline = {version:'baseline-fixture',bindings:[{name:'TEST_DB',type:'d1',id:'test-only'}],migrationTag:'fixture-lifecycle',runtime:{compatibility_date:'2025-12-01'},assets:{raw_headers:'fixture-header'}};
   const candidate = structuredClone(baseline); candidate.version='candidate-fixture';
   candidate.assets.raw_run_worker_first=[...landingPaths];
-  const evidence={source:'official-version-get',candidateVersion:candidate.version,activeBaselineVersion:baseline.version,retainedAssetCollectionVerified:true,supportedAssetRoutingMethod:true};
+  const evidence={source:'official-version-get',candidateVersion:candidate.version,activeBaselineVersion:baseline.version,retainedAssetCollectionVerified:true,supportedAssetRoutingMethod:true,routingSemanticsVerified:true};
   return {baseline,candidate,evidence};
 }
-test('rejects the real failed-upload class: HTTP success with old asset routing', () => {
+test('rejects an unverified routing conflict despite upload HTTP success', () => {
   const input=fixture(); input.candidate.assets.raw_run_worker_first=false;
   assert.equal(assessRelease(input).readyForDeployment,false);
 });
@@ -24,4 +24,19 @@ test('rejects drift, resource loss, lifecycle changes and local release contamin
 });
 test('synthetic complete evidence exercises pass branch, not a production deployment receipt', () => {
   assert.equal(assessRelease(fixture()).readyForDeployment,true);
+});
+test('missing assets metadata is unknown, distinct from explicitly reported false', () => {
+  assert.equal(inspectReportedRouting(undefined).status,'unknown');
+  assert.equal(inspectReportedRouting({}).status,'unknown');
+  assert.equal(inspectReportedRouting({raw_run_worker_first:false}).status,'reported_conflict');
+  assert.equal(inspectReportedRouting({run_worker_first:[...landingPaths]}).status,'reported_match');
+});
+test('a reported match does not prove effective edge routing without verified semantics', () => {
+  const input=fixture(); delete input.evidence.routingSemanticsVerified;
+  assert.equal(assessRelease(input).reportedRouting.status,'reported_match');
+  assert.equal(assessRelease(input).readyForDeployment,false);
+  input.candidate.assets.raw_run_worker_first=false;
+  input.evidence.isolatedCandidateBehaviorVerified=true;
+  assert.equal(assessRelease(input).reportedRouting.status,'reported_conflict');
+  assert.equal(assessRelease(input).readyForDeployment,true);
 });

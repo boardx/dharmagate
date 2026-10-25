@@ -18,4 +18,4 @@ No production Wrangler config or deploy command is provided: the retain-assets r
 
 Only the original integration code, synthetic tests and redacted engineering records in this directory are submitted. No third-party full text, old minified bundle, production data, account/resource binding values or credentials are included. Repository-level COPYRIGHT.md remains authoritative; this addition does not relicense existing mixed research materials.
 
-See [round-one engineering checkpoint](../../docs/project/releases/round-01-engineering.md). Parent-maintained Issues and iteration mapping remain the planning source of truth; this checkpoint does not mark any DG acceptance criteria complete.
+See [public recovery inventory](RECOVERY-INVENTORY.md) and [round-one engineering checkpoint](../../docs/project/releases/round-01-engineering.md). Parent-maintained Issues and iteration mapping remain the planning source of truth; this checkpoint does not mark any DG acceptance criteria complete.

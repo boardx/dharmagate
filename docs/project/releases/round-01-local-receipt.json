@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-25T16:29:46.209636+00:00",
-  "scope": "Explicit new apps/web and docs/project/releases files only",
-  "rights_review": "Original integration code, synthetic tests and redacted engineering documents. No old bundle, third-party full text, production identifiers, binding values, credentials or user data.",
-  "secret_pattern_findings": 0,
+  "checked_at": "2026-10-25T16:41:16.435004+00:00",
+  "scope": "Explicit original apps/web source, synthetic tests and redacted release docs only; no repository-wide rights claim",
+  "rights_review": "No old bundle, third-party full text, private paths, production identifiers, binding values, credentials or user data",
+  "sensitive_pattern_findings": 0,
   "file_manifest": [
     {
       "path": "apps/web/.gitignore",
@@ -11,13 +11,18 @@
     },
     {
       "path": "apps/web/README.md",
-      "bytes": 2933,
-      "sha256": "1a1bf20e3d0f2af4f9f33cd5c522ab3fbc29d21761a4eb901657a49b7726356c"
+      "bytes": 2988,
+      "sha256": "86bd7c065b5f8da415bb9df93074011cfd382da2a609e82d9f3d9c188d9eb645"
+    },
+    {
+      "path": "apps/web/RECOVERY-INVENTORY.md",
+      "bytes": 3804,
+      "sha256": "3f12e7f7f144abed7197a7b85bb10bfe1fd11b0a714a853fdb88d12210692874"
     },
     {
       "path": "apps/web/ops/release-gate.mjs",
-      "bytes": 2044,
-      "sha256": "fe098f9e2ff71bd1129de280890a0947891d509634005e703f89c8ddcdab574f"
+      "bytes": 2744,
+      "sha256": "23ea2bb2cd0fd0c05abb22c342aaae8e1ab02edf8dfc070f27f16d33c6662e05"
     },
     {
       "path": "apps/web/package.json",
@@ -31,8 +36,8 @@
     },
     {
       "path": "apps/web/test/release-gate.test.mjs",
-      "bytes": 2211,
-      "sha256": "caca911050213a51d508d41b0afdc9156cce3bed4d0ad92efe885f82e91cba1c"
+      "bytes": 3251,
+      "sha256": "446607b36f4d0da00aeb28f112386d52920f0e1ead4f4be83d3c2b814ba09702"
     },
     {
       "path": "apps/web/test/router.test.mjs",
@@ -46,17 +51,18 @@
     },
     {
       "path": "docs/project/releases/round-01-engineering.md",
-      "bytes": 5983,
-      "sha256": "468fbd4f449f0c40ba3497179410fff088337bdb1a09e4b420cc753eac44f9d2"
+      "bytes": 7327,
+      "sha256": "3e6851ca92b97f1d794604ccabd9c21a0f399ed3cc19216eea340de2902796a9"
     }
   ],
   "tests": {
-    "command": "npm test",
-    "environment": "Node v22.23.1; offline; no database or Durable Objects",
-    "groups_passed": 7,
+    "command": "npm test --prefix apps/web",
+    "environment": "Node v22.23.1; offline; no DB/DO",
+    "groups_passed": 9,
     "groups_failed": 0,
     "production_validation": false
   },
+  "acceptance_correction": "Missing fields are unknown. Explicit raw readback conflicts are not proof of effective behavior. Verified independent candidate behavior may establish routing despite a raw reported conflict.",
   "deployment_rounds_completed": 0,
   "deployment_version": null,
   "status": "LOCAL_TESTS_PASSED; R1_RELEASE_BLOCKED"

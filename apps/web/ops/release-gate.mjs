@@ -1,6 +1,17 @@
 /** Offline acceptance only. This module has no upload or authentication capability. */
 export const landingPaths = Object.freeze(['/', '/bodi', '/bodi/']);
 
+// This classifies a reported field, not effective request routing at the edge.
+export function inspectReportedRouting(assets) {
+  const field = ['raw_run_worker_first', 'run_worker_first'].find(key =>
+    Object.hasOwn(assets ?? {}, key));
+  if (!field) return { status: 'unknown', field: null };
+  return {
+    status: JSON.stringify(assets[field]) === JSON.stringify(landingPaths) ? 'reported_match' : 'reported_conflict',
+    field,
+  };
+}
+
 export function assessRelease({ baseline, candidate, evidence }) {
   const failures = [];
   const same = (a, b) => JSON.stringify(a) === JSON.stringify(b);
@@ -12,8 +23,10 @@ export function assessRelease({ baseline, candidate, evidence }) {
     failures.push('Active production baseline must be rechecked after any rollback');
   if (!evidence?.retainedAssetCollectionVerified)
     failures.push('Full remote asset collection identity preservation is unverified');
-  if (!same(candidate?.assets?.raw_run_worker_first, landingPaths))
-    failures.push('Returned runtime must contain exact Worker-first paths, not requested metadata');
+  const reportedRouting = inspectReportedRouting(candidate?.assets);
+  const verifiedReadback = reportedRouting.status === 'reported_match' && evidence?.routingSemanticsVerified;
+  if (!verifiedReadback && !evidence?.isolatedCandidateBehaviorVerified)
+    failures.push(`Asset routing readback is ${reportedRouting.status}; verified field semantics or independent isolated candidate behavior is required`);
   if (!same(candidate?.bindings, baseline?.bindings))
     failures.push('Binding descriptors or resource identities changed');
   if (!same(candidate?.runtime, baseline?.runtime))
@@ -26,5 +39,5 @@ export function assessRelease({ baseline, candidate, evidence }) {
     failures.push('Local database, migrations or secrets must not enter the release package');
   if (!evidence?.supportedAssetRoutingMethod)
     failures.push('Supported retain-assets routing update method remains unresolved');
-  return { readyForDeployment: failures.length === 0, failures };
+  return { readyForDeployment: failures.length === 0, reportedRouting, failures };
 }
