@@ -1,0 +1,413 @@
+{
+  "source": "boardx/dharmagate docs/project/issue-map.json",
+  "source_tree_sha": "986523f4f80fcc8d907b1285232c5dca820cf7f2",
+  "scope": "local-delivery cross-reference only; no issue edit or close; current live issue state not re-queried",
+  "accepted_rounds": 0,
+  "items": [
+    {
+      "id": "DG-001",
+      "round": "R01",
+      "number": 1,
+      "title": "核对旧站生产基线",
+      "url": "https://github.com/boardx/dharmagate/issues/1",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "历史生产基线/回退回执已保存；本轮未重新核对现网。"
+    },
+    {
+      "id": "DG-002",
+      "round": "R01",
+      "number": 2,
+      "title": "建立新旧路由兼容测试",
+      "url": "https://github.com/boardx/dharmagate/issues/2",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "本地新旧路由、手机六项菜单/刷新/返回及hydration检查通过；线上本候选未发布。"
+    },
+    {
+      "id": "DG-003",
+      "round": "R01",
+      "number": 3,
+      "title": "准备安全发布与回退方案",
+      "url": "https://github.com/boardx/dharmagate/issues/3",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "历史失败候选已安全回退；新候选上线仍待批准。"
+    },
+    {
+      "id": "DG-004",
+      "round": "R01",
+      "number": 4,
+      "title": "阻止候选配置污染生产",
+      "url": "https://github.com/boardx/dharmagate/issues/4",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "现有配置/秘密污染门槛测试；后台与UI固定候选分离，未写生产。"
+    },
+    {
+      "id": "DG-005",
+      "round": "R01",
+      "number": 5,
+      "title": "建立环境隔离与配置模板",
+      "url": "https://github.com/boardx/dharmagate/issues/5",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "本地D1/Miniflare隔离，无远端绑定；生产启用未完成。"
+    },
+    {
+      "id": "DG-006",
+      "round": "R02",
+      "number": 6,
+      "title": "实现身份与租户边界",
+      "url": "https://github.com/boardx/dharmagate/issues/6",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "哈希锁定独立DB会话适配器23项真实本地HTTP/D1检查通过；租户全链路及真实账户验收未完成。"
+    },
+    {
+      "id": "DG-007",
+      "round": "R02",
+      "number": 7,
+      "title": "定义作品版本证据数据模型",
+      "url": "https://github.com/boardx/dharmagate/issues/7",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "八表DDL与本地D1 store已验证；生产迁移未执行。"
+    },
+    {
+      "id": "DG-008",
+      "round": "R02",
+      "number": 8,
+      "title": "建立R2原件与衍生物存储规范",
+      "url": "https://github.com/boardx/dharmagate/issues/8",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "R2仅存储契约，未绑定/建桶；本阶段D1-only不满足此Issue全部验收。"
+    },
+    {
+      "id": "DG-009",
+      "round": "R02",
+      "number": 9,
+      "title": "建立逐来源权利登记",
+      "url": "https://github.com/boardx/dharmagate/issues/9",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "六用途许可/审核接口本地验证；真实权利台账和审核记录未入库。"
+    },
+    {
+      "id": "DG-010",
+      "round": "R02",
+      "number": 10,
+      "title": "选定首批有限授权语料",
+      "url": "https://github.com/boardx/dharmagate/issues/10",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "已有首10候选来源研究；真实manifest批准及下载入库未完成。"
+    },
+    {
+      "id": "DG-011",
+      "round": "R02",
+      "number": 11,
+      "title": "实现发布前权利闸门",
+      "url": "https://github.com/boardx/dharmagate/issues/11",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "权限unknown拒绝、训练禁止及默认私有本地测试；公开读/RAG撤权全链路未完成。"
+    },
+    {
+      "id": "DG-012",
+      "round": "R03",
+      "number": 12,
+      "title": "实现首个合规来源适配器",
+      "url": "https://github.com/boardx/dharmagate/issues/12",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "未实现可上线的真实来源下载适配器。"
+    },
+    {
+      "id": "DG-013",
+      "round": "R03",
+      "number": 13,
+      "title": "建立幂等采集与处理队列",
+      "url": "https://github.com/boardx/dharmagate/issues/13",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "本地事务、幂等、并发、首批门槛已测试；生产队列/失败审计未完成。"
+    },
+    {
+      "id": "DG-014",
+      "round": "R03",
+      "number": 14,
+      "title": "规范化文本并保留原貌",
+      "url": "https://github.com/boardx/dharmagate/issues/14",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "人工UTF-8原貌/规范化双哈希与32KiB片段本地往返；真实语料处理未完成。"
+    },
+    {
+      "id": "DG-015",
+      "round": "R03",
+      "number": 15,
+      "title": "建立去重与版本更新机制",
+      "url": "https://github.com/boardx/dharmagate/issues/15",
+      "local_status": "partial_or_prepared_not_accepted",
+      "evidence": "本地唯一版本键/哈希与冲突拒绝；自动版本更新/去重全流程未完成。"
+    },
+    {
+      "id": "DG-016",
+      "round": "R04",
+      "number": 16,
+      "title": "建立带权利过滤的检索索引",
+      "url": "https://github.com/boardx/dharmagate/issues/16",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-017",
+      "round": "R04",
+      "number": 17,
+      "title": "实现混合检索与可解释过滤",
+      "url": "https://github.com/boardx/dharmagate/issues/17",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-018",
+      "round": "R04",
+      "number": 18,
+      "title": "实现稳定引用定位",
+      "url": "https://github.com/boardx/dharmagate/issues/18",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-019",
+      "round": "R05",
+      "number": 19,
+      "title": "实现证据约束问答流程",
+      "url": "https://github.com/boardx/dharmagate/issues/19",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-020",
+      "round": "R05",
+      "number": 20,
+      "title": "实现跨传统与安全回答边界",
+      "url": "https://github.com/boardx/dharmagate/issues/20",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-021",
+      "round": "R05",
+      "number": 21,
+      "title": "建立预发布质量与权限测试集",
+      "url": "https://github.com/boardx/dharmagate/issues/21",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-022",
+      "round": "R04",
+      "number": 22,
+      "title": "实现统一搜索与资料结果页",
+      "url": "https://github.com/boardx/dharmagate/issues/22",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-023",
+      "round": "R05",
+      "number": 23,
+      "title": "实现有出处的阅读与问答界面",
+      "url": "https://github.com/boardx/dharmagate/issues/23",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-024",
+      "round": "R06",
+      "number": 24,
+      "title": "实现最小私人书房",
+      "url": "https://github.com/boardx/dharmagate/issues/24",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-025",
+      "round": "R06",
+      "number": 25,
+      "title": "建立资料纠错与反馈闭环",
+      "url": "https://github.com/boardx/dharmagate/issues/25",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-026",
+      "round": "R06",
+      "number": 26,
+      "title": "落实隐私最小化与数据访问审计",
+      "url": "https://github.com/boardx/dharmagate/issues/26",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-027",
+      "round": "R05",
+      "number": 27,
+      "title": "建立成本可观测与故障保护",
+      "url": "https://github.com/boardx/dharmagate/issues/27",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-028",
+      "round": "R06",
+      "number": 28,
+      "title": "验收首个上线闭环",
+      "url": "https://github.com/boardx/dharmagate/issues/28",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-029",
+      "round": "R07",
+      "number": 29,
+      "title": "增加扫描资料OCR及人工抽检",
+      "url": "https://github.com/boardx/dharmagate/issues/29",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-030",
+      "round": "R07",
+      "number": 30,
+      "title": "增加影音转写与术语校正",
+      "url": "https://github.com/boardx/dharmagate/issues/30",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-031",
+      "round": "R07",
+      "number": 31,
+      "title": "建设R2影音播放器",
+      "url": "https://github.com/boardx/dharmagate/issues/31",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-032",
+      "round": "R08",
+      "number": 32,
+      "title": "实现影音时间码检索",
+      "url": "https://github.com/boardx/dharmagate/issues/32",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-033",
+      "round": "R08",
+      "number": 33,
+      "title": "增加原文与异译对照",
+      "url": "https://github.com/boardx/dharmagate/issues/33",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-034",
+      "round": "R08",
+      "number": 34,
+      "title": "建立法师教师审核工作台",
+      "url": "https://github.com/boardx/dharmagate/issues/34",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-035",
+      "round": "R08",
+      "number": 35,
+      "title": "试点三条人本学习路径",
+      "url": "https://github.com/boardx/dharmagate/issues/35",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-036",
+      "round": "R08",
+      "number": 36,
+      "title": "建立机构资料接入工作流",
+      "url": "https://github.com/boardx/dharmagate/issues/36",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-037",
+      "round": "R08",
+      "number": 37,
+      "title": "扩展多语言检索评测",
+      "url": "https://github.com/boardx/dharmagate/issues/37",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-038",
+      "round": "R07",
+      "number": 38,
+      "title": "扩展多来源影音权利清退",
+      "url": "https://github.com/boardx/dharmagate/issues/38",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-039",
+      "round": "R08",
+      "number": 39,
+      "title": "开展真实试点与成本优化",
+      "url": "https://github.com/boardx/dharmagate/issues/39",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-040",
+      "round": "R09",
+      "number": 40,
+      "title": "建设人工可审校知识关系图",
+      "url": "https://github.com/boardx/dharmagate/issues/40",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-041",
+      "round": "R10",
+      "number": 41,
+      "title": "扩展跨馆藏版本对齐",
+      "url": "https://github.com/boardx/dharmagate/issues/41",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-042",
+      "round": "R10",
+      "number": 42,
+      "title": "增加用户可控个性化建议",
+      "url": "https://github.com/boardx/dharmagate/issues/42",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-043",
+      "round": "R09",
+      "number": 43,
+      "title": "按实测瓶颈扩容与灾备",
+      "url": "https://github.com/boardx/dharmagate/issues/43",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-044",
+      "round": "R09",
+      "number": 44,
+      "title": "评估专用模型而非默认训练",
+      "url": "https://github.com/boardx/dharmagate/issues/44",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    },
+    {
+      "id": "DG-045",
+      "round": "R10",
+      "number": 45,
+      "title": "探索受治理的人类互助空间",
+      "url": "https://github.com/boardx/dharmagate/issues/45",
+      "local_status": "not_implemented_in_this_delivery",
+      "evidence": "仅保留原计划映射；本次没有实现或验收证据。"
+    }
+  ]
+}
