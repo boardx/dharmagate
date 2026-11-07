@@ -2,6 +2,8 @@
 
 本说明将源码保全、云端执行、全站整合和生产发布分别验收。Cloudflare 网站在线不代表开发环境已迁移；保存环境名称也不代表云端命令已运行。
 
+第一批已取得真实 Linux 云端回执：提交 `9312825`，20项测试、25项loopback HTTP检查及资源逐字一致性检查全部通过。[运行记录](https://github.com/boardx/dharmagate/actions/runs/42334121823)；[结构化状态](cloud-development-status.json)。交互式专用环境仍未创建。
+
 ## 第一批：静坐与声音应用
 
 目标仓库 `boardx/dharmagate`，分支 `codex/dharmagate-consolidation-20261029`。仅追加经过审查的自有模块与合成测试，不替换整棵历史树。

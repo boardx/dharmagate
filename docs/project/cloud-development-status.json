@@ -1,0 +1,24 @@
+{
+  "recordedAt": "2026-11-07T03:30:23Z",
+  "repository": "boardx/dharmagate",
+  "branch": "codex/dharmagate-consolidation-20261029",
+  "practice": {
+    "commit": "9312825e8e613f45edc01fd60a92de0f942b7fb4",
+    "tree": "e31b3876b109483c418a9c5799b22d1f966b7cd7",
+    "addedFiles": 20,
+    "addedBytes": 83293,
+    "remoteBlobHashesMatch": true,
+    "baselineFilesPreserved": 153,
+    "cloudRun": "https://github.com/boardx/dharmagate/actions/runs/42334121823",
+    "cloudConclusion": "success",
+    "cloudNode": "22.23.1",
+    "cloudTestsPassed": 20,
+    "cloudHttpChecksPassed": 25,
+    "generatedAssetsMatch": true
+  },
+  "interactiveCloudEnvironmentCreated": false,
+  "fullSiteMigrationComplete": false,
+  "productionChanged": false,
+  "excluded": ["private-runtime", "credentials", "private-corpus", "databases", "unreviewed-research-fulltext", "third-party-media"],
+  "remaining": ["interactive-environment-creation-and-start", "canon-source-transfer-and-cloud-validation", "licensed-people-data-preservation", "current-private-runtime-safe-preservation", "full-site-build-preview-and-release-recovery"]
+}
