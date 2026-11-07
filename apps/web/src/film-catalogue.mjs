@@ -1,3 +1,4 @@
+import {filmCatalogueAdditions} from './film-catalogue-additions.mjs';
 // YouTube watch pages inspected on 2026-11-06 (Asia/Shanghai).
 // Runtime is the observed upload, not an assertion of an uncut theatrical edition.
 const watch = (videoId,label,seconds,language,channel) => ({videoId,url:`https://www.youtube.com/watch?v=${videoId}`,label,seconds,language,channel,checkedOn:'2026-11-06'});
@@ -23,7 +24,7 @@ export const filmCatalogue = [
  film('jianzhen-series','鉴真东渡',null,'电视剧','鉴真屡次东渡日本、传法授戒的历史故事。',[watch('3pg3_KsiRFw','从01/15开始',2205,'中文','baimalamu')]),
  film('dharma-1999','达摩祖师（吕良伟版）',1999,'电视剧','台湾电视剧，达摩传说与禅宗故事的戏剧化表达。',[watch('4xhtmuYmWHs','从第1集开始',2671,'中文','Suyatno Suyatno')],{note:'与1986年TVB同名剧及1994年电影分开收录。'}),
  film('liaofan','了凡四训 / 了凡的故事',null,'电视剧','围绕改过、行善与命运展开，属于儒释道交融的劝善故事。',[watch('vC9LfYQwoTQ','观看23集版第1集',2772,'国语','TaiwanLoveChinaEver')]),
- film('bodhi-road','千年菩提路：中国名寺高僧',2010,'纪录片','从寺院、高僧与传承理解中国佛教的发展。',[watch('7qXtE5JwUG0','观看《白马驮经》',2099,'中文','菠蘿蜜多')],{recommended:true,note:'不同发行版本集序不同，保留上传所标集名。'}),
+ film('bodhi-road','千年菩提路：白马驮经',2010,'纪录片','《千年菩提路》完整专题单集《白马驮经》，介绍佛教东传的文化记忆。',[watch('7qXtE5JwUG0','观看《白马驮经》',2099,'中文','菠蘿蜜多')],{recommended:true,note:'不同发行版本集序不同，保留上传所标集名。'}),
  film('buddha-pbs','佛陀 / The Buddha（PBS）',2010,'纪录片','大卫·格鲁宾执导，以佛陀生平串起佛教基本问题。',[watch('lRiKLkH7pLI','观看纪录片',6893,'英语；字幕以播放器为准','Peeta')],{recommended:true}),
  film('white-clouds','白云深处 / Amongst White Clouds',2005,'纪录片','走近终南山佛教隐修者，观察朴素的生活与修行。',[watch('pH2ozq65yHQ','观看纪录片',5187,'中文访谈、英语字幕','Dominus')],{recommended:true}),
  film('walk-with-me','与我同行 / Walk with Me',2017,'纪录片','一行禅师与梅村僧团的日常生活、行禅和共同修行。',[watch('E-WL7cC3Uxk','观看纪录片版本',5642,'越南语标题版；字幕以播放器为准','Nguyễn Minh Hoàng')],{note:'一行禅师纪录片，与同名剧情电影不同。'}),
@@ -40,4 +41,5 @@ export const filmCatalogue = [
  film('buddha-animation-1','佛陀：首部曲',2011,'文化与动画','手冢治虫漫画改编的佛陀题材动画，艺术改编幅度较大。',[watch('rQi3sYaElb8','观看动画电影',6665,'页面标注中文字幕','心紀元')]),
  film('buddha-animation-2','佛陀2：无尽的旅程',2014,'文化与动画','手冢治虫《佛陀》动画电影第二部。',[watch('QOAF-1my1mM','观看动画电影',5200,'中文标题版本；字幕以播放器为准','心紀元')]),
  film('jianzhen-animation','鉴真大和尚',2010,'文化与动画','大爱电视制作，以动画讲述鉴真东渡传法的坚定与艰辛。',[watch('_fY1MPvuwNs','观看动画电影',6021,'中文','隆來學Kevin LONG')]),
+ ...filmCatalogueAdditions,
 ];
