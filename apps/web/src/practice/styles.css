@@ -71,7 +71,7 @@ body:not([data-session-state="running"]) .sector-ring,body:not([data-session-sta
 .settings-drawer .cue-row label{grid-area:choice;min-width:0}
 .settings-drawer .cue-tone{grid-area:tone;margin:0;line-height:1.6}
 .settings-drawer [data-preview-cue]{grid-area:preview;min-width:76px;max-width:none;white-space:nowrap;align-self:center;padding:10px 14px}
-@media(max-width:600px){.settings-drawer .cue-row{grid-template-columns:48px minmax(0,1fr);grid-template-areas:"art choice" ". tone" ". preview";gap:8px 12px}.settings-drawer .cue-art svg{width:48px}.settings-drawer [data-preview-cue]{justify-self:start;grid-column:auto}}
+@media(max-width:600px){.settings-drawer .cue-row{grid-template-columns:48px minmax(0,1fr);grid-template-areas:"art choice" ". tone" ". preview";gap:8px 12px}.settings-drawer .cue-art svg{width:48px}.settings-drawer [data-preview-cue]{justify-self:start;grid-column:2}}
 @media(max-width:350px){.settings-drawer .cue-row{grid-template-columns:36px minmax(0,1fr)}.settings-drawer .cue-art svg{width:36px}}
 
 /* Round 2: bounded sheet with consistent navigation and persistent completion. */
