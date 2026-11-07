@@ -1,3 +1,4 @@
+import {INSTRUMENT_SOUNDS} from './instrument-catalogue.mjs';
 /** Verified real recordings. Retired synthetic identifiers remain readable in history only. */
 export const LEGACY_SOUNDS=Object.freeze([
   {
@@ -315,7 +316,7 @@ export const SOUNDS=Object.freeze([
       "excerptEndSeconds": 1.826
     }
   }
-].map(Object.freeze));
+,...INSTRUMENT_SOUNDS].map(Object.freeze));
 export const ACTIVE_SOUND_IDS=Object.freeze(SOUNDS.map(s=>s.id));
 export const SOUND_IDS=Object.freeze([...new Set([...LEGACY_SOUND_IDS,...ACTIVE_SOUND_IDS])]);
 export const PLAYABLE_SOUND_IDS=Object.freeze(ACTIVE_SOUND_IDS.filter(id=>id!=="silent"));
