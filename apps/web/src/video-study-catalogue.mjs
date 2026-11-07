@@ -1,4 +1,4 @@
-// Editorial selection; direct watch-page checks: 2026-11-07.
+// Editorial catalogue, subtitle-menu and late-frame audit: 2026-11-07.
 export const videoStudyCatalogue = [
   {
     "id": "Nyoy_XyyUFs",
@@ -12,15 +12,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 1
+    "startHere": 1,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "Nyoy_XyyUFs",
+      "seconds": 507,
+      "lateSampleSeconds": 457,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 457,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "专题问答适合先厘清概念，再进入连续课程与原典阅读。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 1,
+    "watchBranch": "中文优先"
   },
   {
     "id": "kY8B4dxftjY",
@@ -34,15 +66,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "kY8B4dxftjY",
+      "seconds": 492,
+      "lateSampleSeconds": 444,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 444,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "专题问答适合先厘清概念，再进入连续课程与原典阅读。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 4,
+    "watchBranch": "中文优先"
   },
   {
     "id": "mF_trFDpBzo",
@@ -56,15 +120,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "mF_trFDpBzo",
+      "seconds": 553,
+      "lateSampleSeconds": 498,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 498,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "以生活经验与修学观点展开，保留录制年代和讲者语境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 33,
+    "watchBranch": "中文优先"
   },
   {
     "id": "tt8UVWOeTh8",
@@ -78,15 +174,54 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 4
+    "startHere": 4,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "tt8UVWOeTh8",
+      "seconds": 518,
+      "lateSampleSeconds": 466,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Vietnamese",
+        "Auto-translate",
+        "Vietnamese >> Chinese (Simplified)"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。 菜单中的“源语言 >> 中文”是自动翻译，不计为上传中文字幕。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [
+        "Vietnamese"
+      ],
+      "automaticTracks": [],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 466,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 12,
+    "watchBranch": "中文优先"
   },
   {
     "id": "FfPxIaurUbY",
@@ -100,15 +235,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "FfPxIaurUbY",
+      "seconds": 502,
+      "lateSampleSeconds": 453,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 453,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "以生活经验与修学观点展开，保留录制年代和讲者语境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 34,
+    "watchBranch": "中文优先"
   },
   {
     "id": "uEOtFo8TcG8",
@@ -122,15 +289,52 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 2
+    "startHere": 2,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "uEOtFo8TcG8",
+      "seconds": 498,
+      "lateSampleSeconds": 448,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Vietnamese"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [
+        "Vietnamese"
+      ],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 448,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "专题问答适合先厘清概念，再进入连续课程与原典阅读。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 2,
+    "watchBranch": "中文优先"
   },
   {
     "id": "sL4cJuJWnHI",
@@ -144,15 +348,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "sL4cJuJWnHI",
+      "seconds": 508,
+      "lateSampleSeconds": 458,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 458,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "专题问答适合先厘清概念，再进入连续课程与原典阅读。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 5,
+    "watchBranch": "中文优先"
   },
   {
     "id": "Jw2_ih7P53g",
@@ -166,15 +402,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "Jw2_ih7P53g",
+      "seconds": 508,
+      "lateSampleSeconds": 457,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 457,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 16,
+    "watchBranch": "中文优先"
   },
   {
     "id": "G5-egn0fTlQ",
@@ -188,15 +456,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "G5-egn0fTlQ",
+      "seconds": 516,
+      "lateSampleSeconds": 465,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 465,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 54,
+    "watchBranch": "中文优先"
   },
   {
     "id": "6ej1VUVNM64",
@@ -210,15 +510,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "6ej1VUVNM64",
+      "seconds": 508,
+      "lateSampleSeconds": 458,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 458,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "侧重讲者的实践解释，可与日常具体行动及传统背景对照理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 26,
+    "watchBranch": "中文优先"
   },
   {
     "id": "6wVEqyJdrRk",
@@ -232,15 +564,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "6wVEqyJdrRk",
+      "seconds": 505,
+      "lateSampleSeconds": 455,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 455,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "属于录制时期的社会观察与宗教反思，不是当下社会状况的统计研究。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 27,
+    "watchBranch": "中文优先"
   },
   {
     "id": "UAnte5-ZUbI",
@@ -254,15 +618,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "UAnte5-ZUbI",
+      "seconds": 519,
+      "lateSampleSeconds": 468,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 468,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "专题问答适合先厘清概念，再进入连续课程与原典阅读。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 6,
+    "watchBranch": "中文优先"
   },
   {
     "id": "LwRZec2FsdA",
@@ -276,15 +672,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "LwRZec2FsdA",
+      "seconds": 520,
+      "lateSampleSeconds": 468,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 468,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "侧重讲者的实践解释，可与日常具体行动及传统背景对照理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 28,
+    "watchBranch": "中文优先"
   },
   {
     "id": "PVK_JhL1V-o",
@@ -298,15 +726,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "PVK_JhL1V-o",
+      "seconds": 522,
+      "lateSampleSeconds": 470,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 470,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "已见讲者讨论放生方式与实际后果，适合把慈悲意愿与生态责任一起思考。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 29,
+    "watchBranch": "中文优先"
   },
   {
     "id": "RyjxvIo1qAU",
@@ -320,15 +780,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "RyjxvIo1qAU",
+      "seconds": 517,
+      "lateSampleSeconds": 466,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 466,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 17,
+    "watchBranch": "中文优先"
   },
   {
     "id": "Br_5AU8Bu2U",
@@ -342,15 +834,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "Br_5AU8Bu2U",
+      "seconds": 1678,
+      "lateSampleSeconds": 1511,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1511,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "以生活经验与修学观点展开，保留录制年代和讲者语境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 35,
+    "watchBranch": "中文优先"
   },
   {
     "id": "I65CYaE96ng",
@@ -364,15 +888,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "I65CYaE96ng",
+      "seconds": 1668,
+      "lateSampleSeconds": 1502,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1502,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "以生活经验与修学观点展开，保留录制年代和讲者语境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 36,
+    "watchBranch": "中文优先"
   },
   {
     "id": "pDBWYEiMmXM",
@@ -386,15 +942,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "pDBWYEiMmXM",
+      "seconds": 1625,
+      "lateSampleSeconds": 1463,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1463,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "以生活经验与修学观点展开，保留录制年代和讲者语境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 37,
+    "watchBranch": "中文优先"
   },
   {
     "id": "qapbwPI7Uyc",
@@ -408,15 +996,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "qapbwPI7Uyc",
+      "seconds": 1676,
+      "lateSampleSeconds": 1509,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1509,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "以生活经验与修学观点展开，保留录制年代和讲者语境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 38,
+    "watchBranch": "中文优先"
   },
   {
     "id": "-ghvxAA1Jk0",
@@ -430,15 +1050,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "-ghvxAA1Jk0",
+      "seconds": 502,
+      "lateSampleSeconds": 452,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 452,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 55,
+    "watchBranch": "中文优先"
   },
   {
     "id": "1HGTkBE9JMg",
@@ -452,15 +1104,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "1HGTkBE9JMg",
+      "seconds": 535,
+      "lateSampleSeconds": 482,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 482,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "以生活经验与修学观点展开，保留录制年代和讲者语境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 39,
+    "watchBranch": "中文优先"
   },
   {
     "id": "WnePMpvU4rA",
@@ -474,15 +1158,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "WnePMpvU4rA",
+      "seconds": 507,
+      "lateSampleSeconds": 456,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 456,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "专题问答适合先厘清概念，再进入连续课程与原典阅读。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 7,
+    "watchBranch": "中文优先"
   },
   {
     "id": "YV7F6vHNzEg",
@@ -496,15 +1212,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "YV7F6vHNzEg",
+      "seconds": 499,
+      "lateSampleSeconds": 451,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 451,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "专题问答适合先厘清概念，再进入连续课程与原典阅读。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 8,
+    "watchBranch": "中文优先"
   },
   {
     "id": "GKQilOTXn_M",
@@ -518,15 +1266,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "GKQilOTXn_M",
+      "seconds": 493,
+      "lateSampleSeconds": 444,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 444,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 56,
+    "watchBranch": "中文优先"
   },
   {
     "id": "pQ04uf1yozE",
@@ -540,15 +1320,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "pQ04uf1yozE",
+      "seconds": 513,
+      "lateSampleSeconds": 466,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 466,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "专题问答适合先厘清概念，再进入连续课程与原典阅读。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 9,
+    "watchBranch": "中文优先"
   },
   {
     "id": "7xDSNnM48yo",
@@ -562,15 +1374,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "7xDSNnM48yo",
+      "seconds": 499,
+      "lateSampleSeconds": 451,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 451,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "侧重讲者的实践解释，可与日常具体行动及传统背景对照理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 30,
+    "watchBranch": "中文优先"
   },
   {
     "id": "VxaPOfbbRJU",
@@ -584,15 +1428,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "VxaPOfbbRJU",
+      "seconds": 510,
+      "lateSampleSeconds": 463,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 463,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "属于佛教讲者对不同传统的比较视角，其他宗教的完整立场仍需参阅各自资料。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 31,
+    "watchBranch": "中文优先"
   },
   {
     "id": "2OEhGMa3W4E",
@@ -606,15 +1482,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "2OEhGMa3W4E",
+      "seconds": 500,
+      "lateSampleSeconds": 452,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 452,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "专题问答适合先厘清概念，再进入连续课程与原典阅读。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 10,
+    "watchBranch": "中文优先"
   },
   {
     "id": "dKpF5JV55vA",
@@ -628,15 +1536,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "dKpF5JV55vA",
+      "seconds": 515,
+      "lateSampleSeconds": 465,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 465,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "以生活经验与修学观点展开，保留录制年代和讲者语境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 40,
+    "watchBranch": "中文优先"
   },
   {
     "id": "Lczr2Yy-muE",
@@ -650,15 +1590,47 @@ export const videoStudyCatalogue = [
     "channel": "聖嚴法師大法鼓",
     "teacher": "圣严法师",
     "tradition": "汉传佛教／法鼓山",
-    "language": "中文原声",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "机构原始频道",
     "format": "完整专题节目",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 3
+    "startHere": 3,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "Lczr2Yy-muE",
+      "seconds": 497,
+      "lateSampleSeconds": 449,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 449,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "专题问答适合先厘清概念，再进入连续课程与原典阅读。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 3,
+    "watchBranch": "中文优先"
   },
   {
     "id": "veR4VghJ5gM",
@@ -672,15 +1644,60 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "一行禅师",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "原讲音轨；已确认可选或片内中文字幕，具体形式见字幕说明",
+    "languageGroup": "zh-subtitles",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "veR4VghJ5gM",
+      "seconds": 3916,
+      "lateSampleSeconds": 3530,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English",
+        "English (auto-generated)"
+      ],
+      "autoDubbingNotice": true,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "uploaded",
+      "label": "可选中文字幕（上传轨）",
+      "detail": "Chinese (Simplified)、Chinese (Traditional)；菜单未标自动生成，翻译者及全文准确性未逐句核验。 页面提示部分语言为自动配音，不能据此确认中文配音是人工口译。",
+      "chineseConfirmed": true,
+      "chineseTracks": [
+        "Chinese (Simplified)",
+        "Chinese (Traditional)"
+      ],
+      "otherUploadedTracks": [
+        "English"
+      ],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3530,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 18,
+    "watchBranch": "中文优先"
   },
   {
     "id": "QXs7HEbuw-w",
@@ -694,15 +1711,61 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "一行禅师",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "原讲音轨；已确认可选或片内中文字幕，具体形式见字幕说明",
+    "languageGroup": "zh-subtitles",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "QXs7HEbuw-w",
+      "seconds": 4482,
+      "lateSampleSeconds": 4039,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": true,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "uploaded",
+      "label": "可选中文字幕（上传轨）",
+      "detail": "Chinese (Simplified)、Chinese (Traditional)；菜单未标自动生成，翻译者及全文准确性未逐句核验。 页面提示部分语言为自动配音，不能据此确认中文配音是人工口译。",
+      "chineseConfirmed": true,
+      "chineseTracks": [
+        "Chinese (Simplified)",
+        "Chinese (Traditional)"
+      ],
+      "otherUploadedTracks": [
+        "English"
+      ],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4039,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 19,
+    "watchBranch": "中文优先"
   },
   {
     "id": "Y8f3o4CJHAs",
@@ -716,15 +1779,61 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "一行禅师",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "原讲音轨；已确认可选或片内中文字幕，具体形式见字幕说明",
+    "languageGroup": "zh-subtitles",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "Y8f3o4CJHAs",
+      "seconds": 4930,
+      "lateSampleSeconds": 4441,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English",
+        "Vietnamese (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "uploaded",
+      "label": "可选中文字幕（上传轨）",
+      "detail": "Chinese (Simplified)、Chinese (Traditional)；菜单未标自动生成，翻译者及全文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [
+        "Chinese (Simplified)",
+        "Chinese (Traditional)"
+      ],
+      "otherUploadedTracks": [
+        "English"
+      ],
+      "automaticTracks": [
+        "Vietnamese (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4441,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 57,
+    "watchBranch": "中文优先"
   },
   {
     "id": "tuXQpkVqXZc",
@@ -738,15 +1847,72 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "一行禅师",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "原讲音轨；已确认可选或片内中文字幕，具体形式见字幕说明",
+    "languageGroup": "zh-subtitles",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面，并抽读中文正文片段；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "tuXQpkVqXZc",
+      "seconds": 4440,
+      "lateSampleSeconds": 4001,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "uploaded",
+      "label": "可选中文字幕（上传轨）",
+      "detail": "Chinese (Simplified)、Chinese (Traditional)；菜单未标自动生成，翻译者及全文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [
+        "Chinese (Simplified)",
+        "Chinese (Traditional)"
+      ],
+      "otherUploadedTracks": [
+        "English"
+      ],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4001,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [
+      {
+        "seconds": 255,
+        "label": "为何修习行禅",
+        "basis": "中文上传字幕片段核读"
+      },
+      {
+        "seconds": 301,
+        "label": "为何修习坐禅",
+        "basis": "中文上传字幕片段核读"
+      }
+    ],
+    "watchOrder": 20,
+    "watchBranch": "中文优先"
   },
   {
     "id": "7v7ejxKIkKs",
@@ -760,15 +1926,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "一行禅师",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "越语原讲／华语传译（按发布说明）",
+    "languageGroup": "zh-interpretation",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "7v7ejxKIkKs",
+      "seconds": 4480,
+      "lateSampleSeconds": 4033,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4033,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "专题问答适合先厘清概念，再进入连续课程与原典阅读。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 11,
+    "watchBranch": "中文优先"
   },
   {
     "id": "-unT70gw9z0",
@@ -782,15 +1980,60 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "见标题所列法师／梅村僧团",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "原讲音轨；已确认可选或片内中文字幕，具体形式见字幕说明",
+    "languageGroup": "zh-subtitles",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "-unT70gw9z0",
+      "seconds": 5532,
+      "lateSampleSeconds": 4984,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English",
+        "English (auto-generated)"
+      ],
+      "autoDubbingNotice": true,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "uploaded",
+      "label": "可选中文字幕（上传轨）",
+      "detail": "Chinese (Simplified)、Chinese (Traditional)；菜单未标自动生成，翻译者及全文准确性未逐句核验。 页面提示部分语言为自动配音，不能据此确认中文配音是人工口译。",
+      "chineseConfirmed": true,
+      "chineseTracks": [
+        "Chinese (Simplified)",
+        "Chinese (Traditional)"
+      ],
+      "otherUploadedTracks": [
+        "English"
+      ],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4984,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 21,
+    "watchBranch": "中文优先"
   },
   {
     "id": "Q5ZtO_POyfQ",
@@ -804,15 +2047,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "康戒月法师",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整引导练习",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "Q5ZtO_POyfQ",
+      "seconds": 2870,
+      "lateSampleSeconds": 2585,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 2585,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 69,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "L2QBjKIfJq0",
@@ -826,15 +2101,58 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "一行禅师",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "原讲音轨；已确认可选或片内中文字幕，具体形式见字幕说明",
+    "languageGroup": "zh-subtitles",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "L2QBjKIfJq0",
+      "seconds": 5295,
+      "lateSampleSeconds": 4768,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Traditional)",
+        "English (auto-generated)",
+        "Italian (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": true,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "uploaded",
+      "label": "可选中文字幕（上传轨）",
+      "detail": "Chinese (Traditional)；菜单未标自动生成，翻译者及全文准确性未逐句核验。 页面提示部分语言为自动配音，不能据此确认中文配音是人工口译。",
+      "chineseConfirmed": true,
+      "chineseTracks": [
+        "Chinese (Traditional)"
+      ],
+      "otherUploadedTracks": [],
+      "automaticTracks": [
+        "English (auto-generated)",
+        "Italian (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4768,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 58,
+    "watchBranch": "中文优先"
   },
   {
     "id": "bB3Hk17VLkM",
@@ -848,15 +2166,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "一行禅师",
     "tradition": "汉传佛教／梅村",
-    "language": "普通话传译；发布简介注明无中文字幕",
-    "languageGroup": "zh-version",
+    "language": "普通话传译；发布者明确无中文字幕",
+    "languageGroup": "zh-interpretation",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "bB3Hk17VLkM",
+      "seconds": 4606,
+      "lateSampleSeconds": 4147,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "none-declared",
+      "label": "发布者注明无中文字幕",
+      "detail": "发布者明确说明只有普通话传译、没有中文字幕；本轮也未见中文CC。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4147,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "侧重讲者的实践解释，可与日常具体行动及传统背景对照理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 32,
+    "watchBranch": "中文优先"
   },
   {
     "id": "MJi3r-981yY",
@@ -870,15 +2220,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "真德法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "MJi3r-981yY",
+      "seconds": 5113,
+      "lateSampleSeconds": 4605,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4605,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "以生活经验与修学观点展开，保留录制年代和讲者语境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 79,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "njTUGmVGlx8",
@@ -892,15 +2274,67 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "一行禅师",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "原讲音轨；已确认可选或片内中文字幕，具体形式见字幕说明",
+    "languageGroup": "zh-subtitles",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面，并抽读中文正文片段；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "njTUGmVGlx8",
+      "seconds": 5718,
+      "lateSampleSeconds": 5151,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English",
+        "Thai (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "uploaded",
+      "label": "可选中文字幕（上传轨）",
+      "detail": "Chinese (Simplified)、Chinese (Traditional)；菜单未标自动生成，翻译者及全文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [
+        "Chinese (Simplified)",
+        "Chinese (Traditional)"
+      ],
+      "otherUploadedTracks": [
+        "English"
+      ],
+      "automaticTracks": [
+        "Thai (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 5151,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [
+      {
+        "seconds": 30,
+        "label": "以三法印作为修习框架",
+        "basis": "中文上传字幕片段核读"
+      }
+    ],
+    "watchOrder": 59,
+    "watchBranch": "中文优先"
   },
   {
     "id": "ME_Pj1__Huo",
@@ -908,21 +2342,53 @@ export const videoStudyCatalogue = [
     "url": "https://www.youtube.com/watch?v=ME_Pj1__Huo",
     "title": "《教誡病者經》丨會嚴法師 14.11.2021",
     "sourceTitle": "《教誡病者經》丨會嚴法師 14.11.2021",
-    "seconds": 5244,
+    "seconds": 5243,
     "category": "经典与义理",
     "reason": "围绕病者经文导读，适合关心病苦与佛教关怀者。",
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "會嚴法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "ME_Pj1__Huo",
+      "seconds": 5243,
+      "lateSampleSeconds": 4719,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4719,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 82,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "NPsHKU_DsCs",
@@ -936,15 +2402,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "慧嚴法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "NPsHKU_DsCs",
+      "seconds": 5698,
+      "lateSampleSeconds": 5129,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 5129,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 83,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "4F87UXurmOE",
@@ -958,15 +2456,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "真德法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "4F87UXurmOE",
+      "seconds": 5470,
+      "lateSampleSeconds": 4927,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4927,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 84,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "QFK6gaUewXg",
@@ -980,15 +2510,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "法來法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "QFK6gaUewXg",
+      "seconds": 5426,
+      "lateSampleSeconds": 4884,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4884,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 85,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "Lu3vXLpQu5k",
@@ -1002,15 +2564,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "楞严法师、法灵法师",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "Lu3vXLpQu5k",
+      "seconds": 5839,
+      "lateSampleSeconds": 5257,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 5257,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "侧重讲者的实践解释，可与日常具体行动及传统背景对照理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 74,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "310E_4L9YTg",
@@ -1018,21 +2612,53 @@ export const videoStudyCatalogue = [
     "url": "https://www.youtube.com/watch?v=310E_4L9YTg",
     "title": "普賢十大行願 丨順嚴法師 24.10.2021",
     "sourceTitle": "普賢十大行願 丨順嚴法師 24.10.2021",
-    "seconds": 5043,
+    "seconds": 5042,
     "category": "经典与义理",
     "reason": "依十大行愿展开学习，适合理解菩萨行的具体面向。",
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "順嚴法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "310E_4L9YTg",
+      "seconds": 5042,
+      "lateSampleSeconds": 4540,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4540,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 86,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "XZdGv3EmErk",
@@ -1046,15 +2672,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "純慶法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "XZdGv3EmErk",
+      "seconds": 4651,
+      "lateSampleSeconds": 4188,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4188,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 87,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "gea7inPdx3g",
@@ -1068,15 +2726,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "明希法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "gea7inPdx3g",
+      "seconds": 5255,
+      "lateSampleSeconds": 4731,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4731,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "侧重讲者的实践解释，可与日常具体行动及传统背景对照理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 75,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "tRDgL72PhXA",
@@ -1090,15 +2780,58 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "一行禅师",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "原讲音轨；已确认可选或片内中文字幕，具体形式见字幕说明",
+    "languageGroup": "zh-subtitles",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "tRDgL72PhXA",
+      "seconds": 5893,
+      "lateSampleSeconds": 5306,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": true,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "uploaded",
+      "label": "可选中文字幕（上传轨）",
+      "detail": "Chinese (Simplified)、Chinese (Traditional)；菜单未标自动生成，翻译者及全文准确性未逐句核验。 页面提示部分语言为自动配音，不能据此确认中文配音是人工口译。",
+      "chineseConfirmed": true,
+      "chineseTracks": [
+        "Chinese (Simplified)",
+        "Chinese (Traditional)"
+      ],
+      "otherUploadedTracks": [],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 5306,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "这里的“四法印”是梅村的特定修习框架，须与三法印及其他传统的四法印用语区分。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 22,
+    "watchBranch": "中文优先"
   },
   {
     "id": "E2tkEYb_9AI",
@@ -1112,15 +2845,67 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "一行禅师",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "原讲音轨；已确认可选或片内中文字幕，具体形式见字幕说明",
+    "languageGroup": "zh-subtitles",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面，并抽读中文正文片段；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "E2tkEYb_9AI",
+      "seconds": 5739,
+      "lateSampleSeconds": 5166,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Traditional)",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "uploaded",
+      "label": "可选中文字幕（上传轨）",
+      "detail": "Chinese (Traditional)；菜单未标自动生成，翻译者及全文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [
+        "Chinese (Traditional)"
+      ],
+      "otherUploadedTracks": [],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 5166,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [
+      {
+        "seconds": 68,
+        "label": "觉察自然呼吸",
+        "basis": "中文上传字幕片段核读"
+      },
+      {
+        "seconds": 212,
+        "label": "放松坐姿",
+        "basis": "中文上传字幕片段核读"
+      }
+    ],
+    "watchOrder": 23,
+    "watchBranch": "中文优先"
   },
   {
     "id": "Bd1x5bqocbc",
@@ -1134,15 +2919,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "法友法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "Bd1x5bqocbc",
+      "seconds": 4770,
+      "lateSampleSeconds": 4294,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4294,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 88,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "Z281JqKAGj8",
@@ -1156,15 +2973,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "一行禅师",
     "tradition": "汉传佛教／梅村",
-    "language": "普通话传译",
-    "languageGroup": "zh-version",
+    "language": "越语原讲／普通话传译（按发布说明）",
+    "languageGroup": "zh-interpretation",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "Z281JqKAGj8",
+      "seconds": 2795,
+      "lateSampleSeconds": 2516,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 2516,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "以生活经验与修学观点展开，保留录制年代和讲者语境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 41,
+    "watchBranch": "中文优先"
   },
   {
     "id": "s20QYSSbX88",
@@ -1178,15 +3027,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "法友法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "s20QYSSbX88",
+      "seconds": 4555,
+      "lateSampleSeconds": 4100,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4100,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 70,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "5mxKlCiAnUc",
@@ -1200,15 +3081,58 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "见标题所列法师／梅村僧团",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "越语指引；6:14起普通话传译，随后静坐",
+    "languageGroup": "zh-interpretation",
     "sourceType": "机构原始频道",
     "format": "完整引导练习",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "5mxKlCiAnUc",
+      "seconds": 1802,
+      "lateSampleSeconds": 1624,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1624,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "发布说明标明约11分钟引导与19分钟静坐，长段安静是练习安排，不是视频缺失。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [
+      {
+        "seconds": 374,
+        "label": "普通话传译开始",
+        "basis": "发布者时间说明"
+      },
+      {
+        "seconds": 676,
+        "label": "进入静坐时段",
+        "basis": "发布者时间说明"
+      }
+    ],
+    "watchOrder": 24,
+    "watchBranch": "中文优先"
   },
   {
     "id": "7ajlqMfVGU4",
@@ -1222,15 +3146,53 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "順嚴法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "7ajlqMfVGU4",
+      "seconds": 4297,
+      "lateSampleSeconds": 3868,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3868,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "发布说明指出前约2分钟只有录音，录像自2:18开始；末段已见讲者画面。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [
+      {
+        "seconds": 138,
+        "label": "录像开始",
+        "basis": "发布者时间说明"
+      }
+    ],
+    "watchOrder": 71,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "XoSO_DZyF3Y",
@@ -1244,15 +3206,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "楞嚴法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "XoSO_DZyF3Y",
+      "seconds": 5840,
+      "lateSampleSeconds": 5259,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 5259,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "侧重讲者的实践解释，可与日常具体行动及传统背景对照理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 76,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "8Ntt3D5jzVM",
@@ -1266,15 +3260,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "法子法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "8Ntt3D5jzVM",
+      "seconds": 3008,
+      "lateSampleSeconds": 2709,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 2709,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 72,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "d0BK9w92U4w",
@@ -1288,15 +3314,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "慧嚴法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "d0BK9w92U4w",
+      "seconds": 4747,
+      "lateSampleSeconds": 4274,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4274,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "以生活经验与修学观点展开，保留录制年代和讲者语境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 80,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "whQBx3_8h7A",
@@ -1310,15 +3368,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "真德法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "whQBx3_8h7A",
+      "seconds": 4804,
+      "lateSampleSeconds": 4326,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4326,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "侧重讲者的实践解释，可与日常具体行动及传统背景对照理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 77,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "_TIXSrqIzc4",
@@ -1332,15 +3422,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "順嚴法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "_TIXSrqIzc4",
+      "seconds": 4415,
+      "lateSampleSeconds": 3977,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3977,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 89,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "wFE7nYw2guM",
@@ -1354,15 +3476,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "法容法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "wFE7nYw2guM",
+      "seconds": 5293,
+      "lateSampleSeconds": 4765,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4765,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "侧重讲者的实践解释，可与日常具体行动及传统背景对照理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 78,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "gw90wdGl4kc",
@@ -1376,15 +3530,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "慧嚴法師",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "gw90wdGl4kc",
+      "seconds": 3294,
+      "lateSampleSeconds": 2967,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 2967,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "以生活经验与修学观点展开，保留录制年代和讲者语境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 81,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "tR80mtJaJRo",
@@ -1398,15 +3584,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "梅村僧团",
     "tradition": "汉传佛教／梅村",
-    "language": "普通话引导",
-    "languageGroup": "zh-version",
+    "language": "普通话引导（发布者标示）",
+    "languageGroup": "zh-interpretation",
     "sourceType": "机构原始频道",
     "format": "完整引导练习",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 5
+    "startHere": 5,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "tR80mtJaJRo",
+      "seconds": 1690,
+      "lateSampleSeconds": 1525,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1525,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 13,
+    "watchBranch": "中文优先"
   },
   {
     "id": "pcUxlegMqr4",
@@ -1420,15 +3638,47 @@ export const videoStudyCatalogue = [
     "channel": "法國梅村 - 一行禪師傳承",
     "teacher": "见标题所列法师／梅村僧团",
     "tradition": "汉传佛教／梅村",
-    "language": "中文频道版本（中文原声／传译；字幕以片内为准）",
-    "languageGroup": "zh-version",
+    "language": "中文频道发布版；中文音轨／口译尚未独立确认，未确认中文字幕",
+    "languageGroup": "unconfirmed",
     "sourceType": "机构原始频道",
     "format": "完整引导练习",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh-version",
+    "audit": {
+      "videoId": "pcUxlegMqr4",
+      "seconds": 1819,
+      "lateSampleSeconds": 1638,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1638,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 73,
+    "watchBranch": "音轨／字幕待确认"
   },
   {
     "id": "qDu2D_VmPxo",
@@ -1442,15 +3692,47 @@ export const videoStudyCatalogue = [
     "channel": "wenshuykl",
     "teacher": "慧律法师",
     "tradition": "汉传佛教／文殊讲堂",
-    "language": "中文讲座；国语／台语以片内为准",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "文殊讲堂档案频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "qDu2D_VmPxo",
+      "seconds": 3239,
+      "lateSampleSeconds": 2916,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 2916,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 60,
+    "watchBranch": "中文优先"
   },
   {
     "id": "FecuyXibkDY",
@@ -1464,15 +3746,47 @@ export const videoStudyCatalogue = [
     "channel": "wenshuykl",
     "teacher": "慧律法师",
     "tradition": "汉传佛教／文殊讲堂",
-    "language": "中文讲座；国语／台语以片内为准",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "文殊讲堂档案频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "FecuyXibkDY",
+      "seconds": 3519,
+      "lateSampleSeconds": 3168,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3168,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 61,
+    "watchBranch": "中文优先"
   },
   {
     "id": "3dY7D6aU1DQ",
@@ -1486,15 +3800,47 @@ export const videoStudyCatalogue = [
     "channel": "wenshuykl",
     "teacher": "慧律法师",
     "tradition": "汉传佛教／文殊讲堂",
-    "language": "中文讲座；国语／台语以片内为准",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "文殊讲堂档案频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "3dY7D6aU1DQ",
+      "seconds": 8781,
+      "lateSampleSeconds": 7903,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 7903,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 62,
+    "watchBranch": "中文优先"
   },
   {
     "id": "s0lqI5R_LKs",
@@ -1508,15 +3854,47 @@ export const videoStudyCatalogue = [
     "channel": "wenshuykl",
     "teacher": "慧律法师",
     "tradition": "汉传佛教／文殊讲堂",
-    "language": "中文讲座；国语／台语以片内为准",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "文殊讲堂档案频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "s0lqI5R_LKs",
+      "seconds": 4667,
+      "lateSampleSeconds": 4201,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4201,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 63,
+    "watchBranch": "中文优先"
   },
   {
     "id": "oN3LU-Ukvrs",
@@ -1530,15 +3908,47 @@ export const videoStudyCatalogue = [
     "channel": "wenshuykl",
     "teacher": "慧律法师",
     "tradition": "汉传佛教／文殊讲堂",
-    "language": "中文讲座；国语／台语以片内为准",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "文殊讲堂档案频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "oN3LU-Ukvrs",
+      "seconds": 4869,
+      "lateSampleSeconds": 4385,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4385,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 64,
+    "watchBranch": "中文优先"
   },
   {
     "id": "AvJW0WaWp-A",
@@ -1552,15 +3962,47 @@ export const videoStudyCatalogue = [
     "channel": "wenshuykl",
     "teacher": "慧律法师",
     "tradition": "汉传佛教／文殊讲堂",
-    "language": "中文讲座；国语／台语以片内为准",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "文殊讲堂档案频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "AvJW0WaWp-A",
+      "seconds": 3463,
+      "lateSampleSeconds": 3118,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3118,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 65,
+    "watchBranch": "中文优先"
   },
   {
     "id": "NytXYBO7jx0",
@@ -1574,15 +4016,47 @@ export const videoStudyCatalogue = [
     "channel": "wenshuykl",
     "teacher": "慧律法师",
     "tradition": "汉传佛教／文殊讲堂",
-    "language": "中文讲座；国语／台语以片内为准",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "文殊讲堂档案频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "NytXYBO7jx0",
+      "seconds": 3042,
+      "lateSampleSeconds": 2739,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 2739,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "名相较密集，建议先看入门、缘起与因果，再对照相关经文。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 66,
+    "watchBranch": "中文优先"
   },
   {
     "id": "2ghgyNO-at0",
@@ -1596,59 +4070,153 @@ export const videoStudyCatalogue = [
     "channel": "wenshuykl",
     "teacher": "慧律法师",
     "tradition": "汉传佛教／文殊讲堂",
-    "language": "中文讲座；国语／台语以片内为准",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "文殊讲堂档案频道",
     "format": "完整讲座／课程单集",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "2ghgyNO-at0",
+      "seconds": 6680,
+      "lateSampleSeconds": 6014,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 6014,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "约90%处已进入礼仪／音乐影像；另在55:40抽查看到慧律法师讲解及片内中文字。含非讲课片尾段，非全程纯讲座。",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 67,
+    "watchBranch": "中文优先"
   },
   {
-    "id": "XaBitGGkMBw",
-    "videoId": "XaBitGGkMBw",
-    "url": "https://www.youtube.com/watch?v=XaBitGGkMBw",
-    "title": "慧律法师 《禪》",
-    "sourceTitle": "慧律法师 《禪》",
-    "seconds": 12101,
-    "category": "经典与义理",
-    "reason": "较完整的禅主题长讲，适合愿意连续学习者；转载来源指向文殊讲堂。",
-    "channel": "empty zafu",
-    "teacher": "慧律法师",
-    "tradition": "汉传佛教／文殊讲堂",
-    "language": "中文讲座；国语／台语以片内为准",
-    "languageGroup": "zh",
-    "sourceType": "转载频道",
-    "format": "完整讲座／课程单集",
-    "audience": "已有基础",
+    "id": "pHqfCKtSYrQ",
+    "videoId": "pHqfCKtSYrQ",
+    "url": "https://www.youtube.com/watch?v=pHqfCKtSYrQ",
+    "title": "圣严法师：生活禅修体验",
+    "sourceTitle": "聖嚴法師：生活禪修體驗",
+    "seconds": 4502,
+    "category": "禅修与正念",
+    "teacher": "圣严法师",
+    "tradition": "汉传佛教／法鼓山",
+    "channel": "聖嚴法師經典講座",
+    "sourceType": "机构原频道",
+    "reason": "1997年台北公开讲座，从观念、态度到方法介绍禅修，包含现场体验，适合由短问答进入长篇学习。",
+    "format": "完整公开讲座",
+    "note": "发布说明列明1997年9月21日、台北国父纪念馆；后段含主持收束，非全程单人开示。",
+    "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
-    "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。 此链接为转载，未确认上传授权及与原始发行版的逐段一致性。",
-    "startHere": 0
+    "startHere": 6,
+    "audit": {
+      "videoId": "pHqfCKtSYrQ",
+      "seconds": 4502,
+      "lateSampleSeconds": 4053,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "languageGroup": "zh",
+    "chineseAccessible": true,
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4053,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "独立公开讲座，发布说明的日期地点明确；后段包含主持收束与现场互动。",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 14,
+    "watchBranch": "中文优先"
   },
   {
-    "id": "JR8XN9Iv3kg",
-    "videoId": "JR8XN9Iv3kg",
-    "url": "https://www.youtube.com/watch?v=JR8XN9Iv3kg",
-    "title": "慧律法師《空的哲學思想》",
-    "sourceTitle": "慧律法師《空的哲學思想》",
-    "seconds": 12353,
+    "id": "Jc95dQi8E6U",
+    "videoId": "Jc95dQi8E6U",
+    "url": "https://www.youtube.com/watch?v=Jc95dQi8E6U",
+    "title": "忏云法师与梦参长老座谈（坐地参方第2场）",
+    "sourceTitle": "02 懺公上人與夢參長老座談｜坐地參方｜隨緣開示 － 懺雲老和尚｜",
+    "seconds": 6178,
     "category": "经典与义理",
-    "reason": "空性主题长讲，适合进阶学习者与缘起性空短讲对照。",
-    "channel": "大崗山吉祥精舍",
-    "teacher": "慧律法师",
-    "tradition": "汉传佛教／文殊讲堂",
-    "language": "中文讲座；国语／台语以片内为准",
-    "languageGroup": "zh",
-    "sourceType": "寺院频道转载",
-    "format": "完整讲座／课程单集",
+    "teacher": "忏云法师、梦参长老",
+    "tradition": "汉传佛教",
+    "channel": "蓮因寺",
+    "sourceType": "寺院原频道",
+    "reason": "寺院发布的独立座谈，保留长老问答与传统修学语境，适合已具佛教基础者。",
+    "format": "完整座谈单集",
+    "note": "发布说明为1992年寒假莲因寺斋戒学会；原列表第二场，第一场嘉宾为显明长老，是不同座谈而非同一讲上下半场。",
     "audience": "已有基础",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
-    "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。 此链接为转载，未确认上传授权及与原始发行版的逐段一致性。",
-    "startHere": 0
+    "startHere": 0,
+    "audit": {
+      "videoId": "Jc95dQi8E6U",
+      "seconds": 6178,
+      "lateSampleSeconds": 5561,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "languageGroup": "zh",
+    "chineseAccessible": true,
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 5561,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "寺院原频道的第二场独立座谈，嘉宾与第一场不同；保留1992年的传统修学语境。",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
+    "prerequisite": "建议先看正信入门、缘起性空与因缘因果。",
+    "bookmarks": [],
+    "watchOrder": 68,
+    "watchBranch": "中文优先"
   },
   {
     "id": "9qP7zWzDtuY",
@@ -1662,15 +4230,55 @@ export const videoStudyCatalogue = [
     "channel": "BAUS Chuang Yen Monastery",
     "teacher": "菩提比丘 Bhikkhu Bodhi",
     "tradition": "南传佛教／早期佛教",
-    "language": "英语；中文字幕未确认",
+    "language": "外语原讲／原片；未确认中文字幕，自动字幕语言见字幕说明",
     "languageGroup": "other",
     "sourceType": "寺院原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 6
+    "startHere": 0,
+    "originalLanguageGroup": "other",
+    "audit": {
+      "videoId": "9qP7zWzDtuY",
+      "seconds": 3389,
+      "lateSampleSeconds": 3052,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate",
+        "English (auto-generated) >> Chinese (Simplified)"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。 菜单中的“源语言 >> 中文”是自动翻译，不计为上传中文字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [
+        "English (auto-generated)",
+        "English (auto-generated) >> Chinese (Simplified)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3052,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "原频道六讲的系统结构清楚；自动字幕未逐句校订，佛教术语应对照课程列出的读物。",
+    "prerequisite": "需具备英语听读能力；按第1至6讲顺序学习。",
+    "bookmarks": [],
+    "watchOrder": 95,
+    "watchBranch": "外语延伸"
   },
   {
     "id": "McVSR4YT6LA",
@@ -1684,15 +4292,53 @@ export const videoStudyCatalogue = [
     "channel": "BAUS Chuang Yen Monastery",
     "teacher": "菩提比丘 Bhikkhu Bodhi",
     "tradition": "南传佛教／早期佛教",
-    "language": "英语；中文字幕未确认",
+    "language": "外语原讲／原片；未确认中文字幕，自动字幕语言见字幕说明",
     "languageGroup": "other",
     "sourceType": "寺院原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "other",
+    "audit": {
+      "videoId": "McVSR4YT6LA",
+      "seconds": 3898,
+      "lateSampleSeconds": 3510,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": true,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。 页面提示部分语言为自动配音，不能据此确认中文配音是人工口译。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3510,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "原频道六讲的系统结构清楚；自动字幕未逐句校订，佛教术语应对照课程列出的读物。",
+    "prerequisite": "需具备英语听读能力；按第1至6讲顺序学习。",
+    "bookmarks": [],
+    "watchOrder": 96,
+    "watchBranch": "外语延伸"
   },
   {
     "id": "etIR-vLQRhs",
@@ -1706,15 +4352,53 @@ export const videoStudyCatalogue = [
     "channel": "BAUS Chuang Yen Monastery",
     "teacher": "菩提比丘 Bhikkhu Bodhi",
     "tradition": "南传佛教／早期佛教",
-    "language": "英语；中文字幕未确认",
+    "language": "外语原讲／原片；未确认中文字幕，自动字幕语言见字幕说明",
     "languageGroup": "other",
     "sourceType": "寺院原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "other",
+    "audit": {
+      "videoId": "etIR-vLQRhs",
+      "seconds": 3944,
+      "lateSampleSeconds": 3552,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3552,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "原频道六讲的系统结构清楚；自动字幕未逐句校订，佛教术语应对照课程列出的读物。",
+    "prerequisite": "需具备英语听读能力；按第1至6讲顺序学习。",
+    "bookmarks": [],
+    "watchOrder": 97,
+    "watchBranch": "外语延伸"
   },
   {
     "id": "OaIqpg8xW2s",
@@ -1728,15 +4412,53 @@ export const videoStudyCatalogue = [
     "channel": "BAUS Chuang Yen Monastery",
     "teacher": "菩提比丘 Bhikkhu Bodhi",
     "tradition": "南传佛教／早期佛教",
-    "language": "英语；中文字幕未确认",
+    "language": "外语原讲／原片；未确认中文字幕，自动字幕语言见字幕说明",
     "languageGroup": "other",
     "sourceType": "寺院原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "other",
+    "audit": {
+      "videoId": "OaIqpg8xW2s",
+      "seconds": 3865,
+      "lateSampleSeconds": 3481,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3481,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "原频道六讲的系统结构清楚；自动字幕未逐句校订，佛教术语应对照课程列出的读物。",
+    "prerequisite": "需具备英语听读能力；按第1至6讲顺序学习。",
+    "bookmarks": [],
+    "watchOrder": 98,
+    "watchBranch": "外语延伸"
   },
   {
     "id": "lgsgr_6vi30",
@@ -1750,15 +4472,53 @@ export const videoStudyCatalogue = [
     "channel": "BAUS Chuang Yen Monastery",
     "teacher": "菩提比丘 Bhikkhu Bodhi",
     "tradition": "南传佛教／早期佛教",
-    "language": "英语；中文字幕未确认",
+    "language": "外语原讲／原片；未确认中文字幕，自动字幕语言见字幕说明",
     "languageGroup": "other",
     "sourceType": "寺院原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "other",
+    "audit": {
+      "videoId": "lgsgr_6vi30",
+      "seconds": 4336,
+      "lateSampleSeconds": 3904,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3904,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "原频道六讲的系统结构清楚；自动字幕未逐句校订，佛教术语应对照课程列出的读物。",
+    "prerequisite": "需具备英语听读能力；按第1至6讲顺序学习。",
+    "bookmarks": [],
+    "watchOrder": 99,
+    "watchBranch": "外语延伸"
   },
   {
     "id": "uOyZaEV47x8",
@@ -1772,15 +4532,53 @@ export const videoStudyCatalogue = [
     "channel": "BAUS Chuang Yen Monastery",
     "teacher": "菩提比丘 Bhikkhu Bodhi",
     "tradition": "南传佛教／早期佛教",
-    "language": "英语；中文字幕未确认",
+    "language": "外语原讲／原片；未确认中文字幕，自动字幕语言见字幕说明",
     "languageGroup": "other",
     "sourceType": "寺院原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "other",
+    "audit": {
+      "videoId": "uOyZaEV47x8",
+      "seconds": 8409,
+      "lateSampleSeconds": 7570,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 7570,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "原频道六讲的系统结构清楚；自动字幕未逐句校订，佛教术语应对照课程列出的读物。",
+    "prerequisite": "需具备英语听读能力；按第1至6讲顺序学习。",
+    "bookmarks": [],
+    "watchOrder": 100,
+    "watchBranch": "外语延伸"
   },
   {
     "id": "cNJGg_XVfvo",
@@ -1794,15 +4592,53 @@ export const videoStudyCatalogue = [
     "channel": "Buddhist Society of Western Australia",
     "teacher": "阿姜布拉姆 Ajahn Brahm",
     "tradition": "南传佛教／森林传统",
-    "language": "英语；中文字幕未确认",
+    "language": "外语原讲／原片；未确认中文字幕，自动字幕语言见字幕说明",
     "languageGroup": "other",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "other",
+    "audit": {
+      "videoId": "cNJGg_XVfvo",
+      "seconds": 4327,
+      "lateSampleSeconds": 3900,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3900,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "以生活经验与修学观点展开，保留录制年代和讲者语境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 91,
+    "watchBranch": "外语延伸"
   },
   {
     "id": "USC5MJVZLy8",
@@ -1816,15 +4652,91 @@ export const videoStudyCatalogue = [
     "channel": "Buddhist Society of Western Australia",
     "teacher": "阿姜布拉姆 Ajahn Brahm",
     "tradition": "南传佛教／森林传统",
-    "language": "英语；中文字幕未确认",
-    "languageGroup": "other",
+    "language": "英语；可选上传的简体中文字幕",
+    "languageGroup": "zh-subtitles",
     "sourceType": "机构原始频道",
     "format": "完整讲座／课程单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面，并抽读中文正文片段；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 7,
+    "originalLanguageGroup": "other",
+    "audit": {
+      "videoId": "USC5MJVZLy8",
+      "seconds": 3340,
+      "lateSampleSeconds": 3006,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Czech",
+        "English",
+        "German",
+        "Indonesian",
+        "Japanese",
+        "Sinhala",
+        "Vietnamese",
+        "English (auto-generated)"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "uploaded",
+      "label": "可选中文字幕（上传轨）",
+      "detail": "Chinese (Simplified)；菜单未标自动生成，翻译者及全文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [
+        "Chinese (Simplified)"
+      ],
+      "otherUploadedTracks": [
+        "Czech",
+        "English",
+        "German",
+        "Indonesian",
+        "Japanese",
+        "Sinhala",
+        "Vietnamese"
+      ],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3006,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [
+      {
+        "seconds": 379,
+        "label": "以提起与放下树枝讨论负担",
+        "basis": "中文上传字幕片段核读"
+      },
+      {
+        "seconds": 1381,
+        "label": "讨论自由与知足",
+        "basis": "中文上传字幕片段核读"
+      },
+      {
+        "seconds": 2030,
+        "label": "布施与放下回报期待",
+        "basis": "中文上传字幕片段核读"
+      },
+      {
+        "seconds": 2475,
+        "label": "不黏着的心",
+        "basis": "中文上传字幕片段核读"
+      }
+    ],
+    "watchOrder": 15,
+    "watchBranch": "中文优先"
   },
   {
     "id": "5GSeWdjyr1c",
@@ -1838,37 +4750,136 @@ export const videoStudyCatalogue = [
     "channel": "Yongey Mingyur Rinpoche",
     "teacher": "明就仁波切 Yongey Mingyur Rinpoche",
     "tradition": "藏传佛教／德噶",
-    "language": "英语；中文字幕未确认",
+    "language": "外语原讲／原片；未确认中文字幕，自动字幕语言见字幕说明",
     "languageGroup": "other",
     "sourceType": "讲者原始频道",
     "format": "完整引导练习",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "other",
+    "audit": {
+      "videoId": "5GSeWdjyr1c",
+      "seconds": 879,
+      "lateSampleSeconds": 793,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Arabic",
+        "Bulgarian",
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Japanese",
+        "Portuguese (Brazil)",
+        "Portuguese (Portugal)",
+        "Russian",
+        "Spanish (Latin America)",
+        "Vietnamese",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [
+        "Arabic",
+        "Bulgarian",
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Japanese",
+        "Portuguese (Brazil)",
+        "Portuguese (Portugal)",
+        "Russian",
+        "Spanish (Latin America)",
+        "Vietnamese"
+      ],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 793,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "观看重点是方法与修习态度，适合在基础入门后安排连续练习。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 90,
+    "watchBranch": "外语延伸"
   },
   {
-    "id": "vNf0Bty1C7I",
-    "videoId": "vNf0Bty1C7I",
-    "url": "https://www.youtube.com/watch?v=vNf0Bty1C7I",
-    "title": "达赖喇嘛：慈悲的本质与实践",
-    "sourceTitle": "The Nature and Practice of Compassion",
-    "seconds": 3871,
+    "id": "hUKPkTFTHZk",
+    "videoId": "hUKPkTFTHZk",
+    "url": "https://www.youtube.com/watch?v=hUKPkTFTHZk",
+    "title": "达赖喇嘛：困境中的慈悲伦理（中文字幕版）",
+    "sourceTitle": "困境中的慈悲倫理",
+    "seconds": 4437,
     "category": "慈悲与伦理",
-    "reason": "2010年埃默里大学完整慈悲讲座，适合了解藏传传统的慈悲训练。",
-    "channel": "Dalai Lama",
     "teacher": "第十四世达赖喇嘛",
     "tradition": "藏传佛教",
-    "language": "英语；中文字幕未确认",
-    "languageGroup": "other",
-    "sourceType": "讲者原始频道",
-    "format": "完整讲座／课程单集",
+    "channel": "達賴喇嘛",
+    "sourceType": "讲者中文频道",
+    "reason": "2009年公开演讲，以慈悲伦理回应困境；已见中英双语片内字幕，适合中文观众跨传统学习。",
+    "format": "完整公开讲座",
+    "note": "发布说明列明2009年5月6日纽约奥尔巴尼公开演讲；翻译郑咏晴、蒋扬仁钦校对。中文字幕嵌在画面内，不是可切换的中文CC轨。",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
-    "note": "按上传的完整一期／单集收录；系列课程不等于整套课程。",
-    "startHere": 0
+    "startHere": 8,
+    "audit": {
+      "videoId": "hUKPkTFTHZk",
+      "seconds": 4437,
+      "lateSampleSeconds": 3995,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Hindi (auto-generated)"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "burned",
+      "label": "片内中文字幕",
+      "detail": "抽查画面可见中文字幕；完整覆盖与译文准确性未逐句核验。",
+      "chineseConfirmed": true,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [
+        "Hindi (auto-generated)"
+      ],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "languageGroup": "zh-subtitles",
+    "chineseAccessible": true,
+    "language": "英语原讲；中英双语片内字幕",
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3995,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "已实际看到中英双语片内字幕；翻译及校对有署名。自动识别为印地语的CC不作为中文译文依据。",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 25,
+    "watchBranch": "中文优先"
   },
   {
     "id": "7qXtE5JwUG0",
@@ -1882,16 +4893,48 @@ export const videoStudyCatalogue = [
     "channel": "菠蘿蜜多",
     "teacher": "纪录片／专题制作团队",
     "tradition": "汉传佛教",
-    "language": "中文",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "转载频道",
     "format": "完整纪录专题单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "不同发行版本集序不同，保留上传所标集名。",
     "filmId": "bodhi-road",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "7qXtE5JwUG0",
+      "seconds": 2099,
+      "lateSampleSeconds": 1890,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1890,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "历史文化叙事中的传统记载、复原画面和史料，需要分别理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 42,
+    "watchBranch": "中文优先"
   },
   {
     "id": "sQyFHdP0AhU",
@@ -1905,16 +4948,48 @@ export const videoStudyCatalogue = [
     "channel": "C HY",
     "teacher": "纪录片／专题制作团队",
     "tradition": "汉传佛教",
-    "language": "中文",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "转载频道",
     "format": "完整纪录专题单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "系列中的完整单集／专题，按片名列出，并非整套系列已全部核验。",
     "filmId": "bodhi-kumarajiva",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "sQyFHdP0AhU",
+      "seconds": 3460,
+      "lateSampleSeconds": 3114,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3114,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "历史文化叙事中的传统记载、复原画面和史料，需要分别理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 43,
+    "watchBranch": "中文优先"
   },
   {
     "id": "Ltfbb_dDBok",
@@ -1928,16 +5003,48 @@ export const videoStudyCatalogue = [
     "channel": "Ryan yau",
     "teacher": "纪录片／专题制作团队",
     "tradition": "汉传佛教",
-    "language": "中文",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "转载频道",
-    "format": "完整纪录专题单集",
+    "format": "纪录片上下合辑（上传标示）",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
-    "note": "系列中的完整单集／专题，按片名列出，并非整套系列已全部核验。",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
+    "note": "系列中的完整单集／专题，按片名列出，并非整套系列已全部核验。 上传题名明确上、下范围，未逐段比对原始两集。",
     "filmId": "bodhi-huineng",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "Ltfbb_dDBok",
+      "seconds": 3697,
+      "lateSampleSeconds": 3331,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 3331,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "关于慧能的影视叙事需与传记成书背景和史料对照，可衔接本站慧能研究。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 44,
+    "watchBranch": "中文优先"
   },
   {
     "id": "J-5E956dpAU",
@@ -1951,16 +5058,48 @@ export const videoStudyCatalogue = [
     "channel": "allaboutbuddha2",
     "teacher": "纪录片／专题制作团队",
     "tradition": "汉传佛教",
-    "language": "中文",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "转载频道",
     "format": "完整纪录专题单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "系列中的完整单集／专题，按片名列出，并非整套系列已全部核验。",
     "filmId": "bodhi-tiantai",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "J-5E956dpAU",
+      "seconds": 2100,
+      "lateSampleSeconds": 1894,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1894,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "历史文化叙事中的传统记载、复原画面和史料，需要分别理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 45,
+    "watchBranch": "中文优先"
   },
   {
     "id": "jt3nNl1IUcE",
@@ -1974,16 +5113,48 @@ export const videoStudyCatalogue = [
     "channel": "千年菩提路",
     "teacher": "纪录片／专题制作团队",
     "tradition": "汉传佛教",
-    "language": "中文",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "转载频道",
     "format": "完整纪录专题单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "系列中的完整单集／专题，按片名列出，并非整套系列已全部核验。",
     "filmId": "bodhi-pureland",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "jt3nNl1IUcE",
+      "seconds": 2197,
+      "lateSampleSeconds": 1981,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1981,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "历史文化叙事中的传统记载、复原画面和史料，需要分别理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 46,
+    "watchBranch": "中文优先"
   },
   {
     "id": "D-mQzlc_Ag0",
@@ -1997,16 +5168,48 @@ export const videoStudyCatalogue = [
     "channel": "Ming Yin",
     "teacher": "纪录片／专题制作团队",
     "tradition": "南传佛教",
-    "language": "中文",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "转载频道",
     "format": "完整纪录专题单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "系列中的完整单集／专题，按片名列出，并非整套系列已全部核验。",
     "filmId": "bodhi-theravada",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "D-mQzlc_Ag0",
+      "seconds": 1837,
+      "lateSampleSeconds": 1657,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1657,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "历史文化叙事中的传统记载、复原画面和史料，需要分别理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 47,
+    "watchBranch": "中文优先"
   },
   {
     "id": "rj5rapBi0uc",
@@ -2020,16 +5223,48 @@ export const videoStudyCatalogue = [
     "channel": "CCTV纪录",
     "teacher": "纪录片／专题制作团队",
     "tradition": "汉传佛教",
-    "language": "中文",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "制作方／电视机构频道",
     "format": "完整纪录专题单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "系列中的完整单集／专题，按片名列出，并非整套系列已全部核验。",
     "filmId": "famen",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "rj5rapBi0uc",
+      "seconds": 3280,
+      "lateSampleSeconds": 2953,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 2953,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "历史文化叙事中的传统记载、复原画面和史料，需要分别理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 48,
+    "watchBranch": "中文优先"
   },
   {
     "id": "Ki31kW2rnbA",
@@ -2043,16 +5278,48 @@ export const videoStudyCatalogue = [
     "channel": "CCTV纪录",
     "teacher": "纪录片／专题制作团队",
     "tradition": "汉传佛教",
-    "language": "中文",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "制作方／电视机构频道",
     "format": "完整纪录专题单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "系列中的完整单集／专题，按片名列出，并非整套系列已全部核验。",
     "filmId": "luoyang-whitehorse",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "Ki31kW2rnbA",
+      "seconds": 1575,
+      "lateSampleSeconds": 1422,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1422,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "历史文化叙事中的传统记载、复原画面和史料，需要分别理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 49,
+    "watchBranch": "中文优先"
   },
   {
     "id": "ogIkocFjRPk",
@@ -2066,16 +5333,48 @@ export const videoStudyCatalogue = [
     "channel": "Zhejiang STV Official Channel-Subscribe Now",
     "teacher": "纪录片／专题制作团队",
     "tradition": "汉传佛教",
-    "language": "中文",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "制作方／电视机构频道",
     "format": "完整纪录专题单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "系列中的完整单集／专题，按片名列出，并非整套系列已全部核验。",
     "filmId": "lingyin",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "ogIkocFjRPk",
+      "seconds": 1177,
+      "lateSampleSeconds": 1062,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1062,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "历史文化叙事中的传统记载、复原画面和史料，需要分别理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 50,
+    "watchBranch": "中文优先"
   },
   {
     "id": "carvZDaqdEM",
@@ -2089,39 +5388,101 @@ export const videoStudyCatalogue = [
     "channel": "CCTV纪录",
     "teacher": "纪录片／专题制作团队",
     "tradition": "藏传佛教／格鲁派",
-    "language": "中文",
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
     "languageGroup": "zh",
     "sourceType": "制作方／电视机构频道",
     "format": "完整纪录专题单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "系列中的完整单集／专题，按片名列出，并非整套系列已全部核验。",
     "filmId": "tashilhunpo",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "carvZDaqdEM",
+      "seconds": 2700,
+      "lateSampleSeconds": 2430,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 2430,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "历史文化叙事中的传统记载、复原画面和史料，需要分别理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 51,
+    "watchBranch": "中文优先"
   },
   {
-    "id": "mRNmET5L2GM",
-    "videoId": "mRNmET5L2GM",
-    "url": "https://www.youtube.com/watch?v=mRNmET5L2GM",
-    "title": "走进佛教：法河 / Dharma River",
-    "sourceTitle": "Journey into Buddhism - Dharma River (2005) | Full Documentary",
-    "seconds": 4828,
-    "category": "寺院与纪录",
-    "reason": "PBS America完整发布，借东南亚河流与寺院影像认识当地佛教文化。",
-    "channel": "PBS America",
-    "teacher": "纪录片／专题制作团队",
-    "tradition": "东南亚佛教",
-    "language": "原片音轨；中文字幕未确认",
-    "languageGroup": "other",
-    "sourceType": "制作方／电视机构频道",
-    "format": "完整纪录片",
+    "id": "FVQmzsZ3Zq8",
+    "videoId": "FVQmzsZ3Zq8",
+    "url": "https://www.youtube.com/watch?v=FVQmzsZ3Zq8",
+    "title": "敦煌：千年的营造（第2集）",
+    "sourceTitle": "《敦煌》如何开窟？为何开窟？南北朝 隋唐时期的石窟建筑艺术 EP02——千年的营造【CCTV纪录】",
+    "seconds": 2804,
+    "category": "历史与人物",
+    "teacher": "CCTV纪录制作团队",
+    "tradition": "佛教石窟与物质文化",
+    "channel": "CCTV纪录",
+    "sourceType": "制作方原频道",
+    "reason": "由莫高窟考古与建造问题进入佛教石窟艺术，适合把经典、信仰与物质文化联系起来。",
+    "format": "完整纪录专题单集",
+    "note": "CCTV《敦煌》第2集，非整套10集；包含历史再现影像，需与考古资料及研究分别理解。",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
-    "note": "按上传的完整版本收录；与原始发行版的删改差异未逐帧核对。",
-    "filmId": "dharma-river",
-    "startHere": 0
+    "startHere": 0,
+    "audit": {
+      "videoId": "FVQmzsZ3Zq8",
+      "seconds": 2804,
+      "lateSampleSeconds": 2526,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "languageGroup": "zh",
+    "chineseAccessible": true,
+    "language": "中文原声（国语／台语依片内）；字幕另见核查说明",
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 2526,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "历史文化叙事中的传统记载、复原画面和史料，需要分别理解。",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 52,
+    "watchBranch": "中文优先"
   },
   {
     "id": "WkxSyv5R1sg",
@@ -2135,16 +5496,56 @@ export const videoStudyCatalogue = [
     "channel": "Karuna Films LTD",
     "teacher": "纪录片／专题制作团队",
     "tradition": "内观传统",
-    "language": "原片音轨；中文字幕未确认",
+    "language": "外语原讲／原片；未确认中文字幕，自动字幕语言见字幕说明",
     "languageGroup": "other",
     "sourceType": "制作方／电视机构频道",
     "format": "完整纪录片",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整版本收录；与原始发行版的删改差异未逐帧核对。",
     "filmId": "doing-time",
-    "startHere": 7
+    "startHere": 0,
+    "originalLanguageGroup": "other",
+    "audit": {
+      "videoId": "WkxSyv5R1sg",
+      "seconds": 3153,
+      "lateSampleSeconds": 2839,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate",
+        "English (auto-generated) >> Chinese (Simplified)"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。 菜单中的“源语言 >> 中文”是自动翻译，不计为上传中文字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [
+        "English (auto-generated)",
+        "English (auto-generated) >> Chinese (Simplified)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 2839,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "制作方发布版本可播；是特定监狱内观个案，不能据此推出所有人的相同效果。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 92,
+    "watchBranch": "外语延伸"
   },
   {
     "id": "6H_2WfGKURg",
@@ -2158,16 +5559,54 @@ export const videoStudyCatalogue = [
     "channel": "Dhamma Source",
     "teacher": "纪录片／专题制作团队",
     "tradition": "南传佛教／森林传统",
-    "language": "原片音轨；中文字幕未确认",
+    "language": "外语原讲／原片；未确认中文字幕，自动字幕语言见字幕说明",
     "languageGroup": "other",
     "sourceType": "转载频道",
     "format": "完整纪录片",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按上传的完整版本收录；与原始发行版的删改差异未逐帧核对。",
     "filmId": "mindful-way",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "other",
+    "audit": {
+      "videoId": "6H_2WfGKURg",
+      "seconds": 1475,
+      "lateSampleSeconds": 1329,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [
+        "English (auto-generated)"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1329,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "呈现特定社群与制作年代的观察，适合了解生活和修行环境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 93,
+    "watchBranch": "外语延伸"
   },
   {
     "id": "VZ4xGqOmkZ8",
@@ -2181,16 +5620,56 @@ export const videoStudyCatalogue = [
     "channel": "NHK WORLD-JAPAN",
     "teacher": "纪录片／专题制作团队",
     "tradition": "日本佛教／真言宗",
-    "language": "原片音轨；中文字幕未确认",
+    "language": "原片音轨；仅见日语自动字幕，未确认中文字幕",
     "languageGroup": "other",
     "sourceType": "制作方／电视机构频道",
     "format": "完整纪录专题单集",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "系列中的完整单集／专题，按片名列出，并非整套系列已全部核验。",
     "filmId": "koyasan",
-    "startHere": 0
+    "startHere": 0,
+    "originalLanguageGroup": "other",
+    "audit": {
+      "videoId": "VZ4xGqOmkZ8",
+      "seconds": 1505,
+      "lateSampleSeconds": 1355,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Japanese (auto-generated)",
+        "Auto-translate",
+        "Japanese (auto-generated) >> English"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [
+        "Japanese (auto-generated)",
+        "Japanese (auto-generated) >> English"
+      ],
+      "autoTranslateAvailable": true,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": false,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 1355,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "呈现特定社群与制作年代的观察，适合了解生活和修行环境。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 94,
+    "watchBranch": "外语延伸"
   },
   {
     "id": "pH2ozq65yHQ",
@@ -2204,15 +5683,47 @@ export const videoStudyCatalogue = [
     "channel": "Dominus",
     "teacher": "纪录片／专题制作团队",
     "tradition": "汉传佛教",
-    "language": "中文访谈、英语字幕",
+    "language": "中文访谈；本轮未确认中文字幕轨",
     "languageGroup": "zh",
     "sourceType": "转载频道",
     "format": "完整纪录片",
     "audience": "初学及一般观众",
     "checkedOn": "2026-11-07",
-    "reviewStatus": "已核播放页、来源与简介；未完整听审",
+    "reviewStatus": "已核字幕菜单、发布说明及末段画面；未完整听审",
     "note": "按完整上传版本收录，未逐帧对比原始发行版。",
     "filmId": "white-clouds",
-    "startHere": 8
+    "startHere": 0,
+    "originalLanguageGroup": "zh",
+    "audit": {
+      "videoId": "pH2ozq65yHQ",
+      "seconds": 5187,
+      "lateSampleSeconds": 4669,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    "captions": {
+      "kind": "unconfirmed",
+      "label": "中文字幕未确认",
+      "detail": "未见可选中文CC；本轮画面抽查未能确认片内中文字幕，不据此断言全片没有字幕。",
+      "chineseConfirmed": false,
+      "chineseTracks": [],
+      "otherUploadedTracks": [],
+      "automaticTracks": [],
+      "autoTranslateAvailable": false,
+      "checkedOn": "2026-11-07"
+    },
+    "chineseAccessible": true,
+    "completeness": {
+      "status": "来源与单集范围核对、末段画面抽查",
+      "sampleSeconds": 4669,
+      "scope": "约90%处已解码；不等于全片逐秒核验或与发行原版逐帧比对。"
+    },
+    "qualityNote": "历史文化叙事中的传统记载、复原画面和史料，需要分别理解。",
+    "prerequisite": "可从本主题较靠前的条目开始。",
+    "bookmarks": [],
+    "watchOrder": 53,
+    "watchBranch": "中文优先"
   }
 ];
