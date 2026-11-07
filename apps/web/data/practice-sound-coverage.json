@@ -1,0 +1,131 @@
+{
+  "reviewedOn": "2026-11-07",
+  "reference": "https://insighttimer.com/meditation-timer",
+  "memberScope": "https://help.insighttimer.com/support/solutions/articles/67000664866-what-features-are-included-with-memberplus-",
+  "scope": "公开页默认低钵及16个命名乐器/氛围类型的原创合成近似；不是原版录音，不是完整会员音库。会员有数百项，完整App清单仍待核对。",
+  "items": [
+    {
+      "referenceType": "Basu",
+      "soundId": "basu-bowl",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "Wind Gong",
+      "soundId": "wind-gong",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "Frame Drum",
+      "soundId": "frame-drum",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "RAV Drum",
+      "soundId": "rav-drum",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "Tuning Fork",
+      "soundId": "tuning-fork",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "E Crystal Bowl",
+      "soundId": "crystal-bowl",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "Rainstick",
+      "soundId": "rainstick",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "Hand Pan",
+      "soundId": "handpan",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "Church bell",
+      "soundId": "church-bell",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "Brown noise",
+      "soundId": "brown",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "A major",
+      "soundId": "a-major",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "D major",
+      "soundId": "d-major",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "Pink noise",
+      "soundId": "pink",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "Infinite om drone",
+      "soundId": "om-drone",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "Humming",
+      "soundId": "humming",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "Solfeggio",
+      "soundId": "solfeggio",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    },
+    {
+      "referenceType": "Wild wind",
+      "soundId": "wild-wind",
+      "implementation": "original synthesis approximation",
+      "copiedRecording": false
+    }
+  ],
+  "additional": [
+    "rain",
+    "ocean",
+    "bell"
+  ],
+  "playableCount": 20,
+  "silentChoice": true,
+  "timerAudibleCueCount": 12,
+  "rights": "No third-party audio, image or instrument recordings copied; generated waveforms and illustrative SVG are project-owned.",
+  "notVerified": [
+    "physical iPhone audibility",
+    "silent switch on all iOS versions",
+    "lockscreen/background timely cues",
+    "full MemberPlus inventory"
+  ],
+  "sources": [
+    "https://bugs.webkit.org/show_bug.cgi?id=252746",
+    "https://bugs.webkit.org/show_bug.cgi?id=237322",
+    "https://bugs.webkit.org/show_bug.cgi?id=247614",
+    "https://www.w3.org/TR/audio-session/"
+  ]
+}

@@ -53,3 +53,5 @@ body:not([data-session-state="running"]) .sector-ring,body:not([data-session-sta
 #focus-audition{display:flex;gap:.5rem;align-items:center;justify-content:center;flex-wrap:wrap;font-size:.8rem}#focus-audition[hidden]{display:none}#practice-help dd{margin:.25rem 0 1rem}#fullscreen-help{max-width:30rem;text-align:center}
 
 .drawer-bottom{margin-top:1rem;padding:1rem 0;border-top:1px solid var(--line)}.drawer-bottom button{width:100%}#initial-orientation{max-width:30rem;text-align:center}#sound-selection-summary{white-space:normal;overflow-wrap:anywhere}
+
+.sound-category h3{font-size:20px;margin:26px 0 14px}.audio-help{margin:14px 0;padding:12px;border:1px solid var(--line);border-radius:12px}#audio-health{max-width:480px;font-size:11px;line-height:1.5;text-align:center}#sound-enable-audio{min-height:48px}

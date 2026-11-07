@@ -1,6 +1,7 @@
 /** Explicitly injected, local-only practice data. No account, network, free text or audio behavior. */
+import {SOUND_IDS,CUE_IDS} from './sound-catalogue.mjs';
 export const PRACTICE_STORAGE_KEY='dharmagate.practice.v1';
-const VERSION=4,MAX_HISTORY=500,MAX_STORED_CHARACTERS=300000;
+const VERSION=5,MAX_HISTORY=500,MAX_STORED_CHARACTERS=300000;
 const DEFAULTS={minutes:20,preparationSeconds:10,intervalMinutes:0,theme:'paper',sound:'silent',volume:9,muted:false,bellEnabled:false,startCue:'silent',intervalCue:'silent',endCue:'soft-bell',historyBrowse:{period:'all',outcome:'all',duration:'all',sound:'all',sort:'newest',page:1},sections:{timerSettings:true,progressLegend:false,historyFilters:false,evidence:false,modernThree:false,modernFive:false,cueEvents:false}};
 const sessionKeys=['id','startedAt','endedAt','plannedSeconds','elapsedSeconds','outcome','practiceId','sound'];
 const activeKeys=['id','startedAt','plannedSeconds','elapsedSeconds','preparationSeconds','intervalMinutes','practiceId','sound','state','updatedAt','cuePlan','legacyCuePlan','preparationRemainingMs','legacyPreparation'];
@@ -13,27 +14,32 @@ const timestamp=value=>typeof value==='number'&&Number.isFinite(value)&&value>=0
 const identifier=value=>typeof value==='string'&&/^[A-Za-z0-9_-]{1,100}$/.test(value);
 const seconds=value=>integer(value,0,10800);
 const practice=value=>['open-listening','quiet-sitting'].includes(value);
-const sound=value=>['silent','brown','rain','bell'].includes(value);
+const legacySounds=['silent','brown','rain','bell'];
+const sound=(value,version=VERSION)=>(version>=5?SOUND_IDS:legacySounds).includes(value);
+const legacyCues=['silent','soft-bell','deep-bell','wood'];
+const cue=(value,version=VERSION)=>(version>=5?CUE_IDS:legacyCues).includes(value);
 function preferences(value,partial=false,version=VERSION){
  const allowed=Object.keys(DEFAULTS).filter(k=>!(version<4&&['historyBrowse','sections'].includes(k))&&!(version===1&&['startCue','intervalCue','endCue'].includes(k)));
  if(!keys(value,allowed,partial?[]:allowed))fail('INVALID_PREFERENCES');
- const validators={minutes:v=>integer(v,1,180),preparationSeconds:v=>[0,10,30].includes(v),intervalMinutes:v=>integer(v,0,180),theme:v=>['paper','white','night'].includes(v),sound:v=>(version===1?['brown','rain','bell']:['silent','brown','rain','bell']).includes(v),volume:v=>integer(v,0,100),muted:v=>typeof v==='boolean',bellEnabled:v=>typeof v==='boolean',startCue:v=>['silent','soft-bell','deep-bell','wood'].includes(v),intervalCue:v=>['silent','soft-bell','deep-bell','wood'].includes(v),endCue:v=>['silent','soft-bell','deep-bell','wood'].includes(v),historyBrowse:v=>keys(v,['period','outcome','duration','sound','sort','page'])&&['all','today','7d','30d'].includes(v.period)&&['all','completed','ended','interrupted'].includes(v.outcome)&&['all','short','medium','long'].includes(v.duration)&&['all','silent','brown','rain','bell'].includes(v.sound)&&['newest','oldest','longest'].includes(v.sort)&&integer(v.page,1,25),sections:v=>keys(v,Object.keys(DEFAULTS.sections))&&Object.values(v).every(x=>typeof x==='boolean')};
+ const validators={minutes:v=>integer(v,1,180),preparationSeconds:v=>[0,10,30].includes(v),intervalMinutes:v=>integer(v,0,180),theme:v=>['paper','white','night'].includes(v),sound:v=>version===1?['brown','rain','bell'].includes(v):sound(v,version),volume:v=>integer(v,0,100),muted:v=>typeof v==='boolean',bellEnabled:v=>typeof v==='boolean',startCue:v=>cue(v,version),intervalCue:v=>cue(v,version),endCue:v=>cue(v,version),historyBrowse:v=>keys(v,['period','outcome','duration','sound','sort','page'])&&['all','today','7d','30d'].includes(v.period)&&['all','completed','ended','interrupted'].includes(v.outcome)&&['all','short','medium','long'].includes(v.duration)&&(v.sound==='all'||sound(v.sound,version))&&['newest','oldest','longest'].includes(v.sort)&&integer(v.page,1,25),sections:v=>keys(v,Object.keys(DEFAULTS.sections))&&Object.values(v).every(x=>typeof x==='boolean')};
  for(const key of Object.keys(value))if(!validators[key](value[key]))fail('INVALID_PREFERENCES');
  return clone(value);
 }
-function session(value){
- if(!keys(value,sessionKeys)||!identifier(value.id)||!timestamp(value.startedAt)||!timestamp(value.endedAt)||value.endedAt<value.startedAt||!integer(value.plannedSeconds,1,10800)||!seconds(value.elapsedSeconds)||value.elapsedSeconds>value.plannedSeconds||(value.outcome==='completed'&&value.elapsedSeconds!==value.plannedSeconds)||!['completed','ended','interrupted'].includes(value.outcome)||!practice(value.practiceId)||!sound(value.sound))fail('INVALID_SESSION');
+function session(value,version=VERSION){
+ if(![1,2,3,4,5].includes(version))fail('INVALID_VERSION');
+ if(!keys(value,sessionKeys)||!identifier(value.id)||!timestamp(value.startedAt)||!timestamp(value.endedAt)||value.endedAt<value.startedAt||!integer(value.plannedSeconds,1,10800)||!seconds(value.elapsedSeconds)||value.elapsedSeconds>value.plannedSeconds||(value.outcome==='completed'&&value.elapsedSeconds!==value.plannedSeconds)||!['completed','ended','interrupted'].includes(value.outcome)||!practice(value.practiceId)||!sound(value.sound,version))fail('INVALID_SESSION');
  return clone(value);
 }
-function active(value,legacy=false){
+function active(value,legacy=false,version=VERSION){
+ if(![1,2,3,4,5].includes(version))fail('INVALID_VERSION');
  if(value===null)return null;
  if(legacy&&object(value)){if(!Object.hasOwn(value,'cuePlan')&&!Object.hasOwn(value,'legacyCuePlan'))value={...value,cuePlan:{startCue:'silent',intervalCue:'silent',endCue:'silent'},legacyCuePlan:true};if(!Object.hasOwn(value,'preparationRemainingMs')&&!Object.hasOwn(value,'legacyPreparation'))value={...value,preparationRemainingMs:0,legacyPreparation:true}}
- if(!keys(value,activeKeys,activeKeys.filter(k=>!['legacyCuePlan','legacyPreparation'].includes(k)))||!keys(value.cuePlan,['startCue','intervalCue','endCue'])||!Object.values(value.cuePlan).every(v=>['silent','soft-bell','deep-bell','wood'].includes(v))||(Object.hasOwn(value,'legacyCuePlan')&&typeof value.legacyCuePlan!=='boolean')||(value.legacyCuePlan===true&&Object.values(value.cuePlan).some(v=>v!=='silent'))||!integer(value.preparationRemainingMs,0,value.preparationSeconds*1000)||(value.preparationRemainingMs>0&&value.elapsedSeconds!==0)||(Object.hasOwn(value,'legacyPreparation')&&typeof value.legacyPreparation!=='boolean')||(value.legacyPreparation===true&&value.preparationRemainingMs!==0)||!identifier(value.id)||!timestamp(value.startedAt)||!timestamp(value.updatedAt)||value.updatedAt<value.startedAt||!integer(value.plannedSeconds,60,10800)||value.plannedSeconds%60!==0||!seconds(value.elapsedSeconds)||value.elapsedSeconds>=value.plannedSeconds||![0,10,30].includes(value.preparationSeconds)||!integer(value.intervalMinutes,0,180)||!practice(value.practiceId)||!sound(value.sound)||!['running','paused'].includes(value.state))fail('INVALID_ACTIVE_SESSION');
+ if(!keys(value,activeKeys,activeKeys.filter(k=>!['legacyCuePlan','legacyPreparation'].includes(k)))||!keys(value.cuePlan,['startCue','intervalCue','endCue'])||!Object.values(value.cuePlan).every(v=>cue(v,version))||(Object.hasOwn(value,'legacyCuePlan')&&typeof value.legacyCuePlan!=='boolean')||(value.legacyCuePlan===true&&Object.values(value.cuePlan).some(v=>v!=='silent'))||!integer(value.preparationRemainingMs,0,value.preparationSeconds*1000)||(value.preparationRemainingMs>0&&value.elapsedSeconds!==0)||(Object.hasOwn(value,'legacyPreparation')&&typeof value.legacyPreparation!=='boolean')||(value.legacyPreparation===true&&value.preparationRemainingMs!==0)||!identifier(value.id)||!timestamp(value.startedAt)||!timestamp(value.updatedAt)||value.updatedAt<value.startedAt||!integer(value.plannedSeconds,60,10800)||value.plannedSeconds%60!==0||!seconds(value.elapsedSeconds)||value.elapsedSeconds>=value.plannedSeconds||![0,10,30].includes(value.preparationSeconds)||!integer(value.intervalMinutes,0,180)||!practice(value.practiceId)||!sound(value.sound,version)||!['running','paused'].includes(value.state))fail('INVALID_ACTIVE_SESSION');
  return clone(value);
 }
-function normalizeHistory(rows){
+function normalizeHistory(rows,version=VERSION){
  if(!Array.isArray(rows))fail('INVALID_HISTORY');
- const validated=rows.map(session).sort((a,b)=>b.endedAt-a.endedAt||a.id.localeCompare(b.id,'en'));
+ const validated=rows.map(row=>session(row,version)).sort((a,b)=>b.endedAt-a.endedAt||a.id.localeCompare(b.id,'en'));
  const byId=new Map();for(const row of validated)if(!byId.has(row.id))byId.set(row.id,row);const unique=[...byId.values()];
  // Keep one record per id; a replay never creates a second history entry.
  return {history:unique.slice(0,MAX_HISTORY),truncated:unique.length>MAX_HISTORY,duplicates:unique.length!==rows.length};
@@ -52,9 +58,9 @@ export function createPracticeStore({storage,now=Date.now}={}){
    try{
     if(typeof raw!=='string'||raw.length>MAX_STORED_CHARACTERS)fail('INVALID_STORED_DATA');
     const parsed=JSON.parse(raw),allowed=['version','preferences','history','remember','recordHistory','activeSession','truncated'];
-    if(!keys(parsed,allowed,['version','history','remember','recordHistory','truncated'])||![1,2,3,VERSION].includes(parsed.version)||typeof parsed.remember!=='boolean'||typeof parsed.recordHistory!=='boolean'||typeof parsed.truncated!=='boolean')fail('INVALID_STORED_DATA');
+    if(!keys(parsed,allowed,['version','history','remember','recordHistory','truncated'])||![1,2,3,4,VERSION].includes(parsed.version)||typeof parsed.remember!=='boolean'||typeof parsed.recordHistory!=='boolean'||typeof parsed.truncated!=='boolean')fail('INVALID_STORED_DATA');
     if(parsed.remember&&!Object.hasOwn(parsed,'preferences'))fail('INVALID_STORED_DATA');if(parsed.recordHistory&&!Object.hasOwn(parsed,'activeSession'))fail('INVALID_STORED_DATA');
-    let prefs=Object.hasOwn(parsed,'preferences')?preferences(parsed.preferences,false,parsed.version):clone(DEFAULTS),records=normalizeHistory(parsed.history),checkpoint=Object.hasOwn(parsed,'activeSession')?active(parsed.activeSession,parsed.version<3):null;
+    let prefs=Object.hasOwn(parsed,'preferences')?preferences(parsed.preferences,false,parsed.version):clone(DEFAULTS),records=normalizeHistory(parsed.history,parsed.version),checkpoint=Object.hasOwn(parsed,'activeSession')?active(parsed.activeSession,parsed.version<3,parsed.version):null;
     if(parsed.version===1&&Object.hasOwn(parsed,'preferences'))prefs={...prefs,startCue:'silent',intervalCue:prefs.bellEnabled?'soft-bell':'silent',endCue:prefs.bellEnabled?'soft-bell':'silent'};
     if(parsed.version<4)prefs={...prefs,historyBrowse:clone(DEFAULTS.historyBrowse),sections:clone(DEFAULTS.sections)};
     data={preferences:parsed.remember?prefs:clone(DEFAULTS),history:records.history,remember:parsed.remember,recordHistory:parsed.recordHistory,activeSession:parsed.recordHistory?checkpoint:null,truncated:parsed.truncated||records.truncated};
@@ -94,7 +100,7 @@ export function createPracticeStore({storage,now=Date.now}={}){
   resetPreferences(){data.preferences=clone(DEFAULTS);return data.remember?persist():read()},
   restoreBackup({records=[],settings=null,isCurrent=()=>true}={}){
    if(typeof isCurrent!=='function'||!Array.isArray(records)||records.length>MAX_HISTORY)fail('INVALID_BACKUP_COMMIT');
-   const additions=records.map(session),prefs=settings===null?null:preferences(settings),next=clone(data),byId=new Map(next.history.map(r=>[r.id,r]));
+   const additions=records.map(row=>session(row)),prefs=settings===null?null:preferences(settings),next=clone(data),byId=new Map(next.history.map(r=>[r.id,r]));
    for(const r of additions){if(byId.has(r.id)){if(practiceSessionKey(byId.get(r.id))!==practiceSessionKey(r))fail('BACKUP_ID_CONFLICT')}else byId.set(r.id,r)}
    if(byId.size>MAX_HISTORY)fail('BACKUP_CAPACITY');if(prefs&&next.activeSession)fail('BACKUP_SETTINGS_ACTIVE');
    next.history=normalizeHistory([...byId.values()]).history;if(prefs)next.preferences=prefs;
@@ -124,7 +130,7 @@ export function createPracticeStore({storage,now=Date.now}={}){
 // Shared strict validators for local backup parsing; no second permissive schema.
 export const validatePracticeSession=session;
 export const validatePracticeActive=active;
-export function validatePracticePreferences(value,{version=4}={}){if(![1,2,3,4].includes(version))fail('INVALID_VERSION');return preferences(value,false,version)}
+export function validatePracticePreferences(value,{version=VERSION}={}){if(![1,2,3,4,5].includes(version))fail('INVALID_VERSION');return preferences(value,false,version)}
 export function migratePracticePreferences(value,version){let p=validatePracticePreferences(value,{version});if(version===1)p={...p,startCue:'silent',intervalCue:p.bellEnabled?'soft-bell':'silent',endCue:p.bellEnabled?'soft-bell':'silent'};return {...clone(DEFAULTS),...p}}
 export function defaultPracticePreferences(){return clone(DEFAULTS)}
 
