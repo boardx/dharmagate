@@ -1,0 +1,10 @@
+import {readdir} from 'node:fs/promises';
+import {spawnSync} from 'node:child_process';
+import {fileURLToPath} from 'node:url';
+const dir=new URL('../../apps/web/test/',import.meta.url),files=(await readdir(dir)).filter(name=>/^practice.*\.test\.mjs$/.test(name)).sort();
+if(!files.length)throw Error('No portable practice tests found');
+const args=['--test',...files.map(name=>fileURLToPath(new URL(name,dir)))];
+const result=spawnSync(process.execPath,args,{stdio:'inherit',cwd:fileURLToPath(new URL('../../',import.meta.url))});
+if(result.error)throw result.error;
+if(result.signal)throw Error('Tests terminated: '+result.signal);
+process.exitCode=result.status??1;

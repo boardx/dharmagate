@@ -1,0 +1,28 @@
+name: Cloud practice validation
+on:
+  push:
+    branches: [codex/dharmagate-consolidation-20261029]
+    paths: ['apps/web/src/practice/**', 'apps/web/src/practice-portal.mjs', 'apps/web/data/practice-research.json', 'apps/web/test/practice*.test.mjs', 'tools/cloud-practice/**', '.github/workflows/cloud-practice.yml']
+  pull_request:
+    paths: ['apps/web/src/practice/**', 'apps/web/src/practice-portal.mjs', 'apps/web/data/practice-research.json', 'apps/web/test/practice*.test.mjs', 'tools/cloud-practice/**', '.github/workflows/cloud-practice.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  portable:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    defaults:
+      run:
+        working-directory: tools/cloud-practice
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.23.1'
+      - run: npm ci --ignore-scripts --no-audit --no-fund
+      - run: npm test
+      - run: npm run build
+      - run: npm run verify

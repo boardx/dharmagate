@@ -1,0 +1,2 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const dir=new URL('./',import.meta.url),assets={};for(const [key,file]of Object.entries({client:'client.mjs',timer:'timer.mjs',audio:'audio.mjs'}))assets[key]=await readFile(new URL(file,dir),'utf8');await writeFile(new URL('assets.generated.mjs',dir),'// Generated from owned practice modules; run build-assets.mjs after edits.\nexport default '+JSON.stringify(assets)+';\n');
