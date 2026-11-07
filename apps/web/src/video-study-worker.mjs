@@ -13,3 +13,11 @@ export function withVideoStudy(currentWorker){
   return new HTMLRewriter().on('nav[aria-label="产品导航"],nav[aria-label="移动导航"]',{element(element){element.append('<a href="/videos" data-video-study-nav>视频精选100</a>',{html:true});}}).transform(response);
  }};
 }
+
+// Catalogue-only overlay for a production Worker that already contains the
+// video navigation. Pass existing pages through without adding duplicate links.
+export function withVideoStudyCatalogue(currentWorker){
+ if(typeof currentWorker?.fetch!=='function')throw new TypeError('A current Worker is required');
+ const library=createVideoStudyLibrary();
+ return {async fetch(request,env,ctx){return library.fetch(request)??currentWorker.fetch(request,env,ctx);}};
+}

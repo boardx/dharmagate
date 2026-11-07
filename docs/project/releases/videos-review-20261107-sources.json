@@ -1,0 +1,1149 @@
+{
+  "checkedOn": "2026-11-07",
+  "method": "All original100 watch pages rechecked. Caption menus inspected; subtitle choice distinguishes uploaded, auto-generated and translated tracks. Late video frames around90% decoded and visually sampled for100 retained/replacement entries; earlier entries also had middle samples. This is sampling, not full listening or frame-by-frame original-edition comparison.",
+  "stats": {
+    "count": 100,
+    "unique": 100,
+    "chineseAccessible": 68,
+    "chineseCaptions": 44,
+    "uploadedChinese": 10,
+    "burnedChinese": 34,
+    "languages": {
+      "zh": 52,
+      "zh-subtitles": 11,
+      "zh-interpretation": 5,
+      "unconfirmed": 21,
+      "other": 11
+    }
+  },
+  "replacements": [
+    {
+      "oldId": "XaBitGGkMBw",
+      "newId": "pHqfCKtSYrQ",
+      "reason": "上传说明承认将约2至5集拼接，并改为4:3画幅，原始讲次与拼接范围未核清。改用机构原频道、时间地点明确的独立公开讲座。"
+    },
+    {
+      "oldId": "JR8XN9Iv3kg",
+      "newId": "Jc95dQi8E6U",
+      "reason": "未核得原始讲次与对应版本。为提高来源可追溯性，改用寺院原频道的独立座谈；不据此断言原视频内容有误。"
+    },
+    {
+      "oldId": "vNf0Bty1C7I",
+      "newId": "hUKPkTFTHZk",
+      "reason": "旧链接仅见印地语自动字幕，中文可及性不足。改用同一讲者中文频道的完整公开演讲，已实际看到中英双语片内字幕与翻译／校对署名。"
+    },
+    {
+      "oldId": "mRNmET5L2GM",
+      "newId": "FVQmzsZ3Zq8",
+      "reason": "本次播放器显示上传者未向当前国家开放。改用已成功解码播放的CCTV中文石窟纪录专题；地区限制不等于全球下架。"
+    }
+  ],
+  "observations": [
+    {
+      "videoId": "Nyoy_XyyUFs",
+      "seconds": 507,
+      "lateSampleSeconds": 457,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "kY8B4dxftjY",
+      "seconds": 492,
+      "lateSampleSeconds": 444,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "mF_trFDpBzo",
+      "seconds": 553,
+      "lateSampleSeconds": 498,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "tt8UVWOeTh8",
+      "seconds": 518,
+      "lateSampleSeconds": 466,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Vietnamese",
+        "Auto-translate",
+        "Vietnamese >> Chinese (Simplified)"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "FfPxIaurUbY",
+      "seconds": 502,
+      "lateSampleSeconds": 453,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "uEOtFo8TcG8",
+      "seconds": 498,
+      "lateSampleSeconds": 448,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Vietnamese"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "sL4cJuJWnHI",
+      "seconds": 508,
+      "lateSampleSeconds": 458,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "Jw2_ih7P53g",
+      "seconds": 508,
+      "lateSampleSeconds": 457,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "G5-egn0fTlQ",
+      "seconds": 516,
+      "lateSampleSeconds": 465,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "6ej1VUVNM64",
+      "seconds": 508,
+      "lateSampleSeconds": 458,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "6wVEqyJdrRk",
+      "seconds": 505,
+      "lateSampleSeconds": 455,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "UAnte5-ZUbI",
+      "seconds": 519,
+      "lateSampleSeconds": 468,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "LwRZec2FsdA",
+      "seconds": 520,
+      "lateSampleSeconds": 468,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "PVK_JhL1V-o",
+      "seconds": 522,
+      "lateSampleSeconds": 470,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "RyjxvIo1qAU",
+      "seconds": 517,
+      "lateSampleSeconds": 466,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "Br_5AU8Bu2U",
+      "seconds": 1678,
+      "lateSampleSeconds": 1511,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "I65CYaE96ng",
+      "seconds": 1668,
+      "lateSampleSeconds": 1502,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "pDBWYEiMmXM",
+      "seconds": 1625,
+      "lateSampleSeconds": 1463,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "qapbwPI7Uyc",
+      "seconds": 1676,
+      "lateSampleSeconds": 1509,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "-ghvxAA1Jk0",
+      "seconds": 502,
+      "lateSampleSeconds": 452,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "1HGTkBE9JMg",
+      "seconds": 535,
+      "lateSampleSeconds": 482,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "WnePMpvU4rA",
+      "seconds": 507,
+      "lateSampleSeconds": 456,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "YV7F6vHNzEg",
+      "seconds": 499,
+      "lateSampleSeconds": 451,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "GKQilOTXn_M",
+      "seconds": 493,
+      "lateSampleSeconds": 444,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "pQ04uf1yozE",
+      "seconds": 513,
+      "lateSampleSeconds": 466,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "7xDSNnM48yo",
+      "seconds": 499,
+      "lateSampleSeconds": 451,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "VxaPOfbbRJU",
+      "seconds": 510,
+      "lateSampleSeconds": 463,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "2OEhGMa3W4E",
+      "seconds": 500,
+      "lateSampleSeconds": 452,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "dKpF5JV55vA",
+      "seconds": 515,
+      "lateSampleSeconds": 465,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "Lczr2Yy-muE",
+      "seconds": 497,
+      "lateSampleSeconds": 449,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "veR4VghJ5gM",
+      "seconds": 3916,
+      "lateSampleSeconds": 3530,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English",
+        "English (auto-generated)"
+      ],
+      "autoDubbingNotice": true,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "QXs7HEbuw-w",
+      "seconds": 4482,
+      "lateSampleSeconds": 4039,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": true,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "Y8f3o4CJHAs",
+      "seconds": 4930,
+      "lateSampleSeconds": 4441,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English",
+        "Vietnamese (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "tuXQpkVqXZc",
+      "seconds": 4440,
+      "lateSampleSeconds": 4001,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "7v7ejxKIkKs",
+      "seconds": 4480,
+      "lateSampleSeconds": 4033,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "-unT70gw9z0",
+      "seconds": 5532,
+      "lateSampleSeconds": 4984,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English",
+        "English (auto-generated)"
+      ],
+      "autoDubbingNotice": true,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "Q5ZtO_POyfQ",
+      "seconds": 2870,
+      "lateSampleSeconds": 2585,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "L2QBjKIfJq0",
+      "seconds": 5295,
+      "lateSampleSeconds": 4768,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Traditional)",
+        "English (auto-generated)",
+        "Italian (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": true,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "bB3Hk17VLkM",
+      "seconds": 4606,
+      "lateSampleSeconds": 4147,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "MJi3r-981yY",
+      "seconds": 5113,
+      "lateSampleSeconds": 4605,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "njTUGmVGlx8",
+      "seconds": 5718,
+      "lateSampleSeconds": 5151,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English",
+        "Thai (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "ME_Pj1__Huo",
+      "seconds": 5243,
+      "lateSampleSeconds": 4719,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "NPsHKU_DsCs",
+      "seconds": 5698,
+      "lateSampleSeconds": 5129,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "4F87UXurmOE",
+      "seconds": 5470,
+      "lateSampleSeconds": 4927,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "QFK6gaUewXg",
+      "seconds": 5426,
+      "lateSampleSeconds": 4884,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "Lu3vXLpQu5k",
+      "seconds": 5839,
+      "lateSampleSeconds": 5257,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "310E_4L9YTg",
+      "seconds": 5042,
+      "lateSampleSeconds": 4540,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "XZdGv3EmErk",
+      "seconds": 4651,
+      "lateSampleSeconds": 4188,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "gea7inPdx3g",
+      "seconds": 5255,
+      "lateSampleSeconds": 4731,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "tRDgL72PhXA",
+      "seconds": 5893,
+      "lateSampleSeconds": 5306,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": true,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "E2tkEYb_9AI",
+      "seconds": 5739,
+      "lateSampleSeconds": 5166,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Traditional)",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "Bd1x5bqocbc",
+      "seconds": 4770,
+      "lateSampleSeconds": 4294,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "Z281JqKAGj8",
+      "seconds": 2795,
+      "lateSampleSeconds": 2516,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "s20QYSSbX88",
+      "seconds": 4555,
+      "lateSampleSeconds": 4100,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "5mxKlCiAnUc",
+      "seconds": 1802,
+      "lateSampleSeconds": 1624,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "7ajlqMfVGU4",
+      "seconds": 4297,
+      "lateSampleSeconds": 3868,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "XoSO_DZyF3Y",
+      "seconds": 5840,
+      "lateSampleSeconds": 5259,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "8Ntt3D5jzVM",
+      "seconds": 3008,
+      "lateSampleSeconds": 2709,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "d0BK9w92U4w",
+      "seconds": 4747,
+      "lateSampleSeconds": 4274,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "whQBx3_8h7A",
+      "seconds": 4804,
+      "lateSampleSeconds": 4326,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "_TIXSrqIzc4",
+      "seconds": 4415,
+      "lateSampleSeconds": 3977,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "wFE7nYw2guM",
+      "seconds": 5293,
+      "lateSampleSeconds": 4765,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "gw90wdGl4kc",
+      "seconds": 3294,
+      "lateSampleSeconds": 2967,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "tR80mtJaJRo",
+      "seconds": 1690,
+      "lateSampleSeconds": 1525,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "pcUxlegMqr4",
+      "seconds": 1819,
+      "lateSampleSeconds": 1638,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "3dY7D6aU1DQ",
+      "seconds": 8781,
+      "lateSampleSeconds": 7903,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "s0lqI5R_LKs",
+      "seconds": 4667,
+      "lateSampleSeconds": 4201,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "oN3LU-Ukvrs",
+      "seconds": 4869,
+      "lateSampleSeconds": 4385,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "AvJW0WaWp-A",
+      "seconds": 3463,
+      "lateSampleSeconds": 3118,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "NytXYBO7jx0",
+      "seconds": 3042,
+      "lateSampleSeconds": 2739,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "2ghgyNO-at0",
+      "seconds": 6680,
+      "lateSampleSeconds": 6014,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "qDu2D_VmPxo",
+      "seconds": 3239,
+      "lateSampleSeconds": 2916,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "FecuyXibkDY",
+      "seconds": 3519,
+      "lateSampleSeconds": 3168,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "XaBitGGkMBw",
+      "seconds": 12101,
+      "lateSampleSeconds": 10892,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "JR8XN9Iv3kg",
+      "seconds": 12353,
+      "lateSampleSeconds": 11119,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "9qP7zWzDtuY",
+      "seconds": 3389,
+      "lateSampleSeconds": 3052,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate",
+        "English (auto-generated) >> Chinese (Simplified)"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "McVSR4YT6LA",
+      "seconds": 3898,
+      "lateSampleSeconds": 3510,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": true,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "etIR-vLQRhs",
+      "seconds": 3944,
+      "lateSampleSeconds": 3552,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "OaIqpg8xW2s",
+      "seconds": 3865,
+      "lateSampleSeconds": 3481,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "lgsgr_6vi30",
+      "seconds": 4336,
+      "lateSampleSeconds": 3904,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "uOyZaEV47x8",
+      "seconds": 8409,
+      "lateSampleSeconds": 7570,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "cNJGg_XVfvo",
+      "seconds": 4327,
+      "lateSampleSeconds": 3900,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "5GSeWdjyr1c",
+      "seconds": 879,
+      "lateSampleSeconds": 793,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Arabic",
+        "Bulgarian",
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Japanese",
+        "Portuguese (Brazil)",
+        "Portuguese (Portugal)",
+        "Russian",
+        "Spanish (Latin America)",
+        "Vietnamese",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "vNf0Bty1C7I",
+      "seconds": 3871,
+      "lateSampleSeconds": 3486,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Hindi (auto-generated)",
+        "Auto-translate",
+        "Hindi (auto-generated) >> English"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "USC5MJVZLy8",
+      "seconds": 3340,
+      "lateSampleSeconds": 3006,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Chinese (Simplified)",
+        "Czech",
+        "English",
+        "German",
+        "Indonesian",
+        "Japanese",
+        "Sinhala",
+        "Vietnamese",
+        "English (auto-generated)"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "7qXtE5JwUG0",
+      "seconds": 2099,
+      "lateSampleSeconds": 1890,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "sQyFHdP0AhU",
+      "seconds": 3460,
+      "lateSampleSeconds": 3114,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "Ltfbb_dDBok",
+      "seconds": 3697,
+      "lateSampleSeconds": 3331,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "J-5E956dpAU",
+      "seconds": 2100,
+      "lateSampleSeconds": 1894,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "jt3nNl1IUcE",
+      "seconds": 2197,
+      "lateSampleSeconds": 1981,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "D-mQzlc_Ag0",
+      "seconds": 1837,
+      "lateSampleSeconds": 1657,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "rj5rapBi0uc",
+      "seconds": 3280,
+      "lateSampleSeconds": 2953,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "Ki31kW2rnbA",
+      "seconds": 1575,
+      "lateSampleSeconds": 1422,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "ogIkocFjRPk",
+      "seconds": 1177,
+      "lateSampleSeconds": 1062,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "carvZDaqdEM",
+      "seconds": 2700,
+      "lateSampleSeconds": 2430,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "mRNmET5L2GM",
+      "seconds": 0,
+      "lateSampleSeconds": 0,
+      "readyState": 0,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": true
+    },
+    {
+      "videoId": "WkxSyv5R1sg",
+      "seconds": 3153,
+      "lateSampleSeconds": 2839,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate",
+        "English (auto-generated) >> Chinese (Simplified)"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "6H_2WfGKURg",
+      "seconds": 1475,
+      "lateSampleSeconds": 1329,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "English (auto-generated)",
+        "Auto-translate"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "VZ4xGqOmkZ8",
+      "seconds": 1505,
+      "lateSampleSeconds": 1355,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Japanese (auto-generated)",
+        "Auto-translate",
+        "Japanese (auto-generated) >> English"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "pH2ozq65yHQ",
+      "seconds": 5187,
+      "lateSampleSeconds": 4669,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "pHqfCKtSYrQ",
+      "seconds": 4502,
+      "lateSampleSeconds": 4053,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "Jc95dQi8E6U",
+      "seconds": 6178,
+      "lateSampleSeconds": 5561,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "hUKPkTFTHZk",
+      "seconds": 4437,
+      "lateSampleSeconds": 3995,
+      "readyState": 4,
+      "captionMenu": [
+        "Off",
+        "Hindi (auto-generated)"
+      ],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    },
+    {
+      "videoId": "FVQmzsZ3Zq8",
+      "seconds": 2804,
+      "lateSampleSeconds": 2526,
+      "readyState": 4,
+      "captionMenu": [],
+      "autoDubbingNotice": false,
+      "regionRestricted": false
+    }
+  ],
+  "transcriptReview": {
+    "ids": [
+      "USC5MJVZLy8",
+      "tuXQpkVqXZc",
+      "njTUGmVGlx8",
+      "E2tkEYb_9AI"
+    ],
+    "scope": "Selected Chinese transcript passages and ending passages read. No full copyrighted transcripts are republished. The Hindi automatic transcript for hUKPkTFTHZk was not treated as Chinese evidence."
+  },
+  "additionalVisualChecks": [
+    {
+      "id": "hUKPkTFTHZk",
+      "seconds": 2219,
+      "finding": "Actual playback shows Chinese and English burned-in subtitles; publisher credits translator and proofreader."
+    },
+    {
+      "id": "2ghgyNO-at0",
+      "seconds": 3340,
+      "finding": "Lecture body and Chinese burned-in text visible; late90% includes ceremony/music imagery."
+    }
+  ],
+  "limits": [
+    "Uploaded captions not labeled auto-generated do not prove human authorship or perfect translation.",
+    "No CC does not imply no burned-in subtitles; unconfirmed means not confirmed in this review.",
+    "No claim of100 full-listening reviews or complete original-edition equivalence.",
+    "Availability remains regional and time-dependent."
+  ]
+}
