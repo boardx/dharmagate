@@ -1,5 +1,6 @@
 /** Pure local-history query; no persistent filters, URLs or I/O. Dates use the supplied IANA calendar zone. */
-const enums={period:['all','today','7d','30d'],outcome:['all','completed','ended','interrupted'],duration:['all','short','medium','long'],sound:['all','silent','brown','rain','bell'],sort:['newest','oldest','longest']};
+import {SOUND_IDS} from './sound-catalogue.mjs';
+const enums={period:['all','today','7d','30d'],outcome:['all','completed','ended','interrupted'],duration:['all','short','medium','long'],sound:['all',...SOUND_IDS],sort:['newest','oldest','longest']};
 export function browseHistory(rows,filters={}, {now=Date.now(),timeZone=Intl.DateTimeFormat().resolvedOptions().timeZone}={}){
  if(!Array.isArray(rows)||!filters||typeof filters!=='object'||Array.isArray(filters)||Object.keys(filters).some(k=>!Object.hasOwn(enums,k)&&k!=='page'))throw TypeError('INVALID_HISTORY_FILTER');
  const f={period:'all',outcome:'all',duration:'all',sound:'all',sort:'newest',page:1,...filters};for(const[k,values]of Object.entries(enums))if(!values.includes(f[k]))throw TypeError('INVALID_HISTORY_FILTER');if(!Number.isInteger(f.page)||f.page<1)throw TypeError('INVALID_HISTORY_PAGE');

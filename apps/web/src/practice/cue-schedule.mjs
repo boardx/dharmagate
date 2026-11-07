@@ -1,7 +1,8 @@
+import {CUE_IDS} from './sound-catalogue.mjs';
 /** Pure observation cursor. Call reset for each new session; never schedules audio itself. */
 export function createCueSchedule(){
  let started=false,ended=false,interval=0;
- const kinds=new Set(['silent','soft-bell','deep-bell','wood']);
+ const kinds=new Set(CUE_IDS);
  return {reset(){started=false;ended=false;interval=0},observe(snapshot,{startCue='silent',intervalCue='silent',endCue='silent',audible=true}={}){
   for(const kind of [startCue,intervalCue,endCue])if(!kinds.has(kind))throw new TypeError('INVALID_CUE');
   const events=[],emit=(kind,phase,index)=>{if(audible&&kind!=='silent')events.push({kind,phase,...(index===undefined?{}:{index})})};
