@@ -1,8 +1,8 @@
 /** Explicitly injected, local-only practice data. No account, network, free text or audio behavior. */
-import {SOUND_IDS,CUE_IDS} from './sound-catalogue.mjs';
+import {SOUND_IDS,ACTIVE_SOUND_IDS,CUE_IDS,LEGACY_SOUND_IDS,LEGACY_CUE_IDS} from './sound-catalogue.mjs';
 export const PRACTICE_STORAGE_KEY='dharmagate.practice.v1';
-const VERSION=5,MAX_HISTORY=500,MAX_STORED_CHARACTERS=300000;
-const DEFAULTS={minutes:20,preparationSeconds:10,intervalMinutes:0,theme:'paper',sound:'silent',volume:9,muted:false,bellEnabled:false,startCue:'silent',intervalCue:'silent',endCue:'soft-bell',historyBrowse:{period:'all',outcome:'all',duration:'all',sound:'all',sort:'newest',page:1},sections:{timerSettings:true,progressLegend:false,historyFilters:false,evidence:false,modernThree:false,modernFive:false,cueEvents:false}};
+const VERSION=6,MAX_HISTORY=500,MAX_STORED_CHARACTERS=300000;
+const DEFAULTS={minutes:20,preparationSeconds:10,intervalMinutes:0,theme:'paper',sound:'silent',volume:9,muted:false,bellEnabled:false,startCue:'silent',intervalCue:'silent',endCue:'recorded-bowl-struck',historyBrowse:{period:'all',outcome:'all',duration:'all',sound:'all',sort:'newest',page:1},sections:{timerSettings:true,progressLegend:false,historyFilters:false,evidence:false,modernThree:false,modernFive:false,cueEvents:false}};
 const sessionKeys=['id','startedAt','endedAt','plannedSeconds','elapsedSeconds','outcome','practiceId','sound'];
 const activeKeys=['id','startedAt','plannedSeconds','elapsedSeconds','preparationSeconds','intervalMinutes','practiceId','sound','state','updatedAt','cuePlan','legacyCuePlan','preparationRemainingMs','legacyPreparation'];
 const clone=value=>structuredClone(value);
@@ -15,26 +15,29 @@ const identifier=value=>typeof value==='string'&&/^[A-Za-z0-9_-]{1,100}$/.test(v
 const seconds=value=>integer(value,0,10800);
 const practice=value=>['open-listening','quiet-sitting'].includes(value);
 const legacySounds=['silent','brown','rain','bell'];
-const sound=(value,version=VERSION)=>(version>=5?SOUND_IDS:legacySounds).includes(value);
+const sound=(value,version=VERSION)=>(version>=6?SOUND_IDS:version===5?LEGACY_SOUND_IDS:legacySounds).includes(value);
+const selectedSound=(value,version=VERSION)=>version>=6?ACTIVE_SOUND_IDS.includes(value):sound(value,version);
+const retireAudio=p=>({...p,sound:'silent',bellEnabled:false,startCue:'silent',intervalCue:'silent',endCue:'silent'});
+const retiredAudioWarning='旧版本的合成声音已停用；历史记录保留。当前声音与三个提示已改为无声，请重新选择真实录音；未自动改写原数据。';
 const legacyCues=['silent','soft-bell','deep-bell','wood'];
-const cue=(value,version=VERSION)=>(version>=5?CUE_IDS:legacyCues).includes(value);
+const cue=(value,version=VERSION)=>(version>=6?CUE_IDS:version===5?LEGACY_CUE_IDS:legacyCues).includes(value);
 function preferences(value,partial=false,version=VERSION){
  const allowed=Object.keys(DEFAULTS).filter(k=>!(version<4&&['historyBrowse','sections'].includes(k))&&!(version===1&&['startCue','intervalCue','endCue'].includes(k)));
  if(!keys(value,allowed,partial?[]:allowed))fail('INVALID_PREFERENCES');
- const validators={minutes:v=>integer(v,1,180),preparationSeconds:v=>[0,10,30].includes(v),intervalMinutes:v=>integer(v,0,180),theme:v=>['paper','white','night'].includes(v),sound:v=>version===1?['brown','rain','bell'].includes(v):sound(v,version),volume:v=>integer(v,0,100),muted:v=>typeof v==='boolean',bellEnabled:v=>typeof v==='boolean',startCue:v=>cue(v,version),intervalCue:v=>cue(v,version),endCue:v=>cue(v,version),historyBrowse:v=>keys(v,['period','outcome','duration','sound','sort','page'])&&['all','today','7d','30d'].includes(v.period)&&['all','completed','ended','interrupted'].includes(v.outcome)&&['all','short','medium','long'].includes(v.duration)&&(v.sound==='all'||sound(v.sound,version))&&['newest','oldest','longest'].includes(v.sort)&&integer(v.page,1,25),sections:v=>keys(v,Object.keys(DEFAULTS.sections))&&Object.values(v).every(x=>typeof x==='boolean')};
+ const validators={minutes:v=>integer(v,1,180),preparationSeconds:v=>[0,10,30].includes(v),intervalMinutes:v=>integer(v,0,180),theme:v=>['paper','white','night'].includes(v),sound:v=>version===1?['brown','rain','bell'].includes(v):selectedSound(v,version),volume:v=>integer(v,0,100),muted:v=>typeof v==='boolean',bellEnabled:v=>typeof v==='boolean',startCue:v=>cue(v,version),intervalCue:v=>cue(v,version),endCue:v=>cue(v,version),historyBrowse:v=>keys(v,['period','outcome','duration','sound','sort','page'])&&['all','today','7d','30d'].includes(v.period)&&['all','completed','ended','interrupted'].includes(v.outcome)&&['all','short','medium','long'].includes(v.duration)&&(v.sound==='all'||sound(v.sound,version))&&['newest','oldest','longest'].includes(v.sort)&&integer(v.page,1,25),sections:v=>keys(v,Object.keys(DEFAULTS.sections))&&Object.values(v).every(x=>typeof x==='boolean')};
  for(const key of Object.keys(value))if(!validators[key](value[key]))fail('INVALID_PREFERENCES');
  return clone(value);
 }
 function session(value,version=VERSION){
- if(![1,2,3,4,5].includes(version))fail('INVALID_VERSION');
+ if(![1,2,3,4,5,6].includes(version))fail('INVALID_VERSION');
  if(!keys(value,sessionKeys)||!identifier(value.id)||!timestamp(value.startedAt)||!timestamp(value.endedAt)||value.endedAt<value.startedAt||!integer(value.plannedSeconds,1,10800)||!seconds(value.elapsedSeconds)||value.elapsedSeconds>value.plannedSeconds||(value.outcome==='completed'&&value.elapsedSeconds!==value.plannedSeconds)||!['completed','ended','interrupted'].includes(value.outcome)||!practice(value.practiceId)||!sound(value.sound,version))fail('INVALID_SESSION');
  return clone(value);
 }
 function active(value,legacy=false,version=VERSION){
- if(![1,2,3,4,5].includes(version))fail('INVALID_VERSION');
+ if(![1,2,3,4,5,6].includes(version))fail('INVALID_VERSION');
  if(value===null)return null;
  if(legacy&&object(value)){if(!Object.hasOwn(value,'cuePlan')&&!Object.hasOwn(value,'legacyCuePlan'))value={...value,cuePlan:{startCue:'silent',intervalCue:'silent',endCue:'silent'},legacyCuePlan:true};if(!Object.hasOwn(value,'preparationRemainingMs')&&!Object.hasOwn(value,'legacyPreparation'))value={...value,preparationRemainingMs:0,legacyPreparation:true}}
- if(!keys(value,activeKeys,activeKeys.filter(k=>!['legacyCuePlan','legacyPreparation'].includes(k)))||!keys(value.cuePlan,['startCue','intervalCue','endCue'])||!Object.values(value.cuePlan).every(v=>cue(v,version))||(Object.hasOwn(value,'legacyCuePlan')&&typeof value.legacyCuePlan!=='boolean')||(value.legacyCuePlan===true&&Object.values(value.cuePlan).some(v=>v!=='silent'))||!integer(value.preparationRemainingMs,0,value.preparationSeconds*1000)||(value.preparationRemainingMs>0&&value.elapsedSeconds!==0)||(Object.hasOwn(value,'legacyPreparation')&&typeof value.legacyPreparation!=='boolean')||(value.legacyPreparation===true&&value.preparationRemainingMs!==0)||!identifier(value.id)||!timestamp(value.startedAt)||!timestamp(value.updatedAt)||value.updatedAt<value.startedAt||!integer(value.plannedSeconds,60,10800)||value.plannedSeconds%60!==0||!seconds(value.elapsedSeconds)||value.elapsedSeconds>=value.plannedSeconds||![0,10,30].includes(value.preparationSeconds)||!integer(value.intervalMinutes,0,180)||!practice(value.practiceId)||!sound(value.sound,version)||!['running','paused'].includes(value.state))fail('INVALID_ACTIVE_SESSION');
+ if(!keys(value,activeKeys,activeKeys.filter(k=>!['legacyCuePlan','legacyPreparation'].includes(k)))||!keys(value.cuePlan,['startCue','intervalCue','endCue'])||!Object.values(value.cuePlan).every(v=>cue(v,version))||(Object.hasOwn(value,'legacyCuePlan')&&typeof value.legacyCuePlan!=='boolean')||(value.legacyCuePlan===true&&Object.values(value.cuePlan).some(v=>v!=='silent'))||!integer(value.preparationRemainingMs,0,value.preparationSeconds*1000)||(value.preparationRemainingMs>0&&value.elapsedSeconds!==0)||(Object.hasOwn(value,'legacyPreparation')&&typeof value.legacyPreparation!=='boolean')||(value.legacyPreparation===true&&value.preparationRemainingMs!==0)||!identifier(value.id)||!timestamp(value.startedAt)||!timestamp(value.updatedAt)||value.updatedAt<value.startedAt||!integer(value.plannedSeconds,60,10800)||value.plannedSeconds%60!==0||!seconds(value.elapsedSeconds)||value.elapsedSeconds>=value.plannedSeconds||![0,10,30].includes(value.preparationSeconds)||!integer(value.intervalMinutes,0,180)||!practice(value.practiceId)||!selectedSound(value.sound,version)||!['running','paused'].includes(value.state))fail('INVALID_ACTIVE_SESSION');
  return clone(value);
 }
 function normalizeHistory(rows,version=VERSION){
@@ -58,13 +61,12 @@ export function createPracticeStore({storage,now=Date.now}={}){
    try{
     if(typeof raw!=='string'||raw.length>MAX_STORED_CHARACTERS)fail('INVALID_STORED_DATA');
     const parsed=JSON.parse(raw),allowed=['version','preferences','history','remember','recordHistory','activeSession','truncated'];
-    if(!keys(parsed,allowed,['version','history','remember','recordHistory','truncated'])||![1,2,3,4,VERSION].includes(parsed.version)||typeof parsed.remember!=='boolean'||typeof parsed.recordHistory!=='boolean'||typeof parsed.truncated!=='boolean')fail('INVALID_STORED_DATA');
+    if(!keys(parsed,allowed,['version','history','remember','recordHistory','truncated'])||![1,2,3,4,5,VERSION].includes(parsed.version)||typeof parsed.remember!=='boolean'||typeof parsed.recordHistory!=='boolean'||typeof parsed.truncated!=='boolean')fail('INVALID_STORED_DATA');
     if(parsed.remember&&!Object.hasOwn(parsed,'preferences'))fail('INVALID_STORED_DATA');if(parsed.recordHistory&&!Object.hasOwn(parsed,'activeSession'))fail('INVALID_STORED_DATA');
-    let prefs=Object.hasOwn(parsed,'preferences')?preferences(parsed.preferences,false,parsed.version):clone(DEFAULTS),records=normalizeHistory(parsed.history,parsed.version),checkpoint=Object.hasOwn(parsed,'activeSession')?active(parsed.activeSession,parsed.version<3,parsed.version):null;
-    if(parsed.version===1&&Object.hasOwn(parsed,'preferences'))prefs={...prefs,startCue:'silent',intervalCue:prefs.bellEnabled?'soft-bell':'silent',endCue:prefs.bellEnabled?'soft-bell':'silent'};
-    if(parsed.version<4)prefs={...prefs,historyBrowse:clone(DEFAULTS.historyBrowse),sections:clone(DEFAULTS.sections)};
-    data={preferences:parsed.remember?prefs:clone(DEFAULTS),history:records.history,remember:parsed.remember,recordHistory:parsed.recordHistory,activeSession:parsed.recordHistory?checkpoint:null,truncated:parsed.truncated||records.truncated};
-    if(!parsed.recordHistory&&checkpoint)warning='历史记录已关闭；已忽略旧活动进度，尚未自动改写本机数据。';else if(records.duplicates)warning='本机历史中重复的记录ID已去重，尚未自动改写原数据。';
+    let prefs=Object.hasOwn(parsed,'preferences')?migratePracticePreferences(parsed.preferences,parsed.version):clone(DEFAULTS),records=normalizeHistory(parsed.history,parsed.version),checkpoint=Object.hasOwn(parsed,'activeSession')?active(parsed.activeSession,parsed.version<3,parsed.version):null;
+    if(parsed.version<6){prefs=retireAudio(prefs);if(checkpoint)checkpoint={...checkpoint,sound:'silent',cuePlan:{startCue:'silent',intervalCue:'silent',endCue:'silent'},legacyCuePlan:true}}
+    data={preferences:parsed.remember?prefs:retireAudio(clone(DEFAULTS)),history:records.history,remember:parsed.remember,recordHistory:parsed.recordHistory,activeSession:parsed.recordHistory?checkpoint:null,truncated:parsed.truncated||records.truncated};
+    const notices=[];if(parsed.version<6)notices.push(retiredAudioWarning);if(!parsed.recordHistory&&checkpoint)notices.push('历史记录已关闭；已忽略旧活动进度，尚未自动改写本机数据。');else if(records.duplicates)notices.push('本机历史中重复的记录ID已去重，尚未自动改写原数据。');warning=notices.length?notices.join(' '):null;
    }catch{protectedData=true;protectedRaw=typeof raw==='string'?raw:null;available=false;warning='本机数据无法安全读取（格式损坏、版本不支持或字段无效）；原数据已受保护。普通操作仅留在内存，请先本地备份再明确重置。'}
   }
  }
@@ -130,8 +132,8 @@ export function createPracticeStore({storage,now=Date.now}={}){
 // Shared strict validators for local backup parsing; no second permissive schema.
 export const validatePracticeSession=session;
 export const validatePracticeActive=active;
-export function validatePracticePreferences(value,{version=VERSION}={}){if(![1,2,3,4,5].includes(version))fail('INVALID_VERSION');return preferences(value,false,version)}
-export function migratePracticePreferences(value,version){let p=validatePracticePreferences(value,{version});if(version===1)p={...p,startCue:'silent',intervalCue:p.bellEnabled?'soft-bell':'silent',endCue:p.bellEnabled?'soft-bell':'silent'};return {...clone(DEFAULTS),...p}}
+export function validatePracticePreferences(value,{version=VERSION}={}){if(![1,2,3,4,5,6].includes(version))fail('INVALID_VERSION');return preferences(value,false,version)}
+export function migratePracticePreferences(value,version){const p={...clone(DEFAULTS),...validatePracticePreferences(value,{version})};return version<6?retireAudio(p):p}
 export function defaultPracticePreferences(){return clone(DEFAULTS)}
 
 export function practiceSessionKey(value){const r=session(value);return JSON.stringify(sessionKeys.map(k=>r[k]))}

@@ -13,5 +13,5 @@ for(const [name,file] of Object.entries(files)){
 const research=JSON.parse(await readFile(new URL('../../apps/web/data/practice-research.json',import.meta.url),'utf8'));
 assert.equal(typeof research.summary,'string');assert.ok(Array.isArray(research.items));
 const app=createPracticeApplication({research}),response=await app.fetch(new Request('https://portable.invalid/practice/timer'));
-assert.equal(response.status,200);assert.match(response.headers.get('content-security-policy'),/connect-src 'none'/);
+assert.equal(response.status,200);assert.match(response.headers.get('content-security-policy'),/connect-src 'self'/);
 console.log(JSON.stringify({check:'portable-practice-build',passed:true,node:process.version,generatedAssetsMatch:true,researchItems:research.items.length,sourceHashes:hashes,wroteSource:false}));

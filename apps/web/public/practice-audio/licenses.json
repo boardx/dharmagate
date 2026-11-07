@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "recordings": [
+    {
+      "id": "recorded-bowl-struck",
+      "file": "55f8b4c1884a-bowl-struck.mp3",
+      "mediaUrl": "/practice/audio/55f8b4c1884a-bowl-struck.mp3",
+      "source": "https://commons.wikimedia.org/wiki/File:SingingBowl1.ogg",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/25/SingingBowl1.ogg/SingingBowl1.ogg.mp3",
+      "author": "BambooBeast",
+      "license": "PD-self",
+      "licenseURL": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "licenseVerified": true,
+      "sourceDeclaration": "own work, struck",
+      "bytes": 212690,
+      "sha256": "55f8b4c1884a740b6db2c536d85b2e7ced87701d5b3797be41483181abf9d875",
+      "mime": "audio/mpeg",
+      "changes": "Commons official MP3 transcode; no local edit",
+      "auditionVerified": false
+    },
+    {
+      "id": "recorded-bowl-rubbed",
+      "file": "3447f2a1ef8a-bowl-rubbed.mp3",
+      "mediaUrl": "/practice/audio/3447f2a1ef8a-bowl-rubbed.mp3",
+      "source": "https://commons.wikimedia.org/wiki/File:SingingBowl2.ogg",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/64/SingingBowl2.ogg/SingingBowl2.ogg.mp3",
+      "author": "BambooBeast",
+      "license": "PD-self",
+      "licenseURL": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "licenseVerified": true,
+      "sourceDeclaration": "own work, rubbed",
+      "bytes": 153349,
+      "sha256": "3447f2a1ef8acc29aef602598d60abfcc71d81308914af6f102fcee4281ed22b",
+      "mime": "audio/mpeg",
+      "changes": "Commons official MP3 transcode; no local edit",
+      "auditionVerified": false
+    },
+    {
+      "id": "recorded-mokugyo",
+      "file": "1d9ff7584363-mokugyo.mp3",
+      "mediaUrl": "/practice/audio/1d9ff7584363-mokugyo.mp3",
+      "source": "https://freesound.org/people/jonopodmore/sounds/607215/",
+      "downloadURL": "https://cdn.freesound.org/previews/607/607215_541139-hq.mp3",
+      "author": "jonopodmore",
+      "license": "CC0-1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseVerified": true,
+      "sourceDeclaration": "Real wooden fish; original mallet; AKG414/Fredenstein/RME recording; public HQ preview from author page",
+      "bytes": 35798,
+      "sha256": "1d9ff75843635b1d5cc1b3e446e6e350eaa65faa33a2423dbd42bd5e75124cc9",
+      "mime": "audio/mpeg",
+      "changes": "Public MP3 preview, not original WAV; no local edit",
+      "auditionVerified": false
+    }
+  ],
+  "notice": "These are real source recordings with the listed public-domain/CC0 declarations; metadata and byte checks do not replace human audition. No affiliation with Insight Timer or reproduction of its proprietary recordings."
+}

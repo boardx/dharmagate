@@ -21,3 +21,5 @@ test('R8 CSS reflow and accessibility safeguards are present',()=>{
  assert.match(css,/\.focus-tools button,\.focus-tools a\{min-height:44px\}/);
  assert.match(css,/\.timer-panel>\*\{flex-shrink:0\}/);
 });
+
+test('real recording choices expose names authors licences and clickable provenance without retired live controls',async()=>{const{practicePage}=await import('../src/practice/page.mjs'),{SOUNDS,LEGACY_SOUND_IDS}=await import('../src/practice/sound-catalogue.mjs'),html=practicePage({nonce:'x',css:'',evidence:''});for(const sound of SOUNDS){assert.match(html,new RegExp('data-sound-choice="'+sound.id+'"'));if(sound.recording){assert.ok(html.includes(sound.name));assert.ok(html.includes(sound.recording.author));assert.ok(html.includes(sound.recording.license));assert.ok(html.includes('href="'+sound.recording.source+'" target="_blank" rel="noopener noreferrer"'))}}for(const id of LEGACY_SOUND_IDS.filter(id=>id!=='silent'))assert.ok(!html.includes('data-sound-choice="'+id+'"'));assert.match(html,/录音来源与授权/)});
