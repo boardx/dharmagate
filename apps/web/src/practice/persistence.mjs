@@ -1,10 +1,12 @@
 /** Explicitly injected, local-only practice data. No account, network, free text or audio behavior. */
 import {SOUND_IDS,ACTIVE_SOUND_IDS,CUE_IDS,LEGACY_SOUND_IDS,LEGACY_CUE_IDS} from './sound-catalogue.mjs';
 export const PRACTICE_STORAGE_KEY='dharmagate.practice.v1';
-const VERSION=6,MAX_HISTORY=500,MAX_STORED_CHARACTERS=300000;
-const DEFAULTS={minutes:20,preparationSeconds:10,intervalMinutes:0,theme:'paper',sound:'silent',volume:9,muted:false,bellEnabled:false,startCue:'silent',intervalCue:'silent',endCue:'recorded-bowl-struck',historyBrowse:{period:'all',outcome:'all',duration:'all',sound:'all',sort:'newest',page:1},sections:{timerSettings:true,progressLegend:false,historyFilters:false,evidence:false,modernThree:false,modernFive:false,cueEvents:false}};
-const sessionKeys=['id','startedAt','endedAt','plannedSeconds','elapsedSeconds','outcome','practiceId','sound'];
-const activeKeys=['id','startedAt','plannedSeconds','elapsedSeconds','preparationSeconds','intervalMinutes','practiceId','sound','state','updatedAt','cuePlan','legacyCuePlan','preparationRemainingMs','legacyPreparation'];
+import {BACKGROUND_IDS} from './background-catalogue.mjs';
+const background=v=>v==='none'||BACKGROUND_IDS.includes(v);
+const VERSION=7,MAX_HISTORY=500,MAX_STORED_CHARACTERS=300000;
+const DEFAULTS={backgroundId:'none',backgroundVolume:9,backgroundLoop:false,minutes:20,preparationSeconds:10,intervalMinutes:0,theme:'paper',sound:'silent',volume:9,muted:false,bellEnabled:false,startCue:'silent',intervalCue:'silent',endCue:'recorded-bowl-struck',historyBrowse:{period:'all',outcome:'all',duration:'all',sound:'all',sort:'newest',page:1},sections:{timerSettings:true,progressLegend:false,historyFilters:false,evidence:false,modernThree:false,modernFive:false,cueEvents:false}};
+const sessionKeys=['id','startedAt','endedAt','plannedSeconds','elapsedSeconds','outcome','practiceId','sound','backgroundId'];
+const activeKeys=['id','startedAt','plannedSeconds','elapsedSeconds','preparationSeconds','intervalMinutes','practiceId','sound','state','updatedAt','cuePlan','legacyCuePlan','preparationRemainingMs','legacyPreparation','backgroundId'];
 const clone=value=>structuredClone(value);
 const fail=code=>{throw new TypeError(code)};
 const object=value=>value!==null&&typeof value==='object'&&!Array.isArray(value)&&[Object.prototype,null].includes(Object.getPrototypeOf(value));
@@ -22,22 +24,22 @@ const retiredAudioWarning='旧版本的合成声音已停用；历史记录保�
 const legacyCues=['silent','soft-bell','deep-bell','wood'];
 const cue=(value,version=VERSION)=>(version>=6?CUE_IDS:version===5?LEGACY_CUE_IDS:legacyCues).includes(value);
 function preferences(value,partial=false,version=VERSION){
- const allowed=Object.keys(DEFAULTS).filter(k=>!(version<4&&['historyBrowse','sections'].includes(k))&&!(version===1&&['startCue','intervalCue','endCue'].includes(k)));
+ const allowed=Object.keys(DEFAULTS).filter(k=>!(version<7&&['backgroundId','backgroundVolume','backgroundLoop'].includes(k))&&!(version<4&&['historyBrowse','sections'].includes(k))&&!(version===1&&['startCue','intervalCue','endCue'].includes(k)));
  if(!keys(value,allowed,partial?[]:allowed))fail('INVALID_PREFERENCES');
- const validators={minutes:v=>integer(v,1,180),preparationSeconds:v=>[0,10,30].includes(v),intervalMinutes:v=>integer(v,0,180),theme:v=>['paper','white','night'].includes(v),sound:v=>version===1?['brown','rain','bell'].includes(v):selectedSound(v,version),volume:v=>integer(v,0,100),muted:v=>typeof v==='boolean',bellEnabled:v=>typeof v==='boolean',startCue:v=>cue(v,version),intervalCue:v=>cue(v,version),endCue:v=>cue(v,version),historyBrowse:v=>keys(v,['period','outcome','duration','sound','sort','page'])&&['all','today','7d','30d'].includes(v.period)&&['all','completed','ended','interrupted'].includes(v.outcome)&&['all','short','medium','long'].includes(v.duration)&&(v.sound==='all'||sound(v.sound,version))&&['newest','oldest','longest'].includes(v.sort)&&integer(v.page,1,25),sections:v=>keys(v,Object.keys(DEFAULTS.sections))&&Object.values(v).every(x=>typeof x==='boolean')};
+ const validators={backgroundId:background,backgroundVolume:v=>integer(v,0,100),backgroundLoop:v=>typeof v==='boolean',minutes:v=>integer(v,1,180),preparationSeconds:v=>[0,10,30].includes(v),intervalMinutes:v=>integer(v,0,180),theme:v=>['paper','white','night'].includes(v),sound:v=>version===1?['brown','rain','bell'].includes(v):selectedSound(v,version),volume:v=>integer(v,0,100),muted:v=>typeof v==='boolean',bellEnabled:v=>typeof v==='boolean',startCue:v=>cue(v,version),intervalCue:v=>cue(v,version),endCue:v=>cue(v,version),historyBrowse:v=>keys(v,['period','outcome','duration','sound','sort','page'])&&['all','today','7d','30d'].includes(v.period)&&['all','completed','ended','interrupted'].includes(v.outcome)&&['all','short','medium','long'].includes(v.duration)&&(v.sound==='all'||sound(v.sound,version))&&['newest','oldest','longest'].includes(v.sort)&&integer(v.page,1,25),sections:v=>keys(v,Object.keys(DEFAULTS.sections))&&Object.values(v).every(x=>typeof x==='boolean')};
  for(const key of Object.keys(value))if(!validators[key](value[key]))fail('INVALID_PREFERENCES');
  return clone(value);
 }
 function session(value,version=VERSION){
- if(![1,2,3,4,5,6].includes(version))fail('INVALID_VERSION');
- if(!keys(value,sessionKeys)||!identifier(value.id)||!timestamp(value.startedAt)||!timestamp(value.endedAt)||value.endedAt<value.startedAt||!integer(value.plannedSeconds,1,10800)||!seconds(value.elapsedSeconds)||value.elapsedSeconds>value.plannedSeconds||(value.outcome==='completed'&&value.elapsedSeconds!==value.plannedSeconds)||!['completed','ended','interrupted'].includes(value.outcome)||!practice(value.practiceId)||!sound(value.sound,version))fail('INVALID_SESSION');
+ if(![1,2,3,4,5,6,7].includes(version))fail('INVALID_VERSION');
+ if(!keys(value,version<7?sessionKeys.filter(k=>k!=='backgroundId'):sessionKeys,sessionKeys.filter(k=>k!=='backgroundId'))||(Object.hasOwn(value,'backgroundId')&&!background(value.backgroundId))||!identifier(value.id)||!timestamp(value.startedAt)||!timestamp(value.endedAt)||value.endedAt<value.startedAt||!integer(value.plannedSeconds,1,10800)||!seconds(value.elapsedSeconds)||value.elapsedSeconds>value.plannedSeconds||(value.outcome==='completed'&&value.elapsedSeconds!==value.plannedSeconds)||!['completed','ended','interrupted'].includes(value.outcome)||!practice(value.practiceId)||!sound(value.sound,version))fail('INVALID_SESSION');
  return clone(value);
 }
 function active(value,legacy=false,version=VERSION){
- if(![1,2,3,4,5,6].includes(version))fail('INVALID_VERSION');
+ if(![1,2,3,4,5,6,7].includes(version))fail('INVALID_VERSION');
  if(value===null)return null;
  if(legacy&&object(value)){if(!Object.hasOwn(value,'cuePlan')&&!Object.hasOwn(value,'legacyCuePlan'))value={...value,cuePlan:{startCue:'silent',intervalCue:'silent',endCue:'silent'},legacyCuePlan:true};if(!Object.hasOwn(value,'preparationRemainingMs')&&!Object.hasOwn(value,'legacyPreparation'))value={...value,preparationRemainingMs:0,legacyPreparation:true}}
- if(!keys(value,activeKeys,activeKeys.filter(k=>!['legacyCuePlan','legacyPreparation'].includes(k)))||!keys(value.cuePlan,['startCue','intervalCue','endCue'])||!Object.values(value.cuePlan).every(v=>cue(v,version))||(Object.hasOwn(value,'legacyCuePlan')&&typeof value.legacyCuePlan!=='boolean')||(value.legacyCuePlan===true&&Object.values(value.cuePlan).some(v=>v!=='silent'))||!integer(value.preparationRemainingMs,0,value.preparationSeconds*1000)||(value.preparationRemainingMs>0&&value.elapsedSeconds!==0)||(Object.hasOwn(value,'legacyPreparation')&&typeof value.legacyPreparation!=='boolean')||(value.legacyPreparation===true&&value.preparationRemainingMs!==0)||!identifier(value.id)||!timestamp(value.startedAt)||!timestamp(value.updatedAt)||value.updatedAt<value.startedAt||!integer(value.plannedSeconds,60,10800)||value.plannedSeconds%60!==0||!seconds(value.elapsedSeconds)||value.elapsedSeconds>=value.plannedSeconds||![0,10,30].includes(value.preparationSeconds)||!integer(value.intervalMinutes,0,180)||!practice(value.practiceId)||!selectedSound(value.sound,version)||!['running','paused'].includes(value.state))fail('INVALID_ACTIVE_SESSION');
+ if(!keys(value,version<7?activeKeys.filter(k=>k!=='backgroundId'):activeKeys,activeKeys.filter(k=>!['legacyCuePlan','legacyPreparation','backgroundId'].includes(k)))||(Object.hasOwn(value,'backgroundId')&&!background(value.backgroundId))||!keys(value.cuePlan,['startCue','intervalCue','endCue'])||!Object.values(value.cuePlan).every(v=>cue(v,version))||(Object.hasOwn(value,'legacyCuePlan')&&typeof value.legacyCuePlan!=='boolean')||(value.legacyCuePlan===true&&Object.values(value.cuePlan).some(v=>v!=='silent'))||!integer(value.preparationRemainingMs,0,value.preparationSeconds*1000)||(value.preparationRemainingMs>0&&value.elapsedSeconds!==0)||(Object.hasOwn(value,'legacyPreparation')&&typeof value.legacyPreparation!=='boolean')||(value.legacyPreparation===true&&value.preparationRemainingMs!==0)||!identifier(value.id)||!timestamp(value.startedAt)||!timestamp(value.updatedAt)||value.updatedAt<value.startedAt||!integer(value.plannedSeconds,60,10800)||value.plannedSeconds%60!==0||!seconds(value.elapsedSeconds)||value.elapsedSeconds>=value.plannedSeconds||![0,10,30].includes(value.preparationSeconds)||!integer(value.intervalMinutes,0,180)||!practice(value.practiceId)||!selectedSound(value.sound,version)||!['running','paused'].includes(value.state))fail('INVALID_ACTIVE_SESSION');
  return clone(value);
 }
 function normalizeHistory(rows,version=VERSION){
@@ -61,7 +63,7 @@ export function createPracticeStore({storage,now=Date.now}={}){
    try{
     if(typeof raw!=='string'||raw.length>MAX_STORED_CHARACTERS)fail('INVALID_STORED_DATA');
     const parsed=JSON.parse(raw),allowed=['version','preferences','history','remember','recordHistory','activeSession','truncated'];
-    if(!keys(parsed,allowed,['version','history','remember','recordHistory','truncated'])||![1,2,3,4,5,VERSION].includes(parsed.version)||typeof parsed.remember!=='boolean'||typeof parsed.recordHistory!=='boolean'||typeof parsed.truncated!=='boolean')fail('INVALID_STORED_DATA');
+    if(!keys(parsed,allowed,['version','history','remember','recordHistory','truncated'])||![1,2,3,4,5,6,VERSION].includes(parsed.version)||typeof parsed.remember!=='boolean'||typeof parsed.recordHistory!=='boolean'||typeof parsed.truncated!=='boolean')fail('INVALID_STORED_DATA');
     if(parsed.remember&&!Object.hasOwn(parsed,'preferences'))fail('INVALID_STORED_DATA');if(parsed.recordHistory&&!Object.hasOwn(parsed,'activeSession'))fail('INVALID_STORED_DATA');
     let prefs=Object.hasOwn(parsed,'preferences')?migratePracticePreferences(parsed.preferences,parsed.version):clone(DEFAULTS),records=normalizeHistory(parsed.history,parsed.version),checkpoint=Object.hasOwn(parsed,'activeSession')?active(parsed.activeSession,parsed.version<3,parsed.version):null;
     if(parsed.version<6){prefs=retireAudio(prefs);if(checkpoint)checkpoint={...checkpoint,sound:'silent',cuePlan:{startCue:'silent',intervalCue:'silent',endCue:'silent'},legacyCuePlan:true}}
@@ -132,7 +134,7 @@ export function createPracticeStore({storage,now=Date.now}={}){
 // Shared strict validators for local backup parsing; no second permissive schema.
 export const validatePracticeSession=session;
 export const validatePracticeActive=active;
-export function validatePracticePreferences(value,{version=VERSION}={}){if(![1,2,3,4,5,6].includes(version))fail('INVALID_VERSION');return preferences(value,false,version)}
+export function validatePracticePreferences(value,{version=VERSION}={}){if(![1,2,3,4,5,6,7].includes(version))fail('INVALID_VERSION');return preferences(value,false,version)}
 export function migratePracticePreferences(value,version){const p={...clone(DEFAULTS),...validatePracticePreferences(value,{version})};return version<6?retireAudio(p):p}
 export function defaultPracticePreferences(){return clone(DEFAULTS)}
 
