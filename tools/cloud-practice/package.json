@@ -1,0 +1,13 @@
+{
+  "name": "dharmagate-practice-portable",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node test.mjs",
+    "build": "node build.mjs",
+    "verify": "node verify.mjs",
+    "preview": "node preview.mjs"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "summary": "将佛教仪轨、个人感受与科学证据分开看待。钟磬可作时间、节奏与共修提示；部分声音研究观察到短时放松或注意变化，但不能据此证明某个频率有固定疗效，也不能把现场颂钵的研究结果直接套用到网页合成声音。先降低设备音量，以舒适为准；出现耳鸣、头痛或其他不适时停止。音量滑杆不能表示耳内实际分贝。",
+  "reviewedOn": "2026-11-07",
+  "items": [
+    {
+      "title": "传统用途｜曹洞宗官方：寺院乐器",
+      "url": "https://www.sotozen.com/eng/practice/service/narashimono/index.html",
+      "note": "钟、磬、木鱼用于集合、仪式进程、时间提示与诵经节奏。这是日本曹洞宗的传统说明，不代表全部佛教，也不是医学疗效证据。",
+      "kind": "宗派机构传统说明",
+      "participants": "不适用：非参与者研究",
+      "observation": "钟、磬、木鱼用于集合、仪式进程、时间提示与诵经节奏。",
+      "limitation": "仅说明日本曹洞宗传统，不代表全部佛教，也不是医学疗效证据。"
+    },
+    {
+      "title": "节奏与呼吸｜Bernardi等，BMJ，2001",
+      "url": "https://www.bmj.com/content/323/7327/1446",
+      "note": "23名健康成人的即时实验比较念祷文、瑜伽咒语与呼吸条件，观察呼吸节律及心血管指标。样本小，且不是佛教念诵研究；发声、呼吸与语义不可简化成某个频率的作用。",
+      "kind": "即时比较实验",
+      "participants": "23名健康成人",
+      "observation": "比较念祷文、瑜伽咒语与呼吸条件，观察呼吸节律及心血管指标。",
+      "limitation": "样本小，非佛教念诵研究；不能将发声、呼吸与语义简化为某个频率的作用。"
+    },
+    {
+      "title": "念佛与注意情境｜Gao等，2020",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7732428/",
+      "note": "21名有至少一年念诵经验者参与恐惧图片任务，比较佛号、非宗教词语与不念诵条件。观察脑活动不等于改善疾病，不能外推为长期治疗试验。",
+      "kind": "念诵条件比较实验",
+      "participants": "21名有至少一年念诵经验者",
+      "observation": "恐惧图片任务中比较佛号、非宗教词语与不念诵条件，观察脑活动。",
+      "limitation": "脑活动不等于改善疾病，不能外推为长期治疗试验。"
+    },
+    {
+      "title": "现场颂钵短时试验｜Rio-Alamos等，2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36826208/",
+      "note": "50名非临床高状态焦虑成人，单次颂钵、渐进肌肉放松、等待组三组比较，涉及主观焦虑、EEG和HRV。短时信号不能证明长期效果或网页合成音的同等作用；本次设计核对依据摘要与系统综述。",
+      "kind": "单次三组比较试验",
+      "participants": "50名非临床高状态焦虑成人",
+      "observation": "比较颂钵、渐进肌肉放松与等待组，涉及主观焦虑、EEG和HRV。",
+      "limitation": "不能证明长期效果或网页合成音的同等作用；设计核对依据摘要与系统综述。"
+    },
+    {
+      "title": "颂钵系统综述｜Cai等，2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12063014/",
+      "note": "纳入19项临床研究，其中9项RCT；人群、干预与结局差异较大，部分比较没有显著优势。存在初步研究，尚不足以把网站称作已经证实的声疗。",
+      "kind": "系统综述",
+      "participants": "19项临床研究，其中9项RCT；非新增独立参与者样本",
+      "observation": "部分比较没有显著优势，人群、干预与结局差异较大。",
+      "limitation": "初步研究不足以把网站称作已经证实的声疗；研究项数不是参与者人数。"
+    },
+    {
+      "title": "成人颂钵系统综述｜2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12385955/",
+      "note": "纳入14项定量研究，因异质性未作荟萃分析；小样本、混合干预与随访不足限制结论。与另一综述有研究重叠，不能把样本简单相加。",
+      "kind": "系统综述",
+      "participants": "14项定量研究；与另一综述有研究重叠",
+      "observation": "因异质性未作荟萃分析。",
+      "limitation": "小样本、混合干预与随访不足；重叠研究的样本不能简单相加。"
+    },
+    {
+      "title": "双耳节拍系统综述｜Ingendoh等，2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37205669/",
+      "note": "14项EEG研究中，5项支持脑波同步假说、8项结果相反、1项混合。方法异质，脑波同步本身也不等于健康收益；本站不设置治疗或开悟频率。",
+      "kind": "EEG系统综述",
+      "participants": "14项EEG研究；非14名参与者",
+      "observation": "5项支持脑波同步假说、8项结果相反、1项混合。",
+      "limitation": "方法异质；脑波同步本身不等于健康收益，不能据此设置治疗或开悟频率。"
+    },
+    {
+      "title": "节拍主动对照实验｜Orozco Perez等，2020",
+      "url": "https://www.eneuro.org/content/7/2/ENEURO.0232-19.2020",
+      "note": "16人的单盲主动对照实验比较双耳与单耳节拍，发现听觉神经响应，但未观察到情绪调节。神经响应与心理或临床收益须分别判断。",
+      "kind": "单盲主动对照实验",
+      "participants": "16人",
+      "observation": "比较双耳与单耳节拍，发现听觉神经响应，未观察到情绪调节。",
+      "limitation": "神经响应须与心理或临床收益分别判断。"
+    },
+    {
+      "title": "自然声音实验｜Alvarsson等，2010",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2872309/",
+      "note": "40人在压力任务后聆听不同声音，部分皮肤电恢复指标有较快趋势，高频HRV未见效果。网页合成自然感声景不是该实验所用录音，不能直接借用其效果结论。",
+      "kind": "压力任务后声音实验",
+      "participants": "40人",
+      "observation": "部分皮肤电恢复指标有较快趋势，高频HRV未见效果。",
+      "limitation": "网页合成自然感声景并非实验录音，不能直接借用其效果结论。"
+    },
+    {
+      "title": "安全聆听｜世界卫生组织",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-safe-listening",
+      "note": "风险取决于音量、时长和累计暴露。以低音量起步并适时休息；网页音量百分比不能换算成实际耳内分贝。",
+      "kind": "机构安全聆听指导",
+      "participants": "不适用：非参与者研究",
+      "observation": "风险取决于音量、时长和累计暴露；建议低音量起步并适时休息。",
+      "limitation": "网页音量百分比不能换算成实际耳内分贝。"
+    }
+  ],
+  "designReferences": [
+    {
+      "title": "Insight Timer",
+      "url": "https://apps.apple.com/us/app/insight-timer-meditate-sleep/id337472899",
+      "note": "参考独立计时、间隔钟与预设，不复制音频。"
+    },
+    {
+      "title": "Ensō",
+      "url": "https://apps.apple.com/us/app/ens%C5%8D-meditation-timer-bell/id840637879",
+      "note": "参考准备倒计时与低干扰进度；原生锁屏能力不能推定网页也支持。"
+    },
+    {
+      "title": "Calm",
+      "url": "https://apps.apple.com/us/app/calm/id571800810",
+      "note": "参考清楚区分静坐与声音内容。"
+    },
+    {
+      "title": "Headspace",
+      "url": "https://apps.apple.com/us/app/headspace-sleep-meditation/id493145008",
+      "note": "参考短时练习与入门层级。"
+    },
+    {
+      "title": "Waking Up",
+      "url": "https://apps.apple.com/us/app/waking-up-meditation-wisdom/id1307736395",
+      "note": "参考实践与理论资料并列。"
+    },
+    {
+      "title": "Endel",
+      "url": "https://apps.apple.com/us/app/endel-focus-sleep-sounds/id1346247457",
+      "note": "参考按活动组织音景，不采用商家疗效宣传。"
+    }
+  ]
+}

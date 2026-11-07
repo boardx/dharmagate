@@ -1,0 +1,59 @@
+{
+  "recordedUtc": "2026-11-07T03:25:57.888Z",
+  "nodeVersion": "v22.23.1",
+  "zeroThirdPartyDependencies": true,
+  "noRootNodeModulesRequired": true,
+  "noLocalPrivateRuntimeRequired": true,
+  "checks": [
+    {
+      "command": "npm --prefix tools/cloud-practice ci --ignore-scripts --no-audit --no-fund --offline",
+      "exitCode": 0,
+      "network": "offline"
+    },
+    {
+      "command": "npm --prefix tools/cloud-practice run build",
+      "exitCode": 0,
+      "generatedAssetsMatch": true,
+      "researchItems": 10,
+      "wroteSource": false
+    },
+    {
+      "command": "npm --prefix tools/cloud-practice test",
+      "exitCode": 0,
+      "passed": 20,
+      "failed": 0
+    },
+    {
+      "command": "node tools/cloud-practice/verify.mjs",
+      "exitCode": 0,
+      "startUtc": "2026-11-07T03:24:58.272Z",
+      "endUtc": "2026-11-07T03:24:58.343Z",
+      "passed": 25,
+      "failed": 0,
+      "host": "127.0.0.1",
+      "serverClosed": true,
+      "approval": "require_escalated loopback verification allowed",
+      "firstSandboxAttempt": "listen EPERM: operation not permitted 127.0.0.1"
+    }
+  ],
+  "fileHashes": {
+    "package.json": "fc9709e924efaede083b2b54c6b0c9e50b6d41819f8776d6fea7899a06a83ac3",
+    "package-lock.json": "66b6c3894c39c9bf8be61e3c74a35e4d81308459535c04f4682dbdb01816ac89",
+    "preview.mjs": "58fa89dc9d3fc1603f2cd662777d89553622e5f69fdc9135aa947f26e2bdf138",
+    "verify.mjs": "f74fc8dd723d5b5507b90cb7ab7d078be653234f5612374b2cfe71d7f1a75a01",
+    "build.mjs": "a1f40337c712ce50fdded5162a0c640bb39d90261c067e452369b16ce195a27f",
+    "test.mjs": "0d90b3d24fca635834597a78b04003dbbcde6910ce1d018cef8750dd3f1d648a",
+    "README.md": "dd0640273a4741a42efa014b593278d569c6c6a3663b78ee450c6e0b9f1f4802"
+  },
+  "sourceHashes": {
+    "application.mjs": "3c28df946d9107dccd757f80ab47c88c4cf501e7209fca14ca5a67a0a0b2e47b",
+    "timer.mjs": "c445de13d1647db871a26942113a8f678263b59de2d2a7e4c64fcff8db349df0",
+    "audio.mjs": "f6603dfafcf029a1b8fdb40c921d05a97e3641604983d5be933834fb7ff29ea6",
+    "client.mjs": "da7324cfeacd849ad2118f2ff94b09b173aa7bbb648e4263fe7c2d94a137a4fd",
+    "assets.generated.mjs": "89b3fe90038f723d0365e0e53e80fad06c4abba7c72019034d4a2083396d23b9"
+  },
+  "browserAccepted": false,
+  "productionAccepted": false,
+  "githubWrite": false,
+  "productionWrite": false
+}
