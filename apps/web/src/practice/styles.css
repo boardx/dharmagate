@@ -63,3 +63,46 @@ body:not([data-session-state="running"]) .sector-ring,body:not([data-session-sta
 @media(max-width:600px){.background-grid,.background-controls{grid-template-columns:minmax(0,1fr)}.background-library{padding:16px}.background-library .section-head{display:block}.background-library .pill{display:inline-block;margin-top:8px}.background-library .buttons>*{min-height:44px;flex:1 1 45%}}
 @media(prefers-reduced-motion:no-preference){.background-card{transition:border-color .15s ease,background-color .15s ease}.background-choice:active{transform:translateY(1px)}}
 @media(forced-colors:active){.background-card[data-selected=true]{border:3px solid Highlight}.background-art{color:CanvasText}}
+
+/* Timer UX round 1: explicit areas prevent descriptive text displacing preview buttons. */
+.settings-drawer .cue-row{grid-template-columns:64px minmax(0,1fr) auto;grid-template-areas:"art choice preview" ". tone tone";gap:8px 14px;padding:16px 0;align-items:center}
+.settings-drawer .cue-art{grid-area:art;align-self:start;padding-top:28px}
+.settings-drawer .cue-art svg{width:64px}
+.settings-drawer .cue-row label{grid-area:choice;min-width:0}
+.settings-drawer .cue-tone{grid-area:tone;margin:0;line-height:1.6}
+.settings-drawer [data-preview-cue]{grid-area:preview;min-width:76px;max-width:none;white-space:nowrap;align-self:center;padding:10px 14px}
+@media(max-width:600px){.settings-drawer .cue-row{grid-template-columns:48px minmax(0,1fr);grid-template-areas:"art choice" ". tone" ". preview";gap:8px 12px}.settings-drawer .cue-art svg{width:48px}.settings-drawer [data-preview-cue]{justify-self:start;grid-column:auto}}
+@media(max-width:350px){.settings-drawer .cue-row{grid-template-columns:36px minmax(0,1fr)}.settings-drawer .cue-art svg{width:36px}}
+
+/* Round 2: bounded sheet with consistent navigation and persistent completion. */
+.settings-drawer{width:min(760px,calc(100vw - 32px));padding:0 24px;scroll-padding-top:132px;scroll-padding-bottom:110px;overscroll-behavior:contain;scrollbar-gutter:stable}
+.settings-drawer .drawer-header{top:0;padding:18px 0 12px;margin:0;z-index:4;border-bottom:1px solid var(--line)}
+.drawer-header button{flex:none;white-space:nowrap}
+.arrangement-nav{position:sticky;top:81px;z-index:3;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;background:var(--surface);padding:8px 0;border-bottom:1px solid var(--line)}
+.arrangement-nav button{font-size:13px;padding:8px 4px;white-space:nowrap}
+.settings-drawer .drawer-bottom{position:sticky;bottom:0;z-index:3;background:var(--surface);border-top:1px solid var(--line);padding:12px 0 max(12px,env(safe-area-inset-bottom));margin-top:24px}
+.drawer-bottom button{width:100%;min-height:48px}.drawer-bottom p{margin:4px 0 0;text-align:center}
+.settings-drawer #arrangement-status:empty{display:none}.settings-drawer .settings-details{margin-top:8px}.settings-drawer .drawer-theme{margin:16px 0}.settings-drawer #timer-settings{scroll-margin-top:135px}
+@media(max-width:600px){.settings-drawer{width:100%;padding-inline:16px;max-height:96dvh}.settings-drawer .drawer-header{padding-top:14px}.arrangement-nav{top:73px}.settings-drawer .drawer-bottom{padding-bottom:max(12px,env(safe-area-inset-bottom))}}
+@media(max-height:500px){.settings-drawer .drawer-header,.arrangement-nav,.settings-drawer .drawer-bottom{position:static}.settings-drawer{scroll-padding-top:12px}}
+
+/* Round 3: readable controls, source detail secondary to the selection. */
+.settings-drawer .cue-row label{font-weight:600;font-size:14px}.settings-drawer .cue-row label small{font-weight:400;line-height:1.6}
+.settings-drawer .cue-tone{font-size:12px;max-width:58ch}.settings-drawer select{min-height:48px;font-weight:400;padding:10px 12px}
+.settings-drawer .stop-preview{width:auto;min-width:140px;margin-top:12px}
+.settings-drawer .timer-background-settings{border-top:1px solid var(--line);margin-top:20px;padding-top:4px}.timer-background-settings>select{width:100%;margin:8px 0 16px}.timer-background-settings>.check{margin:10px 0}
+.settings-drawer .master-volume .audio-feedback{margin-top:12px}.settings-drawer .master-volume .audio-feedback button{font-size:13px;flex-basis:140px}.settings-drawer .master-volume>button:not([hidden]){margin-top:8px}
+.settings-drawer #cue-preview-status:empty{display:none}.settings-drawer .cue-plan-timeline{padding:12px 14px;background:var(--wash);border-radius:12px;font-size:12px;margin:12px 0;line-height:1.8}
+.settings-drawer select:disabled{opacity:.65}.settings-drawer [data-preview-cue]:disabled{opacity:.7;background:var(--wash);color:var(--muted)}
+
+/* Round 4: mobile, light/dark native controls and gentle optional motion. */
+:root,body[data-theme=paper],body[data-theme=white]{color-scheme:light}body[data-theme=night]{color-scheme:dark}
+.settings-drawer select,.settings-drawer input{background-color:var(--surface);color:var(--ink)}
+.settings-drawer input[type=number]{width:100%;min-width:0}.settings-drawer .fields{grid-template-columns:repeat(2,minmax(0,1fr))}.settings-drawer .fields label:first-child{grid-column:1/-1}
+.settings-drawer small,.settings-drawer .small{font-size:12px;line-height:1.7}.settings-drawer .check{align-items:flex-start}.settings-drawer .check input{flex-shrink:0}
+body[data-view=timer] #audio-health,body[data-view=timer] #practice-status{font-size:12px;line-height:1.65;max-width:48ch;margin:0;text-align:center}
+body[data-view=timer] .focus-tools{max-width:620px}.practice .timer-center .clock{font-variant-numeric:tabular-nums;letter-spacing:-.04em}
+.settings-drawer button,.settings-drawer a,.settings-drawer summary{touch-action:manipulation}.settings-drawer a{display:inline-flex;align-items:center;min-height:44px}
+@media(max-width:380px){.settings-drawer{padding-inline:12px}.settings-drawer .fields{grid-template-columns:minmax(0,1fr)}.settings-drawer .fields label:first-child{grid-column:auto}.settings-drawer .cue-row{column-gap:8px}.settings-drawer .cue-tone{font-size:12px}}
+@media(max-height:680px){body[data-view=timer] .timer-face{min-height:220px;flex:none}.timer-disc{width:min(34dvh,68vw,260px)}body[data-view=timer] .focus-tools{gap:4px}}
+@media(prefers-reduced-motion:no-preference){.settings-drawer[open]{animation:arrangement-enter 160ms ease-out}.settings-drawer button{transition:background-color 140ms ease,border-color 140ms ease}.settings-drawer button:active:not(:disabled){transform:translateY(1px)}@keyframes arrangement-enter{from{opacity:.3;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}}
