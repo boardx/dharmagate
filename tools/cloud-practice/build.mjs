@@ -4,7 +4,7 @@ import {createHash} from 'node:crypto';
 import assets from '../../apps/web/src/practice/assets.generated.mjs';
 import {createPracticeApplication} from '../../apps/web/src/practice/application.mjs';
 const sha=text=>createHash('sha256').update(text).digest('hex');
-const files={client:'client.mjs',timer:'timer.mjs',audio:'audio.mjs'},hashes={};
+const files={client:'client.mjs',timer:'timer.mjs',audio:'audio.mjs',persistence:'persistence.mjs',coordinator:'coordinator.mjs',backup:'backup.mjs',exportFile:'export-file.mjs',historyPlan:'history-plan.mjs',historyView:'history-view.mjs',historyBrowser:'history-browser.mjs',cueSchedule:'cue-schedule.mjs',progress:'progress.mjs',plan:'plan.mjs',css:'styles.css'},hashes={};
 for(const [name,file] of Object.entries(files)){
  const text=await readFile(new URL('../../apps/web/src/practice/'+file,import.meta.url),'utf8');
  assert.equal(assets[name],text,'Generated asset differs from actual source: '+file);

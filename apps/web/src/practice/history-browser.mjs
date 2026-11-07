@@ -1,0 +1,17 @@
+/** Pure local-history query; no persistent filters, URLs or I/O. Dates use the supplied IANA calendar zone. */
+const enums={period:['all','today','7d','30d'],outcome:['all','completed','ended','interrupted'],duration:['all','short','medium','long'],sound:['all','silent','brown','rain','bell'],sort:['newest','oldest','longest']};
+export function browseHistory(rows,filters={}, {now=Date.now(),timeZone=Intl.DateTimeFormat().resolvedOptions().timeZone}={}){
+ if(!Array.isArray(rows)||!filters||typeof filters!=='object'||Array.isArray(filters)||Object.keys(filters).some(k=>!Object.hasOwn(enums,k)&&k!=='page'))throw TypeError('INVALID_HISTORY_FILTER');
+ const f={period:'all',outcome:'all',duration:'all',sound:'all',sort:'newest',page:1,...filters};for(const[k,values]of Object.entries(enums))if(!values.includes(f[k]))throw TypeError('INVALID_HISTORY_FILTER');if(!Number.isInteger(f.page)||f.page<1)throw TypeError('INVALID_HISTORY_PAGE');
+ if(!Number.isFinite(now)||!Number.isFinite(new Date(now).getTime()))throw TypeError('INVALID_HISTORY_CLOCK');
+ const formatter=new Intl.DateTimeFormat('en-US',{timeZone,year:'numeric',month:'2-digit',day:'2-digit'});
+ const day=t=>{const parts=Object.fromEntries(formatter.formatToParts(new Date(t)).filter(p=>p.type!=='literal').map(p=>[p.type,p.value]));return Math.floor(Date.UTC(Number(parts.year),Number(parts.month)-1,Number(parts.day))/86400000)};
+ const today=day(now),days=f.period==='today'?1:f.period==='7d'?7:f.period==='30d'?30:Infinity;
+ const checked=rows.map(r=>{if(!r||typeof r!=='object'||typeof r.id!=='string'||!/^[A-Za-z0-9_-]{1,100}$/.test(r.id)||!Number.isFinite(r.startedAt)||r.startedAt<0||!Number.isFinite(new Date(r.startedAt).getTime())||!Number.isFinite(r.endedAt)||r.endedAt<r.startedAt||!Number.isFinite(new Date(r.endedAt).getTime())||!Number.isInteger(r.plannedSeconds)||r.plannedSeconds<1||r.plannedSeconds>10800||!Number.isInteger(r.elapsedSeconds)||r.elapsedSeconds<0||r.elapsedSeconds>r.plannedSeconds||!enums.outcome.slice(1).includes(r.outcome)||(r.outcome==='completed'&&r.elapsedSeconds!==r.plannedSeconds)||!enums.sound.slice(1).includes(r.sound))throw TypeError('INVALID_HISTORY_ROW');return structuredClone(r)});
+ const filteredRows=checked.filter(r=>{const delta=today-day(r.startedAt);return (f.period==='all'||delta>=0&&delta<days)&&(f.outcome==='all'||r.outcome===f.outcome)&&(f.sound==='all'||r.sound===f.sound)&&(f.duration==='all'||(f.duration==='short'?r.elapsedSeconds<300:f.duration==='medium'?r.elapsedSeconds>=300&&r.elapsedSeconds<1200:r.elapsedSeconds>=1200))});
+ const idTie=(a,b)=>a.id<b.id?-1:a.id>b.id?1:0;
+ filteredRows.sort((a,b)=>(f.sort==='longest'?b.elapsedSeconds-a.elapsedSeconds||b.startedAt-a.startedAt:f.sort==='oldest'?a.startedAt-b.startedAt:b.startedAt-a.startedAt)||idTie(a,b));
+ const total=filteredRows.length,pageSize=20,pageCount=Math.max(1,Math.ceil(total/pageSize)),page=Math.min(f.page,pageCount),offset=(page-1)*pageSize;
+ const stats={count:total,elapsedSeconds:0,completedCount:0,endedCount:0,interruptedCount:0,earliestStart:null,latestStart:null};for(const r of filteredRows){stats.elapsedSeconds+=r.elapsedSeconds;stats[r.outcome+'Count']++;stats.earliestStart=stats.earliestStart===null?r.startedAt:Math.min(stats.earliestStart,r.startedAt);stats.latestStart=stats.latestStart===null?r.startedAt:Math.max(stats.latestStart,r.startedAt)}
+ return{filteredRows,rowsPage:filteredRows.slice(offset,offset+pageSize),page,pageSize,total,pageCount,from:total?offset+1:0,to:Math.min(offset+pageSize,total),stats};
+}
