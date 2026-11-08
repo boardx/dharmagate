@@ -134,3 +134,15 @@ body[data-view=timer] .main-actions{width:min(100%,440px)}body[data-view=timer] 
 @media(max-height:680px){body[data-view=timer] .timer-disc{width:min(55dvh,80vw,420px)}body[data-view=timer] .timer-face{flex:1;min-height:0}body[data-view=timer] .timer-panel{gap:6px}body[data-view=timer] .timer-center .clock{font-size:clamp(64px,17vw,104px)}body[data-view=timer] .timer-center .clock[data-long=true]{font-size:clamp(52px,14vw,84px)}}
 @media(max-height:440px) and (min-width:600px){body[data-view=timer] .timer-disc{width:56dvh}body[data-view=timer] .timer-panel{padding-block:6px;gap:3px}body[data-view=timer] .timer-center .clock{font-size:52px}body[data-view=timer] .phase{font-size:11px;margin:0}body[data-view=timer] .main-actions button{min-height:44px}body[data-view=timer] .zen-dock{margin-top:0}}
 @media(prefers-reduced-motion:no-preference){body[data-view=timer] .sector-ring{transition:stroke-dasharray 800ms linear}.zen-tools>summary{transition:background-color 150ms ease}}@media(prefers-reduced-motion:reduce){body[data-view=timer] .sector-ring{transition:none!important}}
+/* Real setting tabs: a shared baseline, distinct selection and one visible panel. */
+.settings-drawer .arrangement-nav{display:flex;gap:0;padding:0;background:var(--surface);border-bottom:1px solid var(--line);isolation:isolate}
+.settings-drawer .arrangement-nav [role=tab]{flex:1;min-width:0;min-height:50px;padding:12px 8px;border:0;border-bottom:3px solid transparent;border-radius:8px 8px 0 0;background:transparent;color:var(--muted);font-size:14px;font-weight:500;white-space:nowrap}
+.settings-drawer .arrangement-nav [role=tab][aria-selected=true]{color:var(--ink);background:var(--wash);border-bottom-color:var(--ink);font-weight:700}
+.settings-drawer .arrangement-nav [role=tab]:focus-visible{outline:2px solid var(--accent);outline-offset:-5px}
+.settings-drawer .arrangement-nav [role=tab]:hover{background:var(--wash)}
+.arrangement-panel{padding:8px 0 4px;min-height:240px;scroll-margin-top:140px}.arrangement-panel:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:8px}
+.settings-drawer[data-tabs-ready=true] #timer-settings>summary{display:none}.settings-drawer[data-tabs-ready=true] #timer-settings{border-top:0;margin-top:0}.settings-drawer .tab-panel-heading{margin-top:10px}
+.settings-drawer .arrangement-panel.timer-background-settings,.settings-drawer .arrangement-panel.master-volume{border-top:0;margin-top:0}
+.settings-drawer .drawer-theme{gap:5px;align-items:center;padding:8px 0;margin:4px 0;border-bottom:1px solid var(--line)}.drawer-theme .theme-caption{font-size:12px;color:var(--muted);margin-right:6px}.settings-drawer .drawer-theme button{min-height:44px;padding:8px 12px;font-size:12px}
+@media(max-width:600px){.settings-drawer .arrangement-nav [role=tab]{min-height:48px;padding:11px 4px;font-size:13px}.arrangement-panel{min-height:220px}.settings-drawer .drawer-theme{margin-bottom:4px}}
+@media(prefers-reduced-motion:no-preference){.settings-drawer .arrangement-nav [role=tab]{transition:color 140ms ease,background-color 140ms ease,border-color 140ms ease}}

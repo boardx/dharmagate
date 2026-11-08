@@ -1,0 +1,7 @@
+/** Manual settings tabs. Changes visibility/focus only; never changes practice or playback. */
+export function createArrangementTabs({tabs,getPanel,onSelect=()=>{}}){
+ const items=Array.from(tabs);if(!items.length)return null;
+ const ids=new Set(),panels=items.map(tab=>{const id=tab.dataset.arrangementTab,panel=getPanel(tab.getAttribute('aria-controls'));if(!id||ids.has(id)||!tab.id||!panel||panel.getAttribute('aria-labelledby')!==tab.id)throw Error('INVALID_ARRANGEMENT_TAB');ids.add(id);return panel});let current=null;
+ function select(id,{focus=false}={}){const index=items.findIndex(tab=>tab.dataset.arrangementTab===id);if(index<0)return false;const previous=current;items.forEach((tab,i)=>{const active=i===index;tab.setAttribute('aria-selected',String(active));tab.setAttribute('tabindex',active?'0':'-1');panels[i].hidden=!active});current=id;if(focus)items[index].focus({preventScroll:true});if(previous!==id)onSelect(id,previous);return true}
+ items.forEach((tab,index)=>{tab.onclick=()=>select(tab.dataset.arrangementTab);tab.onkeydown=event=>{if(event.altKey||event.ctrlKey||event.metaKey||event.shiftKey)return;let next;if(event.key==='ArrowRight')next=(index+1)%items.length;else if(event.key==='ArrowLeft')next=(index+items.length-1)%items.length;else if(event.key==='Home')next=0;else if(event.key==='End')next=items.length-1;else return;event.preventDefault();select(items[next].dataset.arrangementTab,{focus:true})}});select(items[0].dataset.arrangementTab);return{select,get current(){return current}};
+}
