@@ -1,0 +1,22 @@
+name: Cloud navigation validation
+on:
+  push:
+    branches: [codex/dharmagate-consolidation-20261029]
+    paths: ['apps/web/src/site-navigation*', 'apps/web/src/unified-navigation.mjs', 'apps/web/src/learning-hubs.mjs', 'apps/web/src/portal-routes.mjs', 'apps/web/src/article-excerpts.mjs', 'apps/web/src/practice-portal.mjs', 'apps/web/src/practice/page.mjs', 'apps/web/test/nav-*.test.mjs', 'apps/web/test/site-navigation.test.mjs', 'apps/web/test/unified-navigation.test.mjs', 'apps/web/test/public-portal-routes.test.mjs', 'tools/cloud-navigation/**', '.github/workflows/cloud-navigation.yml']
+  pull_request:
+    paths: ['apps/web/src/site-navigation*', 'apps/web/src/unified-navigation.mjs', 'apps/web/src/learning-hubs.mjs', 'apps/web/src/portal-routes.mjs', 'apps/web/src/article-excerpts.mjs', 'apps/web/src/practice-portal.mjs', 'apps/web/src/practice/page.mjs', 'apps/web/test/nav-*.test.mjs', 'apps/web/test/site-navigation.test.mjs', 'apps/web/test/unified-navigation.test.mjs', 'apps/web/test/public-portal-routes.test.mjs', 'tools/cloud-navigation/**', '.github/workflows/cloud-navigation.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  navigation-contracts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.23.1'
+      - run: node tools/cloud-navigation/test.mjs
