@@ -1,0 +1,1 @@
+{"name":"dharmagate-release-wave-validation","private":true,"type":"module","scripts":{"test":"node --test gates.test.mjs ../../apps/web/test/legacy-theme-repair.test.mjs"},"engines":{"node":">=22"}}
