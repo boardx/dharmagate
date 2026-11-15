@@ -66,7 +66,19 @@ export function createPracticeAudio({createContext=()=>new (globalThis.AudioCont
   if(cueBurstVoices>=15)return false;cueBurstVoices++;if(!cueBurstPending){cueBurstPending=true;after(()=>{cueBurstPending=false;cueBurstVoices=0},120)}retireFallbackTails();if(all.size>25)return false;return startRecording(id,buffer,{overlay:true});
  }
  return {
-  async prepare(){lastError=null;const request=generation;await ready();if(closed||request!==generation)throw Error('声音启用已取消，请重新点击');const ids=cueIds.filter(id=>{try{return id!=='silent'&&recording(id).continuous===false}catch{return false}});if(!ids.length)throw Error('暂无可用的已核授权提示录音');await Promise.all(ids.map(load));if(closed)throw Error('音频会话已关闭');if(request!==generation)throw Error('声音启用已取消，请重新点击');return true},
+  async prepare(selectedIds){
+   // An explicit timer/preview selection must not depend on unrelated recordings.
+   // Validate before opening the gesture-bound context, and never substitute a cue.
+   let ids;
+   if(selectedIds===undefined)ids=cueIds.filter(id=>{try{return id!=='silent'&&recording(id).continuous===false}catch{return false}});
+   else{
+    if(!Array.isArray(selectedIds)||selectedIds.length>16)throw Error('提示音选择无效，请重新选择');
+    ids=[...new Set(selectedIds.filter(id=>id!=='silent'))];
+    for(const id of ids)if(!cueIds.includes(id)||recording(id).continuous!==false)throw Error('此提示没有可用的已核授权录音');
+   }
+   if(!ids.length)throw Error('暂无可用的已核授权提示录音');
+   lastError=null;const request=generation;await ready();if(closed||request!==generation)throw Error('声音启用已取消，请重新点击');await Promise.all(ids.map(load));if(closed)throw Error('音频会话已关闭');if(request!==generation)throw Error('声音启用已取消，请重新点击');return true
+  },
   async play(id){let item;try{item=recording(id)}catch(error){lastError=error.message;throw error}stop();const request=++generation;lastError=null;await ready();if(closed||request!==generation)return false;const buffer=await load(id);if(closed||request!==generation||context?.state!=='running'||sessionState()==='interrupted')return false;return startRecording(id,buffer)},
   cue,bell(){return false},stop,stopCues,
   setVolume(value){if(!Number.isFinite(value)||value<0||value>1)throw Error('INVALID_VOLUME');volume=value;if(master)ramp(master,muted?0:volume*MASTER_HEADROOM)},
