@@ -1,0 +1,38 @@
+name: Evidence search portable regression
+on:
+  push:
+    branches: [codex/dharmagate-consolidation-20261029]
+    paths:
+      - 'apps/web/src/evidence-search/**'
+      - 'apps/web/test/evidence-search-*.mjs'
+      - '.github/workflows/cloud-evidence-search.yml'
+  pull_request:
+    paths:
+      - 'apps/web/src/evidence-search/**'
+      - 'apps/web/test/evidence-search-*.mjs'
+      - '.github/workflows/cloud-evidence-search.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  portable:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.23.1'
+      - name: Run eight public synthetic suites
+        run: >-
+          node --test
+          apps/web/test/evidence-search-canon.test.mjs
+          apps/web/test/evidence-search-catalogue.test.mjs
+          apps/web/test/evidence-search-core.test.mjs
+          apps/web/test/evidence-search-discovery.test.mjs
+          apps/web/test/evidence-search-http.test.mjs
+          apps/web/test/evidence-search-r2.test.mjs
+          apps/web/test/evidence-search-retained.test.mjs
+          apps/web/test/evidence-search-stored.test.mjs
