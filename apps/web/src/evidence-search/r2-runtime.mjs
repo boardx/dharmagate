@@ -20,8 +20,8 @@ export async function boundedR2Bytes(bucket,key,max){
 /** Existing CANON_STORAGE only. Cache immutable artifact bytes, never approvals,
  * sessions, promises, search output or models. Cache cannot authorize a request.
  */
-export function createCanonSearchRuntime({currentWorker,edition,approvalKey,now=Date.now,artifactTTLms=30000}={}){
- if(typeof currentWorker?.fetch!=='function'||edition?.id!=='T08n0251'||approvalKey!=='canon/approvals/literal/T08n0251.json'||!Number.isFinite(artifactTTLms)||artifactTTLms<0||artifactTTLms>30000)throw Error('CANON_RUNTIME_CONFIGURATION_REQUIRED');
+export function createCanonSearchRuntime({currentWorker,edition,approvalKey,now=Date.now,artifactTTLms=30000,verifyLegacyCatalogue=readCurrentCanonAdmission}={}){
+ if(typeof currentWorker?.fetch!=='function'||edition?.id!=='T08n0251'||approvalKey!=='canon/approvals/literal/T08n0251.json'||!Number.isFinite(artifactTTLms)||artifactTTLms<0||artifactTTLms>30000||typeof verifyLegacyCatalogue!=='function')throw Error('CANON_RUNTIME_CONFIGURATION_REQUIRED');
  const pin=structuredClone(edition),cache=new WeakMap();
  return Object.freeze({async fetch(request,env,ctx){
    if(!owned(new URL(request.url).pathname))return addCanonSearchEntry(request,await currentWorker.fetch(request,env,ctx));
@@ -39,7 +39,14 @@ export function createCanonSearchRuntime({currentWorker,edition,approvalKey,now=
    try{
     // No authorization cache: validate the actual existing legacy catalogue at
     // request entry and again before releasing any search/citation response.
-    const legacyRevision=await readCurrentCanonAdmission(bucket,pin,boundedR2Bytes);
+    const readApprovalFresh=async()=>JSON.parse(new TextDecoder('utf8',{fatal:true}).decode(await boundedR2Bytes(bucket,approvalKey,16384)));
+    const freshAuthorities=async()=>{const values=await Promise.allSettled([verifyLegacyCatalogue(bucket,pin,boundedR2Bytes),readApprovalFresh()]);const rejected=values.find(value=>value.status==='rejected');if(rejected)throw rejected.reason;return values.map(value=>value.value)};
+    const [legacyRevision,approvalRecord]=await freshAuthorities();
+    // One immutable authorization version for this one-unit request. Per-line
+    // checks still validate it, but never perform hundreds of identical R2 reads.
+    // Both independent authorities are freshly reread before releasing a result.
+    const approvalSnapshot=structuredClone(approvalRecord),approvalVersion=JSON.stringify(approvalSnapshot);
+    const freeze=value=>{if(value&&typeof value==='object'){for(const child of Object.values(value))freeze(child);Object.freeze(value)}return value};freeze(approvalSnapshot);
     const readObject=async key=>{
       if(key!==pin.rawKey&&key!==pin.documentKey)throw Error('R2_KEY_NOT_ADMITTED');
       const found=cache.get(bucket)?.get(key);if(found&&found.expires>now())return found.bytes.slice();
@@ -47,13 +54,14 @@ export function createCanonSearchRuntime({currentWorker,edition,approvalKey,now=
       let entries=cache.get(bucket);if(!entries){entries=new Map();cache.set(bucket,entries)}
       entries.set(key,{bytes:bytes.slice(),expires:now()+artifactTTLms});return bytes;
     };
-    const readApproval=async()=>JSON.parse(new TextDecoder('utf8',{fatal:true}).decode(await boundedR2Bytes(bucket,approvalKey,16384)));
+    const readApproval=async()=>approvalSnapshot;
     // A new per-request service never carries an authorizing actor/cache across requests.
     const storedSearch=await createStoredCanonSearch({edition:pin,readObject,readApproval});
     const admittedSearch={...storedSearch,service:withHeartSutraTitleAlias(storedSearch.service)};
     const app=createRetainedSearchWorker({currentWorker,admittedSearch,scopeLabel:'CBETA《般若波羅蜜多心經》T08n0251；唐玄奘譯；CC BY-NC-SA 4.0；純公益非商業。原文未改，僅技術索引與短片段；原件含完整出版聲明與版本。'});
     const response=await app.fetch(forwarded,env,ctx);
-    if(await readCurrentCanonAdmission(bucket,pin,boundedR2Bytes)!==legacyRevision){await response?.body?.cancel();throw Error('LEGACY_ADMISSION_CHANGED');}
+    const [currentLegacy,currentApproval]=await freshAuthorities();
+    if(currentLegacy!==legacyRevision||JSON.stringify(currentApproval)!==approvalVersion){await response?.body?.cancel();throw Error('CURRENT_ADMISSION_CHANGED');}
     return response;
    }catch{return unavailable()}
  }});
