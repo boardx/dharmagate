@@ -11,7 +11,7 @@ export function navigationActive(input=''){
  if(p==='/explore'||p.startsWith('/explore/'))return u.searchParams.get('kind')==='school'||/^\/explore\/(?:school|schools|tradition|traditions)(?:\/|$)/.test(p)?'/explore?kind=school':'/explore';
  if(/^\/(?:zh|en)\/practice(?:\/|$)/.test(p)||/^\/practice(?:\/|$)/.test(p))return '/zh/practice';
  if(/^\/(?:zh\/|en\/)?articles(?:\/|$)/.test(p))return '/zh/articles';
- if(/^\/(?:zh\/|en\/)?library(?:\/|$)/.test(p)||/^\/(?:canon|research|resources)(?:\/|$)/.test(p))return '/zh/library';
+ if(p==='/research.html'||/^\/(?:zh\/|en\/)?library(?:\/|$)/.test(p)||/^\/(?:canon|research|resources)(?:\/|$)/.test(p))return '/zh/library';
  if(/^\/whitepaper(?:\.html|\/|$)/.test(p))return '/whitepaper';
  if(/^\/films(?:\/|$)/.test(p))return '/films';
  if(/^\/videos(?:\/|$)/.test(p))return '/videos';

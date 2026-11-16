@@ -1,3 +1,6 @@
+import {createScriptVariantSearch} from './script-variants.mjs';
+import {createPhraseSearch,PHRASE_SCOPE} from './phrase-search.mjs';
+import {selectSearchModes} from './select-mode.mjs';
 import {createStoredCanonSearch} from './stored-canon.mjs';
 import {createRetainedSearchWorker} from './retained-worker.mjs';
 import {createEvidenceSearchHandler} from './http.mjs';
@@ -57,7 +60,13 @@ export function createCanonSearchRuntime({currentWorker,edition,approvalKey,now=
     const readApproval=async()=>approvalSnapshot;
     // A new per-request service never carries an authorizing actor/cache across requests.
     const storedSearch=await createStoredCanonSearch({edition:pin,readObject,readApproval});
-    const admittedSearch={...storedSearch,service:withHeartSutraTitleAlias(storedSearch.service)};
+    const verifiedDocument=JSON.parse(new TextDecoder('utf8',{fatal:true}).decode(await readObject(pin.documentKey)));
+    const records=await Promise.all(verifiedDocument.lines.map(line=>storedSearch.repository.readCurrent({editionId:pin.id,segmentId:line.id})));
+    const phraseBase=createPhraseSearch({records,readCurrent:storedSearch.repository.readCurrent,authorizeRequest:storedSearch.authorizeRequest,revision:storedSearch.repository.revision,scope:{unit:pin.id,commit:pin.sourceCommit,sourceSHA256:pin.sourceSha256,readingSHA256:pin.readingSha256}});
+    const phraseService=createScriptVariantSearch({phrase:phraseBase,sourceLines:verifiedDocument.lines,scope:{unit:pin.id,commit:pin.sourceCommit,sourceSHA256:pin.sourceSha256,readingSHA256:pin.readingSha256}});
+    const keyword=withHeartSutraTitleAlias(storedSearch.service);
+    const service=selectSearchModes(keyword,phraseService);
+    const admittedSearch={...storedSearch,service};
     const app=createRetainedSearchWorker({currentWorker,admittedSearch,scopeLabel:'CBETA《般若波羅蜜多心經》T08n0251；唐玄奘譯；CC BY-NC-SA 4.0；純公益非商業。原文未改，僅技術索引與短片段；原件含完整出版聲明與版本。'});
     const response=await app.fetch(forwarded,env,ctx);
     const [currentLegacy,currentApproval]=await freshAuthorities();

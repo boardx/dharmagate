@@ -1,15 +1,27 @@
-name: Evidence search portable regression
+name: Owned evidence-search modules and fixture packer (not full-site build)
 on:
   push:
     branches: [codex/dharmagate-consolidation-20261029]
     paths:
       - 'apps/web/src/evidence-search/**'
+      - 'apps/web/src/site-navigation.mjs'
+      - 'apps/web/src/tei-browser-reader.mjs'
+      - 'apps/web/package.json'
       - 'apps/web/test/evidence-search-*.mjs'
+      - 'tools/evidence-search/pack-owned-wrapper.mjs'
+      - 'tools/evidence-search/check-owned-closure.mjs'
+      - 'README-owned-search-ci.md'
       - '.github/workflows/cloud-evidence-search.yml'
   pull_request:
     paths:
       - 'apps/web/src/evidence-search/**'
+      - 'apps/web/src/site-navigation.mjs'
+      - 'apps/web/src/tei-browser-reader.mjs'
+      - 'apps/web/package.json'
       - 'apps/web/test/evidence-search-*.mjs'
+      - 'tools/evidence-search/pack-owned-wrapper.mjs'
+      - 'tools/evidence-search/check-owned-closure.mjs'
+      - 'README-owned-search-ci.md'
       - '.github/workflows/cloud-evidence-search.yml'
   workflow_dispatch:
 permissions:
@@ -25,7 +37,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22.23.1'
-      - name: Run eight public synthetic suites
+      - name: Check explicit owned-source import closure
+        run: node tools/evidence-search/check-owned-closure.mjs
+      - name: Run twelve owned synthetic suites; no retained site build
         run: >-
           node --test
           apps/web/test/evidence-search-canon.test.mjs
@@ -36,3 +50,7 @@ jobs:
           apps/web/test/evidence-search-r2.test.mjs
           apps/web/test/evidence-search-retained.test.mjs
           apps/web/test/evidence-search-stored.test.mjs
+          apps/web/test/evidence-search-phrase.test.mjs
+          apps/web/test/evidence-search-pack.test.mjs
+          apps/web/test/evidence-search-script-variants.test.mjs
+          apps/web/test/evidence-search-client-mode.test.mjs
