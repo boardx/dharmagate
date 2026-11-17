@@ -1,10 +1,13 @@
+import {createScriptVariantSearch} from './script-variants.mjs';
+import {createPhraseSearch,PHRASE_SCOPE} from './phrase-search.mjs';
+import {selectSearchModes} from './select-mode.mjs';
 import {createStoredCanonSearch} from './stored-canon.mjs';
 import {createRetainedSearchWorker} from './retained-worker.mjs';
 import {createEvidenceSearchHandler} from './http.mjs';
 import {addCanonSearchEntry} from './discovery.mjs';
 import {withHeartSutraTitleAlias} from './title-alias.mjs';
 import {readCurrentCanonAdmission} from './catalogue-rights.mjs';
-const owned=path=>['/resources/search','/_evidence-search/client.js','/_evidence-search/style.css'].includes(path)||['search','citation','answer','relations'].some(x=>path==='/api/evidence-search/'+x);
+const owned=path=>['/resources/search','/_evidence-search/client.js','/_evidence-search/style.css'].includes(path)||['search','citation','version-metadata','answer','relations'].some(x=>path==='/api/evidence-search/'+x);
 const unavailable=()=>new Response(JSON.stringify({ok:false,error:'SEARCH_SOURCE_UNAVAILABLE'}),{status:503,headers:{'content-type':'application/json','cache-control':'private, no-store'}});
 
 export async function boundedR2Bytes(bucket,key,max){
@@ -20,7 +23,7 @@ export async function boundedR2Bytes(bucket,key,max){
 /** Existing CANON_STORAGE only. Cache immutable artifact bytes, never approvals,
  * sessions, promises, search output or models. Cache cannot authorize a request.
  */
-export function createCanonSearchRuntime({currentWorker,edition,approvalKey,now=Date.now,artifactTTLms=30000,verifyLegacyCatalogue=readCurrentCanonAdmission}={}){
+export function createCanonSearchRuntime({currentWorker,edition,approvalKey,now=Date.now,artifactTTLms=30000,verifyLegacyCatalogue=readCurrentCanonAdmission,citationMetadataBridge}={}){
  if(typeof currentWorker?.fetch!=='function'||edition?.id!=='T08n0251'||approvalKey!=='canon/approvals/literal/T08n0251.json'||!Number.isFinite(artifactTTLms)||artifactTTLms<0||artifactTTLms>30000||typeof verifyLegacyCatalogue!=='function')throw Error('CANON_RUNTIME_CONFIGURATION_REQUIRED');
  const pin=structuredClone(edition),cache=new WeakMap();
  return Object.freeze({async fetch(request,env,ctx){
@@ -29,12 +32,15 @@ export function createCanonSearchRuntime({currentWorker,edition,approvalKey,now=
    // Apply existing origin/method/streamed-body gates before spending any R2 reads.
    let validatedInput;
    const valid=async input=>{const {request:_request,...body}=input;validatedInput=body;return {ok:true,status:200}};
-   const preflight=createEvidenceSearchHandler({enabled:true,service:{capabilities:{keyword:true},search:valid,validateCitation:valid,answer:valid,relations:valid}});
+   const preflight=createEvidenceSearchHandler({enabled:true,service:{capabilities:{keyword:true},search:valid,validateCitation:valid,resolveCitationMetadata:valid,answer:valid,relations:valid}});
    const checked=await preflight.fetch(request);if(checked&&checked.status!==200)return checked;
    if(new URL(request.url).pathname.startsWith('/_evidence-search/'))return checked;
    // Consume once through the existing 8KiB parser rather than teeing an
    // unbounded attacker-controlled body into a second unconsumed branch.
    const forwarded=validatedInput?new Request(request.url,{method:request.method,headers:request.headers,body:JSON.stringify(validatedInput)}):request;
+   // A bridge alone is not a metadata registry/current-authority adapter.
+   // Never initialize the fulltext search service for this unimplemented path.
+   if(new URL(request.url).pathname==='/api/evidence-search/version-metadata')return Response.json({ok:false,error:'CITATION_METADATA_NOT_CONFIGURED'},{status:503,headers:{'cache-control':'private, no-store'}});
    const bucket=env?.CANON_STORAGE;if(typeof bucket?.get!=='function')return unavailable();
    try{
     // No authorization cache: validate the actual existing legacy catalogue at
@@ -56,8 +62,14 @@ export function createCanonSearchRuntime({currentWorker,edition,approvalKey,now=
     };
     const readApproval=async()=>approvalSnapshot;
     // A new per-request service never carries an authorizing actor/cache across requests.
-    const storedSearch=await createStoredCanonSearch({edition:pin,readObject,readApproval});
-    const admittedSearch={...storedSearch,service:withHeartSutraTitleAlias(storedSearch.service)};
+    const storedSearch=await createStoredCanonSearch({edition:pin,readObject,readApproval,citationMetadataBridge});
+    const verifiedDocument=JSON.parse(new TextDecoder('utf8',{fatal:true}).decode(await readObject(pin.documentKey)));
+    const records=await Promise.all(verifiedDocument.lines.map(line=>storedSearch.repository.readCurrent({editionId:pin.id,segmentId:line.id})));
+    const phraseBase=createPhraseSearch({records,readCurrent:storedSearch.repository.readCurrent,authorizeRequest:storedSearch.authorizeRequest,revision:storedSearch.repository.revision,scope:{unit:pin.id,commit:pin.sourceCommit,sourceSHA256:pin.sourceSha256,readingSHA256:pin.readingSha256}});
+    const phraseService=createScriptVariantSearch({phrase:phraseBase,sourceLines:verifiedDocument.lines,scope:{unit:pin.id,commit:pin.sourceCommit,sourceSHA256:pin.sourceSha256,readingSHA256:pin.readingSha256}});
+    const keyword=withHeartSutraTitleAlias(storedSearch.service);
+    const service=selectSearchModes(keyword,phraseService);
+    const admittedSearch={...storedSearch,service};
     const app=createRetainedSearchWorker({currentWorker,admittedSearch,scopeLabel:'CBETA《般若波羅蜜多心經》T08n0251；唐玄奘譯；CC BY-NC-SA 4.0；純公益非商業。原文未改，僅技術索引與短片段；原件含完整出版聲明與版本。'});
     const response=await app.fetch(forwarded,env,ctx);
     const [currentLegacy,currentApproval]=await freshAuthorities();

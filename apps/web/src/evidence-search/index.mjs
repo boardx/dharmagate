@@ -105,7 +105,7 @@ async function timed(work, milliseconds) {
 /** Trust boundaries: request -> fresh authorizer -> handles -> current source/rights -> response.
  * A source resolver may never use client/index-supplied text, links or rights as authoritative.
  */
-export function createEvidenceSearch({ repository, authorizeRequest, semanticProvider, modelProvider, answerPolicy, budget, enabled = false, providerTimeoutMs = 8_000, maxConcurrent = 4, answerCacheEntries = 32, answerCacheTTL = 30_000, now = Date.now } = {}) {
+export function createEvidenceSearch({ repository, authorizeRequest, semanticProvider, modelProvider, answerPolicy, budget, citationMetadataBridge, enabled = false, providerTimeoutMs = 8_000, maxConcurrent = 4, answerCacheEntries = 32, answerCacheTTL = 30_000, now = Date.now } = {}) {
   if (!Number.isInteger(maxConcurrent) || maxConcurrent < 1 || maxConcurrent > 32 || !Number.isInteger(providerTimeoutMs) || providerTimeoutMs < 1 || providerTimeoutMs > 30_000 || !Number.isInteger(answerCacheEntries) || answerCacheEntries < 0 || answerCacheEntries > 128 || !Number.isInteger(answerCacheTTL) || answerCacheTTL < 0 || answerCacheTTL > 60_000) fail(400, 'INVALID_SERVICE_LIMITS');
   let inFlight = 0; const cache = new Map();
   async function auth(request, action, resource = null) {
@@ -200,6 +200,42 @@ export function createEvidenceSearch({ repository, authorizeRequest, semanticPro
     catch (e) { return { ok: false, status: e instanceof EvidenceSearchError ? e.status : 503, error: e instanceof EvidenceSearchError ? e.code : 'SEARCH_UNAVAILABLE' }; }
     finally { inFlight--; }
   }
+  function snapshotMetadataResult(value) {
+    const data = object => {
+      if (!object || Object.getPrototypeOf(object) !== Object.prototype) fail(503, 'CITATION_METADATA_UNAVAILABLE');
+      const properties = Object.getOwnPropertyDescriptors(object), keys = Reflect.ownKeys(properties), copy = {};
+      for (const key of keys) {
+        const property = properties[key];
+        if (typeof key !== 'string' || !Object.hasOwn(property, 'value') || property.enumerable !== true) fail(503, 'CITATION_METADATA_UNAVAILABLE');
+        Object.defineProperty(copy, key, { value: property.value, enumerable: true });
+      }
+      return copy;
+    };
+    const result = data(value);
+    if (Object.hasOwn(result, 'descriptor')) {
+      const descriptor = data(result.descriptor), copy = {};
+      for (const key of Object.keys(result)) Object.defineProperty(copy, key, { value: key === 'descriptor' ? descriptor : result[key], enumerable: true });
+      return copy;
+    }
+    return result;
+  }
+  async function citationMetadataWork(request, input) {
+    if (!exactKeys(input, ['citation']) || !validateCitationShape(input.citation)) fail(400, 'INVALID_CITATION');
+    if (typeof citationMetadataBridge?.resolve !== 'function') fail(503, 'CITATION_METADATA_NOT_CONFIGURED');
+    const ref = Object.freeze(structuredClone(input.citation)), before = await auth(request, 'citation:metadata', ref), revision = repository.revision;
+    const result = snapshotMetadataResult(await citationMetadataBridge.resolve({ request, citation: ref }));
+    const after = await auth(request, 'citation:metadata', ref);
+    if (!same(before, after)) fail(403, 'ACCESS_CHANGED');
+    if (repository.revision !== revision) fail(409, 'INDEX_CHANGED');
+    if (!result || Object.getPrototypeOf(result) !== Object.prototype) fail(503, 'CITATION_METADATA_UNAVAILABLE');
+    if (['unavailable', 'withdrawn'].includes(result.status)) {
+      if (Object.keys(result).sort().join() !== 'code,status' || result.code !== (result.status === 'withdrawn' ? 'RESOURCE_WITHDRAWN' : 'REFERENCE_UNAVAILABLE')) fail(503, 'CITATION_METADATA_UNAVAILABLE');
+      return { metadata: { status: result.status, code: result.code } };
+    }
+    const fields = ['editionId', 'segmentId', 'version', 'sourceCommit', 'sourceSha256', 'segmentSha256'];
+    if (!['current', 'historical'].includes(result.status) || Object.keys(result).sort().join() !== 'bytesVerified,consistency,descriptor,rightsGranted,status' || result.bytesVerified !== false || result.rightsGranted !== false || result.consistency !== 'metadata-reference-pins-only' || !result.descriptor || Object.getPrototypeOf(result.descriptor) !== Object.prototype || Object.keys(result.descriptor).sort().join() !== fields.slice().sort().join() || fields.some(k => result.descriptor[k] !== ref[k])) fail(503, 'CITATION_METADATA_UNAVAILABLE');
+    return { metadata: { status: result.status, descriptor: Object.fromEntries(fields.map(k => [k, ref[k]])), consistency: 'metadata-reference-pins-only', bytesVerified: false, rightsGranted: false } };
+  }
   async function validateWork(request, input, expectedActor) {
     if (!exactKeys(input, ['citation', 'quote']) || !validateCitationShape(input.citation) || input.quote !== undefined && !clean(input.quote, 512)) fail(400, 'INVALID_CITATION');
     const before = await auth(request, 'citation'); if (expectedActor && !same(before, expectedActor)) fail(403, 'ACCESS_CHANGED');
@@ -271,6 +307,7 @@ export function createEvidenceSearch({ repository, authorizeRequest, semanticPro
     capabilities: Object.freeze({ keyword: enabled && typeof repository?.lexical === 'function' && typeof repository?.readCurrent === 'function' && repository?.scopedRetrieval === true && typeof authorizeRequest === 'function', hybrid: enabled && semanticProvider?.scopedRetrieval === true && typeof semanticProvider?.search === 'function', answer: enabled && typeof modelProvider?.generate === 'function' && typeof answerPolicy === 'function' && typeof budget?.reserve === 'function' }),
     search: ({ request, ...input } = {}) => boundary(async () => (await searchWork(request, input)).payload),
     validateCitation: ({ request, ...input } = {}) => boundary(() => validateWork(request, input)),
+    resolveCitationMetadata: ({ request, ...input } = {}) => boundary(() => citationMetadataWork(request, input)),
     answer: ({ request, ...input } = {}) => boundary(() => answerWork(request, input)),
     async relations({ request, citations } = {}) { return boundary(async () => {
       if (!Array.isArray(citations) || !citations.length || citations.length > 20) fail(400, 'INVALID_SELECTIONS');

@@ -1,0 +1,11 @@
+# Owned search-module CI draft
+
+This source slice checks the original matching/HTTP adapters and a pure buffer packer with synthetic fixtures. It is not a complete website, retained Worker build, publication package, source-license approval or production acceptance.
+
+Run the twelve explicit Node suites listed in the workflow with Node 22.23.1. No dependency installation, lifecycle hook, deployment command, secret, account binding or database is required. Existing repository lockfiles are not changed because this delta introduces no package dependency.
+
+The phrase mode is explicit; keyword remains the default. Matching removes only Unicode punctuation and whitespace after NFC, within one indexed source line. Source text, citation hashes and exact-quote checks remain unchanged. The existing query alias and two additional whole-query aliases are short, version-bound source-location rules, not a publisher-supplied alias, general script conversion, AI translation or new content-use grant. Fixed public hashes are gate metadata, not independent source/rights verification. Tests here use synthetic records only.
+
+The pure packer accepts explicit buffers, hashes, identifiers and a JSON descriptor. It does not discover files, fetch a baseline, compile an application, locate a Mac or include protected content. Its tiny fixture proves prefix/default-export composition only. A real retained-site package additionally requires an explicitly supplied protected baseline Worker, compiled owner IIFE, reviewed descriptor, offline build tooling and original runtime configuration. Actual source verification, current permission checks, full-site native tests and GUI remain separate.
+
+Run `node tools/evidence-search/check-owned-closure.mjs` before the explicit suites. CI contains no protected entry adapter, baseline Worker, descriptor, corpus or actual source fixture. The four client-mode tests execute the actual exported client code in a synthetic minimal DOM with deferred fetch, not a real browser. Finite alias fixtures use a synthetic service and minimal rule envelope, not real source XML or independent legal authorization. Shared navigation and TEI-reader dependency changes trigger this workflow.

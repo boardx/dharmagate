@@ -13,7 +13,7 @@ const origin = 'https://dharmagate.us';
  * document must be the existing TEI reader output, not a newly flattened structured preview.
  * readRights independently rereads authoritative public/display/search permission for those exact pins.
  */
-export async function createPublicCanonSearch({ admissions, readVerifiedUnit, readRights, indexRevision, maxCharacters = 1_000_000 } = {}) {
+export async function createPublicCanonSearch({ admissions, readVerifiedUnit, readRights, indexRevision, citationMetadataBridge, maxCharacters = 1_000_000 } = {}) {
   if (!Array.isArray(admissions) || !admissions.length || admissions.length > 32 || typeof readVerifiedUnit !== 'function' || typeof readRights !== 'function' || typeof indexRevision !== 'string' || !indexRevision.length) deny(400, 'CANON_SEARCH_CONFIGURATION_REQUIRED');
   const pins = new Map(), units = new Map(), records = [];
   for (const admission of admissions) {
@@ -60,7 +60,7 @@ export async function createPublicCanonSearch({ admissions, readVerifiedUnit, re
   } });
   const authorizeRequest = async (request, context) => {
     const actor = { allow: false, principalId: 'public-canon-reader', revision: 'public-canon:' + indexRevision };
-    if (!(request instanceof Request) || new URL(request.url).origin !== origin || !['search', 'citation', 'relations', 'source:search'].includes(context.action)) return actor;
+    if (!(request instanceof Request) || new URL(request.url).origin !== origin || !['search', 'citation', 'citation:metadata', 'relations', 'source:search'].includes(context.action)) return actor;
     if (context.editionId) {
       try { await currentRights(context.editionId); if (!units.get(context.editionId)?.has(context.segmentId)) return actor; }
       catch { return actor; }
@@ -68,6 +68,6 @@ export async function createPublicCanonSearch({ admissions, readVerifiedUnit, re
     }
     return { ...actor, allow: true };
   };
-  const service = createEvidenceSearch({ repository, authorizeRequest, enabled: true });
+  const service = createEvidenceSearch({ repository, authorizeRequest, citationMetadataBridge, enabled: true });
   return Object.freeze({ service, repository, authorizeRequest, scope: Object.freeze({ kind: 'explicit-public-canon-subset', sourceUnitCount: units.size, sourceSegmentCount: records.length, indexVersion: indexRevision, semanticSearch: false, rag: false, embedding: false, wholeCanonSearch: false }) });
 }

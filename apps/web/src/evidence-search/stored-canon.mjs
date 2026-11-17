@@ -4,7 +4,7 @@ import {sha256} from './index.mjs';
 /** Existing storage adapter, no binding creation or implicit listings. One reviewed
  * edition only. Data and approval records remain runtime inputs, never public Git.
  */
-export async function createStoredCanonSearch({edition,readObject,readApproval}={}) {
+export async function createStoredCanonSearch({edition,readObject,readApproval,citationMetadataBridge}={}) {
   if(edition?.id!=='T08n0251'||typeof readObject!=='function'||typeof readApproval!=='function')throw Error('EXPLICIT_REVIEWED_EDITION_REQUIRED');
   const pin=structuredClone(edition);
   const prefix='canon/'+pin.sourceCommit+'/'+pin.id+'/';
@@ -16,7 +16,7 @@ export async function createStoredCanonSearch({edition,readObject,readApproval}=
     return {...record,public:true,display:true,search:true,publicationEligible:true};
   };
   await readRights();
-  return createPublicCanonSearch({admissions:[{...pin,publicationEligible:true}],indexRevision:'literal:'+pin.sourceCommit+':'+pin.documentSha256,readRights,readVerifiedUnit:async()=>{
+  return createPublicCanonSearch({citationMetadataBridge,admissions:[{...pin,publicationEligible:true}],indexRevision:'literal:'+pin.sourceCommit+':'+pin.documentSha256,readRights,readVerifiedUnit:async()=>{
     const rawBytes=await bytes(pin.rawKey,32_000_000),jsonBytes=await bytes(pin.documentKey,4_000_000);
     if(await sha256(new TextDecoder('utf8',{fatal:true}).decode(jsonBytes))!==pin.documentSha256)throw Error('STORED_READING_DOCUMENT_HASH_MISMATCH');
     const document=JSON.parse(new TextDecoder('utf8',{fatal:true}).decode(jsonBytes));
