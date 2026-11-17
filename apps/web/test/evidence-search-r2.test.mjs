@@ -33,3 +33,13 @@ test('runtime leaves unrelated/RSC routes intact and denies CSRF/oversized body 
  const body=new ReadableStream({start(c){c.enqueue(new Uint8Array(8193));c.close()}});
  assert.equal((await app.fetch(new Request('https://dharmagate.us/api/evidence-search/search',{method:'POST',headers,body,duplex:'half'}),env)).status,413);assert.equal(reads,0);
 });
+
+for(const configured of [false,true])test('metadata runtime never initializes fulltext or storage, bridge configured='+configured,async()=>{
+ const commit='a'.repeat(40),hash='b'.repeat(64),prefix='canon/'+commit+'/T08n0251/';
+ const edition={id:'T08n0251',sourceCommit:commit,sourceSha256:hash,readingSha256:hash,documentSha256:hash,rawKey:prefix+'source.xml',documentKey:prefix+'reading.json'};
+ const calls={get:0,bodyInitialization:0,legacyAuthority:0,bridge:0,fallback:0};
+ const runtime=createCanonSearchRuntime({edition,approvalKey:'canon/approvals/literal/T08n0251.json',currentWorker:{fetch(){calls.fallback++;throw Error('SYNTHETIC_NO_FALLBACK')}},verifyLegacyCatalogue:async()=>{calls.legacyAuthority++;return 'synthetic-current'},...(configured?{citationMetadataBridge:{resolve(){calls.bridge++;throw Error('SYNTHETIC_NO_BRIDGE')}}}:{})});
+ const bucket={async get(key){calls.get++;if(key===edition.rawKey||key===edition.documentKey)calls.bodyInitialization++;throw Error('SYNTHETIC_NO_STORAGE_OR_BODY')}};
+ const response=await runtime.fetch(new Request('https://dharmagate.us/api/evidence-search/version-metadata',{method:'POST',headers:{origin:'https://dharmagate.us','sec-fetch-site':'same-origin','x-dg-evidence-request':'1','content-type':'application/json'},body:JSON.stringify({citation:{}})}),{CANON_STORAGE:bucket},{});
+ assert.equal(response.status,503);assert.equal((await response.json()).error,'CITATION_METADATA_NOT_CONFIGURED');assert.deepEqual(calls,{get:0,bodyInitialization:0,legacyAuthority:0,bridge:0,fallback:0});
+});

@@ -3,7 +3,7 @@ import { siteNavigation, SITE_NAV_STYLE_PATH } from '../site-navigation.mjs';
 export const SEARCH_PAGE_PATH = '/resources/search';
 export const SEARCH_CLIENT_PATH = '/_evidence-search/client.js';
 export const SEARCH_STYLE_PATH = '/_evidence-search/style.css';
-const routes = new Map([['/api/evidence-search/search', 'search'], ['/api/evidence-search/citation', 'validateCitation'], ['/api/evidence-search/answer', 'answer'], ['/api/evidence-search/relations', 'relations']]);
+const routes = new Map([['/api/evidence-search/search', 'search'], ['/api/evidence-search/citation', 'validateCitation'], ['/api/evidence-search/version-metadata', 'resolveCitationMetadata'], ['/api/evidence-search/answer', 'answer'], ['/api/evidence-search/relations', 'relations']]);
 const headers = { 'cache-control': 'private, no-store', 'x-content-type-options': 'nosniff', 'referrer-policy': 'no-referrer' };
 const json = (value, status = 200, extra = {}) => new Response(JSON.stringify(value), { status, headers: { ...headers, 'content-type': 'application/json;charset=utf-8', ...extra } });
 const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -41,7 +41,7 @@ export function createEvidenceSearchHandler({ service, enabled = false, scopeLab
       body = JSON.parse(body);
     } catch { return json({ ok: false, error: 'INVALID_JSON' }, 400); }
     finally { reader?.releaseLock(); }
-    const keys = operation === 'search' ? ['query', 'filters', 'mode', 'limit'] : operation === 'validateCitation' ? ['citation', 'quote'] : operation === 'answer' ? ['question', 'filters', 'mode'] : ['citations'];
+    const keys = operation === 'search' ? ['query', 'filters', 'mode', 'limit'] : operation === 'resolveCitationMetadata' ? ['citation'] : operation === 'validateCitation' ? ['citation', 'quote'] : operation === 'answer' ? ['question', 'filters', 'mode'] : ['citations'];
     if (!body || typeof body !== 'object' || Array.isArray(body) || Object.keys(body).some(k => !keys.includes(k))) return json({ ok: false, error: 'INVALID_REQUEST' }, 400);
     try {
       const result = await service[operation]({ request, ...body });
