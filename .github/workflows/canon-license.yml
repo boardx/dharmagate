@@ -1,0 +1,39 @@
+name: Canon license display regression
+on:
+  push:
+    branches: [codex/dharmagate-consolidation-20261029]
+    paths:
+      - 'apps/web/src/canon-*.mjs'
+      - 'apps/web/src/full-canon-library.mjs'
+      - 'apps/web/src/discovery-shell.mjs'
+      - 'apps/web/test/canon-license-*.test.mjs'
+      - 'apps/web/test/full-canon-library.test.mjs'
+      - '.github/workflows/canon-license.yml'
+  pull_request:
+    paths:
+      - 'apps/web/src/canon-*.mjs'
+      - 'apps/web/src/full-canon-library.mjs'
+      - 'apps/web/src/discovery-shell.mjs'
+      - 'apps/web/test/canon-license-*.test.mjs'
+      - 'apps/web/test/full-canon-library.test.mjs'
+      - '.github/workflows/canon-license.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  synthetic:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.23.1'
+      - name: Run reader and license synthetic regressions
+        run: >-
+          node --test
+          apps/web/test/full-canon-library.test.mjs
+          apps/web/test/canon-license-display.test.mjs
+          apps/web/test/canon-license-boundary.test.mjs
