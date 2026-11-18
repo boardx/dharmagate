@@ -1,0 +1,13 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {createStrictAdminOriginGuard} from '../src/resource-admin-origin-guard.mjs';
+const origin='https://example.test',guard=createStrictAdminOriginGuard(origin);
+function req(changes={}){const headers={origin,'sec-fetch-site':'same-origin','x-dharmagate-admin-request':'1','content-type':'application/json',...changes};for(const key of Object.keys(headers))if(headers[key]===null)delete headers[key];return new Request(origin+'/api/admin/resources/v/rights',{method:'POST',headers,body:'{}'});}
+test('strict same-origin JSON candidate accepts protocol requirements only',()=>{assert.equal(guard(req()),true);assert.equal(guard(req({'content-type':'application/json; charset=utf-8'})),true);});
+test('malicious same-site subdomain and cross-origin are rejected',()=>{for(const value of ['https://evil.example.test','https://evil.test','null'])assert.equal(guard(req({origin:value,'sec-fetch-site':value.includes('example.test')?'same-site':'cross-site'})),false);});
+test('every required browser/API header is fail closed when absent',()=>{for(const key of ['origin','sec-fetch-site','x-dharmagate-admin-request','content-type'])assert.equal(guard(req({[key]:null})),false);});
+test('same-site cross-site none and malformed fetch metadata refused',()=>{for(const value of ['same-site','cross-site','none','SAME-ORIGIN'])assert.equal(guard(req({'sec-fetch-site':value})),false);});
+test('simple form submissions and MIME tricks refused',()=>{for(const type of ['application/x-www-form-urlencoded','multipart/form-data; boundary=x','text/plain','application/jsonp','application/json; charset=utf-16','application/json; boundary=x'])assert.equal(guard(req({'content-type':type})),false);});
+test('origin suffix scheme port and credential confusion refused',()=>{for(const value of ['http://example.test','https://example.test:444','https://example.test.evil.test','https://u@example.test'])assert.equal(guard(req({origin:value})),false);});
+test('no preflight allowance, GET mutation or untrusted target accepted',()=>{assert.equal(guard(new Request(origin+'/api/admin/resources',{method:'OPTIONS',headers:{origin:'https://evil.test'}})),false);assert.equal(guard(new Request(origin+'/api/admin/resources')),false);assert.equal(guard(new Request('https://evil.test/api/admin/resources',{method:'POST',headers:req().headers,body:'{}'})),false);});
+test('guard never substitutes for identity: no session is accepted/created',()=>{const request=req();assert.equal(request.headers.has('cookie'),false);assert.equal(guard(request),true);/* Caller MUST still perform authoritative auth. */});
